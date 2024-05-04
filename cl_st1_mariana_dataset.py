@@ -72,7 +72,7 @@ df_tweets_raw_data = df_tweets_raw_data.drop(columns=[
     'coordinates',
     'geo',
     'place',
-    'withheld_in_countries'
+#    'withheld_in_countries'
 ])
 
 #df_tweets_raw_data.columns.values.tolist()
