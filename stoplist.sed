@@ -193,3 +193,9 @@
 / meatwuk7mk$/d
 / mtmhdrwlgt$/d
 / ewq7q7qlrp$/d
+/ ==&gt$/d
+/ ea7nwyypao$/d
+/ oeaconvzla$/d
+/ ht$/d
+/ htt$/d
+/ aff$/d
