@@ -199,3 +199,5 @@
 / ht$/d
 / htt$/d
 / aff$/d
+/ http$/d
+/ &lt$/d
