@@ -4,7 +4,7 @@ Corpus Linguistics - Study 1 - Mariana
 ## Phase 2
 ### Results
 Right-click on the link and choose `Open link in a new tab` to download the corresponding file.
-- [CL_St1_Mariana_Results.tar.gz](https://pucsp-my.sharepoint.com/:u:/g/personal/ra00341729_pucsp_edu_br/EU1-gvN-4pRDqIuGkPWHry4B6dJ7dY6gWqaKcydFL7evvA?e=GHwfgq)
+- [CL_St1_Ph1_Mariana_Results.tar.gz](https://pucsp-my.sharepoint.com/:u:/g/personal/ra00341729_pucsp_edu_br/EU1-gvN-4pRDqIuGkPWHry4B6dJ7dY6gWqaKcydFL7evvA?e=GHwfgq)
 
 Proceed as follows to extract the files from the archive `CL_St1_Ph1_Mariana_Results.tar.gz`:
 
