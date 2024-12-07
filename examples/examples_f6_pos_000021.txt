@@ -1,0 +1,14 @@
+file = t019043
+date = 2022-09-02
+user = onetoniu
+conversation = 1427490552879230976
+URL = https://twitter.com/onetoniu/status/1565504258992226305
+
+word count = 5
+words loading = 0
+factor score = 
+
+@pak_japa milhões de bolivares venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+

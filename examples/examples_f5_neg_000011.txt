@@ -1,0 +1,17 @@
+file = t001513
+date = 2016-08-02
+user = ernestotroi
+conversation = 34591713
+URL = https://twitter.com/ernestotroi/status/760448496470151168
+
+word count = 14
+words loading = 2
+factor score = -2
+
+Venezuela rejeita reunião para discutir presidência do Mercosul: Para 
+chanceler venezuelana, proposta argenti. . . 
+
+Lemmas in this text that loaded on the factor:
+
+chanceler_noun_masc_sing 
+rejeitar_verb_fin_sing 

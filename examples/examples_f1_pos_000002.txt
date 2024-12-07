@@ -1,0 +1,21 @@
+file = t016917
+date = 2022-10-23
+user = WalmirFabiano
+conversation = 1542276265775874048
+URL = https://twitter.com/WalmirFabiano/status/1584109050698289153
+
+word count = 19
+words loading = 6
+factor score = 7
+
+RT @monicabergamo: Apontadas como garotas que fariam programas, adolescentes 
+venezuelanas passaram a última semana sem sair de casa: 
+
+Lemmas in this text that loaded on the factor:
+
+adolescente_noun_fem_plur 
+casa_noun_fem_sing 
+garota_noun_fem_plur 
+passar_verb_fin_plur 
+semana_noun_fem_sing 
+venezuelano_adj_fem_plur 

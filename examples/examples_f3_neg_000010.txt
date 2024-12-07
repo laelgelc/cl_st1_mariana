@@ -1,0 +1,17 @@
+file = t011586
+date = 2019-07-05
+user = republicanaES
+conversation = 2702507592
+URL = https://twitter.com/republicanaES/status/1147287250142715904
+
+word count = 22
+words loading = 2
+factor score = -3
+
+RT @Silvio_MKT: Lula recebe a visita de chefão do tráfico de drogas 
+venezuelano, Diosdado Cabello, o chefe de Nicolás Maduro, aquele que ma … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe_noun_masc_sing 
+droga_noun_fem_plur 

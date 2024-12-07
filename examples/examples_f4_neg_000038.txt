@@ -1,0 +1,17 @@
+file = t018569
+date = 2022-07-13
+user = talqueira
+conversation = 1479175569367605248
+URL = https://twitter.com/talqueira/status/1547226920802189313
+
+word count = 18
+words loading = 1
+factor score = -2
+
+RT @en_direita_r: Acabou a segurança. T$E entregou chaves das Urnas 
+Eletrônicas Brasileiras a estrangeiros ( inclusive um Venezuelano ) . Denú 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+urna_noun_fem_plur (secondary)

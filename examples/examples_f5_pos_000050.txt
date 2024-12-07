@@ -1,0 +1,17 @@
+file = t006876
+date = 2019-10-10
+user = IrapuanPonte
+conversation = 1063663318827745280
+URL = https://twitter.com/IrapuanPonte/status/1182300159113334785
+
+word count = 23
+words loading = 2
+factor score = 3
+
+RT @RizethJ: Parece que os ecoativistas da esquerda não ligaram muito para o 
+derramamento de óleo venezuelano nas praias do nordeste, né ? … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

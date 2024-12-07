@@ -1,0 +1,17 @@
+file = t007279
+date = 2019-11-01
+user = drmarcelo_psiq
+conversation = 146823143
+URL = https://twitter.com/drmarcelo_psiq/status/1190268971804696577
+
+word count = 18
+words loading = 2
+factor score = 3
+
+RT @OsmarTerra: Polícia Federal localiza navio com óleo venezuelano, 
+responsável pela poluição das praias nordestinas. Infelizmente um únic … 
+
+Lemmas in this text that loaded on the factor:
+
+navio_noun_masc_sing 
+praia_noun_fem_plur 

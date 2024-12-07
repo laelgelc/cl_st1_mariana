@@ -1,0 +1,20 @@
+file = t016512
+date = 2022-10-18
+user = KleberRenatoPr
+conversation = 1287896855410626560
+URL = https://twitter.com/KleberRenatoPr/status/1582417118791798787
+
+word count = 21
+words loading = 5
+factor score = 5
+
+A impressão q temos do caso PINTOU UM CLIMA com meninas venezuelanas, é de um 
+ato criminoso de tamanho despudor e … 
+
+Lemmas in this text that loaded on the factor:
+
+caso_noun_masc_sing 
+clima_noun_masc_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

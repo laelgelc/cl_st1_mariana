@@ -1,0 +1,16 @@
+file = t007273
+date = 2019-11-14
+user = CarminaJR
+conversation = 436454940
+URL = https://twitter.com/CarminaJR/status/1194991565166514176
+
+word count = 11
+words loading = 1
+factor score = -2
+
+Chanceler venezuelano culpa governo Bolsonaro por invasão de embaixada - 
+CartaCapital 
+
+Lemmas in this text that loaded on the factor:
+
+chanceler_noun_masc_sing 

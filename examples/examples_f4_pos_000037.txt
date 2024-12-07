@@ -1,0 +1,18 @@
+file = t008732
+date = 2019-02-14
+user = Lamaro2Antonio
+conversation = 828400982396657664
+URL = https://twitter.com/Lamaro2Antonio/status/1096059908548685825
+
+word count = 24
+words loading = 3
+factor score = 4
+
+RT @luciano_hang: Em Roraima vimos o sofrimento dos Venezuelanos. Mais de 3 
+milhões já fugiram do país. No Brasil eles vivem nas ruas ou em … 
+
+Lemmas in this text that loaded on the factor:
+
+fugir_verb_fin_plur 
+venezuelano_noun_masc_plur (secondary)
+viver_verb_fin_plur 

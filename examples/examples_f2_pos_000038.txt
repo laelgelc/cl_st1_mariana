@@ -1,0 +1,18 @@
+file = t008560
+date = 2019-01-10
+user = JosBatistaSFil1
+conversation = 901915636787503104
+URL = https://twitter.com/JosBatistaSFil1/status/1083464124208693248
+
+word count = 28
+words loading = 3
+factor score = 3
+
+RT @fn7k: Gleisi em Caracas: apoio ou medo? Gleisi e o PT ignoraram o 
+sofrimento, a fome e a morte de Milhões de Venezuelanos por obra do e … 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+medo_noun_masc_sing 
+sofrimento_noun_masc_sing 

@@ -1,0 +1,11 @@
+Militares militar_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur
+bloqueiam bloquear_VERB_Fin_Plur
+ponte ponte_NOUN_Fem_Sing
+que que_PRON_Rel_Fem_Sing
+Colômbia colômbia_PROPN_Fem_Sing
+quer querer_VERB_Fin_Sing
+usar usar_VERB_Inf
+para para_ADP
+ajuda ajuda_NOUN_Fem_Sing
+humanitária humanitário_ADJ_Fem_Sing

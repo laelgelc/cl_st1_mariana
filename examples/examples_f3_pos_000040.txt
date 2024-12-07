@@ -1,0 +1,18 @@
+file = t009138
+date = 2019-02-24
+user = althibes
+conversation = 142676536
+URL = https://twitter.com/althibes/status/1099726539732729856
+
+word count = 23
+words loading = 3
+factor score = 3
+
+RT @JoaoLuisDasDor2 : Para Presidente LULA, o povo Venezuelano, tem que ter um 
+Ditador, eu concordo Nós temos que ter um Presidente eleito p … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador_noun_masc_sing 
+povo_noun_masc_sing 
+presidente_noun_masc_sing 

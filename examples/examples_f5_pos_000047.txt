@@ -1,0 +1,16 @@
+file = t006894
+date = 2019-10-25
+user = CTonymontana
+conversation = 1018208091614121984
+URL = https://twitter.com/CTonymontana/status/1187729564006572033
+
+word count = 24
+words loading = 1
+factor score = 3
+
+RT @mariavaltenice: E ACABOU O MISTÉRIO! Marinha do Brasil e UFRJ confirmam: O 
+óleo / petróleo é 100 % VENEZUELANO e foi sim CRIMINAL! A Marin … 
+
+Lemmas in this text that loaded on the factor:
+
+acabar_verb_fin_sing 

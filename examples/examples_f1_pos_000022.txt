@@ -1,0 +1,20 @@
+file = t017408
+date = 2022-10-24
+user = ivanovitchstos
+conversation = 308477896
+URL = https://twitter.com/ivanovitchstos/status/1584662287775805441
+
+word count = 21
+words loading = 5
+factor score = 5
+
+RT @__Lorranna__ : Caso das meninas venezuelanas ( pintou um clima ) Guedes e o 
+salário mínimo e agora violência do bolsonarismo, não tem co … 
+
+Lemmas in this text that loaded on the factor:
+
+caso_noun_masc_sing 
+clima_noun_masc_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

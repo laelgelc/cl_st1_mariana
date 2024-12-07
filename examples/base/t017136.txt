@@ -1,0 +1,28 @@
+RT rt_NOUN_Masc_Sing
+@julianopsol twitterhandle_ADJ_Masc_Sing
+: :
+O o_DET_Masc_Sing
+sujeito sujeito_NOUN_Masc_Sing
+grava gravar_VERB_Fin_Sing
+um um_DET_Masc_Sing
+vídeo vídeo_NOUN_Masc_Sing
+para para_ADP
+pedir pedir_VERB_Inf
+desculpas desculpa_NOUN_Fem_Plur
+por por_ADP
+sentir sentir_VERB_Inf
+que que_SCONJ
+ "  "
+pintou pintar_VERB_Fin_Sing
+um um_DET_Masc_Sing
+clima clima_NOUN_Masc_Sing
+ "  "
+com com_ADP
+uma um_DET_Fem_Sing
+refugiada refugiado_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+de de_ADP
+14 14_NUM
+anos ano_NOUN_Masc_Plur
+e e_CCONJ
+… …

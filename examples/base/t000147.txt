@@ -1,0 +1,12 @@
+Parlamento parlamento_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+aprova aprovar_VERB_Fin_Sing
+texto texto_NOUN_Masc_Sing
+que que_PRON_Rel_Masc_Sing
+diz dizer_VERB_Fin_Sing
+que que_SCONJ
+Maduro maduro_PROPN_Masc_Sing
+promoveu promover_VERB_Fin_Sing
+golpe golpe_NOUN_Masc_Sing
+HASHTAG hashtag_PROPN_Masc_Sing
+#g1_h #g1_h

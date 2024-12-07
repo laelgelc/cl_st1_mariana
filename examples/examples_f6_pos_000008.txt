@@ -1,0 +1,15 @@
+file = t019057
+date = 2022-09-05
+user = pequenomesmo
+conversation = 987688987
+URL = https://twitter.com/pequenomesmo/status/1566919853373591556
+
+word count = 15
+words loading = 0
+factor score = 
+
+@sujeitodeshorts @fabiokkjj beisebol, um esporte que é muito bem jogado pelos 
+nossos camaradas venezuelanos! 
+
+Lemmas in this text that loaded on the factor:
+

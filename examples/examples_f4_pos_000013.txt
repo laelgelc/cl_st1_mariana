@@ -1,0 +1,19 @@
+file = t015266
+date = 2021-06-21
+user = LucasCesarGued1
+conversation = 1312152872751108096
+URL = https://twitter.com/LucasCesarGued1/status/1406785390938370049
+
+word count = 22
+words loading = 3
+factor score = 4
+
+RT @novaeramidia: **flag_venezuela_e** - No Dia Mundial do Refugiado, a 
+oposição venezuelana pediu ajuda e proteção para os 5 milhões de 
+imigrantes que fugir … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda_noun_fem_sing 
+flag_venezuela_e 
+imigrante_noun_masc_plur 

@@ -1,0 +1,21 @@
+file = t016384
+date = 2022-10-19
+user = jorgemoraisvw
+conversation = 467524883
+URL = https://twitter.com/jorgemoraisvw/status/1582707498825326592
+
+word count = 26
+words loading = 6
+factor score = 6
+
+RT @AntonyJojohn: O seu Jair chamou de garotas de programa as venezuelanas de 
+14 , 15 anos com as quais pintou um clima. Mais um dia normal … 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+clima_noun_masc_sing 
+garota_noun_fem_plur 
+pintar_verb_fin_sing 
+programa_noun_masc_sing 
+venezuelano_adj_fem_plur 

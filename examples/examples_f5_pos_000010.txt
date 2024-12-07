@@ -1,0 +1,15 @@
+file = t015532
+date = 2021-08-20
+user = gabe_carneiro
+conversation = 54726097
+URL = https://twitter.com/gabe_carneiro/status/1428767796893294594
+
+word count = 20
+words loading = 0
+factor score = 3
+
+seleção venezuelana deu uma de Seu Madruga e está devendo 14 meses de 
+salário pro técnico português José Peseiro, q … 
+
+Lemmas in this text that loaded on the factor:
+

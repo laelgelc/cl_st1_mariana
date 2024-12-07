@@ -1,0 +1,17 @@
+file = t001185
+date = 2016-06-23
+user = globranco
+conversation = 599595192
+URL = https://twitter.com/globranco/status/746119554418413568
+
+word count = 16
+words loading = 2
+factor score = -3
+
+Opera Mundi - Nicolás Maduro pede diálogo com líder da oposição ao governo 
+venezuelano via @operamundi 
+
+Lemmas in this text that loaded on the factor:
+
+governo_noun_masc_sing (secondary)
+pedir_verb_fin_sing 

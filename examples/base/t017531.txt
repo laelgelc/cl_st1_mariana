@@ -1,0 +1,16 @@
+@AndreJanonesAdv twitterhandle_VERB_Fin_Plur
+As o_DET_Fem_Plur
+meninas menino_NOUN_Fem_Plur
+venezuelanas venezuelano_ADJ_Fem_Plur
+associadas associar_VERB_Part_Fem_Plur
+por por_ADP
+Bolsonaro bolsonaro_NOUN_Masc_Sing
+à a_o_ADP_DET_Fem_Sing
+prostituição prostituição_NOUN_Fem_Sing
+passaram passar_VERB_Fin_Plur
+a o_DET_Fem_Sing
+última último_ADJ_Fem_Sing
+semana semana_NOUN_Fem_Sing
+sem sem_ADP
+sair sair_VERB_Inf
+… …

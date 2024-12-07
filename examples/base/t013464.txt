@@ -1,0 +1,17 @@
+RT rt_PROPN_Masc_Sing
+@edusilvafogo twitterhandle_VERB_Fin_Sing
+: :
+PGR pgr_PROPN_Masc_Sing
+pede pedir_VERB_Fin_Sing
+ao a_o_ADP_DET_Masc_Sing
+Itamaraty itamaraty_PROPN_Masc_Sing
+que que_PRON_Rel_Masc_Sing
+suspenda suspender_VERB_Fin_Sing
+expulsão expulsão_NOUN_Fem_Sing
+de de_ADP
+diplomatas diplomata_NOUN_Masc_Plur
+Venezuelanos venezuelano_ADJ_Masc_Plur
+– -
+Diário diário_PROPN_Masc_Sing
+Causa causa_NOUN_Fem_Sing
+Operária operária_PROPN_Sing

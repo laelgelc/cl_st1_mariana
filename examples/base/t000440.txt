@@ -1,0 +1,11 @@
+@RádiodoMoreno twitterhandle_NOUN_Masc_Sing
+- -
+Três três_NUM
+deputados deputado_NOUN_Masc_Plur
+da de_o_ADP_DET_Fem_Sing
+oposição oposição_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+pedem pedir_VERB_Fin_Plur
+para para_ADP
+deixar deixar_VERB_Inf
+Parlamento parlamento_NOUN_Masc_Sing

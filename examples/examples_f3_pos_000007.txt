@@ -1,0 +1,18 @@
+file = t017644
+date = 2022-11-11
+user = LogicaAuto
+conversation = 104347870
+URL = https://twitter.com/LogicaAuto/status/1591036623193772043
+
+word count = 18
+words loading = 3
+factor score = 3
+
+Povo Venezuelano fugindo do seu próprio país pelo regime totalitário 
+comunista do Nicolás Maduro, amigo do lola. 
+
+Lemmas in this text that loaded on the factor:
+
+fugir_verb_part 
+povo_noun_masc_sing 
+regime_noun_masc_sing 

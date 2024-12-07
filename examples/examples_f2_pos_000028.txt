@@ -1,0 +1,19 @@
+file = t011665
+date = 2019-08-30
+user = MMMoreira78
+conversation = 3092068553
+URL = https://twitter.com/MMMoreira78/status/1167466604550139909
+
+word count = 18
+words loading = 4
+factor score = 3
+
+@JovemPanNews E nós culpamos Maduro pelos venezuelanos morrendo de fome, 
+comendo lixo e vagando nas avenidas das gr … 
+
+Lemmas in this text that loaded on the factor:
+
+comer_verb_ger 
+fome_noun_fem_sing 
+lixo_noun_masc_sing (secondary)
+morrer_verb_part 

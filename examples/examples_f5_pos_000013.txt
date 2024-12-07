@@ -1,0 +1,17 @@
+file = t012656
+date = 2020-01-14
+user = JansemMadeira
+conversation = 1105512823
+URL = https://twitter.com/JansemMadeira/status/1217055483258904577
+
+word count = 24
+words loading = 2
+factor score = 3
+
+RT @luciano_hang: O salário mínimo de um venezuelano é equivalente a R$ 15 , 
+14 por mês. Imagina sustentar uma família com esse valor? É desu … 
+
+Lemmas in this text that loaded on the factor:
+
+pequeno_adj_masc_sing 
+venezuelano_noun_masc_sing (secondary)

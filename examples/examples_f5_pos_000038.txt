@@ -1,0 +1,17 @@
+file = t007041
+date = 2019-10-09
+user = LenildaLuna
+conversation = 59462781
+URL = https://twitter.com/LenildaLuna/status/1181886579763232768
+
+word count = 20
+words loading = 2
+factor score = 3
+
+RT @veluc111 : Jornalistas que compraram denúncia de petróleo venezuelano no 
+Nordeste precisam de aula de geografia. Por Fernando Brito http … 
+
+Lemmas in this text that loaded on the factor:
+
+jornalista_noun_masc_plur 
+nordeste_noun_masc_sing 

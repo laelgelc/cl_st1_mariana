@@ -1,0 +1,17 @@
+file = t003076
+date = 2017-04-11
+user = ViniOliveira33
+conversation = 697766901284478976
+URL = https://twitter.com/ViniOliveira33/status/851620061542567936
+
+word count = 18
+words loading = 2
+factor score = -2
+
+@rafahenzel fala henzel e verdade que a chape está de olho no meia venezuelano 
+seijas do internacional 
+
+Lemmas in this text that loaded on the factor:
+
+internacional_adj_masc_sing 
+meia_noun_masc_sing 

@@ -1,0 +1,20 @@
+file = t016865
+date = 2022-10-18
+user = SirleiPereira65
+conversation = 839990464862404608
+URL = https://twitter.com/SirleiPereira65/status/1582449347811106817
+
+word count = 16
+words loading = 5
+factor score = 6
+
+RT @folha: Bolsonaro grava pedido de desculpas por vincular meninas 
+venezuelanas à prostituição; veja vídeo down_arrow_e 
+
+Lemmas in this text that loaded on the factor:
+
+desculpa_noun_fem_plur 
+gravar_verb_fin_sing 
+menino_noun_fem_plur 
+pedido_noun_masc_sing 
+venezuelano_adj_fem_plur 

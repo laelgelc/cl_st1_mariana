@@ -1,0 +1,19 @@
+file = t007603
+date = 2019-11-08
+user = OIMBrasil
+conversation = 890269387491508224
+URL = https://twitter.com/OIMBrasil/status/1192916303243288577
+
+word count = 19
+words loading = 4
+factor score = 4
+
+Agora, refugiados e migrantes venezuelanos que chegam a Manaus contam com o 
+Posto de Interiorização e Triagem da Op … 
+
+Lemmas in this text that loaded on the factor:
+
+chegar_verb_fin_plur 
+migrante_noun_masc_plur 
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

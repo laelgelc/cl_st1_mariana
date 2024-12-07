@@ -1,0 +1,16 @@
+file = t007459
+date = 2019-11-22
+user = AlissonCallado
+conversation = 110575717
+URL = https://twitter.com/AlissonCallado/status/1197818865805406209
+
+word count = 20
+words loading = 1
+factor score = -2
+
+RT @JamilChade: Exclusivo: conversamos com chanceler venezuelano sobre a 
+invasão da embaixada em Brasília. Ele cita linha de comando entr … 
+
+Lemmas in this text that loaded on the factor:
+
+chanceler_noun_masc_sing 

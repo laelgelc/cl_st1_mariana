@@ -1,0 +1,15 @@
+file = t019055
+date = 2022-09-21
+user = ribeirobea
+conversation = 895288262
+URL = https://twitter.com/ribeirobea/status/1572396683253714945
+
+word count = 22
+words loading = 0
+factor score = 
+
+RT @N_Carvalheira: - Nos últimos meses, chegam por dia ao Brasil, a pé , 
+cerca de 600 venezuelanos, a grande maioria mulheres e crianças pes … 
+
+Lemmas in this text that loaded on the factor:
+

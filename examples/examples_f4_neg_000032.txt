@@ -1,0 +1,16 @@
+file = t012967
+date = 2020-03-12
+user = FLoureiro2013
+conversation = 1277708018
+URL = https://twitter.com/FLoureiro2013/status/1237901606164803584
+
+word count = 17
+words loading = 1
+factor score = -2
+
+RT @Alexand53199320 : Após denúncia do presidente @jairbolsonaro sobre a 
+fraude nas eleições, Coincidentemente a Smartmatic Venezuelana pe … 
+
+Lemmas in this text that loaded on the factor:
+
+fraude_noun_fem_sing 

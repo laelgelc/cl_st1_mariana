@@ -1,0 +1,27 @@
+RT rt_NOUN_Masc_Sing
+@PolitzOficial twitterhandle_ADJ_Masc_Sing
+: :
+HASHTAG hashtag_PROPN_Masc_Sing
+#atenção_h #atenção_h
+! !
+CHEFE chefe_NOUN_Masc_Sing
+DE de_ADP
+INTELIGÊNCIA inteligência_NOUN_Fem_Sing
+DO de_o_ADP_DET_Masc_Sing
+REGIME regime_PROPN_Masc_Sing
+DITATORIAL ditatorial_PROPN_Sing
+VENEZUELANO venezuelano_PROPN_Sing
+ATACA ataca_PROPN_Sing
+NICOLAS nicolas_PROPN_Sing
+MADURO maduro_PROPN_Sing
+EM em_ADP
+CARTA carta_PROPN_Sing
+: :
+- -
+ "  "
+Chegou chegar_VERB_Fin_Sing
+a o_DET_Fem_Sing
+hora hora_NOUN_Fem_Sing
+de de_ADP
+re re_NOUN_Fem_Sing
+… …

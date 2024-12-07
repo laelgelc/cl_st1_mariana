@@ -1,0 +1,15 @@
+file = t000461
+date = 2016-01-22
+user = AtualNoticia
+conversation = 513533519
+URL = https://twitter.com/AtualNoticia/status/690587493750562816
+
+word count = 9
+words loading = 1
+factor score = -3
+
+Oposição venezuelana não aprovará decreto de emergência HASHTAG #mundo_h 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar_verb_fin_sing 

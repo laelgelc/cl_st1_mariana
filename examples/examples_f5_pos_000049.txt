@@ -1,0 +1,17 @@
+file = t006882
+date = 2019-10-23
+user = MarcobJesus1980
+conversation = 2662036301
+URL = https://twitter.com/MarcobJesus1980/status/1187032143534395392
+
+word count = 15
+words loading = 2
+factor score = 3
+
+@GreenpeaceBR Cadê o @GreenpeaceBR para ajudar limpar o petróleo Venezuelano 
+nas praias do Nordeste? 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

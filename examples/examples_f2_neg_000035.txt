@@ -1,0 +1,17 @@
+file = t012699
+date = 2020-01-07
+user = sgvalerio
+conversation = 1571039694
+URL = https://twitter.com/sgvalerio/status/1214393236850184192
+
+word count = 16
+words loading = 2
+factor score = -3
+
+RT @republica_ctba: PT apoia golpe de Maduro que fechou acesso ao parlamento 
+venezuelano para a oposição 
+
+Lemmas in this text that loaded on the factor:
+
+acesso_noun_masc_sing 
+parlamento_noun_masc_sing 

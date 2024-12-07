@@ -1,0 +1,16 @@
+file = t007109
+date = 2019-10-10
+user = helloisamg
+conversation = 49888215
+URL = https://twitter.com/helloisamg/status/1182233410946904064
+
+word count = 26
+words loading = 1
+factor score = 3
+
+RT @JoseMedeirosMT: Eu já disse, se provado que esse petróleo veio de um 
+navio venezuelano vão dizer que o óleo é saudável a vida marinha e … 
+
+Lemmas in this text that loaded on the factor:
+
+navio_noun_masc_sing 

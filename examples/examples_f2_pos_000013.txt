@@ -1,0 +1,19 @@
+file = t000963
+date = 2016-05-19
+user = aramosfreitas11
+conversation = 2750634388
+URL = https://twitter.com/aramosfreitas11/status/733123578967826432
+
+word count = 14
+words loading = 4
+factor score = 4
+
+RT @ADLEZ_AP: O socialismo venezuelano: pessoas comendo cachorros, saqueando 
+supermercados e morrendo de inanição 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro_noun_masc_plur 
+comer_verb_ger 
+morrer_verb_part 
+socialismo_noun_masc_sing 

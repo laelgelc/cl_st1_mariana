@@ -1,0 +1,18 @@
+file = t000489
+date = 2016-01-07
+user = Parintins24hs
+conversation = 2936618068
+URL = https://twitter.com/Parintins24hs/status/685245938571415553
+
+word count = 14
+words loading = 3
+factor score = -3
+
+Leia ( Igreja venezuelana pede a Parlamento lei de anistia para presos 
+políticos ) em 
+
+Lemmas in this text that loaded on the factor:
+
+lei_noun_fem_sing 
+parlamento_noun_masc_sing 
+pedir_verb_fin_sing 

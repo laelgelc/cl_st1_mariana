@@ -1,0 +1,18 @@
+file = t017482
+date = 2022-10-27
+user = guilofm
+conversation = 803782162340319232
+URL = https://twitter.com/guilofm/status/1585441157429006339
+
+word count = 18
+words loading = 3
+factor score = 3
+
+@samiabomfim Se falássemos a um venezuelano 20 anos atrás que eles estariam 
+comendo cachorros hoje, com certeza dar … 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro_noun_masc_plur 
+comer_verb_ger 
+venezuelano_noun_masc_sing 

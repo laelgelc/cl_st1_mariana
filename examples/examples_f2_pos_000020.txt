@@ -1,0 +1,18 @@
+file = t016881
+date = 2022-10-18
+user = REtchichury
+conversation = 1141826615846088704
+URL = https://twitter.com/REtchichury/status/1582444784408416257
+
+word count = 20
+words loading = 3
+factor score = 3
+
+RT @alvim_mirian: O debate da Band já se foi, mas esse venezuelano quer te 
+mostrar uma coisa importante: vem ver. . . 
+
+Lemmas in this text that loaded on the factor:
+
+coisa_noun_fem_sing 
+mostrar_verb_inf 
+venezuelano_noun_masc_sing 

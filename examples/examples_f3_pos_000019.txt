@@ -1,0 +1,19 @@
+file = t014204
+date = 2021-10-14
+user = LigiadeAssis
+conversation = 711401234520010752
+URL = https://twitter.com/LigiadeAssis/status/1448709615290564611
+
+word count = 24
+words loading = 3
+factor score = 3
+
+RT @mmmarianos: Assim é o PT. Assim querem fazer com o **flag_brazil_e** . 
+Enquanto o Povo Venezuelano está procurando comida nos LIXÕES e a População 
+pass … 
+
+Lemmas in this text that loaded on the factor:
+
+fazer_verb_inf 
+flag_brazil_e 
+povo_noun_masc_sing 

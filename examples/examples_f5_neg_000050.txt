@@ -1,0 +1,16 @@
+file = t009236
+date = 2019-02-12
+user = JornalAMHOJE
+conversation = 948630182331666432
+URL = https://twitter.com/JornalAMHOJE/status/1095383451178536965
+
+word count = 15
+words loading = 1
+factor score = -2
+
+Na visão o presidente venezuelano, crise humanitária é narrativa 
+norte-americana para justificar invasão no país Em … 
+
+Lemmas in this text that loaded on the factor:
+
+crise_noun_fem_sing 

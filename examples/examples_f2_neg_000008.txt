@@ -1,0 +1,17 @@
+file = t000440
+date = 2016-01-13
+user = Helio__Chaves
+conversation = 71862789
+URL = https://twitter.com/Helio__Chaves/status/687268369020620800
+
+word count = 11
+words loading = 2
+factor score = -3
+
+@RádiodoMoreno - Três deputados da oposição venezuelana pedem para deixar 
+Parlamento 
+
+Lemmas in this text that loaded on the factor:
+
+parlamento_noun_masc_sing 
+pedir_verb_fin_plur 

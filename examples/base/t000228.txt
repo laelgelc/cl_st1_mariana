@@ -1,0 +1,16 @@
+RT rt_PROPN_Masc_Sing
+@UOLNoticias twitterhandle_VERB_Fin_Sing
+: :
+Reflexo reflexo_NOUN_Masc_Sing
+da de_o_ADP_DET_Fem_Sing
+crise crise_NOUN_Fem_Sing
+na em_o_ADP_DET_Fem_Sing
+Venezuela venezuela_PROPN_Fem_Sing
+: :
+Invasão invasão_NOUN_Fem_Sing
+de de_ADP
+venezuelanos venezuelano_NOUN_Masc_Plur
+gera gerar_VERB_Fin_Sing
+caos caos_NOUN_Masc_Sing
+em em_ADP
+Roraima roraima_PROPN_Fem_Sing

@@ -1,0 +1,16 @@
+file = t019033
+date = 2022-09-17
+user = Grupo_DDP
+conversation = 3311568969
+URL = https://twitter.com/Grupo_DDP/status/1570966274578206721
+
+word count = 22
+words loading = 0
+factor score = 
+
+RT @ACNURBrasil: megaphone_e No Dia Mundial da Limpeza ( 18 / 09 ) , famílias 
+brasileiras e venezuelanas farão mutirão de limpeza em Boa Vista ( RR ) , 
+para … 
+
+Lemmas in this text that loaded on the factor:
+

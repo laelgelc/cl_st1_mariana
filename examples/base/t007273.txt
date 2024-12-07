@@ -1,0 +1,11 @@
+Chanceler chanceler_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+culpa culpar_VERB_Fin_Sing
+governo governo_NOUN_Masc_Sing
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+por por_ADP
+invasão invasão_NOUN_Fem_Sing
+de de_ADP
+embaixada embaixada_NOUN_Fem_Sing
+- -
+CartaCapital cartacapital_PROPN_Masc_Sing

@@ -1,0 +1,17 @@
+file = t010757
+date = 2019-04-05
+user = gabryslela
+conversation = 1091225277328510976
+URL = https://twitter.com/gabryslela/status/1114293336544874496
+
+word count = 14
+words loading = 3
+factor score = 3
+
+@leletsia n comi venezuelano ainda, me parece mt doce odeio coisa mt doce 
+
+Lemmas in this text that loaded on the factor:
+
+coisa_noun_fem_sing 
+comer_verb_fin_sing 
+venezuelano_noun_masc_sing 

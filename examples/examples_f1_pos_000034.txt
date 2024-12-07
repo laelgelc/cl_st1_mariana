@@ -1,0 +1,20 @@
+file = t016973
+date = 2022-10-18
+user = JoaogoulartJoao
+conversation = 1469726007405924352
+URL = https://twitter.com/JoaogoulartJoao/status/1582188688598966273
+
+word count = 20
+words loading = 5
+factor score = 5
+
+RT @flaviofachel: Octávio Guedes = Pintou um clima: fala de Bolsonaro sobre 
+meninas venezuelanas é asquerosa, abjeta, nojenta e até agor … 
+
+Lemmas in this text that loaded on the factor:
+
+clima_noun_masc_sing 
+falar_verb_fin_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

@@ -1,0 +1,17 @@
+file = t015743
+date = 2021-09-26
+user = mvm126424
+conversation = 358236131
+URL = https://twitter.com/mvm126424/status/1441964004235259905
+
+word count = 12
+words loading = 2
+factor score = 3
+
+@RobsonInvasor @Metropoles Ele também fez um vídeo defendendo a democracia 
+venezuelana. 
+
+Lemmas in this text that loaded on the factor:
+
+democracia_noun_fem_sing 
+fazer_verb_fin_sing 

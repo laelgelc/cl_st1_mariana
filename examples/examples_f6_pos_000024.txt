@@ -1,0 +1,16 @@
+file = t019040
+date = 2022-09-05
+user = Leonir23272821
+conversation = 1306312560879206400
+URL = https://twitter.com/Leonir23272821/status/1566602487154499587
+
+word count = 11
+words loading = 2
+factor score = 
+
+Homes de bem sendo perseguidos. A democracia venezuelana começou assim. 
+
+Lemmas in this text that loaded on the factor:
+
+democracia_noun_fem_sing (secondary)
+venezuelano_adj_fem_sing 

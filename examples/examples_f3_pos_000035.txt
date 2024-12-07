@@ -1,0 +1,18 @@
+file = t009914
+date = 2019-02-23
+user = PBolsotrump
+conversation = 1056373144708104192
+URL = https://twitter.com/PBolsotrump/status/1099419252447154181
+
+word count = 22
+words loading = 2
+factor score = 3
+
+RT @BecaBrix: dim_button_e Juan Guaidó fez um apelo para que a população 
+venezuelana se una neste momento em busca da democracia. HASHTAG 
+#23fayaudaylibertad_h … 
+
+Lemmas in this text that loaded on the factor:
+
+democracia_noun_fem_sing 
+fazer_verb_fin_sing 

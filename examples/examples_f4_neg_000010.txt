@@ -1,0 +1,17 @@
+file = t001367
+date = 2016-07-03
+user = loewillian
+conversation = 3570740175
+URL = https://twitter.com/loewillian/status/749453002705145856
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @Ca_Moredi: Ilegal é contratar uma empresa venezuelana para as eleições 
+no Brasil. Constrangimento é ter Dias Toffoli na Corte https: / … 
+
+Lemmas in this text that loaded on the factor:
+
+corte_noun_fem_sing (secondary)
+empresa_noun_fem_sing 

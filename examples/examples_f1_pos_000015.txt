@@ -1,0 +1,21 @@
+file = t015899
+date = 2022-10-21
+user = Rogesummer
+conversation = 1428482253575831552
+URL = https://twitter.com/Rogesummer/status/1583458505742163969
+
+word count = 23
+words loading = 6
+factor score = 6
+
+RT @Estadao: ' Pintou um clima ' : Fala de Bolsonaro sobre meninas venezuelanas 
+gera mais de 1 , 8 milhão de posts nas redes ( via @EstadaoPoliti … 
+
+Lemmas in this text that loaded on the factor:
+
+clima_noun_masc_sing 
+falar_verb_fin_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+rede_noun_fem_plur 
+venezuelano_adj_fem_plur 

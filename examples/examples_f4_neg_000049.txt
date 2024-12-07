@@ -1,0 +1,16 @@
+file = t000163
+date = 2016-10-26
+user = antoniojosevzla
+conversation = 141431036
+URL = https://twitter.com/antoniojosevzla/status/791130505500565506
+
+word count = 24
+words loading = 1
+factor score = -1
+
+@SindicatoJorn 3-3 Uma vez mais a direita politica venezuelana está a mentir e 
+só quer é dar um golpe de estado ao Presidente Maduro. - 
+
+Lemmas in this text that loaded on the factor:
+
+golpe_noun_masc_sing 

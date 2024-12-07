@@ -1,0 +1,15 @@
+@GreenpeaceBR twitterhandle_NOUN_Masc_Sing
+Cadê cadê_PROPN_Masc_Sing
+o o_DET_Masc_Sing
+@GreenpeaceBR twitterhandle_NOUN_Masc_Sing
+para para_ADP
+ajudar ajudar_VERB_Inf
+limpar limpar_VERB_Inf
+o o_DET_Masc_Sing
+petróleo petróleo_NOUN_Masc_Sing
+Venezuelano venezuelano_ADJ_Masc_Sing
+nas em_o_ADP_DET_Fem_Plur
+praias praia_NOUN_Fem_Plur
+do de_o_ADP_DET_Masc_Sing
+Nordeste nordeste_NOUN_Masc_Sing
+? ?

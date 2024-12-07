@@ -1,0 +1,9 @@
+Oposição oposição_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+não não_ADV
+aprovará aprovar_VERB_Fin_Sing
+decreto decreto_NOUN_Masc_Sing
+de de_ADP
+emergência emergência_NOUN_Fem_Sing
+HASHTAG hashtag_PROPN_Masc_Sing
+#mundo_h #mundo_h

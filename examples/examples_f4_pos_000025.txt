@@ -1,0 +1,19 @@
+file = t010391
+date = 2019-04-24
+user = WWWilton
+conversation = 89864494
+URL = https://twitter.com/WWWilton/status/1121065187157651461
+
+word count = 22
+words loading = 4
+factor score = 4
+
+RT @lucasrohan: Estive em um abrigo para refugiados e imigrantes venezuelanos 
+na periferia de Bogotá . O local é coordenador por uma freira … 
+
+Lemmas in this text that loaded on the factor:
+
+abrigo_noun_masc_sing 
+imigrante_noun_masc_plur 
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

@@ -1,0 +1,15 @@
+RT rt_PROPN_Masc_Sing
+@VEJA twitterhandle_VERB_Fin_Sing
+: :
+Oposição oposição_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+aprovará aprovar_VERB_Fin_Sing
+hoje hoje_ADV
+lei lei_NOUN_Fem_Sing
+da de_o_ADP_DET_Fem_Sing
+anistia anistia_NOUN_Fem_Sing
+; ;
+Maduro maduro_PROPN_Masc_Sing
+promete prometer_VERB_Fin_Sing
+bloqueá bloqueá_VERB_Fin_Sing
+-la ela_PRON_Fem_Sing

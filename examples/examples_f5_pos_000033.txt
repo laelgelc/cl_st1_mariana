@@ -1,0 +1,17 @@
+file = t007112
+date = 2019-10-11
+user = pfasosantos
+conversation = 2405575617
+URL = https://twitter.com/pfasosantos/status/1182489217345249281
+
+word count = 21
+words loading = 2
+factor score = 3
+
+RT @SaBolsonaro: O VERDADEIRO PULMÃO DO MUNDO FOI ATACADO. O petróleo que 
+atingiu as praias do nordeste foi identificado, Venezuelano. Ao … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

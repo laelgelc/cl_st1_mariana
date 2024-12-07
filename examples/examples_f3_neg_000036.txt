@@ -1,0 +1,16 @@
+file = t006987
+date = 2019-10-24
+user = EnaideAlves
+conversation = 80932776
+URL = https://twitter.com/EnaideAlves/status/1187411094693994497
+
+word count = 17
+words loading = 1
+factor score = -2
+
+RT @cdantas5 : Chefão do tráfico venezuelano visita Lula na prisão. É um 
+negócio cabuloso. via @ NBO04169435 
+
+Lemmas in this text that loaded on the factor:
+
+chefe_noun_masc_sing 

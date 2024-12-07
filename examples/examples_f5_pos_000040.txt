@@ -1,0 +1,17 @@
+file = t007009
+date = 2019-10-24
+user = sigatop10
+conversation = 1058725540922867712
+URL = https://twitter.com/sigatop10/status/1187415297386520577
+
+word count = 19
+words loading = 2
+factor score = 3
+
+RT @sigatop10 : Enquete: O óleo que está atingindo a costa do Nordeste é de 
+origem VENEZUELANO? HASHTAG #quintadetremurasdv_h HASHTAG #sextadetrtemurasdv_h 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+origem_noun_fem_sing 

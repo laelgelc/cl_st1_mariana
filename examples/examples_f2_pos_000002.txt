@@ -1,0 +1,19 @@
+file = t004025
+date = 2018-01-18
+user = jjuliabela
+conversation = 2423825456
+URL = https://twitter.com/jjuliabela/status/953997250803494915
+
+word count = 23
+words loading = 4
+factor score = 5
+
+RT @editorahumanas2 : Boa noite petista Saiba que você tem sangue nas mãos de 
+cada venezuelano que está morrendo no regime socialista que vo … 
+
+Lemmas in this text that loaded on the factor:
+
+bom_adj_fem_sing 
+morrer_verb_part 
+socialista_adj_masc_sing 
+venezuelano_noun_masc_sing 

@@ -1,0 +1,15 @@
+file = t019032
+date = 2022-09-13
+user = MarySou28387431
+conversation = 1448272575038115840
+URL = https://twitter.com/MarySou28387431/status/1569754649200148486
+
+word count = 21
+words loading = 0
+factor score = 
+
+@olabocos Tem um vídeo de um venezuelano, dizendo que lá na Venezuela, as 
+pessoas estavam comendo até gato e cachorro 
+
+Lemmas in this text that loaded on the factor:
+

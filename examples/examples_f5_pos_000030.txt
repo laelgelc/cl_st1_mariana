@@ -1,0 +1,17 @@
+file = t007157
+date = 2019-10-10
+user = Lux8888
+conversation = 217024966
+URL = https://twitter.com/Lux8888/status/1182362817812488192
+
+word count = 18
+words loading = 2
+factor score = 3
+
+RT @radardamidia: @llouzeiro Sugiro irem lamber o petróleo venezuelano que 
+chegou às 130 praias do Nordeste brasileiro! 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

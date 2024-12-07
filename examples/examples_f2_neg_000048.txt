@@ -1,0 +1,17 @@
+file = t013391
+date = 2020-05-03
+user = newsalternativo
+conversation = 3424954239
+URL = https://twitter.com/newsalternativo/status/1257032875259711488
+
+word count = 16
+words loading = 2
+factor score = -3
+
+RT @VIOMUNDO: Pimenta comemora decisão do STF que suspende expulsão de 34 
+diplomatas venezuelanos; vídeo 
+
+Lemmas in this text that loaded on the factor:
+
+diplomata_noun_masc_plur 
+suspender_verb_fin_sing 

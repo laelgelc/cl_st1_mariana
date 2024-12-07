@@ -1,0 +1,17 @@
+file = t006386
+date = 2018-09-13
+user = acomaisgyn
+conversation = 883124341
+URL = https://twitter.com/acomaisgyn/status/1040357185832800256
+
+word count = 15
+words loading = 2
+factor score = -2
+
+@g1politica @PASSATEMPOGALO1 Já estão preparando o golpe das urnas 
+eletrônicas venezuelanas, dizendo que ele empata … 
+
+Lemmas in this text that loaded on the factor:
+
+golpe_noun_masc_sing 
+urna_noun_fem_plur (secondary)

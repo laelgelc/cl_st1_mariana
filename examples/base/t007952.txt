@@ -1,0 +1,14 @@
+RT rt_PROPN_Masc_Sing
+@MouraEscocard twitterhandle_PROPN_Sing
+: :
+Que que_SCONJ
+Deus deus_PROPN_Masc_Sing
+abençoe abençoar_VERB_Fin_Sing
+todos todo_DET_Masc_Plur
+os o_DET_Masc_Plur
+nossos nosso_DET_Masc_Plur
+irmãos irmão_NOUN_Masc_Plur
+Venezuelanos venezuelano_ADJ_Masc_Plur
+. .
+HASHTAG hashtag_PROPN_Masc_Sing
+#23ecallehastaquesevaya_h #23ecallehastaquesevaya_h

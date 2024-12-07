@@ -1,0 +1,29 @@
+RT rt_PROPN_Masc_Sing
+@simpraisa twitterhandle_VERB_Fin_Sing
+: :
+Rodinei rodinei_PROPN_Masc_Sing
+tocou tocar_VERB_Fin_Sing
+na em_o_ADP_DET_Fem_Sing
+bola bola_NOUN_Fem_Sing
+e e_CCONJ
+dois dois_NUM
+jornalistas jornalista_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur
+que que_PRON_Rel_Masc_Plur
+estão estar_AUX_Fin_Plur
+por por_ADP
+aqui aqui_ADV
+falaram falar_VERB_Fin_Plur
+: :
+ "  "
+Joga jogar_VERB_Fin_Sing
+muito muito_ADV
+, ,
+joga jogar_VERB_Fin_Sing
+muito muito_ADV
+Rodinei rodinei_VERB_Fin_Sing
+ "  "
+https https_NOUN_Masc_Plur
+: :
+/ /
+… …

@@ -1,0 +1,18 @@
+file = t013350
+date = 2020-05-03
+user = gustavfo
+conversation = 77850632
+URL = https://twitter.com/gustavfo/status/1256765861660184578
+
+word count = 14
+words loading = 3
+factor score = -3
+
+RT @folha: Barroso suspende ordem do governo Bolsonaro de expulsão de 
+diplomatas venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+
+diplomata_noun_masc_plur 
+governo_noun_masc_sing (secondary)
+suspender_verb_fin_sing 

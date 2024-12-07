@@ -1,0 +1,19 @@
+file = t006937
+date = 2019-10-25
+user = sandra10053160
+conversation = 1144581799349280768
+URL = https://twitter.com/sandra10053160/status/1187710463137714176
+
+word count = 18
+words loading = 4
+factor score = 4
+
+RT @Movimentodirei3 : Tacaram fogo na Amazônia, despejaram criminosamente 
+petróleo crú de origem venezuelana nas praias do nordeste, estamos … 
+
+Lemmas in this text that loaded on the factor:
+
+fogo_noun_masc_sing (secondary)
+nordeste_noun_masc_sing 
+origem_noun_fem_sing 
+praia_noun_fem_plur 

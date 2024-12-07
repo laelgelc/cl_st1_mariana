@@ -1,0 +1,18 @@
+file = t009541
+date = 2019-02-20
+user = severinojlperei
+conversation = 76346924
+URL = https://twitter.com/severinojlperei/status/1098054161667637248
+
+word count = 22
+words loading = 3
+factor score = 3
+
+Lugar de ditador é no inferno. O povo venezuelano não será mais escravo do 
+regime do narco ditador Maduro e suas mi … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador_noun_masc_sing 
+povo_noun_masc_sing 
+regime_noun_masc_sing 

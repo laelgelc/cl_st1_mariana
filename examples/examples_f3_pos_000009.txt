@@ -1,0 +1,18 @@
+file = t016704
+date = 2022-10-11
+user = lk_alma
+conversation = 284048040
+URL = https://twitter.com/lk_alma/status/1579888603588501504
+
+word count = 20
+words loading = 3
+factor score = 3
+
+RT @SergioAdriani3 : E vc escreve que o presidente é genocida e nada lhe 
+acontece! Faz isso na democracia venezuelana! 
+
+Lemmas in this text that loaded on the factor:
+
+democracia_noun_fem_sing 
+fazer_verb_fin_sing 
+presidente_noun_masc_sing 

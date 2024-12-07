@@ -1,0 +1,12 @@
+PGR pgr_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+denuncia denunciar_VERB_Fin_Sing
+violações violação_NOUN_Fem_Plur
+dos de_o_ADP_DET_Masc_Plur
+direitos direito_NOUN_Masc_Plur
+humanos humano_ADJ_Masc_Plur
+por por_ADP
+forças força_NOUN_Fem_Plur
+de de_ADP
+segurança segurança_NOUN_Fem_Sing
+: :

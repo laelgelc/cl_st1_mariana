@@ -1,0 +1,15 @@
+file = t019053
+date = 2022-09-17
+user = ifredz1
+conversation = 2389898472
+URL = https://twitter.com/ifredz1/status/1570941377219039233
+
+word count = 13
+words loading = 0
+factor score = 
+
+@efranboesa to assistindo outra do Rica com 2 venezuelanos, recomendo, muito 
+boa 
+
+Lemmas in this text that loaded on the factor:
+

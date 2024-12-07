@@ -1,0 +1,18 @@
+file = t016035
+date = 2022-10-31
+user = duardastocks
+conversation = 1208944969555283968
+URL = https://twitter.com/duardastocks/status/1587090588465303552
+
+word count = 21
+words loading = 3
+factor score = 3
+
+RT @peterjordan100 : URGENTE: Em várias cidades já se adota o venezuelano 
+como idioma e os cachorros estão com muito medo 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro_noun_masc_plur 
+medo_noun_masc_sing 
+venezuelano_noun_masc_sing 

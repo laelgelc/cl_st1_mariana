@@ -1,0 +1,16 @@
+@sujeitodeshorts twitterhandle_NOUN_Masc_Plur
+@fabiokkjj twitterhandle_VERB_Fin_Plur
+beisebol beisebol_NOUN_Masc_Sing
+, ,
+um um_DET_Masc_Sing
+esporte esporte_NOUN_Masc_Sing
+que que_PRON_Rel_Masc_Sing
+é ser_AUX_Fin_Sing
+muito muito_ADV
+bem bem_ADV
+jogado jogar_VERB_Part
+pelos por_o_ADP_DET_Masc_Plur
+nossos nosso_DET_Masc_Plur
+camaradas camarada_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur
+! !

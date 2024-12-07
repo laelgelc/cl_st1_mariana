@@ -1,0 +1,17 @@
+file = t007057
+date = 2019-10-12
+user = Destrabrasil1
+conversation = 1088916194034372608
+URL = https://twitter.com/Destrabrasil1/status/1182835406808797187
+
+word count = 22
+words loading = 2
+factor score = 3
+
+RT @damadanoite14 : Sobre, o petroleo nas praias do nordeste. Se o petróleo 
+tem dna e sabe -se que é venezuelano. Porque os governadores estã … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

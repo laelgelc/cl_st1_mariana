@@ -1,0 +1,17 @@
+file = t017139
+date = 2022-10-10
+user = Jenefer84798936
+conversation = 1058678196055564288
+URL = https://twitter.com/Jenefer84798936/status/1579391129753391105
+
+word count = 17
+words loading = 2
+factor score = 3
+
+RT @Valdomi27063564 : Concentração promovida pela população Venezuelana em 
+Boa Vista-Roraima em apoio ao Presidente Bolsonaro. Esse povo sab … 
+
+Lemmas in this text that loaded on the factor:
+
+povo_noun_masc_sing 
+presidente_noun_masc_sing 

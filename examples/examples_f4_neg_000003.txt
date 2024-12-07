@@ -1,0 +1,18 @@
+file = t007052
+date = 2019-10-13
+user = MDilza
+conversation = 372085476
+URL = https://twitter.com/MDilza/status/1183200533571604480
+
+word count = 16
+words loading = 3
+factor score = -3
+
+RT @64by94 : @AleTerraSouza17 @serenogustavo Com urnas eletrônicas mantidas 
+pela mesma empresa responsável pelas urnas venezuelanas ( exemplo … 
+
+Lemmas in this text that loaded on the factor:
+
+empresa_noun_fem_sing 
+mesmo_adj_fem_sing 
+urna_noun_fem_plur (secondary)

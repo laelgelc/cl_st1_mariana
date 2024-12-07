@@ -1,0 +1,17 @@
+Resgatando resgatar_VERB_Part
+a o_DET_Fem_Sing
+dignidade dignidade_NOUN_Fem_Sing
+de de_ADP
+um um_DET_Masc_Sing
+povo povo_NOUN_Masc_Sing
+sofrido sofrer_VERB_Part_Masc_Sing
+, ,
+fugindo fugir_VERB_Part
+do de_o_ADP_DET_Masc_Sing
+ditador ditador_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+Maduro maduro_PROPN_Masc_Sing
+. .
+OPERAÇÃO operação_NOUN_Fem_Sing
+ACOLHIDA acolhida_PROPN_Fem_Sing
+. .

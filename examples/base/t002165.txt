@@ -1,0 +1,13 @@
+Petrolífera petrolífero_ADJ_Fem_Sing
+dos de_o_ADP_DET_Masc_Plur
+EUA eua_PROPN_Masc_Plur
+acusa acusar_VERB_Fin_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+de de_ADP
+fraude fraude_NOUN_Fem_Sing
+ao a_o_ADP_DET_Masc_Sing
+transferir transferir_VERB_Inf
+refinaria refinaria_NOUN_Fem_Sing
+para para_ADP
+empresa empresa_NOUN_Fem_Sing
+russa russo_ADJ_Fem_Sing

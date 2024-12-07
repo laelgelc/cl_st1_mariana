@@ -1,0 +1,16 @@
+file = t019042
+date = 2022-09-19
+user = cariocansada
+conversation = 1042593146004221952
+URL = https://twitter.com/cariocansada/status/1571969707300773889
+
+word count = 22
+words loading = 1
+factor score = 
+
+Uma velha perguntou no café hj se meu irmão era venezuelano O motivo? Pq ele 
+é um homem negro, obviamente. . pq clar … 
+
+Lemmas in this text that loaded on the factor:
+
+venezuelano_adj_masc_sing 

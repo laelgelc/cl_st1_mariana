@@ -1,0 +1,17 @@
+file = t014109
+date = 2020-09-27
+user = DireitaForteBR
+conversation = 1295170081354285056
+URL = https://twitter.com/DireitaForteBR/status/1310324196124262403
+
+word count = 23
+words loading = 2
+factor score = 4
+
+RT @Conservadora191 : Recorde de pobreza: o salário mínimo na Venezuela é de 
+um dólar por mês Os venezuelanos precisam de 230 salários mínim … 
+
+Lemmas in this text that loaded on the factor:
+
+pequeno_adj_masc_sing 
+pobreza_noun_fem_sing 

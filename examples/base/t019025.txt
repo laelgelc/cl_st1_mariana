@@ -1,0 +1,16 @@
+Fui ser_AUX_Fin_Sing
+falar falar_VERB_Inf
+com com_ADP
+minha meu_DET_Fem_Sing
+colega colega_NOUN_Masc_Sing
+Venezuelana venezuelana_NOUN_Fem_Sing
+sobre sobre_ADP
+canudos canudo_NOUN_Masc_Plur
+Biodegradáveis biodegradável_ADJ_Masc_Plur
+: :
+É ser_AUX_Fin_Sing
+pra pra_ADP
+salvar salvar_VERB_Inf
+as o_DET_Fem_Plur
+tartarugas tartaruga_NOUN_Fem_Plur
+! !

@@ -1,0 +1,18 @@
+file = t003362
+date = 2017-11-05
+user = MarilandaPires
+conversation = 2938703734
+URL = https://twitter.com/MarilandaPires/status/927178669700845568
+
+word count = 13
+words loading = 3
+factor score = -3
+
+Opositor venezuelano Freddy Guevara pede refúgio na embaixada do Chile em 
+Caracas 
+
+Lemmas in this text that loaded on the factor:
+
+embaixada_noun_fem_sing 
+opositor_noun_masc_sing 
+pedir_verb_fin_sing 

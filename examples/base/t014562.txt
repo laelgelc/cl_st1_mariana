@@ -1,0 +1,16 @@
+RT rt_NOUN_Masc_Sing
+@brasil247 twitterhandle_NUM
+: :
+Novo novo_ADJ_Masc_Sing
+Parlamento parlamento_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+, ,
+com com_ADP
+maioria maioria_NOUN_Fem_Sing
+aliada aliar_VERB_Part_Fem_Sing
+a a_ADP
+Maduro maduro_PROPN_Masc_Sing
+, ,
+toma tomar_VERB_Fin_Sing
+posse posse_NOUN_Fem_Sing
+hoje hoje_ADV

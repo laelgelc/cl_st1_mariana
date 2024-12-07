@@ -1,0 +1,17 @@
+file = t016492
+date = 2022-10-10
+user = GiocondaSouto
+conversation = 1544373434754498560
+URL = https://twitter.com/GiocondaSouto/status/1579514710751604737
+
+word count = 22
+words loading = 2
+factor score = 3
+
+RT @fabricioramos8 : Ao pessoal que mora em Roraima faça um vídeo mostrando o 
+que o comunismo fez com o povo Venezuelano! 
+
+Lemmas in this text that loaded on the factor:
+
+fazer_verb_fin_sing 
+povo_noun_masc_sing 

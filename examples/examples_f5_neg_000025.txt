@@ -1,0 +1,17 @@
+file = t005645
+date = 2018-09-17
+user = NbnCanal
+conversation = 977632554856730624
+URL = https://twitter.com/NbnCanal/status/1041689640728702977
+
+word count = 20
+words loading = 2
+factor score = -2
+
+RT @mcbretas: Suspeitas de corrupção e lavagem internacional de dinheiro, 
+relacionadas à exposição do povo venezuelano a gravíssima crise h … 
+
+Lemmas in this text that loaded on the factor:
+
+crise_noun_fem_sing 
+internacional_adj_fem_sing 

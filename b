@@ -1,0 +1,8 @@
+venezuelano_ADJ_Fem_Sing
+fugir_VERB_Fin_Sing
+país_NOUN_Masc_Sing
+causa_NOUN
+fome_NOUN_Fem_Sing
+ter_VERB_Inf
+sair_VERB_Inf
+ganhar_VERB_Fin_Sing

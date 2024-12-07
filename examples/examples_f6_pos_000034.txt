@@ -1,0 +1,17 @@
+file = t019030
+date = 2022-09-06
+user = Mthscoutinho
+conversation = 1548289153439125504
+URL = https://twitter.com/Mthscoutinho/status/1567230294771613696
+
+word count = 21
+words loading = 0
+factor score = 
+
+RT @Zambelli2210 : Atenção! ! Assista o relato de um venezuelano que está 
+há 1 ano no Brasil. Anote nossa colinha! 
+backhand_index_pointing_down_light_skin_tone_e keycap_2_e keycap_2_e BOLSONARO 
+Pre … 
+
+Lemmas in this text that loaded on the factor:
+

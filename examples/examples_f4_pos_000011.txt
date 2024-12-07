@@ -1,0 +1,19 @@
+file = t016682
+date = 2022-10-07
+user = DeFalcoski
+conversation = 1242883293483274240
+URL = https://twitter.com/DeFalcoski/status/1578215025973624833
+
+word count = 21
+words loading = 4
+factor score = 4
+
+RT @FolhaPolitica: Governador que recebe milhares de refugiados venezuelanos 
+faz grave alerta ao Brasil e apoia Bolsonaro: ' Eu não quero ve … 
+
+Lemmas in this text that loaded on the factor:
+
+milhar_noun_masc_plur 
+receber_verb_fin_sing 
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

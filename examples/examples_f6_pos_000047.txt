@@ -1,0 +1,15 @@
+file = t019017
+date = 2022-09-19
+user = alehenper
+conversation = 716912281
+URL = https://twitter.com/alehenper/status/1571922458470486018
+
+word count = 20
+words loading = 0
+factor score = 
+
+RT @OpressorZV: FUGA DO SOCIALISMO: A Operação Acolhida e as questões de 
+salubridade no abrigamento dos beneficiários VENEZUELANOS. A Força … 
+
+Lemmas in this text that loaded on the factor:
+

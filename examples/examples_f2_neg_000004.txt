@@ -1,0 +1,18 @@
+file = t013464
+date = 2020-05-01
+user = krikakoletanea
+conversation = 1052720500814831616
+URL = https://twitter.com/krikakoletanea/status/1256355134445162497
+
+word count = 16
+words loading = 3
+factor score = -4
+
+RT @edusilvafogo: PGR pede ao Itamaraty que suspenda expulsão de diplomatas 
+Venezuelanos – Diário Causa Operária 
+
+Lemmas in this text that loaded on the factor:
+
+diplomata_noun_masc_plur 
+pedir_verb_fin_sing 
+suspender_verb_fin_sing 

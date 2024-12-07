@@ -1,0 +1,19 @@
+file = t008643
+date = 2019-02-24
+user = RomeroNestor
+conversation = 78432035
+URL = https://twitter.com/RomeroNestor/status/1099664342419677186
+
+word count = 21
+words loading = 4
+factor score = 5
+
+RT @MatheusSchuch: Atenção. Dois sargentos venezuelanos que estavam atuando 
+na fronteira com o Brasil fugiram do país e pediram abrigo aqui … 
+
+Lemmas in this text that loaded on the factor:
+
+abrigo_noun_masc_sing 
+fronteira_noun_fem_sing 
+fugir_verb_fin_plur 
+venezuelano_adj_masc_plur 

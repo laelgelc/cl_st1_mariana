@@ -1,0 +1,19 @@
+file = t009234
+date = 2019-02-28
+user = befe04ae322f4cd
+conversation = 3346121014
+URL = https://twitter.com/befe04ae322f4cd/status/1100963783940493312
+
+word count = 14
+words loading = 4
+factor score = 4
+
+RT @exame: Mais de 400 militares venezuelanos já desertaram e cruzaram a 
+fronteira 
+
+Lemmas in this text that loaded on the factor:
+
+cruzar_verb_fin_plur 
+fronteira_noun_fem_sing 
+militar_noun_masc_plur 
+venezuelano_adj_masc_plur 

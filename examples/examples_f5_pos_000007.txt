@@ -1,0 +1,18 @@
+file = t006930
+date = 2019-10-09
+user = conservadorsul
+conversation = 1142793743369744384
+URL = https://twitter.com/conservadorsul/status/1181905756125368321
+
+word count = 22
+words loading = 3
+factor score = 4
+
+RT @NiltonGzCardoso: Quer dizer então que o óleo encontrado nas praias do 
+nordeste é de origem Venezuelano, Cadê os ambientalistas, o índi … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+origem_noun_fem_sing 
+praia_noun_fem_plur 

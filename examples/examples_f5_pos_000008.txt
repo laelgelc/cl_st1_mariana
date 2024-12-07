@@ -1,0 +1,18 @@
+file = t006829
+date = 2019-10-09
+user = AugustaAPDeSou1
+conversation = 1075544373570519040
+URL = https://twitter.com/AugustaAPDeSou1/status/1181950777780326401
+
+word count = 21
+words loading = 3
+factor score = 4
+
+RT @carmelonetobr: As manchas de óleo nas praias do Nordeste são de origem 
+venezuelana, segundo relatório da Petrobras. A possibilidade de … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+origem_noun_fem_sing 
+praia_noun_fem_plur 

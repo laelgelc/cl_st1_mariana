@@ -1,0 +1,21 @@
+file = t017137
+date = 2022-10-16
+user = teresamoura19
+conversation = 1041473293784633344
+URL = https://twitter.com/teresamoura19/status/1581727164172447744
+
+word count = 19
+words loading = 5
+factor score = 6
+
+RT @MalvasioRolando: Venezuelana desmente fala de Bolsonaro sobre 
+prostituição: ' casa abrigava ação social ' . Enfim, além do pintou um 
+Clima … 
+
+Lemmas in this text that loaded on the factor:
+
+abrigar_verb_fin_sing 
+casa_noun_fem_sing 
+falar_verb_fin_sing 
+pintar_verb_fin_sing 
+social_adj_fem_sing 

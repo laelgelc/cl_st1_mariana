@@ -1,0 +1,20 @@
+file = t017334
+date = 2022-10-16
+user = nacaochamadafla
+conversation = 146516248
+URL = https://twitter.com/nacaochamadafla/status/1581757207950999553
+
+word count = 18
+words loading = 5
+factor score = 5
+
+RT @slpng_giants_pt: loudspeaker_e Vídeo em que Bolsonaro fala pintou um clima 
+para adolescentes venezuelanas é removido do @YouTubeBrasil Além dess … 
+
+Lemmas in this text that loaded on the factor:
+
+adolescente_noun_fem_plur 
+clima_noun_masc_sing 
+falar_verb_fin_sing 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

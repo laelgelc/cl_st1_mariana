@@ -1,0 +1,18 @@
+file = t017763
+date = 2022-11-15
+user = fjribeiro1
+conversation = 2803053975
+URL = https://twitter.com/fjribeiro1/status/1592598410061750272
+
+word count = 21
+words loading = 3
+factor score = 3
+
+RT @yurivs: Lula e o Foro de São Paulo são os responsáveis pela fome na 
+Venezuela. - palavras de um venezuelano 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+palavra_noun_fem_plur 
+venezuelano_noun_masc_sing 

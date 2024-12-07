@@ -1,0 +1,335 @@
+f1pos pintar_verb_fin_sing 
+f1pos menino_noun_fem_plur 
+f1pos clima_noun_masc_sing 
+f1pos venezuelano_adj_fem_plur 
+f1pos prostituio_noun_fem_sin0.96983
+f1pos adolescente_noun_fem_plur 
+f1pos garota_noun_fem_plur 
+f1pos fala_noun_fem_sing 
+f1pos venezuelanas_noun_fem_plur 
+f1pos casa_noun_fem_sing 
+f1pos desculpa_noun_fem_plur 
+f1pos ano_noun_masc_plur 
+f1pos falar_verb_fin_sing 
+f1pos caso_noun_masc_sing 
+f1pos programa_noun_masc_sing 
+f1pos vdeo_noun_masc_sing (secondary)
+f1pos passar_verb_fin_plur 
+f1pos ltimo_adj_fem_sing 
+f1pos gravar_verb_fin_sing 
+f1pos rede_noun_fem_plur 
+f1pos semana_noun_fem_sing 
+f1pos pedido_noun_masc_sing 
+f1pos investigar_verb_inf 
+f1pos presidente_noun_masc_sing (secondary)
+f1pos criana_noun_fem_plur (secondary)
+f1pos social_adj_fem_sing 
+f1pos vez_noun_fem_sing 
+f1pos mostrar_verb_inf (secondary)
+f1pos abrigar_verb_fin_sing 
+f1pos fazer_verb_inf (secondary)
+f1neg venezuelano_adj_masc_sing (secondary)
+f1neg petrleo_noun_masc_sing (secondary)
+f2pos comer_verb_ger 
+f2pos comer_verb_inf 
+f2pos morrer_verb_part 
+f2pos socialismo_noun_masc_sing 
+f2pos fome_noun_fem_sing 
+f2pos cu_noun_masc_sing 
+f2pos venezuelano_noun_masc_sing 
+f2pos coisa_noun_fem_sing 
+f2pos animal_noun_masc_plur 
+f2pos comida_noun_fem_sing 
+f2pos co_noun_masc_plur 
+f2pos socialista_adj_masc_sing 
+f2pos cachorro_noun_masc_plur 
+f2pos lembrar_verb_inf 
+f2pos sofrimento_noun_masc_sing 
+f2pos lixo_noun_masc_sing (secondary)
+f2pos cachorro_noun_masc_sing (secondary)
+f2pos luxo_noun_masc_sing 
+f2pos povo_noun_masc_sing (secondary)
+f2pos comer_verb_fin_plur (secondary)
+f2pos comer_verb_fin_sing 
+f2pos vez_noun_fem_sing (secondary)
+f2pos mo_noun_fem_plur 
+f2pos mostrar_verb_inf 
+f2pos bom_adj_fem_sing 
+f2pos time_noun_masc_sing (secondary)
+f2pos passar_verb_ger (secondary)
+f2pos palavra_noun_fem_plur 
+f2pos pau_noun_masc_sing 
+f2pos irmo_noun_masc_plur (secondary)
+f2pos restaurante_noun_masc_sing 
+f2pos viver_verb_fin_plur (secondary)
+f2pos medo_noun_masc_sing 
+f2pos chins_adj_masc_sing 
+f2pos pobreza_noun_fem_sing (secondary)
+f2pos extremo_adj_fem_sing (secondary)
+f2pos falar_verb_fin_sing (secondary)
+f2neg parlamento_noun_masc_sing 
+f2neg oposio_noun_fem_sing 
+f2neg pedir_verb_fin_sing 
+f2neg embaixada_noun_fem_sing 
+f2neg processo_noun_masc_sing 
+f2neg asilo_noun_masc_sing 
+f2neg suspender_verb_fin_sing 
+f2neg opositor_noun_masc_sing 
+f2neg militar_noun_masc_plur (secondary)
+f2neg expulso_noun_fem_sing 
+f2neg pedir_verb_fin_plur 
+f2neg estado_noun_masc_sing (secondary)
+f2neg desertar_verb_fin_plur 
+f2neg aprovar_verb_fin_sing 
+f2neg acesso_noun_masc_sing 
+f2neg dilogo_noun_masc_sing 
+f2neg corte_noun_fem_sing 
+f2neg deciso_noun_fem_sing (secondary)
+f2neg acusar_verb_fin_sing (secondary)
+f2neg governo_noun_masc_sing (secondary)
+f2neg receber_verb_fin_plur (secondary)
+f2neg diplomata_noun_masc_plur 
+f2neg bloqueio_noun_masc_sing 
+f2neg pedido_noun_masc_sing (secondary)
+f2neg pedido_noun_masc_plur 
+f2neg emergncia_noun_fem_sing 
+f2neg chefe_noun_masc_sing (secondary)
+f2neg humanitrio_adj_fem_sing (secondary)
+f2neg defesa_noun_fem_sing (secondary)
+f2neg direito_noun_masc_plur 
+f2neg brasileiro_adj_fem_plur (secondary)
+f2neg lder_noun_masc_sing (secondary)
+f2neg lei_noun_fem_sing 
+f2neg declarar_verb_fin_sing (secondary)
+f3pos ditador_noun_masc_sing 
+f3pos fazer_verb_fin_sing 
+f3pos fome_noun_fem_sing (secondary)
+f3pos vdeo_noun_masc_sing 
+f3pos regime_noun_masc_sing 
+f3pos lixo_noun_masc_sing 
+f3pos urna_noun_fem_plur 
+f3pos fugir_verb_part 
+f3pos povo_noun_masc_sing 
+f3pos pas_noun_masc_plur 
+f3pos democracia_noun_fem_sing 
+f3pos presidente_noun_masc_sing 
+f3pos cachorro_noun_masc_sing 
+f3pos estado_noun_masc_sing 
+f3pos apoiar_verb_fin_sing (secondary)
+f3pos flag_brazil_e 
+f3pos cubano_adj_masc_sing 
+f3pos populao_noun_fem_sing 
+f3pos milhar_noun_masc_plur (secondary)
+f3pos eleio_noun_fem_plur (secondary)
+f3pos defesa_noun_fem_sing 
+f3pos acesso_noun_masc_sing (secondary)
+f3pos fazer_verb_inf 
+f3pos comer_verb_ger (secondary)
+f3pos socialista_adj_masc_sing (secondary)
+f3pos nota_noun_fem_sing 
+f3pos ano_noun_masc_plur (secondary)
+f3pos pedir_verb_fin_plur (secondary)
+f3pos noite_noun_fem_sing 
+f3pos bom_adj_fem_sing (secondary)
+f3pos cubano_noun_masc_plur (secondary)
+f3pos sangue_noun_masc_sing 
+f3pos jornalista_noun_masc_plur (secondary)
+f3pos tomar_verb_fin_sing (secondary)
+f3pos mesmo_adj_fem_sing (secondary)
+f3pos sistema_noun_masc_sing (secondary)
+f3pos pas_noun_masc_sing (secondary)
+f3neg general 
+f3neg chefe 
+f3neg narcotrfico_noun_masc_sing 
+f3neg trfico_noun_masc_sing 
+f3neg droga_noun_fem_plur 
+f3neg inteligncia_noun_fem_sing 
+f3neg extraditar_verb_inf 
+f3neg chefe_noun_masc_sing 
+f3neg apontar_verb_fin_sing 
+f3neg apreender_verb_fin_sing 
+f3neg investigao_noun_fem_sing 
+f3neg time_noun_masc_sing 
+f3neg financiar_verb_fin_sing 
+f3neg convocar_verb_part_masc_sing 
+f3neg atendimento_noun_masc_sing 
+f3neg meia_noun_masc_sing 
+f3neg internacional_adj_masc_sing 
+f3neg general_noun_masc_sing (secondary)
+f3neg chavista_adj_fem_sing 
+f3neg interiorizao_noun_fem_sin-0.33379 
+f3neg dinheiro_noun_masc_sing (secondary)
+f3neg ltimo_adj_fem_sing (secondary)
+f3neg governo_noun_masc_plur 
+f3neg extremo_adj_fem_sing 
+f3neg diplomata_noun_masc_sing 
+f4pos fronteira_noun_fem_sing 
+f4pos imigrante_noun_masc_plur 
+f4pos receber_verb_fin_sing 
+f4pos refugiado_noun_masc_plur 
+f4pos ajuda_noun_fem_sing 
+f4pos humanitrio_adj_fem_sing 
+f4pos famlia_noun_fem_plur 
+f4pos cruzar_verb_fin_plur 
+f4pos milho_noun_masc_plur 
+f4pos abrigo_noun_masc_sing 
+f4pos militar_noun_masc_plur 
+f4pos crise_noun_fem_sing (secondary)
+f4pos criana_noun_fem_plur 
+f4pos receber_verb_fin_plur 
+f4pos centena_noun_fem_plur 
+f4pos milhar_noun_masc_plur 
+f4pos migrante_noun_masc_plur 
+f4pos comida_noun_fem_sing (secondary)
+f4pos alimento_noun_masc_plur 
+f4pos refgio_noun_masc_sing 
+f4pos fugir_verb_part (secondary)
+f4pos venezuelano_adj_masc_plur 
+f4pos chegar_verb_fin_plur 
+f4pos casa_noun_fem_sing (secondary)
+f4pos viver_verb_fin_plur 
+f4pos fogo_noun_masc_sing 
+f4pos ao_noun_fem_sing 
+f4pos fugir_verb_fin_plur 
+f4pos populao_noun_fem_sing (secondary)
+f4pos chegada_noun_fem_sing 
+f4pos interiorizao_noun_fem_sin0.36294
+f4pos medicamento_noun_masc_plur 
+f4pos semana_noun_fem_sing (secondary)
+f4pos venezuelano_noun_masc_plur (secondary)
+f4pos falta_noun_fem_sing (secondary)
+f4pos flag_venezuela_e 
+f4pos fazer_verb_fin_plur 
+f4pos pas_noun_masc_sing 
+f4neg urna_noun_fem_plur (secondary)
+f4neg eletrnico_adj_fem_plur 
+f4neg empresa_noun_fem_sing 
+f4neg parlamento_noun_masc_sing (secondary)
+f4neg eleio_noun_fem_plur 
+f4neg golpe_noun_masc_sing 
+f4neg corte_noun_fem_sing (secondary)
+f4neg fraude_noun_fem_sing 
+f4neg mandato_noun_masc_sing 
+f4neg segurana_noun_fem_sing 
+f4neg supremo_adj_fem_sing 
+f4neg tomar_verb_fin_sing 
+f4neg venezuelana_noun_fem_sing (secondary)
+f4neg posse_noun_fem_sing 
+f4neg mesmo_adj_fem_sing 
+f4neg poltico_adj_masc_plur 
+f4neg suspender_verb_fin_sing (secondary)
+f4neg anistia_noun_fem_sing (secondary)
+f4neg sangue_noun_masc_sing (secondary)
+f5pos leo_noun_masc_sing 
+f5pos brasileiro_adj_fem_plur 
+f5pos ms_noun_masc_sing 
+f5pos praia_noun_fem_plur 
+f5pos navio_noun_masc_sing 
+f5pos origem_noun_fem_sing 
+f5pos nordeste_noun_masc_sing 
+f5pos valer_verb_fin_sing 
+f5pos futebol_noun_masc_sing 
+f5pos petrleo_noun_masc_sing 
+f5pos filho_noun_masc_sing 
+f5pos seleo_noun_fem_sing 
+f5pos moeda_noun_fem_sing 
+f5pos pequeno_adj_masc_sing 
+f5pos receber_verb_fin_sing (secondary)
+f5pos salrio_noun_masc_sing 
+f5pos campo_noun_masc_sing 
+f5pos falta_noun_fem_sing 
+f5pos venezuelana_noun_fem_sing 
+f5pos abrir_verb_fin_sing 
+f5pos jogador_noun_masc_sing 
+f5pos sistema_noun_masc_sing 
+f5pos com_verb_fin_plur 
+f5pos jovem_adj_masc_sing 
+f5pos flag_brazil_e (secondary)
+f5pos pobreza_noun_fem_sing 
+f5pos acabar_verb_fin_sing 
+f5pos fogo_noun_masc_sing (secondary)
+f5pos eletrnico_adj_fem_plur (secondary)
+f5pos jornalista_noun_masc_plur 
+f5pos bolivariano_adj_fem_sing 
+f5pos venezuelano_noun_masc_sing (secondary)
+f5pos primeiro_adj_fem_sing 
+f5pos empresa_noun_fem_sing (secondary)
+f5pos ms_noun_masc_plur 
+f5neg crise_noun_fem_sing 
+f5neg deciso_noun_fem_sing 
+f5neg invaso_noun_fem_sing 
+f5neg pedir_verb_fin_sing (secondary)
+f5neg irmo_noun_masc_plur 
+f5neg fora_noun_fem_plur 
+f5neg passar_verb_ger 
+f5neg justia_noun_fem_sing (secondary)
+f5neg anistia_noun_fem_sing 
+f5neg internacional_adj_fem_sing 
+f5neg comunidade_noun_fem_sing 
+f5neg rejeitar_verb_fin_sing 
+f5neg humano_adj_masc_plur 
+f5neg interveno_noun_fem_sing-0.34839
+f5neg econmico_adj_fem_sing (secondary)
+f5neg chanceler_noun_masc_sing 
+f5neg abenoar_verb_fin_sing 
+f5neg impedir_verb_fin_sing 
+f5neg restaurante_noun_masc_sing (secondary)
+f5neg vice 
+f5neg resolver_verb_fin_sing 
+f5neg cubano_adj_masc_plur (secondary)
+f5neg fechar_verb_inf 
+f5neg soluo_noun_fem_sing 
+f5neg colapso_noun_masc_sing 
+f5neg alimento_noun_masc_plur (secondary)
+f6pos dinheiro_noun_masc_sing 
+f6pos ditadura_noun_fem_sing 
+f6pos dizer_verb_fin_sing 
+f6pos apoiar_verb_fin_sing 
+f6pos venezuelano_adj_fem_sing 
+f6pos militar_adj_fem_sing 
+f6pos lder_noun_masc_sing 
+f6pos ditador_noun_masc_sing (secondary)
+f6pos governo_noun_masc_sing 
+f6pos venezuelano_adj_masc_sing 
+f6pos acusar_verb_fin_sing 
+f6pos justia_noun_fem_sing 
+f6pos democracia_noun_fem_sing (secondary)
+f6pos general_noun_masc_sing 
+f6pos cubano_adj_fem_sing 
+f6pos mulher_noun_fem_sing 
+f6pos oposio_noun_fem_sing (secondary)
+f6pos presidente 
+f6pos ditadura_noun_fem_plur 
+f6pos valer_verb_fin_sing (secondary)
+f6pos cubano_adj_masc_sing (secondary)
+f6pos regime_noun_masc_sing (secondary)
+f6pos financiar_verb_fin_sing (secondary)
+f6pos exrcito_noun_masc_sing 
+f6pos priso_noun_fem_sing 
+f6pos tentativa_noun_fem_sing 
+f6pos ajuda_noun_fem_sing (secondary)
+f6pos opositor_noun_masc_sing (secondary)
+f6pos milho_noun_masc_plur (secondary)
+f6pos declarar_verb_fin_sing 
+f6neg argentino_noun_masc_plur 
+f6neg chileno_noun_masc_plur 
+f6neg argentino_adj_masc_plur 
+f6neg boliviano_noun_masc_plur 
+f6neg colombiano_adj_masc_plur 
+f6neg boliviano_adj_masc_plur 
+f6neg comer_verb_fin_plur 
+f6neg pas_noun_masc_plur (secondary)
+f6neg vizinho_adj_masc_plur 
+f6neg venezuelano_adj_masc_plur (secondary)
+f6neg venezuelano_noun_masc_plur 
+f6neg migrante_noun_masc_plur (secondary)
+f6neg passar_verb_fin_plur (secondary)
+f6neg desertar_verb_fin_plur (secondary)
+f6neg econmico_adj_fem_sing 
+f6neg cubano_noun_masc_plur 
+f6neg cubano_adj_masc_plur 
+f6neg pedido_noun_masc_plur (secondary)
+f6neg chegar_verb_fin_plur (secondary)
+f6neg co_noun_masc_plur (secondary)
+f6neg abandonar_verb_fin_plur 
+f6neg animal_noun_masc_plur (secondary)

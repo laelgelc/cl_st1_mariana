@@ -1,0 +1,15 @@
+file = t019016
+date = 2022-09-29
+user = zumbatumba
+conversation = 209363736
+URL = https://twitter.com/zumbatumba/status/1575349745903697920
+
+word count = 21
+words loading = 0
+factor score = 
+
+@flammable_man o meu atual vo pedir pra um venezuelano de mullet do meu bairro 
+fazer o mesmo corte dele em mim 
+
+Lemmas in this text that loaded on the factor:
+

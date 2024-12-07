@@ -1,0 +1,17 @@
+RT rt_NOUN_Masc_Sing
+@ADLEZ_AP twitterhandle_ADJ_Masc_Sing
+: :
+O o_DET_Masc_Sing
+socialismo socialismo_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+: :
+pessoas pessoa_NOUN_Fem_Plur
+comendo comer_VERB_Ger
+cachorros cachorro_NOUN_Masc_Plur
+, ,
+saqueando saquear_VERB_Part
+supermercados supermercado_NOUN_Masc_Plur
+e e_CCONJ
+morrendo morrer_VERB_Part
+de de_ADP
+inanição inanição_NOUN_Fem_Sing

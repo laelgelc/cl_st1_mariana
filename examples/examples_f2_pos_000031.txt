@@ -1,0 +1,19 @@
+file = t010952
+date = 2019-05-25
+user = engeljogador
+conversation = 740695728280997888
+URL = https://twitter.com/engeljogador/status/1132247977576271872
+
+word count = 21
+words loading = 4
+factor score = 3
+
+RT @fpcoliveira: Acreditaram que um time hospedado no Marriott estava sem 
+comer. Dá para inventar qualquer coisa sobre venezuelano que vão … 
+
+Lemmas in this text that loaded on the factor:
+
+coisa_noun_fem_sing 
+comer_verb_inf 
+time_noun_masc_sing (secondary)
+venezuelano_noun_masc_sing 

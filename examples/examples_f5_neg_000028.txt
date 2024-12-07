@@ -1,0 +1,16 @@
+file = t006019
+date = 2018-10-18
+user = JessieMW_
+conversation = 1209296082
+URL = https://twitter.com/JessieMW_/status/1052746094495510528
+
+word count = 22
+words loading = 1
+factor score = -2
+
+RT @JoseBadalo2 : Os direitos humanos mais uma vez provando que só serve pra 
+bandidos pois os nossos irmãos venezuelanos estão morrendo pior … 
+
+Lemmas in this text that loaded on the factor:
+
+humano_adj_masc_plur 

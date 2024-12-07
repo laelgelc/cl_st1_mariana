@@ -1,0 +1,20 @@
+file = t014726
+date = 2021-03-31
+user = GFonsecaAdv
+conversation = 374090716
+URL = https://twitter.com/GFonsecaAdv/status/1377289837229785090
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @ADRABrasil: O núcleo da HASHTAG #adra_h no Pará oferece ajuda a migrantes 
+e refugiados venezuelanos na capital do Pará . HASHTAG #justiça_h HASHTAG 
+#compaixão_h e # … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda_noun_fem_sing 
+migrante_noun_masc_plur 
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

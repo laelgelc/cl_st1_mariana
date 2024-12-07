@@ -1,0 +1,15 @@
+file = t019018
+date = 2022-09-16
+user = 3Ateotalo
+conversation = 1516574303864725504
+URL = https://twitter.com/3Ateotalo/status/1570604863985422336
+
+word count = 23
+words loading = 0
+factor score = 
+
+RT @rafaelbboa: O Governador da Flórida enviou 50 Venezuelanos que cruzaram a 
+fronteira para o paraíso de verão dos democratas ( Martha ' s Vi … 
+
+Lemmas in this text that loaded on the factor:
+

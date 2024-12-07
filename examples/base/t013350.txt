@@ -1,0 +1,14 @@
+RT rt_PROPN_Masc_Sing
+@folha twitterhandle_VERB_Fin_Sing
+: :
+Barroso barroso_NOUN_Masc_Sing
+suspende suspender_VERB_Fin_Sing
+ordem ordem_NOUN_Fem_Sing
+do de_o_ADP_DET_Masc_Sing
+governo governo_NOUN_Masc_Sing
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+de de_ADP
+expulsão expulsão_NOUN_Fem_Sing
+de de_ADP
+diplomatas diplomata_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur

@@ -1,0 +1,11 @@
+@antonioocarlo twitterhandle_NOUN_Masc_Sing
+@FlavioBolsonaro twitterhandle_ADJ_Masc_Sing
+@brunovileladois twitterhandle_VERB_Fin_Plur
+Kkkkkkkk kkkkkkkk_PROPN_Masc_Sing
+A o_DET_Fem_Sing
+democracia democracia_NOUN_Fem_Sing
+Venezuelana venezuelana_PROPN_Fem_Sing
+é ser_AUX_Fin_Sing
+tão tão_ADV
+boa bom_ADJ_Fem_Sing
+! !

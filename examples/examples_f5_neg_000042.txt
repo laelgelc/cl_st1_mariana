@@ -1,0 +1,16 @@
+file = t008131
+date = 2019-01-24
+user = Marizematch
+conversation = 157212858
+URL = https://twitter.com/Marizematch/status/1088273720022585344
+
+word count = 13
+words loading = 0
+factor score = -2
+
+RT @Anonymous168930 : HASHTAG #venezuelalibre_h HASHTAG #foramaduro_h HASHTAG 
+#fuerzavenezuela_h Que Deus abençoe nossos irmãos Venezuelanos. 
+@noticiasprobr @miqueis … 
+
+Lemmas in this text that loaded on the factor:
+

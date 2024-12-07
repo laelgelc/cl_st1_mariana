@@ -1,0 +1,18 @@
+file = t000130
+date = 2016-10-25
+user = enfoqueagencia
+conversation = 295852848
+URL = https://twitter.com/enfoqueagencia/status/790998540096974848
+
+word count = 15
+words loading = 3
+factor score = -3
+
+Acusado de promover golpe: Parlamento venezuelano aprova início de processo 
+político contra Maduro: Parlament. . . 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar_verb_fin_sing 
+parlamento_noun_masc_sing 
+processo_noun_masc_sing 

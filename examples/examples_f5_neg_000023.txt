@@ -1,0 +1,16 @@
+file = t005578
+date = 2018-10-12
+user = le_leu21
+conversation = 65193381
+URL = https://twitter.com/le_leu21/status/1050751015069343746
+
+word count = 19
+words loading = 1
+factor score = -2
+
+RT @roxmo: Anistia Internacional acusa forças venezuelanas de 8 . 200 
+execuções extrajudiciais em três anos - Jornal O Globo … 
+
+Lemmas in this text that loaded on the factor:
+
+anistia_noun_fem_sing 

@@ -1,0 +1,22 @@
+RT rt_NOUN_Masc_Sing
+@Alexand53199320 twitterhandle_NUM
+: :
+Após após_ADP
+denúncia denúncia_NOUN_Fem_Sing
+do de_o_ADP_DET_Masc_Sing
+presidente presidente_NOUN_Masc_Sing
+@jairbolsonaro twitterhandle_ADJ_Masc_Sing
+sobre sobre_ADP
+a o_DET_Fem_Sing
+fraude fraude_NOUN_Fem_Sing
+nas em_o_ADP_DET_Fem_Plur
+eleições eleição_NOUN_Fem_Plur
+, ,
+ "  "
+Coincidentemente coincidentemente_ADV
+ "  "
+a o_DET_Fem_Sing
+Smartmatic smartmatic_PROPN_Fem_Sing
+Venezuelana venezuelana_PROPN_Sing
+pe pe_VERB_Fin_Sing
+… …

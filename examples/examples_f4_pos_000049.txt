@@ -1,0 +1,19 @@
+file = t005305
+date = 2018-04-18
+user = Vanessacs2000
+conversation = 769606942302040064
+URL = https://twitter.com/Vanessacs2000/status/986632685627068416
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @QuebrandoOTabu: O governo federal pediu para que Santa Catarina receba 2 , 
+5 mil imigrantes venezuelanos. Eles fazem parte de um grupo de … 
+
+Lemmas in this text that loaded on the factor:
+
+fazer_verb_fin_plur 
+imigrante_noun_masc_plur 
+receber_verb_fin_sing 
+venezuelano_adj_masc_plur 

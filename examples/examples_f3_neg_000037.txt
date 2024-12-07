@@ -1,0 +1,15 @@
+file = t007019
+date = 2019-10-27
+user = voldi_
+conversation = 41470934
+URL = https://twitter.com/voldi_/status/1188289927223660547
+
+word count = 12
+words loading = 1
+factor score = -2
+
+Chefão do tráfico venezuelano visita Lula na prisão - Noticia Brasil Online 
+
+Lemmas in this text that loaded on the factor:
+
+chefe_noun_masc_sing 

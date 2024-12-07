@@ -1,0 +1,21 @@
+file = t005938
+date = 2018-10-16
+user = PauloVi93824797
+conversation = 1024328774723268608
+URL = https://twitter.com/PauloVi93824797/status/1052159588194275329
+
+word count = 20
+words loading = 6
+factor score = 4
+
+Poste é o meu egg_e! socialista. . . . feliz em ver o povo Venezuelano comendo 
+cachorro? Morrendo de fome? COVARDE pai do K … 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro_noun_masc_sing (secondary)
+comer_verb_ger 
+fome_noun_fem_sing 
+morrer_verb_part 
+povo_noun_masc_sing (secondary)
+socialista_adj_masc_sing 

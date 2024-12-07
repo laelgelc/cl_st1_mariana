@@ -1,0 +1,17 @@
+file = t007681
+date = 2019-12-31
+user = ferreira_f_h
+conversation = 18818881
+URL = https://twitter.com/ferreira_f_h/status/1212081932093317125
+
+word count = 24
+words loading = 2
+factor score = 3
+
+RT @secomvc: O Brasil sofreu um duro ataque. Nossas praias foram atingidas por 
+um tipo de óleo venezuelano que tem aparecido do Nordeste ao … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

@@ -1,0 +1,19 @@
+file = t009222
+date = 2019-02-22
+user = piava_s
+conversation = 1062071856293908480
+URL = https://twitter.com/piava_s/status/1099003647231447047
+
+word count = 22
+words loading = 4
+factor score = 4
+
+RT @luizlima10 : Queridinho dos Petistas. . . Maduro fecha a fronteira, com 
+receio de que a chegada de ajuda humanitária para os venezuelanos, … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda_noun_fem_sing 
+chegada_noun_fem_sing 
+fronteira_noun_fem_sing 
+venezuelano_noun_masc_plur (secondary)

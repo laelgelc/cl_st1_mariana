@@ -1,0 +1,20 @@
+file = t016974
+date = 2022-10-18
+user = PapaiBrunoDias
+conversation = 858287489383100416
+URL = https://twitter.com/PapaiBrunoDias/status/1582179792475996160
+
+word count = 19
+words loading = 5
+factor score = 5
+
+' Pintou um clima ' : fala de Bolsonaro sobre meninas venezuelanas é 
+asquerosa, abjeta, nojenta e até agora não foi ex … 
+
+Lemmas in this text that loaded on the factor:
+
+clima_noun_masc_sing 
+falar_verb_fin_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

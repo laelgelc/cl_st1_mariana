@@ -1,0 +1,16 @@
+file = t019028
+date = 2022-09-09
+user = LambrinLuigi
+conversation = 1237700443205259264
+URL = https://twitter.com/LambrinLuigi/status/1568031780137234432
+
+word count = 10
+words loading = 1
+factor score = 
+
+@___Carlin__ @clarionrox @monark @KimKataguiri Isso foi culpa do Estado 
+venezuelano. . . 
+
+Lemmas in this text that loaded on the factor:
+
+venezuelano_adj_masc_sing 
