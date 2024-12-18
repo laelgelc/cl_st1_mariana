@@ -1,0 +1,20 @@
+file = t005579
+date = 2018-09-30
+user = melsistemas
+conversation = 258445983
+URL = https://twitter.com/melsistemas/status/1046415102977748992
+
+word count = 25
+words loading = 4
+factor score = -3
+
+RT @jairbolsonaro: Os venezuelanos **morrem** de **fome** devido à tirania de 
+um **governo** que anda de mãos dadas com a **ditadura** cubana. Via BNDES e 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+fome (secondary)
+governo
+morrer

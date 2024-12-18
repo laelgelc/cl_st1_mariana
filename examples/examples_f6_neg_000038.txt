@@ -1,0 +1,17 @@
+file = t000432
+date = 2016-01-05
+user = castrofor
+conversation = 48381235
+URL = https://twitter.com/castrofor/status/684396768168161284
+
+word count = 11
+words loading = 2
+factor score = -2
+
+Mídia esconde que novo **chefe** do Congresso venezuelano provocou 
+**chavistas** 
+
+Lemmas in this text that loaded on the factor:
+
+chavistas
+chefe

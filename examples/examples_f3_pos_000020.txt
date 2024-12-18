@@ -1,0 +1,18 @@
+file = t017791
+date = 2022-11-04
+user = tortasurtando
+conversation = 1260919597382995968
+URL = https://twitter.com/tortasurtando/status/1588670901523927040
+
+word count = 17
+words loading = 3
+factor score = 3
+
+police_car_light_e ATENÇÃO: Cantora venezuelana Arca chegara no Brasil após 
+fazer **reunião** com futuro **presidente** Lula, onde ela **afirmo** … 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+presidente
+reunião

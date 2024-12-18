@@ -1,0 +1,20 @@
+file = t017560
+date = 2022-10-22
+user = ECancella
+conversation = 945680949496483840
+URL = https://twitter.com/ECancella/status/1583920567039983616
+
+word count = 14
+words loading = 4
+factor score = 4
+
+' **Pintou** um **clima** ' : Huck detona Bolsonaro por **fala** sobre 
+**jovens** venezuelanas! HASHTAG #forabolsonaropedófilo_h HASHTAG 
+#forabolsonaros_h … 
+
+Lemmas in this text that loaded on the factor:
+
+clima
+fala
+jovem
+pintar

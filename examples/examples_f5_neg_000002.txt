@@ -1,0 +1,19 @@
+file = t000795
+date = 2016-04-21
+user = OrganizadAntiPT
+conversation = 911357384
+URL = https://twitter.com/OrganizadAntiPT/status/723188195534348289
+
+word count = 15
+words loading = 4
+factor score = -4
+
+RT @SITEFCS: Ainda, o seríssimo problema das **urnas** venezuelanas e o 
+**sistema** **eleitoral** **fraudado** 
+
+Lemmas in this text that loaded on the factor:
+
+eleitoral
+fraudar
+sistema
+urna

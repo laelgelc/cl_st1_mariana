@@ -1,0 +1,17 @@
+file = t000381
+date = 2016-12-19
+user = CleuberBr
+conversation = 4833481000
+URL = https://twitter.com/CleuberBr/status/810950928136368129
+
+word count = 26
+words loading = 2
+factor score = -2
+
+Pra quem ñ sabe nos presidios venezuelanos nao serve **alimentos** e a familia 
+que deve levar **comida** pro preso, as vezes ha canibalismo ma cela 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+comida

@@ -1,0 +1,19 @@
+file = t001165
+date = 2016-06-09
+user = sergiomrvieira
+conversation = 141396995
+URL = https://twitter.com/sergiomrvieira/status/740927274493452288
+
+word count = 14
+words loading = 4
+factor score = -3
+
+RT @folha: Venezuelanos **disputam** **comida** com **cães** no **lixo** de 
+feira de Caracas 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+cão
+disputar
+lixo (secondary)

@@ -1,0 +1,19 @@
+file = t017726
+date = 2022-11-22
+user = judy_floresta
+conversation = 1331425538909609984
+URL = https://twitter.com/judy_floresta/status/1595128774923673606
+
+word count = 22
+words loading = 3
+factor score = 2
+
+RT @Lilian79122266 : Eles **compraram** o **exército** venezuelano, que os 
+ajudou a **impor** o regime socialista à sociedade. O povo venezuelano se ref 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+exército (secondary)
+impor

@@ -1,0 +1,16 @@
+file = t003679
+date = 2017-11-15
+user = carlosa65044512
+conversation = 960926047
+URL = https://twitter.com/carlosa65044512/status/930611275524136960
+
+word count = 20
+words loading = 1
+factor score = -1
+
+RT @Brasil_de_Fato: O Tesouro **Americano** informou que as sanções para quem 
+renegociar títulos da dívida venezuelana podem chegar a 30 an … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

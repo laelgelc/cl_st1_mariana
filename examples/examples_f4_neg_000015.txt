@@ -1,0 +1,16 @@
+file = t001322
+date = 2016-07-12
+user = kitwalkerbr
+conversation = 3177116753
+URL = https://twitter.com/kitwalkerbr/status/752900183713800192
+
+word count = 11
+words loading = 1
+factor score = -1
+
+Ditadura venezuelana desapropria fábrica de papel higiênico de empresa 
+**americana** 
+
+Lemmas in this text that loaded on the factor:
+
+americano

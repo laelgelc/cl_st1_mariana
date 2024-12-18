@@ -1,0 +1,18 @@
+file = t017964
+date = 2022-01-05
+user = GuendolinaP
+conversation = 1329951556058443776
+URL = https://twitter.com/GuendolinaP/status/1478828031498240000
+
+word count = 12
+words loading = 3
+factor score = 3
+
+@Conservadora191 @Anholeto @gen_heleno Não existem mais **fronteiras** , 
+milhares **chegam** todo **mês** . Venezuelanos, haitian … 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+fronteira
+mês

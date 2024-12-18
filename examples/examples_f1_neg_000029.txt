@@ -1,0 +1,19 @@
+file = t000106
+date = 2016-10-26
+user = jldiniz1
+conversation = 1239268687
+URL = https://twitter.com/jldiniz1/status/791068408821477380
+
+word count = 14
+words loading = 3
+factor score = -2
+
+RT @httpMoresco: HASHTAG #urgente_h **Parlamento** venezuelano **aprova** 
+início de **processo** político contra. . . by HASHTAG #caesar_viaosnus_h v 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+parlamento
+processo (secondary)

@@ -1,0 +1,20 @@
+file = t005847
+date = 2018-09-13
+user = junh51
+conversation = 818126533139296256
+URL = https://twitter.com/junh51/status/1040207126231179264
+
+word count = 21
+words loading = 4
+factor score = 4
+
+RT @psl_mg: Centenas de venezuelanos na **fronteira** com a Colombia, fugindo 
+em **busca** de comida, remédio, **trabalho** . Mais de 2 **milhões** fugiram 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+busca
+fronteira
+milhão
+trabalho

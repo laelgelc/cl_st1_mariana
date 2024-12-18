@@ -1,0 +1,19 @@
+file = t005017
+date = 2018-03-15
+user = cleytondasiva
+conversation = 1702448558
+URL = https://twitter.com/cleytondasiva/status/974338966714384384
+
+word count = 18
+words loading = 4
+factor score = 4
+
+HASHTAG #timbeta_h HASHTAG #timbeta_h Governo **anuncia** acordo para levar 4G 
+a **cidade** porta de **entrada** de **imigrantes** venezuelanos: MDIC f … 
+
+Lemmas in this text that loaded on the factor:
+
+anunciar
+cidade
+entrada
+imigrante

@@ -1,0 +1,18 @@
+file = t010622
+date = 2019-04-30
+user = Alexandria_077
+conversation = 565592408
+URL = https://twitter.com/Alexandria_077/status/1123316345628712960
+
+word count = 12
+words loading = 3
+factor score = 3
+
+RT @folha: Brasil autoriza **asilo** a 25 **militares** venezuelanos em 
+**embaixada** 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+embaixada
+militar

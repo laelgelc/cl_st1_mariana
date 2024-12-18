@@ -1,0 +1,21 @@
+file = t011856
+date = 2019-09-17
+user = arrobasaara
+conversation = 1103421860207837184
+URL = https://twitter.com/arrobasaara/status/1173982166386192384
+
+word count = 24
+words loading = 6
+factor score = 4
+
+@myriamps @NicolasMaduro **mulher** tu nem é venezuelana pra ta **apoiando** o 
+Maduro e nem **sabe** o que ta **falando** , vai **tomar** no **cu** 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar
+cu
+falar (secondary)
+mulher (secondary)
+saber
+tomar

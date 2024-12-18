@@ -1,0 +1,18 @@
+file = t000027
+date = 2016-10-13
+user = jwmirisola
+conversation = 55986398
+URL = https://twitter.com/jwmirisola/status/786609364538916864
+
+word count = 11
+words loading = 3
+factor score = -3
+
+RT @Alex_Queirozz: Roraima estuda **decretar** **emergência** por **chegada** 
+de migrantes venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+
+chegada
+decretar
+emergência

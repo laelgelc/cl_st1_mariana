@@ -1,0 +1,17 @@
+file = t000568
+date = 2016-02-20
+user = Silvio_MKT
+conversation = 196365400
+URL = https://twitter.com/Silvio_MKT/status/701096590858129408
+
+word count = 17
+words loading = 2
+factor score = -2
+
+Assistam ao sacrifício dos venezuelanos em busca de **comida** , falta tudo, 
+**alimentos** , papel higiênico, sabonetes, tudo. 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+comida

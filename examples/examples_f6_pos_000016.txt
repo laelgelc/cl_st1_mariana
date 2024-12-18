@@ -1,0 +1,18 @@
+file = t006818
+date = 2019-10-09
+user = Guilherme2702
+conversation = 3384512415
+URL = https://twitter.com/Guilherme2702/status/1181951281092550657
+
+word count = 20
+words loading = 3
+factor score = 3
+
+RT @oiluiz: Relatório da Petrobras, após analisar 23 amostras, **aponta** que 
+o **petróleo** despejado no **Nordeste** é venezuelano. Leia -se: Maduro, … 
+
+Lemmas in this text that loaded on the factor:
+
+apontar
+nordeste
+petróleo

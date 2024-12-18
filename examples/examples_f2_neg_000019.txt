@@ -1,0 +1,20 @@
+file = t004294
+date = 2018-01-27
+user = marcosmineiro57
+conversation = 739528926695989248
+URL = https://twitter.com/marcosmineiro57/status/957058606209388544
+
+word count = 26
+words loading = 4
+factor score = -3
+
+RT @AnaJulius: Vai tratar de ajudar o **povo** Venezuelano que está 
+**morrendo** por conta do **ditador** Maduro e deixa o bandido Lula que a 
+**justiça** e … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador
+justiça (secondary)
+morrer
+povo

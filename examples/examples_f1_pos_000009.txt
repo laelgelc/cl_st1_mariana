@@ -1,0 +1,20 @@
+file = t015311
+date = 2021-07-12
+user = edercasola
+conversation = 192761701
+URL = https://twitter.com/edercasola/status/1414597844162551815
+
+word count = 16
+words loading = 5
+factor score = 5
+
+**Apoiar** a esquerda brasileira é prolongar o sofrimento dos **irmãos** 
+**cubanos** , venezuelanos, **argentino** e outros. **Precisa** … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar
+argentino
+cubano
+irmão
+precisar

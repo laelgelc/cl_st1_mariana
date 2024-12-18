@@ -1,0 +1,18 @@
+file = t001463
+date = 2016-07-10
+user = pimenta1965
+conversation = 163078031
+URL = https://twitter.com/pimenta1965/status/751932050278604806
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @BeaBia2015 : O Brasil aguardará até o **fechamento** formal da 
+**Assembleia** venezuelana para, tarde demais, fazer a coisa certa? https://t.c 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+assembleia
+fechamento

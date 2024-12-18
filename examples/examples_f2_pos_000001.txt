@@ -1,0 +1,23 @@
+file = t018833
+date = 2022-08-10
+user = RocianaSouza29
+conversation = 916800604655243264
+URL = https://twitter.com/RocianaSouza29/status/1557293715986808833
+
+word count = 24
+words loading = 7
+factor score = 6
+
+RT @AlexMuller93 : 10 **jogos** e 2 **vitórias** . O **incrível** **número** 
+de 5 **gols** **marcados** . Uma campanha digna de **time** venezuelano ou 
+boliviano na Liber … 
+
+Lemmas in this text that loaded on the factor:
+
+gol
+incrível
+jogo
+marcar
+número (secondary)
+time
+vitória

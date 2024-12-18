@@ -1,0 +1,20 @@
+file = t017419
+date = 2022-10-17
+user = FabioDib3
+conversation = 1507051236654305280
+URL = https://twitter.com/FabioDib3/status/1582156111444316166
+
+word count = 21
+words loading = 4
+factor score = 4
+
+RT @marinalang: ' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre 
+**meninas** venezuelanas é asquerosa, abjeta, nojenta e até agora não foi 
+explicada … 
+
+Lemmas in this text that loaded on the factor:
+
+clima
+falar
+menino
+pintar

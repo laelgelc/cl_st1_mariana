@@ -1,0 +1,17 @@
+file = t000640
+date = 2016-02-17
+user = nilda_ap
+conversation = 2328877819
+URL = https://twitter.com/nilda_ap/status/699828480792530944
+
+word count = 13
+words loading = 2
+factor score = -2
+
+Parlamento venezuelano dá 1º **sinal** verde para lei de **anistia** para 
+políticos - 
+
+Lemmas in this text that loaded on the factor:
+
+anistia
+sinal

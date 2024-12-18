@@ -1,0 +1,18 @@
+file = t003572
+date = 2017-05-29
+user = Edsoncalango3
+conversation = 860246869590540288
+URL = https://twitter.com/Edsoncalango3/status/869294120409452549
+
+word count = 14
+words loading = 3
+factor score = 3
+
+RT @atletico: O **meia** Otero foi **convocado** para defender a **Seleção** 
+Venezuelana: HASHTAG #galo_h 
+
+Lemmas in this text that loaded on the factor:
+
+convocar
+meia
+seleção

@@ -1,0 +1,21 @@
+file = t017429
+date = 2022-10-15
+user = Ellen25756676
+conversation = 1576889902452690944
+URL = https://twitter.com/Ellen25756676/status/1581376029628649472
+
+word count = 27
+words loading = 5
+factor score = 4
+
+RT @jpcuenca: " **Pintou** um **clima** " com **meninas** venezuelanas de 14 e 
+15 **anos** . E pensar que esse verme aí vai ser **presidente** do país até 
+o final … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+clima
+menino
+pintar
+presidente (secondary)

@@ -1,0 +1,18 @@
+file = t011432
+date = 2019-07-03
+user = iG
+conversation = 14311308
+URL = https://twitter.com/iG/status/1146425870141157383
+
+word count = 16
+words loading = 3
+factor score = 3
+
+**Líder** da **oposição** venezuelana descartou qualquer chance de **nova** 
+rodada de discussões com Maduro. HASHTAG #ig_h 
+
+Lemmas in this text that loaded on the factor:
+
+líder
+novo
+oposição

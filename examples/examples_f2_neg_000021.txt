@@ -1,0 +1,20 @@
+file = t006052
+date = 2018-10-18
+user = Olive_josenildo
+conversation = 959520335795314688
+URL = https://twitter.com/Olive_josenildo/status/1052770052372598784
+
+word count = 22
+words loading = 4
+factor score = -3
+
+RT @DeboraN42035832 : HASHTAG #venezuelasos_h os venezuelanos **passando** 
+**fome** , crianças **morrendo** de **fome** e o **ditador** comendo do bom e 
+do melhor, e ainda … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador
+fome (secondary)
+morrer
+passar

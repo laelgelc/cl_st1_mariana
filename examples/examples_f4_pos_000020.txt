@@ -1,0 +1,21 @@
+file = t016925
+date = 2022-10-16
+user = blackjaac
+conversation = 1401000536279859200
+URL = https://twitter.com/blackjaac/status/1581452646979772416
+
+word count = 21
+words loading = 5
+factor score = 5
+
+RT @ZehdeAbreu: ' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre 
+**meninas** venezuelanas repercute e gera críticas nas **redes** - Eleições 
+2022 - G1 ht … 
+
+Lemmas in this text that loaded on the factor:
+
+clima
+falar
+menino
+pintar
+rede

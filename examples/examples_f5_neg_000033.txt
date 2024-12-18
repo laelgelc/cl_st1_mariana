@@ -1,0 +1,18 @@
+file = t014578
+date = 2021-01-03
+user = a_xpz
+conversation = 44608102
+URL = https://twitter.com/a_xpz/status/1345797694162403333
+
+word count = 18
+words loading = 3
+factor score = -3
+
+RT @fatos_esquerda: **Urnas** da Smartmatic, **empresa** venezuelana comandada 
+por George Soros, que serão usadas na **eleição** venezuelana. A empres … 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+empresa
+urna

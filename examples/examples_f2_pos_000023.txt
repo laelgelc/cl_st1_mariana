@@ -1,0 +1,18 @@
+file = t015004
+date = 2021-05-22
+user = victorgcarvalho
+conversation = 162856828
+URL = https://twitter.com/victorgcarvalho/status/1396075860596305921
+
+word count = 25
+words loading = 3
+factor score = 3
+
+RT @TelesCinho: Klebinho com 22 anos, era **convocado** pela **seleção** sub 
+15 e sub 17 . Se chamasse El Klebito, fosse Venezuelano e **jogador** da ba … 
+
+Lemmas in this text that loaded on the factor:
+
+convocar
+jogador
+seleção

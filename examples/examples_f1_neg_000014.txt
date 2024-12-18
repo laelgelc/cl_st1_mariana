@@ -1,0 +1,18 @@
+file = t003553
+date = 2017-05-09
+user = lisaugustalima
+conversation = 4421490737
+URL = https://twitter.com/lisaugustalima/status/861763583096606720
+
+word count = 13
+words loading = 3
+factor score = -3
+
+RT @folha: Manaus **decreta** estado de **emergência** após **chegada** de 
+índios venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+
+chegada
+decretar
+emergência

@@ -1,0 +1,20 @@
+file = t010508
+date = 2019-05-01
+user = MarcBarcellos
+conversation = 2872444541
+URL = https://twitter.com/MarcBarcellos/status/1123423572989550593
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @RenovaMidia: O **presidente** Jair Bolsonaro atendeu a pedido de **asilo** 
+político de 25 **militares** venezuelanos na **embaixada** do HASHTAG 
+#brasil_h na HASHTAG #ve_h … 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+embaixada
+militar
+presidente

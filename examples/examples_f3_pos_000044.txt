@@ -1,0 +1,18 @@
+file = t010623
+date = 2019-04-30
+user = Kontempart
+conversation = 1112068675530604544
+URL = https://twitter.com/Kontempart/status/1123316559538212864
+
+word count = 13
+words loading = 3
+factor score = 3
+
+RT @cocando: Brasil autoriza **asilo** a 25 **militares** venezuelanos em 
+**embaixada** : Folha 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+embaixada
+militar

@@ -1,0 +1,20 @@
+file = t018022
+date = 2022-02-24
+user = DeniseMMG
+conversation = 1257346142951571456
+URL = https://twitter.com/DeniseMMG/status/1496867615544905734
+
+word count = 18
+words loading = 4
+factor score = 4
+
+RT @coronelrochase: Lamento muito pelos **colombianos** , pelos venezuelanos, 
+pelos **argentinos** , pelos **chilenos** , mas não **quero** lamentar pelos 
+bra … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+chileno
+colombiano
+querer

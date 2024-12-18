@@ -1,0 +1,20 @@
+file = t003423
+date = 2017-05-04
+user = elianekza
+conversation = 352747158
+URL = https://twitter.com/elianekza/status/859969482168598529
+
+word count = 20
+words loading = 4
+factor score = 4
+
+RT @reporterenato: Senador venezuelano Marco Rúbio, **afirma** que **líder** 
+da **oposição** , Leopoldo López, foi envenenado a mando do **presidente** 
+Nico … 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+líder
+oposição
+presidente

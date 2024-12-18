@@ -1,0 +1,17 @@
+file = t002935
+date = 2017-03-25
+user = AparicioEv
+conversation = 2776775650
+URL = https://twitter.com/AparicioEv/status/845755212392546306
+
+word count = 9
+words loading = 3
+factor score = -2
+
+Venezuelanos competem com **cães** por **comida** em **lixões** 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+cão
+lixo (secondary)

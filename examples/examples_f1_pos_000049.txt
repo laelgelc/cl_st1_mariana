@@ -1,0 +1,21 @@
+file = t011729
+date = 2019-08-25
+user = scalongg
+conversation = 1119332299
+URL = https://twitter.com/scalongg/status/1165473811036327938
+
+word count = 15
+words loading = 5
+factor score = 4
+
+@BolsonaroSP @Dom_Andolini @mauriciomacri Força, Macri! ! Avante, 
+**argentinos** ! Não **queremos** **vê** -los como os venezuelanos. **Virem** 
+o **jogo** ! 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+jogo (secondary)
+querer
+ver
+virar

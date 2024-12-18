@@ -1,0 +1,18 @@
+file = t002191
+date = 2017-07-31
+user = mandingastars
+conversation = 790974490410967040
+URL = https://twitter.com/mandingastars/status/891895202981588992
+
+word count = 16
+words loading = 2
+factor score = -2
+
+RT @ObservadBinario: Itamaraty: " Brasil insta as autoridades venezuelanas a 
+**suspenderem** a instalação da **assembleia** constituinte " . . . ¡ 
+Llévat … 
+
+Lemmas in this text that loaded on the factor:
+
+assembleia
+suspender

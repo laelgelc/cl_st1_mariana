@@ -1,0 +1,17 @@
+file = t015448
+date = 2021-07-10
+user = i_f_an
+conversation = 129628999
+URL = https://twitter.com/i_f_an/status/1414010222155374597
+
+word count = 21
+words loading = 2
+factor score = 2
+
+RT @FernandoHoliday: A Venezuela possui as maiores reservas de **petróleo** do 
+mundo. Entretanto, 96 % dos venezuelanos vivem na **pobreza** . O re … 
+
+Lemmas in this text that loaded on the factor:
+
+petróleo
+pobreza

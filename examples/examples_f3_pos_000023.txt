@@ -1,0 +1,19 @@
+file = t015333
+date = 2021-07-08
+user = TSFRadio
+conversation = 15392221
+URL = https://twitter.com/TSFRadio/status/1413104348964417538
+
+word count = 12
+words loading = 4
+factor score = 3
+
+**Oposição** venezuelana **pede** ao PS **apoio** **humanitário** e " 
+reposição " da democracia Em … 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+humanitário (secondary)
+oposição
+pedir

@@ -1,0 +1,17 @@
+file = t000911
+date = 2016-05-18
+user = Ezequiasns
+conversation = 342896305
+URL = https://twitter.com/Ezequiasns/status/732939667121799168
+
+word count = 18
+words loading = 1
+factor score = -1
+
+RT @Alex_Queirozz: HASHTAG #boicoteaquarius_h o ditador chavista planeja 
+**fechar** o parlamento venezuelano em alguns dias. Não vi nenhum artista 
+Latino … 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

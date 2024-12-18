@@ -1,0 +1,18 @@
+file = t001071
+date = 2016-05-03
+user = ruana_ruanab
+conversation = 488695638
+URL = https://twitter.com/ruana_ruanab/status/727636229764882433
+
+word count = 17
+words loading = 3
+factor score = -2
+
+RT @LiberalismoBR: Com fome graças ao socialismo, venezuelanos caçam 
+**gatos** , **cachorros** e pombos para **comer** via @ilis … 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro
+comer (secondary)
+gato

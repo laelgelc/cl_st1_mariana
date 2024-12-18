@@ -1,0 +1,19 @@
+file = t012976
+date = 2020-03-09
+user = martins_xandin
+conversation = 2980145644
+URL = https://twitter.com/martins_xandin/status/1236825716844572672
+
+word count = 18
+words loading = 4
+factor score = 4
+
+RT @hevertonfutebol: Cruzeiro fez consulta pra tentar a **contratação** de 
+Matias Lacava, meia-atacante venezuelano que **joga** pelo Puerto Cabell … 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+contratação
+jogar
+meia

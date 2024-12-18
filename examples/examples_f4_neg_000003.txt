@@ -1,0 +1,16 @@
+file = t000038
+date = 2016-10-28
+user = sandrar33276132
+conversation = 4724598027
+URL = https://twitter.com/sandrar33276132/status/791966514169667585
+
+word count = 13
+words loading = 1
+factor score = -1
+
+RT @correio: Oposição venezuelana **aumenta** a pressão contra Maduro com 
+greve geral 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

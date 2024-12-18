@@ -1,0 +1,17 @@
+file = t018116
+date = 2022-03-08
+user = MarcosF_Almeida
+conversation = 1034874601954844672
+URL = https://twitter.com/MarcosF_Almeida/status/1501211333261418504
+
+word count = 21
+words loading = 2
+factor score = 2
+
+RT @leandroruschel: Alguém pode me explicar por que é moralmente aceitável 
+**comprar** **petróleo** do regime iraniano, venezuelano ou árabe, mas n … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo

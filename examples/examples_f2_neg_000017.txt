@@ -1,0 +1,20 @@
+file = t004207
+date = 2018-05-06
+user = miriammadoenho
+conversation = 52548800
+URL = https://twitter.com/miriammadoenho/status/993234612401967104
+
+word count = 22
+words loading = 4
+factor score = -3
+
+RT @Desesquerdizada: O PCdoB mostra que continua **apoiando** o **ditador** 
+Nicolás Maduro, uma **ditadura** genocida que mata o **povo** venezuelano de 
+fo … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar (secondary)
+ditador
+ditadura
+povo

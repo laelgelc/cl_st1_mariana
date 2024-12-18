@@ -1,0 +1,19 @@
+file = t010798
+date = 2019-05-05
+user = baladas_manolo
+conversation = 882683377798742016
+URL = https://twitter.com/baladas_manolo/status/1125055362787241984
+
+word count = 15
+words loading = 4
+factor score = 4
+
+RT @maibortpetit: Paradeiro de **militares** venezuelanos que **pediram** 
+**asilo** em **embaixada** brasileira é desconhecido 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+embaixada
+militar
+pedir

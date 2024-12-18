@@ -1,0 +1,21 @@
+file = t009402
+date = 2019-02-22
+user = fgil01978
+conversation = 912694181356867584
+URL = https://twitter.com/fgil01978/status/1099044218742423553
+
+word count = 18
+words loading = 5
+factor score = 4
+
+RT @mjmacul_lima: Maduro **fechou** a **fronteira** não permitindo **chegar** 
+**ajuda** **humanitária** aos venezuelanos, posicionou mísseis voltados para 
+o Br … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+chegar
+fechar (secondary)
+fronteira
+humanitário

@@ -1,0 +1,18 @@
+file = t000687
+date = 2016-03-12
+user = SaraivaSaul
+conversation = 2480646631
+URL = https://twitter.com/SaraivaSaul/status/708495334704615424
+
+word count = 12
+words loading = 3
+factor score = 3
+
+RT @Estadao: **Jornal** venezuelano deixará de circular por **falta** de 
+**papel** 
+
+Lemmas in this text that loaded on the factor:
+
+falta
+jornal
+papel

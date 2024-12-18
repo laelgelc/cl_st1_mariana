@@ -1,0 +1,17 @@
+file = t000840
+date = 2016-04-12
+user = helhaodoaxe
+conversation = 147671185
+URL = https://twitter.com/helhaodoaxe/status/719690800335089665
+
+word count = 16
+words loading = 2
+factor score = -2
+
+" @VEJA: Supremo venezuelano **declara** inconstitucional lei de **anistia** 
+para opositores " olha Venezuela virando o Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+anistia
+declarar

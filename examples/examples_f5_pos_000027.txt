@@ -1,0 +1,19 @@
+file = t006395
+date = 2018-10-16
+user = reporterbrasil
+conversation = 14762045
+URL = https://twitter.com/reporterbrasil/status/1052279889225637888
+
+word count = 21
+words loading = 4
+factor score = 4
+
+A **crise** já fez com 2 , 5 **milhões** de venezuelanos **cruzassem** as 
+**fronteiras** dos países vizinhos, como Brasil e Colômbia. … 
+
+Lemmas in this text that loaded on the factor:
+
+crise
+cruzar
+fronteira
+milhão

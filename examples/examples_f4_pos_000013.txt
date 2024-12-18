@@ -1,0 +1,22 @@
+file = t017385
+date = 2022-10-20
+user = yalegontijo
+conversation = 173316174
+URL = https://twitter.com/yalegontijo/status/1582893050644533248
+
+word count = 22
+words loading = 6
+factor score = 5
+
+RT @biazitagomes: Na semana que veio a tona os **vídeos** do **presidente** 
+Bolsonaro **chamando** de **prostitutas** duas **meninas** venezuelanas de 14 
+**ano** … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+chamar
+menino
+presidente (secondary)
+prostituta
+vídeo

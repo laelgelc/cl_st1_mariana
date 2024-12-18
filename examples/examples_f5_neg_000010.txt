@@ -1,0 +1,19 @@
+file = t000273
+date = 2016-11-10
+user = maira203
+conversation = 81577736
+URL = https://twitter.com/maira203/status/796806292186820608
+
+word count = 17
+words loading = 3
+factor score = -3
+
+RT @SkyAraujo: @ricardosetti Funciona bem desde então! No BR? **Urna** 
+**eletrônica** venezuelana, partidos nanicos, quociente **eleitoral** , 
+coligaçõe … 
+
+Lemmas in this text that loaded on the factor:
+
+eleitoral
+eletrônico
+urna

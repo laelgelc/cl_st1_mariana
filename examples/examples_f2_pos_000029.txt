@@ -1,0 +1,18 @@
+file = t014526
+date = 2021-12-28
+user = DeROZAN___
+conversation = 3225534964
+URL = https://twitter.com/DeROZAN___/status/1475645116778000389
+
+word count = 21
+words loading = 3
+factor score = 3
+
+@ESPNBrasil Tem um Venezuelano no **time** que k Pitty Martinez **jogava** na 
+MLS que é embaçado de fazer **gols** Martinez o … 
+
+Lemmas in this text that loaded on the factor:
+
+gol
+jogar
+time

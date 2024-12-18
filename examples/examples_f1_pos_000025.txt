@@ -1,0 +1,21 @@
+file = t017175
+date = 2022-10-23
+user = mostardeiro1964
+conversation = 1481335827116474368
+URL = https://twitter.com/mostardeiro1964/status/1584020957718798337
+
+word count = 24
+words loading = 5
+factor score = 4
+
+RT @serginhopvieira: O Ladrão disse que **quer** **ver** o **povo** brasileiro 
+**comendo** 3 vezes ao dia. Mas **fico** aqui pensando thinking_face_e O 
+**povo** Venezuelano co … 
+
+Lemmas in this text that loaded on the factor:
+
+comer
+ficar
+povo (secondary)
+querer
+ver

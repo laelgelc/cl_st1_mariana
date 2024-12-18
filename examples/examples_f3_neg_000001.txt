@@ -1,0 +1,21 @@
+file = t004243
+date = 2018-01-14
+user = whowbitch
+conversation = 4719985227
+URL = https://twitter.com/whowbitch/status/952337086572580865
+
+word count = 22
+words loading = 5
+factor score = -4
+
+RT @bchartsnet: Coitados dos nossos vizinhos: com **escassez** de **alimentos** 
+e **inflação** em 400 . 000 % , venezuelanos já estão **comendo** ração 
+de **gato** … 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+comer (secondary)
+escassez
+gato
+inflação

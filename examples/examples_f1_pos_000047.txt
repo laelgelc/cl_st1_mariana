@@ -1,0 +1,21 @@
+file = t012367
+date = 2020-11-02
+user = itismedeborah
+conversation = 726629444799062016
+URL = https://twitter.com/itismedeborah/status/1323398873495339009
+
+word count = 26
+words loading = 5
+factor score = 4
+
+RT @pedrocertezas: **Irmão** , eu não **tenho** opinião NENHUMA sobre o 
+César Farías. Nunca **ouvi** **falar** , tudo o que eu **sei** é que ele é 
+venezuelano, … 
+
+Lemmas in this text that loaded on the factor:
+
+falar (secondary)
+irmão
+ouvir
+saber
+ter

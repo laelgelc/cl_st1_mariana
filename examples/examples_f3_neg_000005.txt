@@ -1,0 +1,19 @@
+file = t001179
+date = 2016-06-12
+user = 22asmip2014
+conversation = 2331981475
+URL = https://twitter.com/22asmip2014/status/741977394001514499
+
+word count = 12
+words loading = 4
+factor score = -3
+
+Venezuelanos **disputam** **comida** com **cães** no **lixo** de feira de 
+Caracas 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+cão
+disputar
+lixo (secondary)

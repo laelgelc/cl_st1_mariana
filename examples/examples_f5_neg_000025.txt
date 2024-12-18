@@ -1,0 +1,19 @@
+file = t010144
+date = 2019-03-01
+user = RuizCaroci
+conversation = 1523715738
+URL = https://twitter.com/RuizCaroci/status/1101442387551928320
+
+word count = 22
+words loading = 3
+factor score = -3
+
+RT @JUBIRACY: As **mãos** imundas dos canalhas da QUADRILHA DO PT, estão 
+cheias do **sangue** **derramado** dos inocentes venezuelanos mortos p / 
+ditadur … 
+
+Lemmas in this text that loaded on the factor:
+
+derramar
+mão
+sangue

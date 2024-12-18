@@ -1,0 +1,17 @@
+file = t003664
+date = 2017-11-12
+user = ailtonline
+conversation = 52076417
+URL = https://twitter.com/ailtonline/status/929534794811297793
+
+word count = 18
+words loading = 2
+factor score = -2
+
+RT @ailtonline: @avalvulaoficial @dnsemello A tecnologia usada no Brasil é da 
+Smartmatic, **empresa** venezuelana sist. **eletrônicos** de votação … 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+empresa

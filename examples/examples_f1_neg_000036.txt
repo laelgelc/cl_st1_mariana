@@ -1,0 +1,18 @@
+file = t000517
+date = 2016-01-07
+user = gumartinslive
+conversation = 382430644
+URL = https://twitter.com/gumartinslive/status/685204091971080192
+
+word count = 10
+words loading = 3
+factor score = -2
+
+Chavistas pedem que Justiça **anule** **decisões** do **Parlamento** 
+venezuelano 
+
+Lemmas in this text that loaded on the factor:
+
+anular
+decisão (secondary)
+parlamento

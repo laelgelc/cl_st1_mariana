@@ -1,0 +1,19 @@
+file = t006523
+date = 2018-09-15
+user = jennyfercruz76
+conversation = 2833036457
+URL = https://twitter.com/jennyfercruz76/status/1041057085151174656
+
+word count = 20
+words loading = 3
+factor score = -3
+
+@adrielfcuban @nizmycuba E não votamos em Dilma **fraudaram** as 
+**eleições** nas **urnas** venezuelanas. . . com uma contagem de votos 
+secreta 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+fraudar
+urna

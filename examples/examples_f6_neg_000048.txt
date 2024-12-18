@@ -1,0 +1,17 @@
+file = t001491
+date = 2016-08-02
+user = FlvioSouza11
+conversation = 4514141067
+URL = https://twitter.com/FlvioSouza11/status/760480490596032512
+
+word count = 13
+words loading = 2
+factor score = -2
+
+RT @humbertocostapt: Não vou **saudar** um **golpista** , diz atleta 
+venezuelana sobre Temer - 
+
+Lemmas in this text that loaded on the factor:
+
+golpista
+saudar

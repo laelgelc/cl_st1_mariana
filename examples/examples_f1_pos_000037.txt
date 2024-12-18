@@ -1,0 +1,21 @@
+file = t015290
+date = 2021-06-20
+user = larcmar73
+conversation = 1883284652
+URL = https://twitter.com/larcmar73/status/1406755447801991171
+
+word count = 25
+words loading = 5
+factor score = 4
+
+RT @MBLivre: Não **temos** memória curta. Não dá pra **tirar** o Bolsonaro 
+e botar um sujeito que **apoia** genocídio do **povo** venezuelano e 
+**cubano** , que … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar
+cubano
+povo (secondary)
+ter
+tirar

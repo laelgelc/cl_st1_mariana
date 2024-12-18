@@ -1,0 +1,18 @@
+file = t015343
+date = 2021-07-30
+user = Leandro52013915
+conversation = 1188135016339070976
+URL = https://twitter.com/Leandro52013915/status/1421145354049884179
+
+word count = 25
+words loading = 3
+factor score = 2
+
+RT @flferronato: Segundo a OEA, 18 % dos Venezuelanos ja **abandonaram** o 
+país. O estudo **aponta** que **fogem** entre 700 e 900 pessoas por dia. 
+
+Lemmas in this text that loaded on the factor:
+
+abandonar
+apontar
+fugir (secondary)

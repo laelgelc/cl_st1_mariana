@@ -1,0 +1,19 @@
+file = t012490
+date = 2020-12-08
+user = ernani_neto
+conversation = 61024949
+URL = https://twitter.com/ernani_neto/status/1336263747606867968
+
+word count = 16
+words loading = 4
+factor score = 3
+
+RT @biabionica: Nota **oficial** do PT em **apoio** ao **processo** 
+**eleitoral** venezuelano. Viveremos e venceremos! 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+eleitoral (secondary)
+oficial
+processo

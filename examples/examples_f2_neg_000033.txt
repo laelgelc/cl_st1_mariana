@@ -1,0 +1,18 @@
+file = t008955
+date = 2019-02-24
+user = Andstorm_nrk
+conversation = 3387636917
+URL = https://twitter.com/Andstorm_nrk/status/1099646625667010560
+
+word count = 22
+words loading = 3
+factor score = -3
+
+@RodP13 Pois é né , a **ditadura** venezuelana começou assim q Lula, foi 
+**preso** , antes não havia **governo** de maduro nenhum, né ? 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+governo
+prender

@@ -1,0 +1,20 @@
+file = t012647
+date = 2020-01-10
+user = DimasNeto4
+conversation = 2179402774
+URL = https://twitter.com/DimasNeto4/status/1215647396698390528
+
+word count = 21
+words loading = 4
+factor score = 4
+
+RT @tvbrasilgov: A **crise** **humanitária** na Venezuela tem forçado 
+venezuelanos a se refugiarem no Brasil. A **Operação** **Acolhida** já 
+atendeu milhar … 
+
+Lemmas in this text that loaded on the factor:
+
+acolher
+crise
+humanitário
+operação

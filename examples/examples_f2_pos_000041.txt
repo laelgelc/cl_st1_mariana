@@ -1,0 +1,22 @@
+file = t007691
+date = 2019-12-19
+user = itscarolana
+conversation = 3411551433
+URL = https://twitter.com/itscarolana/status/1207485344003874816
+
+word count = 10
+words loading = 3
+factor score = 3
+
+as venezuelanas vão chegar **segunda** feiraaaaaaa aaaa as aaaaaaaaaaa 
+smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
+smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
+smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
+loudly_crying_face_e loudly_crying_face_e loudly_crying_face_e rose_e 
+sparkles_e rose_e 
+
+Lemmas in this text that loaded on the factor:
+
+eyes_e
+segundo
+smiling_face_with_heart

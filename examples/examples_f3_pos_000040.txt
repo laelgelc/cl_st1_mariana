@@ -1,0 +1,19 @@
+file = t010912
+date = 2019-05-01
+user = FranciscoWelber
+conversation = 1406044825
+URL = https://twitter.com/FranciscoWelber/status/1123648953914937344
+
+word count = 19
+words loading = 3
+factor score = 3
+
+RT @manoelmsgontijo: Não haver **apoio** **militar** a @jguaido é natural 
+porque os **generais** venezuelanos estão envolvidos c / tráfico 
+internacional … 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+general
+militar

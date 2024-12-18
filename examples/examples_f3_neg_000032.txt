@@ -1,0 +1,17 @@
+file = t001230
+date = 2016-06-12
+user = darkseid70
+conversation = 3165586519
+URL = https://twitter.com/darkseid70/status/741956581852622848
+
+word count = 8
+words loading = 3
+factor score = -2
+
+Venezuelanos **disputam** com **cães** **lixo** de feira 
+
+Lemmas in this text that loaded on the factor:
+
+cão
+disputar
+lixo (secondary)

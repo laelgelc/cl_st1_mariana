@@ -1,0 +1,16 @@
+file = t003945
+date = 2017-12-28
+user = crvgdesj
+conversation = 922470715902881792
+URL = https://twitter.com/crvgdesj/status/946326770587979776
+
+word count = 20
+words loading = 1
+factor score = -1
+
+RT @eugenioleal: Outro meia habilidoso que está disponível no mercado 
+sul-americano é o venezuelano Soteldo, que está na Huachipato. Ele de … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

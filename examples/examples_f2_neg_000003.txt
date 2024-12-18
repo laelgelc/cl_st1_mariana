@@ -1,0 +1,19 @@
+file = t000076
+date = 2016-10-24
+user = RobertS33167519
+conversation = 4540347075
+URL = https://twitter.com/RobertS33167519/status/790655416682283009
+
+word count = 21
+words loading = 3
+factor score = -3
+
+RT @GzBRIGA: Direita venezuelana chama a golpe de **estado** contra o 
+**governo** de Maduro. Solidariedade internacionalista coa revoluçom e o 
+**povo** … 
+
+Lemmas in this text that loaded on the factor:
+
+estado
+governo
+povo

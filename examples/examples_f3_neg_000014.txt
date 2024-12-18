@@ -1,0 +1,18 @@
+file = t000160
+date = 2016-10-27
+user = prmaduro
+conversation = 1643750532
+URL = https://twitter.com/prmaduro/status/791790139475451905
+
+word count = 19
+words loading = 3
+factor score = -2
+
+Lula e HASHTAG #maburro_h são FDP Enquanto venezuelanos estão **comendo** 
+**gatos** e pombos para **sobreviver** , Lula apoia o carrasco. 
+
+Lemmas in this text that loaded on the factor:
+
+comer (secondary)
+gato
+sobreviver

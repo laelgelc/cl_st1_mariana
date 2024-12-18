@@ -1,0 +1,17 @@
+file = t000954
+date = 2016-05-05
+user = jherobr
+conversation = 58927548
+URL = https://twitter.com/jherobr/status/728051063220150272
+
+word count = 16
+words loading = 2
+factor score = -2
+
+DESESPERO: VENEZUELANOS CAÇAM **GATOS** , **CACHORROS** E POMBOS PARA COMER; 
+GRAÇAS AO SOCIALISMO: Lamentável a situaç . . . 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro
+gato

@@ -1,0 +1,20 @@
+file = t018021
+date = 2022-02-23
+user = Lidianeguima52
+conversation = 1484315519905722368
+URL = https://twitter.com/Lidianeguima52/status/1496503973595029507
+
+word count = 25
+words loading = 4
+factor score = 4
+
+RT @Paulinhaguima52 : Hoje de manhã uma venezuelana com uma **menina** de 7 
+**anos** mais ou menos bateram na minha **casa** . A **mulher** pedia algo para 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+casa
+menina
+mulher

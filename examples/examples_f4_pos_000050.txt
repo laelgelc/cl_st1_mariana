@@ -1,0 +1,19 @@
+file = t017347
+date = 2022-10-20
+user = Snia470312831
+conversation = 1327029781184081920
+URL = https://twitter.com/Snia470312831/status/1582889363834572800
+
+word count = 18
+words loading = 4
+factor score = 4
+
+@hmsconsultoria Bolsonaro **grava** um **vídeo** **falando** que a residência 
+das venezuelanas não é uma **casa** de prostituição. … 
+
+Lemmas in this text that loaded on the factor:
+
+casa
+falar
+gravar
+vídeo

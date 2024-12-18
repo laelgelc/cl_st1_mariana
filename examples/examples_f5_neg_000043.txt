@@ -1,0 +1,17 @@
+file = t003087
+date = 2017-10-18
+user = mauroernani
+conversation = 259614430
+URL = https://twitter.com/mauroernani/status/920476520052940800
+
+word count = 11
+words loading = 2
+factor score = -2
+
+**Sistema** venezuelano é exemplarmente blindado a **fraude** , diz juiz 
+brasileiro 
+
+Lemmas in this text that loaded on the factor:
+
+fraude
+sistema

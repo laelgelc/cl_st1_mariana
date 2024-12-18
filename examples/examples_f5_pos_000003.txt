@@ -1,0 +1,20 @@
+file = t010714
+date = 2019-04-30
+user = OficialBrendo
+conversation = 2869079424
+URL = https://twitter.com/OficialBrendo/status/1123339275876077569
+
+word count = 17
+words loading = 5
+factor score = 5
+
+RT @terca_livre: **Entra** em vigor medida que destina R$ 224 **milhões** para 
+**ajuda** **humanitária** a **imigrantes** venezuelanos - … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+entrar
+humanitário
+imigrante
+milhão

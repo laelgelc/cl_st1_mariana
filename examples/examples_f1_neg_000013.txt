@@ -1,0 +1,18 @@
+file = t003522
+date = 2017-05-08
+user = Kaloraac
+conversation = 3153202241
+URL = https://twitter.com/Kaloraac/status/861722457945911296
+
+word count = 11
+words loading = 3
+factor score = -3
+
+Manaus **decreta** estado de **emergência** após **chegada** de índios 
+venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+
+chegada
+decretar
+emergência

@@ -1,0 +1,19 @@
+file = t014730
+date = 2021-03-06
+user = RussiaFutebolBR
+conversation = 1235962275313455104
+URL = https://twitter.com/RussiaFutebolBR/status/1368207239715127300
+
+word count = 17
+words loading = 4
+factor score = 3
+
+DESTAQUE- O **atacante** venezuelano @salorondon23 foi eleito o **melhor** do 
+**jogo** na **vitória** de hoje do CSKA. 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+bom (secondary)
+jogo
+vitória

@@ -1,0 +1,19 @@
+file = t017672
+date = 2022-11-06
+user = helenamarrua
+conversation = 1492198633801981952
+URL = https://twitter.com/helenamarrua/status/1589287636199305221
+
+word count = 18
+words loading = 3
+factor score = -3
+
+RT @BrazilWasStolen: . @FerCerimedo_ok disse em sua live na TWITCH: Uma 
+**empresa** Venezuelana tem acesso ao nosso **sistema** **eleitoral** . 
+warning_e AVIS … 
+
+Lemmas in this text that loaded on the factor:
+
+eleitoral
+empresa
+sistema

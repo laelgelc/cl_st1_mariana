@@ -1,0 +1,18 @@
+file = t010674
+date = 2019-04-06
+user = ericknonato_LA
+conversation = 3382452994
+URL = https://twitter.com/ericknonato_LA/status/1114597700438245377
+
+word count = 13
+words loading = 3
+factor score = 3
+
+RT @folha: Deputados da **oposição** venezuelana são **detidos** por 
+**forças** de Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+deter
+força
+oposição

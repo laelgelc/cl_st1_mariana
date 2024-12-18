@@ -1,0 +1,20 @@
+file = t015076
+date = 2021-05-06
+user = Mari26262267
+conversation = 1302789749497790464
+URL = https://twitter.com/Mari26262267/status/1390374891292135428
+
+word count = 17
+words loading = 4
+factor score = 4
+
+RT @radiopachola: HISTÓRICO Grêmio contra venezuelanos na história: -10 
+**jogos** -7 **vitórias** do Grêmio ( 26 **gols** **marcados** ) -2 empates 
+-1 derr … 
+
+Lemmas in this text that loaded on the factor:
+
+gol
+jogo
+marcar
+vitória

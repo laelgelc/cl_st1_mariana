@@ -1,0 +1,18 @@
+file = t001740
+date = 2016-09-21
+user = news_portugal
+conversation = 52053647
+URL = https://twitter.com/news_portugal/status/778439200119021568
+
+word count = 12
+words loading = 3
+factor score = -3
+
+HASHTAG #destak_h **Parlamento** venezuelano chumba **decreto** que prolonga 
+estado de **emergência** económica 
+
+Lemmas in this text that loaded on the factor:
+
+decreto
+emergência
+parlamento

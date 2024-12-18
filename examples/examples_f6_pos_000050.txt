@@ -1,0 +1,17 @@
+file = t014815
+date = 2021-03-02
+user = _gvmmos
+conversation = 1096974259581341696
+URL = https://twitter.com/_gvmmos/status/1366571511457447940
+
+word count = 21
+words loading = 2
+factor score = 2
+
+venezuelano: os EUA não são um problema, qnd eles queria **comprar** 
+**petróleo** a gente vendia vereadora do PSOL: mas o i … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo

@@ -1,0 +1,18 @@
+file = t011340
+date = 2019-06-19
+user = pedfaria
+conversation = 1023848212782895104
+URL = https://twitter.com/pedfaria/status/1141173951403581440
+
+word count = 20
+words loading = 3
+factor score = 3
+
+Apesar do **jogo** pouco criativo do Brasil, fica a mostra a evolução da 
+**seleção** Venezuelana. Fechando bem os **espaços** e … 
+
+Lemmas in this text that loaded on the factor:
+
+espaço
+jogo
+seleção

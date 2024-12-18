@@ -1,0 +1,20 @@
+file = t004474
+date = 2018-02-02
+user = TiagoCouto1893
+conversation = 3413686282
+URL = https://twitter.com/TiagoCouto1893/status/959400462293372928
+
+word count = 19
+words loading = 4
+factor score = 4
+
+RT @playmaker_PT: Osorio no dragon_e FC Porto: até hoje, só um **jogador** 
+**flag_venezuela_e** venezuelano **jogou** pelos portistas: Victor Garcia ( 7 
+**jogos** ) … 
+
+Lemmas in this text that loaded on the factor:
+
+flag_venezuela_e
+jogador
+jogar
+jogo

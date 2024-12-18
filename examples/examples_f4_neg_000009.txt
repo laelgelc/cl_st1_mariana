@@ -1,0 +1,16 @@
+file = t000340
+date = 2016-12-18
+user = redeestudantil
+conversation = 801516975805628416
+URL = https://twitter.com/redeestudantil/status/810543661226270720
+
+word count = 21
+words loading = 1
+factor score = -1
+
+Fronteira entre Brasil e Venezuela continuará **fechada** até 2017 , segundo 
+Maduro. A saída da moeda venezuelana é sua maior preocupação! 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

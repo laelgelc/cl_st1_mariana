@@ -1,0 +1,17 @@
+file = t001501
+date = 2016-08-23
+user = rtoffoli
+conversation = 36498587
+URL = https://twitter.com/rtoffoli/status/768103696861364224
+
+word count = 14
+words loading = 2
+factor score = -2
+
+RT @JornalOGlobo: **Atletas** venezuelanos retornam com **alimentos** e 
+remédios de Olimpíada no Rio. … 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+atleta

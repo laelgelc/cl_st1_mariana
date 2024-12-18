@@ -1,0 +1,19 @@
+file = t014991
+date = 2021-05-08
+user = BazilioAlex
+conversation = 1390874322462560256
+URL = https://twitter.com/BazilioAlex/status/1391054041384370178
+
+word count = 18
+words loading = 3
+factor score = 3
+
+RT @Atletico: **flag_venezuela_e** Savaliso: o bala! **Jogou** demais na 
+última noite de Copa. Pra cima deles, venezuelano! **soccer_ball_e** ️ 
+@QSavarino10 
+
+Lemmas in this text that loaded on the factor:
+
+flag_venezuela_e
+jogar
+soccer_ball_e

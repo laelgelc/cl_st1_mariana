@@ -1,0 +1,21 @@
+file = t005204
+date = 2018-03-22
+user = ashinarra
+conversation = 53440997
+URL = https://twitter.com/ashinarra/status/976746170025463809
+
+word count = 24
+words loading = 5
+factor score = 5
+
+RT @Metropoles: Ministro pede **ajuda** à OMS para **obrigar** venezuelanos a 
+serem **vacinados** . O **pedido** foi feito em razão do grande **número** de 
+caso … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+número
+obrigar
+pedido
+vacinar

@@ -1,0 +1,18 @@
+file = t018520
+date = 2022-06-07
+user = buenno_thiago
+conversation = 1491865720275283968
+URL = https://twitter.com/buenno_thiago/status/1534270493427126272
+
+word count = 16
+words loading = 3
+factor score = 3
+
+RT @exercitooficial: Exército promove **interiorização** da **Operação** 
+**Acolhida** para mais de 5 mil venezuelanos HASHTAG #braçofor_h … 
+
+Lemmas in this text that loaded on the factor:
+
+acolher
+interiorização
+operação

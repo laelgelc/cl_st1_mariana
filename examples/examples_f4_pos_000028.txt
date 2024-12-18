@@ -1,0 +1,21 @@
+file = t016352
+date = 2022-10-18
+user = Leninha071275
+conversation = 1577100906805575680
+URL = https://twitter.com/Leninha071275/status/1582414463801888768
+
+word count = 21
+words loading = 5
+factor score = 5
+
+RT @77_frota: Bolsonaro mentindo de novo, **grava** **vídeo** ao lado da 
+esposa pedindo **desculpas** por ter **chamado** as **Venezuelanas** de 
+Prostitutas, e … 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+desculpa
+gravar
+venezuelanas
+vídeo

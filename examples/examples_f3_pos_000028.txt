@@ -1,0 +1,18 @@
+file = t013536
+date = 2020-06-11
+user = NovoLauropro
+conversation = 2326184845
+URL = https://twitter.com/NovoLauropro/status/1271142610409848832
+
+word count = 16
+words loading = 3
+factor score = 3
+
+**Exército** da Colômbia **detém** **militar** venezuelano ativo por 
+suspeita de espionagem **Exército** da Colômbia **detém** **militar** … 
+
+Lemmas in this text that loaded on the factor:
+
+deter
+exército
+militar

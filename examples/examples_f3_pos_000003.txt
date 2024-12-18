@@ -1,0 +1,18 @@
+file = t011002
+date = 2019-05-03
+user = FolhaDDS
+conversation = 1015430300841791488
+URL = https://twitter.com/FolhaDDS/status/1124264614844358656
+
+word count = 9
+words loading = 4
+factor score = 4
+
+**Líder** da **oposição** venezuelana revela **reuniões** com **generais** 
+
+Lemmas in this text that loaded on the factor:
+
+general
+líder
+oposição
+reunião

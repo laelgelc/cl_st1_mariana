@@ -1,0 +1,20 @@
+file = t009732
+date = 2019-02-24
+user = CardosoDhenifer
+conversation = 1097266809152176128
+URL = https://twitter.com/CardosoDhenifer/status/1099486122227441666
+
+word count = 23
+words loading = 4
+factor score = -3
+
+RT @SamCriscolo: a Venezuela em colapso **governo** venezuelano matando civis 
+que protestam o **povo** **morrendo** de **fome** mas isso não importa né o 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+fome (secondary)
+governo
+morrer
+povo

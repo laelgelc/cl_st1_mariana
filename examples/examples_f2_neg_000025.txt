@@ -1,0 +1,18 @@
+file = t006592
+date = 2018-09-27
+user = Marcos49Fs
+conversation = 2885149171
+URL = https://twitter.com/Marcos49Fs/status/1045180052407758848
+
+word count = 19
+words loading = 3
+factor score = -3
+
+@brina_gugli Pois é , ne, menina Maduro **passa** fogo nos venezuelanos 
+desarmados e o **ditador** daqui quer armar o **povo** 
+
+Lemmas in this text that loaded on the factor:
+
+ditador
+passar
+povo

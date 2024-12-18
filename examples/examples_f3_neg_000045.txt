@@ -1,0 +1,17 @@
+file = t002411
+date = 2017-08-29
+user = Leogerchmann
+conversation = 1306116049
+URL = https://twitter.com/Leogerchmann/status/902601444968288256
+
+word count = 22
+words loading = 2
+factor score = -2
+
+Governo venezuelano já atribui colapso do desabastecimento de **produtos** 
+**básicos** a uma trégua q nem começou direito. Maduro ganha 1 discurso! 
+
+Lemmas in this text that loaded on the factor:
+
+básico
+produto

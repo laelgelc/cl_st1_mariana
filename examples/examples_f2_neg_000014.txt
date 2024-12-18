@@ -1,0 +1,19 @@
+file = t003549
+date = 2017-05-08
+user = maateusandrade
+conversation = 216077108
+URL = https://twitter.com/maateusandrade/status/861645203052126211
+
+word count = 23
+words loading = 4
+factor score = -3
+
+Força aos Venezuelanos que tão **morrendo** nas **ruas** , por causa dessa 
+**Ditadura** nojenta do Maduro, que esse **povo** sair dessa ruim logo! ! 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+morrer
+povo
+rua (secondary)

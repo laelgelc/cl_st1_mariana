@@ -1,0 +1,20 @@
+file = t014227
+date = 2021-10-20
+user = AnaMari27977310
+conversation = 3600669617
+URL = https://twitter.com/AnaMari27977310/status/1450651921946120197
+
+word count = 17
+words loading = 4
+factor score = -4
+
+RT @FFL1Marlene: Acabei de ver BOMBA: ' Governo venezuelano **financiou** Lula 
+' , denuncia ex-chefe de **inteligência** militar **chavista** - Clique par 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+chavista
+chefe
+financiar
+inteligência

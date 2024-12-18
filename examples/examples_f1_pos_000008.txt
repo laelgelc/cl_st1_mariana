@@ -1,0 +1,21 @@
+file = t017815
+date = 2022-11-06
+user = martinha9090
+conversation = 1457489627774914560
+URL = https://twitter.com/martinha9090/status/1589351293163749377
+
+word count = 15
+words loading = 5
+factor score = 5
+
+RT @ArcanjoEdnardo1 : Força **irmãos** **Argentinos** , venezuelanos, 
+peruanos, **colombianos** Bolívianos, **chilenos** **cubanos** Nicaragueses, 
+lutem pelos se … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+chileno
+colombiano
+cubano
+irmão

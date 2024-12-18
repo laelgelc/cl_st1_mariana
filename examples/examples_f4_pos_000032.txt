@@ -1,0 +1,20 @@
+file = t016192
+date = 2022-10-19
+user = MarclioAlves17
+conversation = 1565810503489933312
+URL = https://twitter.com/MarclioAlves17/status/1582731746101321728
+
+word count = 20
+words loading = 5
+factor score = 5
+
+RT @lazarorosa25 : Mais um **vídeo** do delinquente da república **chamando** 
+as **meninas** **Venezuelanas** de **prostitutas** . Já é o terceiro! … 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+menino
+prostituta
+venezuelanas
+vídeo

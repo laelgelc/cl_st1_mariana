@@ -1,0 +1,17 @@
+file = t000216
+date = 2016-11-09
+user = mkpadovani
+conversation = 52387489
+URL = https://twitter.com/mkpadovani/status/796157236246507520
+
+word count = 18
+words loading = 2
+factor score = -2
+
+RT @o_colecionador: Se eles usassem **urnas** **eletrônicas** venezuelanas 
+Smartmatic o resultado já teria saído. Que paisinho fuleiro e atrasado … 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+urna

@@ -1,0 +1,16 @@
+file = t002944
+date = 2017-03-19
+user = AuroGiuliano
+conversation = 37752323
+URL = https://twitter.com/AuroGiuliano/status/843357404268052480
+
+word count = 17
+words loading = 1
+factor score = -1
+
+RT @arte_prima: **Americanos** , Alemães, Russos, Franceses, Espanhóis, 
+Cubanos, Venezuelanos, etc. , defendem suas EMPRESAS c / unhas e dentes! ! … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

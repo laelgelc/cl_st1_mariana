@@ -1,0 +1,16 @@
+file = t000090
+date = 2016-10-10
+user = LUISBARBAN
+conversation = 138825245
+URL = https://twitter.com/LUISBARBAN/status/785444618926252033
+
+word count = 13
+words loading = 1
+factor score = -1
+
+Para ajudar ditadura venezuelana, Dilma **aumentou** a conta de luz dos 
+brasileiros 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

@@ -1,0 +1,20 @@
+file = t014329
+date = 2021-11-05
+user = internacionalzp
+conversation = 1404480457106939904
+URL = https://twitter.com/internacionalzp/status/1456660769941164034
+
+word count = 17
+words loading = 4
+factor score = -4
+
+RT @JOSERIC52692126 : Tic Tac. . . . Cambada de esquerdopata. . . **Justiça** 
+**espanhola** **concorda** em **extraditar** general venezuelano Carvajal para 
+os … 
+
+Lemmas in this text that loaded on the factor:
+
+concordar
+espanhol
+extraditar
+justiça

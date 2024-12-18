@@ -1,0 +1,20 @@
+file = t007742
+date = 2019-12-26
+user = SouzzaBR
+conversation = 556465630
+URL = https://twitter.com/SouzzaBR/status/1210011367786201088
+
+word count = 14
+words loading = 5
+factor score = 5
+
+Crianças venezuelanas acabam nas ruas após **cruzar** **fronteira** em 
+**busca** de **ajuda** **humanitária** 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+busca
+cruzar
+fronteira
+humanitário

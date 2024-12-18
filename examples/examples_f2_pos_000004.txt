@@ -1,0 +1,20 @@
+file = t002569
+date = 2017-02-09
+user = fatimacvq8_de
+conversation = 896459215
+URL = https://twitter.com/fatimacvq8_de/status/829832761984827392
+
+word count = 23
+words loading = 5
+factor score = 5
+
+RT @atletico: O **meia** venezuelano Romulo Otero **marcou** o **segundo** 
+**gol** do **jogo** no Horto! Placar final: Atlético 2 x 0 Joinville! Vamo … 
+
+Lemmas in this text that loaded on the factor:
+
+gol
+jogo
+marcar
+meia
+segundo

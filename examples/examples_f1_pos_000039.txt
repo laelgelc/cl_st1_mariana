@@ -1,0 +1,21 @@
+file = t014748
+date = 2021-03-14
+user = CandidaRodriges
+conversation = 1082418968449683456
+URL = https://twitter.com/CandidaRodriges/status/1371103469503979522
+
+word count = 19
+words loading = 5
+factor score = 4
+
+**Bom** dia! Morro de VERGONHA dos VENEZUELANOS qdo algum idiota fica famoso c 
+**medo** do **flag_brazil_e** **virar** uma **flag_venezuela_e** . " QUERIDO, q 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+bom
+flag_brazil_e
+flag_venezuela_e (secondary)
+medo
+virar

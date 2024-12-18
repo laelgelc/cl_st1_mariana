@@ -1,0 +1,17 @@
+file = t000645
+date = 2016-02-17
+user = PublishingSite
+conversation = 3314379070
+URL = https://twitter.com/PublishingSite/status/699880783742283776
+
+word count = 14
+words loading = 2
+factor score = -2
+
+HASHTAG #googlenewsbrasil_h Parlamento venezuelano dá 1º **sinal** verde para 
+lei de **anistia** para políticos 
+
+Lemmas in this text that loaded on the factor:
+
+anistia
+sinal

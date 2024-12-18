@@ -1,0 +1,20 @@
+file = t016269
+date = 2022-10-26
+user = sobian10
+conversation = 1096601288467537920
+URL = https://twitter.com/sobian10/status/1585237456873754624
+
+word count = 24
+words loading = 4
+factor score = 4
+
+RT @opilhado: VENEZUELANO QUE **FUGIU** PRO BRASIL DESABAFA CONTRA QUEM VAI 
+VOTAR NO LULA: " VOCÊS **SABEM** MESMO O QUE É **VIVER** NO **SOCIALISMO** ? 
+" ASS … 
+
+Lemmas in this text that loaded on the factor:
+
+fugir
+saber
+socialismo
+viver

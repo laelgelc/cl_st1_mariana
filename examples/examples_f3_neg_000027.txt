@@ -1,0 +1,17 @@
+file = t000955
+date = 2016-05-17
+user = pricilamarikoch
+conversation = 2284077025
+URL = https://twitter.com/pricilamarikoch/status/732616701527875584
+
+word count = 22
+words loading = 2
+factor score = -2
+
+RT @blogdojefferson: Enquanto Maduro se segura na cadeira, venezuelanos passam 
+fome e tentam **sobreviver** com uma **inflação** de mais de 700 % . h … 
+
+Lemmas in this text that loaded on the factor:
+
+inflação
+sobreviver

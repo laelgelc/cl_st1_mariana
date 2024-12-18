@@ -1,0 +1,22 @@
+file = t016695
+date = 2022-10-03
+user = Pedro_Ninho_28
+conversation = 1207506068076662784
+URL = https://twitter.com/Pedro_Ninho_28/status/1576993590106284032
+
+word count = 22
+words loading = 6
+factor score = 4
+
+@isaapavilak 23 **anos** atrás jovens venezuelanos comemoravam a **Vitória** 
+de Chávez, hoje o **filhos** deles **comem** **lixo** nas **ruas** . . . 
+Pensem nisso. 
+
+Lemmas in this text that loaded on the factor:
+
+ano (secondary)
+comer
+filho
+lixo
+rua
+vitória (secondary)

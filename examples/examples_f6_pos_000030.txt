@@ -1,0 +1,18 @@
+file = t018207
+date = 2022-03-08
+user = cintia_yy
+conversation = 1085707607812304896
+URL = https://twitter.com/cintia_yy/status/1501296527955873796
+
+word count = 16
+words loading = 3
+factor score = 2
+
+@ravoxbrasil É a guerra das tesouras! Biden **comprando** **petróleo** 
+Venezuelano, **sanções** contra Rússia unindo -a com a Ch … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo
+sanção (secondary)

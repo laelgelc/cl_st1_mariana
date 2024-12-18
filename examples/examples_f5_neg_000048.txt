@@ -1,0 +1,17 @@
+file = t003519
+date = 2017-05-12
+user = rafaeldmatheus
+conversation = 294886946
+URL = https://twitter.com/rafaeldmatheus/status/862970947070021633
+
+word count = 17
+words loading = 2
+factor score = -2
+
+RT @leylah16 : Lula, Odebrecht e Andrade Gutierrez tem as **mãos** sujas com o 
+**sangue** dos venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+
+mão
+sangue

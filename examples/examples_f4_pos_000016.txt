@@ -1,0 +1,21 @@
+file = t017200
+date = 2022-10-16
+user = pintocore
+conversation = 52910613
+URL = https://twitter.com/pintocore/status/1581479121401835520
+
+word count = 24
+words loading = 5
+factor score = 5
+
+RT @linpjs: Esse **caso** do " senti um **clima** " do bolsonaro com 
+**meninas** venezuelanas é idêntico ao do mamãe **falei** com as 
+**mulheres** ucranianas. O … 
+
+Lemmas in this text that loaded on the factor:
+
+caso
+clima
+falar
+menino
+mulher

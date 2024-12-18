@@ -1,0 +1,19 @@
+file = t004849
+date = 2018-02-01
+user = FlavihSouza
+conversation = 463346583
+URL = https://twitter.com/FlavihSouza/status/959153338070847488
+
+word count = 23
+words loading = 3
+factor score = -3
+
+RT @MMucke: A **eleição** brasileira está nas **mãos** da venezuelana 
+Smatmatic, **empresa** que roubou as **eleições** no país ajudando a 
+consolidar a dit … 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+empresa
+mão

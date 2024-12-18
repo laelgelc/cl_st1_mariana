@@ -1,0 +1,17 @@
+file = t002470
+date = 2017-08-29
+user = TicoETeco18
+conversation = 837326365347176448
+URL = https://twitter.com/TicoETeco18/status/902622177429684224
+
+word count = 14
+words loading = 2
+factor score = -2
+
+RT @UOLEconomia: Diante de **escassez** de dinheiro, venezuelanos **pagam** 
+para comprar notas @UOL 
+
+Lemmas in this text that loaded on the factor:
+
+escassez
+pagar

@@ -1,0 +1,20 @@
+file = t016132
+date = 2022-10-21
+user = Brasilempaz
+conversation = 1524067379789107200
+URL = https://twitter.com/Brasilempaz/status/1583484506224283649
+
+word count = 24
+words loading = 5
+factor score = 5
+
+@AdrillesRJorge Como dorme em paz um homem que diz que **pintou** um **clima** 
+e **chama** as venezuelanas de **garotas** de **programa** sem provar? 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+clima
+garota
+pintar
+programa

@@ -1,0 +1,18 @@
+file = t011155
+date = 2019-05-02
+user = allgringo
+conversation = 42858599
+URL = https://twitter.com/allgringo/status/1124080711395368962
+
+word count = 15
+words loading = 3
+factor score = 3
+
+RT @UOLNoticias: **Líder** **opositor** diz que se encontrou com **generais** 
+venezuelanos antes de atos 
+
+Lemmas in this text that loaded on the factor:
+
+general
+líder
+opositor

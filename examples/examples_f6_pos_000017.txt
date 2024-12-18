@@ -1,0 +1,20 @@
+file = t004806
+date = 2018-06-16
+user = Anelise1992
+conversation = 361491141
+URL = https://twitter.com/Anelise1992/status/1008112379110907904
+
+word count = 21
+words loading = 4
+factor score = 3
+
+RT @GeracaodeValor: **Milhares** de funcionários da estatal venezuelana de 
+exploração de **petróleo** **abandonam** o trabalho e mtos **fogem** do 
+país. Co … 
+
+Lemmas in this text that loaded on the factor:
+
+abandonar
+fugir (secondary)
+milhar
+petróleo

@@ -1,0 +1,19 @@
+file = t010696
+date = 2019-04-29
+user = keilapavao
+conversation = 81226755
+URL = https://twitter.com/keilapavao/status/1122990074889625600
+
+word count = 17
+words loading = 4
+factor score = 4
+
+Meu amor foi. . . 3 **meses** em Boa Vista- RR auxiliando na missão 
+**acolhida** ( **recebendo** os **refugiadas** venezuelanos ) . Não … 
+
+Lemmas in this text that loaded on the factor:
+
+acolher
+mês
+receber
+refugiado

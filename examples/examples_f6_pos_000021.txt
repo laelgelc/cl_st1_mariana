@@ -1,0 +1,19 @@
+file = t001315
+date = 2016-07-11
+user = Querubim_d4
+conversation = 2505532674
+URL = https://twitter.com/Querubim_d4/status/752525233882402817
+
+word count = 16
+words loading = 4
+factor score = 3
+
+Veja: **Milhares** de venezuelanos **atravessam** fronteira com a Colômbia 
+para **comprar** **comida** : O go. . . Via @querubim_d4 
+
+Lemmas in this text that loaded on the factor:
+
+atravessar
+comida (secondary)
+comprar
+milhar

@@ -1,0 +1,19 @@
+file = t002300
+date = 2017-02-07
+user = Babi_Galo1908
+conversation = 3053163035
+URL = https://twitter.com/Babi_Galo1908/status/828943959598759937
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @atletico: **Gol** do HASHTAG #galo_h: convidamos o **meia** Otero para 
+narrar o golaço **marcado** por ele diante do Tombense. O venezuelano arrisc 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+gol
+marcar
+meia

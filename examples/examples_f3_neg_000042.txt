@@ -1,0 +1,17 @@
+file = t001652
+date = 2016-09-09
+user = Conserv_Cariri
+conversation = 1427868997
+URL = https://twitter.com/Conserv_Cariri/status/774246565435281408
+
+word count = 16
+words loading = 2
+factor score = -2
+
+O socialismo é tão cruel que venezuelanos abandonam **animais** de 
+estimação por falta de **comida** 
+
+Lemmas in this text that loaded on the factor:
+
+animal
+comida

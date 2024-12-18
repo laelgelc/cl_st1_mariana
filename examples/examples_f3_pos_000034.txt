@@ -1,0 +1,18 @@
+file = t011370
+date = 2019-07-01
+user = Will_JC__BR
+conversation = 758486013413093376
+URL = https://twitter.com/Will_JC__BR/status/1145497070863814656
+
+word count = 14
+words loading = 3
+factor score = 3
+
+RT @VEJA: **Oposição** **denuncia** tortura como causa da morte de 
+**militar** venezuelano preso 
+
+Lemmas in this text that loaded on the factor:
+
+denunciar
+militar
+oposição

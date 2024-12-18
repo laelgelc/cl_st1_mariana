@@ -1,0 +1,19 @@
+file = t014335
+date = 2021-11-01
+user = Jay97821264
+conversation = 1230531114919481344
+URL = https://twitter.com/Jay97821264/status/1455121892399067139
+
+word count = 21
+words loading = 3
+factor score = -3
+
+RT @marciacreis38 : @JovemPanNews Quem associou Lula e a esquerda ao 
+**narcotráfico** foi o Ex **chefe** de **inteligência** venezuelana. O 
+Presidente s … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+inteligência
+narcotráfico

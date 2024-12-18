@@ -1,0 +1,18 @@
+file = t003571
+date = 2017-05-11
+user = PainelNoticias
+conversation = 149272656
+URL = https://twitter.com/PainelNoticias/status/862508252428472320
+
+word count = 11
+words loading = 3
+factor score = -3
+
+**Assembleia** venezuelana **aprova** acordo de anulação do **decreto** da 
+Constituinte 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+assembleia
+decreto

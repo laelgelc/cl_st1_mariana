@@ -1,0 +1,20 @@
+file = t018028
+date = 2022-02-11
+user = paulo_jesusthe1
+conversation = 1100117384726306816
+URL = https://twitter.com/paulo_jesusthe1/status/1492126445606481924
+
+word count = 19
+words loading = 4
+factor score = -4
+
+RT @BelinhaVic71 : O bicho vai pega. **Justiça** **espanhola** **concorda** em 
+**extraditar** general venezuelano Carvajal para os EUA HASHTAG #cnnbrasil_h - 
+notícia … 
+
+Lemmas in this text that loaded on the factor:
+
+concordar
+espanhol
+extraditar
+justiça

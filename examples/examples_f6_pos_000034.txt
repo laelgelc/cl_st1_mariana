@@ -1,0 +1,17 @@
+file = t018127
+date = 2022-03-08
+user = NiloPimenta2
+conversation = 1355290799211208704
+URL = https://twitter.com/NiloPimenta2/status/1501202831390519297
+
+word count = 23
+words loading = 2
+factor score = 2
+
+RT @shadow2022br: @lordivan22 Pra sancionar a Rússia, os EUA vão **comprar** 
+**petróleo** venezuelano e com isso dar fôlego pra ditadura do Maduro. … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo

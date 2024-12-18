@@ -1,0 +1,21 @@
+file = t013420
+date = 2020-05-02
+user = Everaldo_Fernan
+conversation = 101330305
+URL = https://twitter.com/Everaldo_Fernan/status/1256719149721583626
+
+word count = 17
+words loading = 5
+factor score = -3
+
+RT @DeputadoFederal: STF **suspende** **expulsão** de **diplomatas** 
+venezuelanos **determinada** pelo governo Bolsonaro. **Decisão** do ministro 
+Luis Barroso … 
+
+Lemmas in this text that loaded on the factor:
+
+decisão (secondary)
+determinar
+diplomata (secondary)
+expulsão
+suspender

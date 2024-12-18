@@ -1,0 +1,19 @@
+file = t001162
+date = 2016-06-09
+user = dick_guimaraes
+conversation = 4407427576
+URL = https://twitter.com/dick_guimaraes/status/740925462571012096
+
+word count = 20
+words loading = 4
+factor score = -3
+
+RT @roxmo: Venezuelanos **disputam** **comida** com **cães** no **lixo** de 
+feira de Caracas Cadê os idiotas que apóiam Maduro, PT … 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+cão
+disputar
+lixo (secondary)

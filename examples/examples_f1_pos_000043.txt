@@ -1,0 +1,20 @@
+file = t013054
+date = 2020-04-11
+user = neihumberto
+conversation = 263663895
+URL = https://twitter.com/neihumberto/status/1248960954014076934
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @FatosEsquerda: Um venezuelano **tira** uma **foto** com um soldado 
+**colombiano** na fronteira e diz que **ficará** pra história, e então, ele 
+desabafa … 
+
+Lemmas in this text that loaded on the factor:
+
+colombiano
+ficar
+foto
+tirar

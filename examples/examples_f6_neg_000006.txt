@@ -1,0 +1,19 @@
+file = t014216
+date = 2021-10-19
+user = ValterJunior913
+conversation = 1496328973
+URL = https://twitter.com/ValterJunior913/status/1450573224249643008
+
+word count = 12
+words loading = 4
+factor score = -4
+
+RT @SigaGazetaBR: ' Governo venezuelano **financiou** Lula ' , denuncia 
+ex-chefe de **inteligência** militar **chavista** 
+
+Lemmas in this text that loaded on the factor:
+
+chavista
+chefe
+financiar
+inteligência

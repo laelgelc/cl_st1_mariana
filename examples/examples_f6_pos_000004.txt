@@ -1,0 +1,18 @@
+file = t000299
+date = 2016-11-23
+user = pilatti
+conversation = 33370742
+URL = https://twitter.com/pilatti/status/801310983079784450
+
+word count = 11
+words loading = 4
+factor score = 4
+
+Três **jornais** venezuelanos **param** de circular por **falta** de **papel** 
+
+Lemmas in this text that loaded on the factor:
+
+falta
+jornal
+papel
+parar

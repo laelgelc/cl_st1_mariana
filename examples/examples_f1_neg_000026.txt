@@ -1,0 +1,19 @@
+file = t013455
+date = 2020-05-06
+user = JosemarioCAV01
+conversation = 103689792
+URL = https://twitter.com/JosemarioCAV01/status/1258116511455162369
+
+word count = 18
+words loading = 3
+factor score = -3
+
+RT @Direita_Network: Narcotráfico: STF " progressista " **suspendeu** 
+**expulsão** de pessoal venezuelano a **serviço** do Cartel de Los Soles no 
+Brasil … 
+
+Lemmas in this text that loaded on the factor:
+
+expulsão
+serviço
+suspender

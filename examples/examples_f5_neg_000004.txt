@@ -1,0 +1,21 @@
+file = t005712
+date = 2018-09-20
+user = MottaOtavio
+conversation = 2843652118
+URL = https://twitter.com/MottaOtavio/status/1042782940583870464
+
+word count = 19
+words loading = 4
+factor score = -4
+
+RT @Ernesto41161071 : Chave criptográfica das **Urnas** **eletrônicas** na 
+**mão** da Venezuelana Smartmatic! ! ! face_screaming_in_fear_e 
+face_screaming_in_fear_e face_screaming_in_fear_e Isso já é uma **fraude** ! 
+Grandes chanc … 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+fraude
+mão
+urna

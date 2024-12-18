@@ -1,0 +1,18 @@
+file = t015435
+date = 2021-07-08
+user = Beasfc_
+conversation = 970448234912108544
+URL = https://twitter.com/Beasfc_/status/1413258674206908419
+
+word count = 23
+words loading = 3
+factor score = 3
+
+RT @SantosOpressivo: Um anão venezuelano que **joga** de meia-atacante e pelas 
+pontas vindo pro Santos JA VI ESSE FILME ANTES, ESPERO QUE DÊ C … 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+jogar
+meia

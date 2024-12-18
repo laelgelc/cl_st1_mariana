@@ -1,0 +1,19 @@
+file = t010923
+date = 2019-05-02
+user = erivanraposo
+conversation = 18161049
+URL = https://twitter.com/erivanraposo/status/1123978844338364416
+
+word count = 21
+words loading = 3
+factor score = 3
+
+RT @carapanarana: O 4chanceler detonou os canais de comunicação entre 
+**militares** brasileiros e venezuelanos na **reunião** do **grupo** de Lima, 
+em … 
+
+Lemmas in this text that loaded on the factor:
+
+grupo
+militar
+reunião

@@ -1,0 +1,21 @@
+file = t014662
+date = 2021-02-22
+user = KaaGomess_
+conversation = 889669836099518464
+URL = https://twitter.com/KaaGomess_/status/1363945273173680131
+
+word count = 11
+words loading = 4
+factor score = 4
+
+RT @mike_pss: @ScarlettSunniva brasileiros handshake_e **argentinos** 
+handshake_e uruguaios handshake_e **bolivianos** handshake_e **chilenos** 
+handshake_e paraguaios handshake_e venezuelanos handshake_e **colombianos** 
+handshake_e equ … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+boliviano
+chileno
+colombiano

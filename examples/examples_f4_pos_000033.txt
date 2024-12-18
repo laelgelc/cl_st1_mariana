@@ -1,0 +1,21 @@
+file = t016164
+date = 2022-10-22
+user = maramourao
+conversation = 62606850
+URL = https://twitter.com/maramourao/status/1583830003623817221
+
+word count = 21
+words loading = 5
+factor score = 5
+
+RT @AntonyJojohn: Seu Jair **chama** de **prostitutas** **adolescentes** 
+venezuelanas pq se **arrumaram** pra ir em um projeto **social** ; Roberto 
+Jefferson ch … 
+
+Lemmas in this text that loaded on the factor:
+
+adolescente
+arrumar
+chamar
+prostituta
+social

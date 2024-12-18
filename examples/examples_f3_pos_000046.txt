@@ -1,0 +1,19 @@
+file = t010597
+date = 2019-04-30
+user = maryzina
+conversation = 357765760
+URL = https://twitter.com/maryzina/status/1123300696684679169
+
+word count = 21
+words loading = 3
+factor score = 3
+
+RT @HelioNogueiraTV: O **Presidente** Jair Bolsonaro acaba de autorizar a 
+entrada de 25 **militares** venezuelanos na **embaixada** do Brasil em Caraca 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+embaixada
+militar
+presidente

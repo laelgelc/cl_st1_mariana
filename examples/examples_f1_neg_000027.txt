@@ -1,0 +1,17 @@
+file = t015549
+date = 2021-08-18
+user = brasil247
+conversation = 248890506
+URL = https://twitter.com/brasil247/status/1427921570903769088
+
+word count = 9
+words loading = 3
+factor score = -3
+
+**Parlamento** venezuelano **aprova** **diálogo** com oposição no México 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+diálogo
+parlamento

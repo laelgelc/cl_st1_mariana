@@ -1,0 +1,16 @@
+file = t001692
+date = 2016-09-08
+user = samybotelho51_a
+conversation = 3236776769
+URL = https://twitter.com/samybotelho51_a/status/773711858779971588
+
+word count = 21
+words loading = 1
+factor score = -1
+
+Q NOJO DOS PETISTAS. **FECHARAM** OS OLHOS E FORAM CONIVENTES COM O Q A 
+DITADURA VENEZUELANA FAZ AO POVO LÁ @joseserra_ 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

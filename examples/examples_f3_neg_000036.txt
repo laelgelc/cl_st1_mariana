@@ -1,0 +1,17 @@
+file = t001508
+date = 2016-08-23
+user = ikmkoji
+conversation = 184491998
+URL = https://twitter.com/ikmkoji/status/768108457362853888
+
+word count = 12
+words loading = 2
+factor score = -2
+
+RTvalor_economico: **Atletas** venezuelanos voltam do Rio com **alimentos** e 
+remédios na mala 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+atleta

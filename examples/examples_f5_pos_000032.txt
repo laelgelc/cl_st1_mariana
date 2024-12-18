@@ -1,0 +1,19 @@
+file = t005557
+date = 2018-04-14
+user = advancevisa
+conversation = 2335956344
+URL = https://twitter.com/advancevisa/status/984951155607375872
+
+word count = 17
+words loading = 4
+factor score = 4
+
+Hoje, os Estados Unidos **anunciaram** quase US $ 16 **milhões** em 
+**assistência** **humanitária** para os venezuelanos que fugira … 
+
+Lemmas in this text that loaded on the factor:
+
+anunciar
+assistência
+humanitário
+milhão

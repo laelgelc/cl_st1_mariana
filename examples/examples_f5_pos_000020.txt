@@ -1,0 +1,20 @@
+file = t011345
+date = 2019-06-04
+user = Sandra22563580
+conversation = 1103728586253615104
+URL = https://twitter.com/Sandra22563580/status/1135725873490006018
+
+word count = 18
+words loading = 4
+factor score = 4
+
+RT @geraldomiotto: @CmdoCMS @dsm_aovivo @diariosm A **Operação** **Acolhida** 
+aos Venezuelanos é uma missão de caráter **humanitário** para **receber** 
+os … 
+
+Lemmas in this text that loaded on the factor:
+
+acolher
+humanitário
+operação
+receber

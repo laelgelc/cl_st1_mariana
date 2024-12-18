@@ -1,0 +1,21 @@
+file = t010313
+date = 2019-03-01
+user = thiagohmb3
+conversation = 774670035822542848
+URL = https://twitter.com/thiagohmb3/status/1101623879276081153
+
+word count = 22
+words loading = 5
+factor score = 5
+
+RT @jpcharleaux: A expressão " ( **ajuda** ) **humanitária** " que dominou a 
+**semana** no caso da **crise** venezuelana reaparece nesta **sexta** em 
+relação à aut … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+crise
+humanitário
+semana
+sexta

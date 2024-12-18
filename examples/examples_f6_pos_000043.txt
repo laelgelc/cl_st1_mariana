@@ -1,0 +1,17 @@
+file = t015722
+date = 2021-09-30
+user = LuigiMRD27
+conversation = 919554263247925248
+URL = https://twitter.com/LuigiMRD27/status/1443529242969509892
+
+word count = 15
+words loading = 2
+factor score = 2
+
+RT @revistaoeste: Relatório **aponta** que três de cada quatro venezuelanos 
+vivem na extrema **pobreza** 
+
+Lemmas in this text that loaded on the factor:
+
+apontar
+pobreza

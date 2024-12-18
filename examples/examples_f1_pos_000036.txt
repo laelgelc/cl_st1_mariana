@@ -1,0 +1,20 @@
+file = t015657
+date = 2021-08-29
+user = Mulher_Noticia
+conversation = 406766589
+URL = https://twitter.com/Mulher_Noticia/status/1431926170740723715
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @FPallmeiras: ' Não **temos** um real sequer, **temos** **fome** ' : 
+venezuelanos que tentam vida **melhor** no Brasil sofrem para encontrar o que 
+**comer** h … 
+
+Lemmas in this text that loaded on the factor:
+
+bom
+comer
+fome
+ter

@@ -1,0 +1,17 @@
+file = t000639
+date = 2016-02-05
+user = MzsDanubia
+conversation = 2640171342
+URL = https://twitter.com/MzsDanubia/status/695401359344971777
+
+word count = 11
+words loading = 2
+factor score = -2
+
+RT @folha: **Assembleia** venezuelana **aprova** projeto para libertar 
+políticos presos 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+assembleia

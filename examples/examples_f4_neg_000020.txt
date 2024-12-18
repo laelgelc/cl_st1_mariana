@@ -1,0 +1,16 @@
+file = t001689
+date = 2016-09-07
+user = JuniorSub
+conversation = 55818224
+URL = https://twitter.com/JuniorSub/status/773565272032620545
+
+word count = 16
+words loading = 1
+factor score = -1
+
+( folha ) Com novo protesto, oposição **aumenta** pressão contra Maduro na 
+Venezuela: A oposição venezuelana inicio. . . 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

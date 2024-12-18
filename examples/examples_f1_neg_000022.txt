@@ -1,0 +1,18 @@
+file = t013269
+date = 2020-05-04
+user = jlmbl22
+conversation = 298600802
+URL = https://twitter.com/jlmbl22/status/1257281563928166404
+
+word count = 15
+words loading = 3
+factor score = -3
+
+RT @conexaopolitica: STF **suspende** **expulsão** de corpo diplomático 
+venezuelano **determinada** por Ministro Ernesto Araújo 
+
+Lemmas in this text that loaded on the factor:
+
+determinar
+expulsão
+suspender

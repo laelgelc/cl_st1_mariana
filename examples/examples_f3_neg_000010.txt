@@ -1,0 +1,18 @@
+file = t006112
+date = 2018-10-18
+user = hugohugueras
+conversation = 2410909327
+URL = https://twitter.com/hugohugueras/status/1052864038311317504
+
+word count = 19
+words loading = 3
+factor score = -3
+
+RT @Patriciareal_ : Tem **video** do tanque esmagando os **animais** estão 
+extintos pq serviram de **alimento** para matarem a fome daqu … 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+animal
+video

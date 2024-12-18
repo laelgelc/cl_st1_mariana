@@ -1,0 +1,17 @@
+file = t002359
+date = 2017-08-27
+user = RolexCubano
+conversation = 810798988547031040
+URL = https://twitter.com/RolexCubano/status/901955530557677569
+
+word count = 14
+words loading = 1
+factor score = -1
+
+RT @egocarioca: Flagrante! Forças venezuelanas cercam porta-aviões 
+**americano** . " Andem, gringos, rendam -se! Vocês estão cercados! " 
+https://t. … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

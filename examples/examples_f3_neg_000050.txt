@@ -1,0 +1,17 @@
+file = t002975
+date = 2017-04-03
+user = SamuelIgor
+conversation = 3308375535
+URL = https://twitter.com/SamuelIgor/status/848914030819409920
+
+word count = 12
+words loading = 2
+factor score = -2
+
+Índios e venezuelanos **disputam** **comida** em aterro sanitário de Boa 
+Vista 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+disputar

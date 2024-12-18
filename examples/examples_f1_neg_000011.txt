@@ -1,0 +1,18 @@
+file = t003372
+date = 2017-05-09
+user = MariaFolly
+conversation = 2187174198
+URL = https://twitter.com/MariaFolly/status/861938531731619844
+
+word count = 18
+words loading = 3
+factor score = -3
+
+RT @mafolly: " Manaus **decreta** estado de **emergência** após **chegada** 
+de índios venezuelanos. " - Que o Brasil aja para acolhê -los! … 
+
+Lemmas in this text that loaded on the factor:
+
+chegada
+decretar
+emergência

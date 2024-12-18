@@ -1,0 +1,21 @@
+file = t010854
+date = 2019-05-03
+user = CalixtoIzaque
+conversation = 1058004289338200064
+URL = https://twitter.com/CalixtoIzaque/status/1124319023368478721
+
+word count = 25
+words loading = 5
+factor score = -3
+
+RT @silvionavarro: Para essa turma canhota que se lamenta ao ver o **povo** 
+venezuelano **morrendo** de **fome** e **apoia** a **ditadura** do Maduro pelo 
+smar … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar (secondary)
+ditadura
+fome (secondary)
+morrer
+povo

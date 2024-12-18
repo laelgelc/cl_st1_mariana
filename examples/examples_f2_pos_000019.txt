@@ -1,0 +1,18 @@
+file = t015263
+date = 2021-06-10
+user = boladojogo10
+conversation = 948317913483751424
+URL = https://twitter.com/boladojogo10/status/1403095871412113410
+
+word count = 20
+words loading = 3
+factor score = 3
+
+Otero é **convocado** pela Venezuela para a Copa América e não **joga** mais 
+pelo Corinthians. O **meia** venezuelano, que est … 
+
+Lemmas in this text that loaded on the factor:
+
+convocar
+jogar
+meia

@@ -1,0 +1,20 @@
+file = t017448
+date = 2022-10-16
+user = lightyears_
+conversation = 1615243514
+URL = https://twitter.com/lightyears_/status/1581448775620448257
+
+word count = 24
+words loading = 4
+factor score = 4
+
+RT @detremura: Bolsonaro admite que " **pintou** um **clima** " com uma 
+**menina** venezuelana de 14 **anos** . Produz provas contra si mesmo. Burro 
+pra um ca … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+clima
+menina
+pintar

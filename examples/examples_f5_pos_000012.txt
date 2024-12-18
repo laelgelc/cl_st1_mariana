@@ -1,0 +1,21 @@
+file = t018470
+date = 2022-06-21
+user = oscarcapella
+conversation = 70527344
+URL = https://twitter.com/oscarcapella/status/1539289628313886724
+
+word count = 19
+words loading = 5
+factor score = 4
+
+RT @rosanagazola: GOVERNO FEDERAL flag_brazil_e - A **Operação** Acolhida, 
+que **recebe** venezuelanos que **atravessam** a **fronteira** em **busca** de 
+melhores condiçõ … 
+
+Lemmas in this text that loaded on the factor:
+
+atravessar (secondary)
+busca
+fronteira
+operação
+receber

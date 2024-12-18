@@ -1,0 +1,20 @@
+file = t012129
+date = 2020-10-20
+user = albuquerquejr
+conversation = 35578865
+URL = https://twitter.com/albuquerquejr/status/1318368757962637317
+
+word count = 16
+words loading = 5
+factor score = 5
+
+QUE SE FODAM OS VENEZUELANOS, **ARGENTINOS** , **BOLIVIANOS** E **CHILENOS** . 
+Se **querem** merda, que **comam** merda. 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+boliviano
+chileno
+comer
+querer

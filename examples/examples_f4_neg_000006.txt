@@ -1,0 +1,15 @@
+file = t000232
+date = 2016-11-09
+user = InfoRel
+conversation = 66552816
+URL = https://twitter.com/InfoRel/status/796422827951947777
+
+word count = 11
+words loading = 1
+factor score = -1
+
+Índia e venezuelana PDVSA **fecham** acordos de produção de petróleo: 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

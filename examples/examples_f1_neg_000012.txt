@@ -1,0 +1,18 @@
+file = t003494
+date = 2017-05-08
+user = IsabM
+conversation = 23454445
+URL = https://twitter.com/IsabM/status/861704435025805312
+
+word count = 11
+words loading = 3
+factor score = -3
+
+RT @VEJA: Manaus **decreta** **emergência** por **chegada** de índios 
+venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+
+chegada
+decretar
+emergência

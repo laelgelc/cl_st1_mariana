@@ -1,0 +1,19 @@
+file = t015203
+date = 2021-06-12
+user = paulacramon
+conversation = 53437626
+URL = https://twitter.com/paulacramon/status/1403679148103634948
+
+word count = 19
+words loading = 3
+factor score = 3
+
+RT @Ricardo_Abreu_ : A **seleção** venezuelana **confirmou** agora à noite 
+que 5 **jogadores** testaram positivo para a Covid-19 . A Venezuela enfrenta o 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+confirmar
+jogador
+seleção

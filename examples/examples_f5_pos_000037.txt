@@ -1,0 +1,20 @@
+file = t004371
+date = 2018-02-16
+user = danielxs_1908
+conversation = 3904403596
+URL = https://twitter.com/danielxs_1908/status/964517454419562496
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @BolsonaroSP: Melhor do q prover **ajuda** **humanitária** ou construir 
+campos de **refugiados** para evitar a **entrada** em massa de venezuelanos no 
+B … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+entrada
+humanitário
+refugiado

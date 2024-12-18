@@ -1,0 +1,19 @@
+file = t018519
+date = 2022-06-12
+user = RickyWill0309
+conversation = 806295462374412288
+URL = https://twitter.com/RickyWill0309/status/1536128389748342785
+
+word count = 23
+words loading = 3
+factor score = 3
+
+RT @NoticiaeGuerra: O **líder** **opositor** venezuelano Juan Guaidó foi 
+agredido e expulso de um restaurante por um **grupo** de pessoas neste sábado, 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+grupo
+líder
+opositor

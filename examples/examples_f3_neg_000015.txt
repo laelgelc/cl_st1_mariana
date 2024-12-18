@@ -1,0 +1,17 @@
+file = t000307
+date = 2016-12-18
+user = hertonls
+conversation = 131941823
+URL = https://twitter.com/hertonls/status/810505870538850304
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @FatosEsquerda: O povo venezuelano saqueia mercados para buscar **alimento** 
+. Clamam por **comida** e pelo fim do governo assassino de Madu … 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+comida

@@ -1,0 +1,18 @@
+file = t012670
+date = 2020-01-04
+user = MrcioCsardeCar2
+conversation = 937583388948684800
+URL = https://twitter.com/MrcioCsardeCar2/status/1213518036600311808
+
+word count = 18
+words loading = 3
+factor score = 3
+
+Maduro **denuncia** Brasil por **asilo** a **militares** desertores. Regime 
+venezuelano diz que Brasil " confirma o padrão de pr … 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+denunciar
+militar

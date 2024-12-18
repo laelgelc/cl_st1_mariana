@@ -1,0 +1,21 @@
+file = t018561
+date = 2022-07-30
+user = LuisaOsbourne
+conversation = 1202672041360601088
+URL = https://twitter.com/LuisaOsbourne/status/1553394388998447105
+
+word count = 22
+words loading = 5
+factor score = 4
+
+RT @pais_vencedor: No Brasil para **fugir** da **fome** e da **miséria** , 
+venezuelano dá depoimento impactante e **vídeo** viraliza ( **veja** o 
+**vídeo** ) https: / / … 
+
+Lemmas in this text that loaded on the factor:
+
+fome
+fugir
+miséria
+ver
+vídeo (secondary)

@@ -1,0 +1,16 @@
+file = t002137
+date = 2017-01-28
+user = sirkazzio
+conversation = 617759565
+URL = https://twitter.com/sirkazzio/status/825476771776704514
+
+word count = 23
+words loading = 1
+factor score = -1
+
+Sou Venezuelano, sou Português de PORTUGAL e se pudesse, também seria 
+Brasileiro e **Americano** e de todos os países que mais gosto! 
+
+Lemmas in this text that loaded on the factor:
+
+americano

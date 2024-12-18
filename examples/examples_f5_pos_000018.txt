@@ -1,0 +1,19 @@
+file = t012552
+date = 2020-12-22
+user = clipping_cacd
+conversation = 4296428781
+URL = https://twitter.com/clipping_cacd/status/1341471500306661377
+
+word count = 19
+words loading = 4
+factor score = 4
+
+Desde 2015 , aumentou o **número** de venezuelanos que **cruzam** a 
+**fronteira** para **chegar** ao Brasil. Hoje, eles são cerca … 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+cruzar
+fronteira
+número

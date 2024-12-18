@@ -1,0 +1,20 @@
+file = t017787
+date = 2022-11-06
+user = AleLeiHel
+conversation = 1351657111416090624
+URL = https://twitter.com/AleLeiHel/status/1589396704893501442
+
+word count = 19
+words loading = 4
+factor score = 4
+
+RT @MetodoMoreira: Que todos os nossos **irmãos** venezuelanos, **argentinos** 
+, peruanos, **bolivianos** , **colombianos** se levantem contra o foro de São 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+boliviano
+colombiano
+irmão

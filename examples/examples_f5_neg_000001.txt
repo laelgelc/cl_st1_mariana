@@ -1,0 +1,20 @@
+file = t000083
+date = 2016-10-04
+user = tudoencima
+conversation = 142838926
+URL = https://twitter.com/tudoencima/status/783150955399372800
+
+word count = 23
+words loading = 4
+factor score = -4
+
+RT @luis13vieira: Pois é meu amigo! Parece q as **urnas** da **empresa** " 
+Venezuelana " q fraudam **eleições** , resolveram **fraudar** para o PSDB, 
+PMDB e … 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+empresa
+fraudar
+urna

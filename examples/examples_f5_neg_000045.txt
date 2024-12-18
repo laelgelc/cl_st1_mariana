@@ -1,0 +1,18 @@
+file = t003145
+date = 2017-04-04
+user = aidaloret
+conversation = 2836893444
+URL = https://twitter.com/aidaloret/status/849107417598238722
+
+word count = 17
+words loading = 2
+factor score = -2
+
+RT @ConceicaoChiari: HASHTAG #querovotoimpresso_h O **sistema** **eleitoral** 
+é controlado pela esquerda e as máquinas venezuelanas da SmartMatic. Fiquemo 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+eleitoral
+sistema

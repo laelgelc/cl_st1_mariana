@@ -1,0 +1,19 @@
+file = t017587
+date = 2022-11-21
+user = Carlosj91243151
+conversation = 1582001440859594752
+URL = https://twitter.com/Carlosj91243151/status/1594687148296380417
+
+word count = 15
+words loading = 4
+factor score = -4
+
+Esses cara vai passar uma vergonha mundial. . **Justiça** **espanhola** 
+**concorda** em **extraditar** general venezuelano Carvajal … 
+
+Lemmas in this text that loaded on the factor:
+
+concordar
+espanhol
+extraditar
+justiça

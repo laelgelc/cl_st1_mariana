@@ -1,0 +1,18 @@
+file = t010579
+date = 2019-05-01
+user = MagnoMarcoski
+conversation = 636605267
+URL = https://twitter.com/MagnoMarcoski/status/1123397895472996353
+
+word count = 23
+words loading = 3
+factor score = 3
+
+RT @leandroruschel: Pode ser GAME OVER para o povo venezuelano: Leopoldo Lopez 
+acabou de **pedir** **asilo** na **embaixada** chilena em Caracas. Ele é … 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+embaixada
+pedir

@@ -1,0 +1,16 @@
+file = t001496
+date = 2016-08-03
+user = juanacattaneo
+conversation = 69459146
+URL = https://twitter.com/juanacattaneo/status/760842794604691456
+
+word count = 11
+words loading = 2
+factor score = -2
+
+Não vou **saudar** um **golpista** , diz atleta venezuelana sobre Temer 
+
+Lemmas in this text that loaded on the factor:
+
+golpista
+saudar

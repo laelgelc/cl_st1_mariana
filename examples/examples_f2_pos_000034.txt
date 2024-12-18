@@ -1,0 +1,19 @@
+file = t012684
+date = 2020-01-04
+user = HudsonHCB
+conversation = 950862069351505920
+URL = https://twitter.com/HudsonHCB/status/1213523682167021568
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @ohenriqueandre: **flag_venezuela_e** Meia Eduard Bello, da **Seleção** 
+Venezuelana e do Antofagasta, começou a seguir o novo **time** do chefe 
+Dudamel no Instagr … 
+
+Lemmas in this text that loaded on the factor:
+
+flag_venezuela_e
+seleção
+time

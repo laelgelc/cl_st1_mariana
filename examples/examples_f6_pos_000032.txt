@@ -1,0 +1,17 @@
+file = t018146
+date = 2022-03-08
+user = mia_regazzia
+conversation = 1836719270
+URL = https://twitter.com/mia_regazzia/status/1501170887583834120
+
+word count = 19
+words loading = 2
+factor score = 2
+
+@jhbuena @hoje_no Os EUA querem dar um bom dinheiro para **comprar** o 
+**petróleo** venezuelano em troca de eles não ajudar … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo

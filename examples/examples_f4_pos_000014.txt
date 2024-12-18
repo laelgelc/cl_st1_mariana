@@ -1,0 +1,21 @@
+file = t017353
+date = 2022-10-17
+user = linpjs
+conversation = 1077565873634885632
+URL = https://twitter.com/linpjs/status/1582158925826138113
+
+word count = 21
+words loading = 6
+factor score = 5
+
+Se o **vídeo** com a **fala** do **presidente** **chamando** **meninas** 
+venezuelanas de **prostitutas** não pode ser usado, um **vídeo** do pr … 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+fala
+menino
+presidente (secondary)
+prostituta
+vídeo

@@ -1,0 +1,21 @@
+file = t009566
+date = 2019-02-24
+user = Prisciladourad4
+conversation = 1037891384483700736
+URL = https://twitter.com/Prisciladourad4/status/1099501280446291968
+
+word count = 19
+words loading = 4
+factor score = 4
+
+RT @_AnnaStein: Genteeee face_with_open_mouth_e face_with_open_mouth_e 
+face_with_open_mouth_e O **exército** venezuelano tá **desertando** e fugindo 
+p / Colômbia. **Generais** sem **exército** , não tem **força** ! 
+oncoming_fist_e https://t.c … 
+
+Lemmas in this text that loaded on the factor:
+
+desertar
+exército
+força
+general

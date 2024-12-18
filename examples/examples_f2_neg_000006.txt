@@ -1,0 +1,18 @@
+file = t001077
+date = 2016-05-14
+user = MistyCris
+conversation = 1385812334
+URL = https://twitter.com/MistyCris/status/731306187069771776
+
+word count = 20
+words loading = 3
+factor score = -3
+
+RT @dalbertolr: @MistyCris Esse **ditador** comunista, que espanca, humilha e 
+assassina o **povo** Venezuelano precisa cair e ser **preso** imediatame … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador
+povo
+prender

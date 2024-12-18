@@ -1,0 +1,16 @@
+file = t000488
+date = 2016-01-28
+user = laaisautzig
+conversation = 104594993
+URL = https://twitter.com/laaisautzig/status/692537496970924032
+
+word count = 14
+words loading = 1
+factor score = -1
+
+Maduro pede ' plano anticrise ' em reunião de bloco latino-americano: O 
+presidente venezuelano, Nicolás Maduro, . . . 
+
+Lemmas in this text that loaded on the factor:
+
+americano

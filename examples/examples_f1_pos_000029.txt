@@ -1,0 +1,19 @@
+file = t016362
+date = 2022-10-16
+user = ggeminiano
+conversation = 386836544
+URL = https://twitter.com/ggeminiano/status/1581691575469371392
+
+word count = 22
+words loading = 4
+factor score = 4
+
+RT @Bernilton: Os venezuelanos **sabe** q carniça no poder eles não 
+**terão** mais pra onde **fugir** da opressão e da **miséria** . 
+
+Lemmas in this text that loaded on the factor:
+
+fugir
+miséria
+saber
+ter

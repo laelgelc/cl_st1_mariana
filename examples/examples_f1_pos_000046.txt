@@ -1,0 +1,20 @@
+file = t012515
+date = 2020-12-18
+user = sergio38003311
+conversation = 1297876264930467840
+URL = https://twitter.com/sergio38003311/status/1340006425695817737
+
+word count = 17
+words loading = 4
+factor score = 4
+
+RT @michelcandidos2 : " VENEZUELANOS E **ARGENTINOS** **fugindo** do " 
+**SOCIALISMO** " e alguns BURROS brasileiros **querendo** entrar. " VAI 
+ENTENDER. . . 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+fugir
+querer
+socialismo

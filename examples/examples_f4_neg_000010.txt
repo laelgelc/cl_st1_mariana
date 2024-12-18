@@ -1,0 +1,16 @@
+file = t000436
+date = 2016-01-20
+user = amazonaspop
+conversation = 228660870
+URL = https://twitter.com/amazonaspop/status/689823719389147138
+
+word count = 18
+words loading = 1
+factor score = -1
+
+Atacante venezuelano está na mira do Grêmio, diz rádio: O Grêmio deve 
+recorrer ao mercado sul-americano para t. . . 
+
+Lemmas in this text that loaded on the factor:
+
+americano

@@ -1,0 +1,19 @@
+file = t011993
+date = 2020-10-21
+user = dariosailor86
+conversation = 703411120850210816
+URL = https://twitter.com/dariosailor86/status/1318896950876475394
+
+word count = 19
+words loading = 4
+factor score = 4
+
+RT @Tilica77 : **Navio** venezuelano com 1 , 4 milhão de barris de 
+**petróleo** **corre** **risco** de naufragar De novo? ? ? 
+
+Lemmas in this text that loaded on the factor:
+
+correr
+navio
+petróleo
+risco

@@ -1,0 +1,18 @@
+file = t010743
+date = 2019-04-30
+user = reinaldoazevedo
+conversation = 18286139
+URL = https://twitter.com/reinaldoazevedo/status/1123330182616629249
+
+word count = 14
+words loading = 3
+factor score = 3
+
+**General** Heleno diz que cúpula **militar** venezuelana não apoia 
+**opositores** via @UOLNoticias @UOL 
+
+Lemmas in this text that loaded on the factor:
+
+general
+militar
+opositor

@@ -1,0 +1,20 @@
+file = t007407
+date = 2019-11-14
+user = LudMlima
+conversation = 2836818154
+URL = https://twitter.com/LudMlima/status/1195112382093283332
+
+word count = 21
+words loading = 4
+factor score = 4
+
+RT @taliriapetrone: **Líder** da invasão da **Embaixada** venezuelana se 
+reuniu 2 vezes com o vice-presidente, **General** Mourão. O Brasil vai se torn 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+embaixada
+general
+líder
+presidente

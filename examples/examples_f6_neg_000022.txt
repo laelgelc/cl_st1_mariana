@@ -1,0 +1,18 @@
+file = t000835
+date = 2016-04-12
+user = rickbetatim
+conversation = 2752731972
+URL = https://twitter.com/rickbetatim/status/719685163177783296
+
+word count = 17
+words loading = 3
+factor score = -3
+
+**Justiça** venezuelana **declara** lei de **anistia** a opositores 
+inconstitucional: O Tribunal Supremo de **Justiça** da Ven. . . 
+
+Lemmas in this text that loaded on the factor:
+
+anistia
+declarar
+justiça

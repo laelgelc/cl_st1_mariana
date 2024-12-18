@@ -1,0 +1,16 @@
+file = t000606
+date = 2016-02-25
+user = rtraderapp
+conversation = 1938980444
+URL = https://twitter.com/rtraderapp/status/702983734040072192
+
+word count = 9
+words loading = 2
+factor score = -2
+
+**Parlamento** venezuelano **suspende** sessão por desordens do público 
+
+Lemmas in this text that loaded on the factor:
+
+parlamento
+suspender

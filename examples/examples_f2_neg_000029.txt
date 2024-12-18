@@ -1,0 +1,19 @@
+file = t008421
+date = 2019-01-24
+user = FbioFOX3
+conversation = 1050071589461655552
+URL = https://twitter.com/FbioFOX3/status/1088379131274948609
+
+word count = 18
+words loading = 4
+factor score = -3
+
+@monicabergamo o **governo** Bolsonaro **apoia** o **POVO** VENEZUELANO e se vc 
+quiser babar os ovos do **ditador** ma … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar (secondary)
+ditador
+governo
+povo

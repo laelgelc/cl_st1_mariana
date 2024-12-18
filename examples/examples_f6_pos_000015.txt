@@ -1,0 +1,19 @@
+file = t006908
+date = 2019-10-10
+user = NaBocaDo_Povo
+conversation = 1126088270557995008
+URL = https://twitter.com/NaBocaDo_Povo/status/1182291502048927745
+
+word count = 21
+words loading = 4
+factor score = 3
+
+Foram 23 testes e todos **apontaram** que o **óleo** no litoral do 
+**nordeste** é Venezuelano. Se fosse outra **origem** estariam g … 
+
+Lemmas in this text that loaded on the factor:
+
+apontar
+nordeste
+origem
+óleo (secondary)

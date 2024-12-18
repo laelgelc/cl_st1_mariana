@@ -1,0 +1,20 @@
+file = t015805
+date = 2021-09-10
+user = carlos_pessoa
+conversation = 57648484
+URL = https://twitter.com/carlos_pessoa/status/1436442333042589699
+
+word count = 20
+words loading = 4
+factor score = 4
+
+RT @Atletico: **flag_venezuela_e** Gosta pouco de **jogos** decisivos o 
+Savarino? high_voltage_e No @brasileirao, o venezuelano **marcou** **gols** 
+contra Palmeiras, Flamengo e aind … 
+
+Lemmas in this text that loaded on the factor:
+
+flag_venezuela_e
+gol
+jogo
+marcar

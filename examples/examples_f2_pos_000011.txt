@@ -1,0 +1,20 @@
+file = t012127
+date = 2020-10-01
+user = vitoorialary
+conversation = 1153857003695071232
+URL = https://twitter.com/vitoorialary/status/1311774267705569286
+
+word count = 12
+words loading = 4
+factor score = 4
+
+RT @Atletico: **soccer_ball_e** ️ **flag_venezuela_e** @QSavarino10 é 
+**convocado** para a **Seleção** Venezuelana ( @SeleVinotinto ) : HASHTAG 
+#galo_h black_flag_e white_flag_e … 
+
+Lemmas in this text that loaded on the factor:
+
+convocar
+flag_venezuela_e
+seleção
+soccer_ball_e

@@ -1,0 +1,17 @@
+file = t000632
+date = 2016-02-17
+user = jumedeiros1980
+conversation = 62836734
+URL = https://twitter.com/jumedeiros1980/status/699824349415661568
+
+word count = 16
+words loading = 2
+factor score = -2
+
+HASHTAG #operacaobetalab_h Parlamento venezuelano dá 1º **sinal** verde para 
+lei de **anistia** para políticos: Bancada. . . HASHTAG #timbeta_h 
+
+Lemmas in this text that loaded on the factor:
+
+anistia
+sinal

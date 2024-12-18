@@ -1,0 +1,22 @@
+file = t007904
+date = 2019-01-28
+user = luishenriquearq
+conversation = 573693237
+URL = https://twitter.com/luishenriquearq/status/1089899503577116672
+
+word count = 23
+words loading = 6
+factor score = 5
+
+RT @professorigor: **Queria** que os venezuelanos que **morrem** de **fome** 
+sob o **regime** **apoiado** por Jean Wyllys **tivessem** a mesma oportunidade 
+que ele … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar
+fome
+morrer (secondary)
+querer
+regime
+ter

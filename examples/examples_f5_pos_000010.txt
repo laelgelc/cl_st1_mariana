@@ -1,0 +1,20 @@
+file = t003924
+date = 2017-06-15
+user = ronilsonsb
+conversation = 48126016
+URL = https://twitter.com/ronilsonsb/status/875445557950644225
+
+word count = 21
+words loading = 5
+factor score = 5
+
+Com 5 . 787 **pedidos** de **refúgio** em 6 **meses** , **número** de 
+**entrada** de venezuelanos mais do que dobra em Roraima 
+
+Lemmas in this text that loaded on the factor:
+
+entrada
+mês
+número
+pedido
+refúgio

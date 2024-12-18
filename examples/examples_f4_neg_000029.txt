@@ -1,0 +1,16 @@
+file = t002047
+date = 2017-07-29
+user = milca27sp
+conversation = 2440409308
+URL = https://twitter.com/milca27sp/status/891153348036108288
+
+word count = 15
+words loading = 1
+factor score = -1
+
+RT @ricardope: Força para o presidente venezuelano Nicolás Maduro na luta 
+contra o imperialismo norte-americano 
+
+Lemmas in this text that loaded on the factor:
+
+americano

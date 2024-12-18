@@ -1,0 +1,20 @@
+file = t018681
+date = 2022-07-31
+user = RittaLiana
+conversation = 1101636258990833664
+URL = https://twitter.com/RittaLiana/status/1553836141471830018
+
+word count = 19
+words loading = 4
+factor score = -4
+
+RT @leandroruschel: As **eleições** venezuelanas são sabidamente 
+**fraudadas** . Até mesmo a Smartmatic, que produziu os **sistemas** 
+**eletrônicos** de vot … 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+eletrônico
+fraudar
+sistema

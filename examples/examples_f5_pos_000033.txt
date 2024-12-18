@@ -1,0 +1,19 @@
+file = t005313
+date = 2018-04-09
+user = foursfake
+conversation = 190990309
+URL = https://twitter.com/foursfake/status/983370209204432897
+
+word count = 15
+words loading = 4
+factor score = 4
+
+Na fuga da **crise** econômica, **imigrantes** venezuelanos e cubanos 
+**chegam** em RO em **busca** de … 
+
+Lemmas in this text that loaded on the factor:
+
+busca
+chegar
+crise
+imigrante

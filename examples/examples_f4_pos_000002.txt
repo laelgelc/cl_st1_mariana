@@ -1,0 +1,21 @@
+file = t017561
+date = 2022-10-15
+user = Marcelo72095143
+conversation = 1574429737245630464
+URL = https://twitter.com/Marcelo72095143/status/1581419277071962112
+
+word count = 16
+words loading = 6
+factor score = 6
+
+Bolsonaro **falou** " **pintou** um **clima** " quando explicava sobre 
+**Venezuelanas** **menores** se prostituindo: **ABSURDO** ! ! ! Lula em v … 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo
+clima
+falar
+pequeno
+pintar
+venezuelanas

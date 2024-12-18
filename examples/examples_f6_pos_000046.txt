@@ -1,0 +1,17 @@
+file = t015460
+date = 2021-07-10
+user = DehRodrigues99
+conversation = 825201474166779904
+URL = https://twitter.com/DehRodrigues99/status/1413994434799210498
+
+word count = 19
+words loading = 2
+factor score = 2
+
+95 % da **população** Venezuelana em situação de **pobreza** . 79 , 3 % em 
+Extrema **pobreza** . E tem doente que apoia esse tipo de … 
+
+Lemmas in this text that loaded on the factor:
+
+pobreza
+população

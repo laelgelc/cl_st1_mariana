@@ -1,0 +1,20 @@
+file = t000953
+date = 2016-05-18
+user = dashhde
+conversation = 270139933
+URL = https://twitter.com/dashhde/status/732908612490809344
+
+word count = 18
+words loading = 4
+factor score = -4
+
+RT @revistavoto: **Parlamento** venezuelano **rejeitou** estado de exceção e 
+de **emergência** econômica **decretado** p / presidente Nicolás HASHTAG 
+#maduro_h. 
+
+Lemmas in this text that loaded on the factor:
+
+decretar
+emergência
+parlamento
+rejeitar

@@ -1,0 +1,18 @@
+file = t003662
+date = 2017-05-08
+user = ashinarra
+conversation = 53440997
+URL = https://twitter.com/ashinarra/status/861731123390533632
+
+word count = 15
+words loading = 3
+factor score = -3
+
+RT @GloboNews: Manaus **decreta** estado de **emergência** após **chegada** 
+de 400 índios venezuelanos: HASHTAG #globonews_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegada
+decretar
+emergência

@@ -1,0 +1,18 @@
+file = t000856
+date = 2016-04-30
+user = SEGUNDOJR
+conversation = 37404996
+URL = https://twitter.com/SEGUNDOJR/status/726251882960838656
+
+word count = 15
+words loading = 3
+factor score = -3
+
+Pra que existe a @ONU_derechos @ONU_fr? **Povo** Venezuelano **passando** do 
+**estado** maduro para podre sem piedade! 
+
+Lemmas in this text that loaded on the factor:
+
+estado
+passar
+povo

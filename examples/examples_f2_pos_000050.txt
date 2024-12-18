@@ -1,0 +1,18 @@
+file = t001594
+date = 2016-08-18
+user = rcdajr
+conversation = 569116174
+URL = https://twitter.com/rcdajr/status/766325945284202496
+
+word count = 18
+words loading = 3
+factor score = 3
+
+**Meia** do Galo, Otero é **convocado** para defender a **seleção** 
+venezuelana: **Meia** pode desfalcar o Atlético-MG na par. . . 
+
+Lemmas in this text that loaded on the factor:
+
+convocar
+meia
+seleção

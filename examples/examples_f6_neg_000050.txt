@@ -1,0 +1,17 @@
+file = t001504
+date = 2016-08-02
+user = diamantarusso
+conversation = 460577684
+URL = https://twitter.com/diamantarusso/status/760507954898632704
+
+word count = 12
+words loading = 2
+factor score = -2
+
+Participar da Política: Não vou **saudar** um **golpista** , diz atleta 
+venezuelana. . . 
+
+Lemmas in this text that loaded on the factor:
+
+golpista
+saudar

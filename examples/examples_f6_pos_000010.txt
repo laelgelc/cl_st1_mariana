@@ -1,0 +1,18 @@
+file = t011062
+date = 2019-05-14
+user = jose_baha
+conversation = 1226140092
+URL = https://twitter.com/jose_baha/status/1128416535402438656
+
+word count = 12
+words loading = 3
+factor score = 3
+
+RT @OGlobo_Mundo: **Jornal** venezuelano centenário deixa de circular por 
+**falta** de **papel** . 
+
+Lemmas in this text that loaded on the factor:
+
+falta
+jornal
+papel

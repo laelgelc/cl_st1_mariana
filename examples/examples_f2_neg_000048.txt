@@ -1,0 +1,19 @@
+file = t014079
+date = 2020-09-29
+user = pruda1268
+conversation = 70785512
+URL = https://twitter.com/pruda1268/status/1311064226564321287
+
+word count = 20
+words loading = 4
+factor score = -3
+
+@Comodor0br **Passam** mal. . . E guerra pra que, dizem eles? Deixa o **povo** 
+Venezuelano **morrer** de **fome** , o ISIS decapitar y … 
+
+Lemmas in this text that loaded on the factor:
+
+fome (secondary)
+morrer
+passar
+povo

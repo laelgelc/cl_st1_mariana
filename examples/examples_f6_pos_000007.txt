@@ -1,0 +1,20 @@
+file = t013929
+date = 2020-09-20
+user = keunecke
+conversation = 25890687
+URL = https://twitter.com/keunecke/status/1307718753212403712
+
+word count = 20
+words loading = 4
+factor score = 3
+
+RT @GeografiaT: Maduro destruiu a **economia** venezuelana, deixou 97 % da 
+**população** na extrema **pobreza** , **colocou** milhões de imigrantes sem 
+esper … 
+
+Lemmas in this text that loaded on the factor:
+
+colocar (secondary)
+economia
+pobreza
+população

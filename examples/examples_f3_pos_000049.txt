@@ -1,0 +1,18 @@
+file = t010560
+date = 2019-04-30
+user = WarriorCleric
+conversation = 819330708053381120
+URL = https://twitter.com/WarriorCleric/status/1123285014161121281
+
+word count = 16
+words loading = 3
+factor score = 3
+
+RT @MiriamLeitaoCom: Vinte e cinco **militares** venezuelanos **pedem** 
+**asilo** no Brasil - Míriam Leitão - O Globo 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+militar
+pedir

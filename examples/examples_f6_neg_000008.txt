@@ -1,0 +1,19 @@
+file = t014231
+date = 2021-10-19
+user = akarolly10
+conversation = 1165136182541508608
+URL = https://twitter.com/akarolly10/status/1450554056276123649
+
+word count = 12
+words loading = 4
+factor score = -4
+
+RT @o_antagonista: Ex-chefe de **inteligência** militar **chavista** diz que 
+governo venezuelano **financiou** Lula. 
+
+Lemmas in this text that loaded on the factor:
+
+chavista
+chefe
+financiar
+inteligência

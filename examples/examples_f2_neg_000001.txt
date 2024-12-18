@@ -1,0 +1,22 @@
+file = t000359
+date = 2016-12-24
+user = JFCC__
+conversation = 133115870
+URL = https://twitter.com/JFCC__/status/812721805232324608
+
+word count = 21
+words loading = 6
+factor score = -4
+
+RT @JFCC__ : **Morreu** desgraçado. Por sua **culpa** , hoje o **povo** 
+venezuelano come cães de **rua** pra não **passar** **fome** . fire_e fire_e 
+Queime no inferno … 
+
+Lemmas in this text that loaded on the factor:
+
+culpa
+fome (secondary)
+morrer
+passar
+povo
+rua (secondary)

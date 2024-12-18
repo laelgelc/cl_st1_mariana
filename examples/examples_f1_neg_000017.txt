@@ -1,0 +1,18 @@
+file = t005043
+date = 2018-07-17
+user = sales_amaral
+conversation = 2942791912
+URL = https://twitter.com/sales_amaral/status/1019037786052186112
+
+word count = 14
+words loading = 3
+factor score = -3
+
+RT @g1 : Belém **decreta** situação de **emergência** pela **chegada** de 
+índios venezuelanos HASHTAG #g1_h 
+
+Lemmas in this text that loaded on the factor:
+
+chegada
+decretar
+emergência

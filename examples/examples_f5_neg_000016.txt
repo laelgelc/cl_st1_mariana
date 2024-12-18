@@ -1,0 +1,19 @@
+file = t003997
+date = 2018-01-30
+user = danipeiter
+conversation = 1932753186
+URL = https://twitter.com/danipeiter/status/958358081242587138
+
+word count = 21
+words loading = 3
+factor score = -3
+
+RT @leandroruschel: A **eleição** brasileira está nas **mãos** da 
+venezuelana Smatmatic, **empresa** que roubou as **eleições** no país 
+ajudando a consolid … 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+empresa
+mão

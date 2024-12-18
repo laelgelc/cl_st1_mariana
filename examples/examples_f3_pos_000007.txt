@@ -1,0 +1,20 @@
+file = t010675
+date = 2019-04-30
+user = Gilbert28263475
+conversation = 1077623217190326272
+URL = https://twitter.com/Gilbert28263475/status/1123345835775995907
+
+word count = 22
+words loading = 4
+factor score = 4
+
+RT @ColunaCH: O Brasil aceitou o pedido de refúgio de 25 **militares** 
+venezuelanos. O **líder** oposicionista Leopoldo Lopez **pediu** **asilo** na 
+embaix … 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+líder
+militar
+pedir

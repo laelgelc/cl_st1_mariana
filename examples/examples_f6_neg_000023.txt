@@ -1,0 +1,19 @@
+file = t007336
+date = 2019-11-09
+user = antonio_jgp
+conversation = 356636365
+URL = https://twitter.com/antonio_jgp/status/1193202073740988416
+
+word count = 23
+words loading = 3
+factor score = -3
+
+RT @RenovaMidia: O ditador Nicolás Maduro **declarou** : " O povo venezuelano 
+está feliz e **saúda** a **libertação** de Lula. [ . . . ] A América do 
+Sul es … 
+
+Lemmas in this text that loaded on the factor:
+
+declarar
+libertação
+saudar

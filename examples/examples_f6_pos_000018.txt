@@ -1,0 +1,18 @@
+file = t001592
+date = 2016-08-01
+user = MARCIOTICOS
+conversation = 281451881
+URL = https://twitter.com/MARCIOTICOS/status/760203096131792896
+
+word count = 17
+words loading = 3
+factor score = 3
+
+RT @ElianaDiGiacomo: O estágio final do socialismo: governo venezuelano 
+**impõe** **campos** de trabalho forçado à **população** 
+
+Lemmas in this text that loaded on the factor:
+
+campo
+impor
+população

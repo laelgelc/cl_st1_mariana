@@ -1,0 +1,19 @@
+file = t001399
+date = 2016-07-11
+user = ilhafm_br
+conversation = 4861016878
+URL = https://twitter.com/ilhafm_br/status/752633828619849728
+
+word count = 12
+words loading = 4
+factor score = 3
+
+**Milhares** de venezuelanos **atravessam** fronteira com a Colômbia para 
+**comprar** **comida** 
+
+Lemmas in this text that loaded on the factor:
+
+atravessar
+comida (secondary)
+comprar
+milhar

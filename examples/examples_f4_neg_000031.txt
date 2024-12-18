@@ -1,0 +1,16 @@
+file = t002152
+date = 2017-07-31
+user = demetera2
+conversation = 2792721306
+URL = https://twitter.com/demetera2/status/891952060966592512
+
+word count = 16
+words loading = 1
+factor score = -1
+
+RT @ocafezinho: Constituinte venezuelana tem 41 % de participação, maior que 
+as eleições **americanas** de 2014 
+
+Lemmas in this text that loaded on the factor:
+
+americano

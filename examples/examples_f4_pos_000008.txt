@@ -1,0 +1,21 @@
+file = t017506
+date = 2022-10-15
+user = lucianaroccaaa
+conversation = 1326135581630476288
+URL = https://twitter.com/lucianaroccaaa/status/1581433499944304641
+
+word count = 23
+words loading = 5
+factor score = 5
+
+RT @_pinheira: Um **absurdo** a **fala** de Bolsonaro sobre **meninas** 
+venezuelanas. 1 ) Meninas se **arrumam** no sábado e daí ? 2 ) Como assim " 
+**pintou** u … 
+
+Lemmas in this text that loaded on the factor:
+
+absurdo
+arrumar
+fala
+menino
+pintar

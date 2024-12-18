@@ -1,0 +1,21 @@
+file = t009848
+date = 2019-02-23
+user = MDilza
+conversation = 372085476
+URL = https://twitter.com/MDilza/status/1099172853868625920
+
+word count = 20
+words loading = 5
+factor score = 5
+
+RT @minsaude: **Chegou** nesta sexta-feira a **ajuda** **humanitária** que o 
+@governodobrasil colocou à disposição do povo venezuelano. O estado de Ror 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+chegar
+feira
+humanitário
+sexta

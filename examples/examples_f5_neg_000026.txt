@@ -1,0 +1,17 @@
+file = t011515
+date = 2019-07-14
+user = hlascalla
+conversation = 40025152
+URL = https://twitter.com/hlascalla/status/1150234017142398977
+
+word count = 10
+words loading = 3
+factor score = -3
+
+@iodelson Eleito por **urna** **eletrônica** de uma **empresa** venezuelana 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+empresa
+urna

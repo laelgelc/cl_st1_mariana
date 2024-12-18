@@ -1,0 +1,23 @@
+file = t007981
+date = 2019-01-10
+user = rejasouza
+conversation = 3387824025
+URL = https://twitter.com/rejasouza/status/1083398881843572736
+
+word count = 28
+words loading = 7
+factor score = 5
+
+@gleisi D U V I D O você andar pelas **ruas** venezuelanas, **tirar** 
+**fotos** do **povão** ( aquele que caça **lixo** e **cachorro** pra 
+**comer** ) e postar aqui. 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro (secondary)
+comer
+foto
+lixo
+povo (secondary)
+rua
+tirar

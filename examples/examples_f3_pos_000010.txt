@@ -1,0 +1,21 @@
+file = t010496
+date = 2019-04-30
+user = theoldbeechtree
+conversation = 917881012629229568
+URL = https://twitter.com/theoldbeechtree/status/1123304928741601280
+
+word count = 18
+words loading = 5
+factor score = 4
+
+RT @joicehasselmann: police_car_light_e flag_venezuela_e 25 **militares** 
+venezuelanos **pediram** **asilo** na **Embaixada** do Brasil em Caracas. 
+**Governo** brasileiro irá acolher. flag_brazil_e Bem … 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+embaixada
+governo (secondary)
+militar
+pedir

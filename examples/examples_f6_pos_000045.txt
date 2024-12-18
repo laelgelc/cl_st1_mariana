@@ -1,0 +1,17 @@
+file = t015570
+date = 2021-08-11
+user = Edmilso43986433
+conversation = 1174672861165948928
+URL = https://twitter.com/Edmilso43986433/status/1425246984890470403
+
+word count = 22
+words loading = 2
+factor score = 2
+
+@angela_nespoli @Biakicis com certeza ñ irmã , nosso país **corre** um 
+**risco** muito grande de se torna uma Venezuelana ou uma Cuba infelizmente. 
+
+Lemmas in this text that loaded on the factor:
+
+correr
+risco

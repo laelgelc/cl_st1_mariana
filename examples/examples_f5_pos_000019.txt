@@ -1,0 +1,21 @@
+file = t012005
+date = 2020-10-20
+user = Antonio10170800
+conversation = 970804344173072384
+URL = https://twitter.com/Antonio10170800/status/1318580176029143040
+
+word count = 23
+words loading = 5
+factor score = 4
+
+RT @secomvc: A **Operação** **Acolhida** já ofereceu **novas** oportunidades 
+de recomeço a 42 , 5 mil venezuelanos que fugiam da **crise** **humanitária** 
+que as … 
+
+Lemmas in this text that loaded on the factor:
+
+acolher
+crise
+humanitário
+novo (secondary)
+operação

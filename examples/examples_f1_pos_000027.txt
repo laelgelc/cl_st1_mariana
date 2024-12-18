@@ -1,0 +1,20 @@
+file = t016552
+date = 2022-10-14
+user = patpiken
+conversation = 1550052248457297920
+URL = https://twitter.com/patpiken/status/1580872629237317632
+
+word count = 13
+words loading = 5
+factor score = 4
+
+@ducavendish Venezuelanos e Nicaraguenses **fugindo** de seus países. 
+**Chilenos** protestando. **Argentinos** **passando** **fome** … T … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+chileno
+fome
+fugir
+passar (secondary)

@@ -1,0 +1,17 @@
+file = t001951
+date = 2017-07-31
+user = mvautocar
+conversation = 1389313196
+URL = https://twitter.com/mvautocar/status/891990413694906368
+
+word count = 17
+words loading = 2
+factor score = -2
+
+@Lys10ct @AnaPaulaDlamari acho q nem votos somos, **urnas** venezuelanas? 
+fraudulentas! ! somos apenas o **sangue** q eles como … 
+
+Lemmas in this text that loaded on the factor:
+
+sangue
+urna

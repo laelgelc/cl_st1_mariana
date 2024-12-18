@@ -1,0 +1,19 @@
+file = t016027
+date = 2022-10-05
+user = Adailjunior10
+conversation = 4826937543
+URL = https://twitter.com/Adailjunior10/status/1577678394136956928
+
+word count = 21
+words loading = 4
+factor score = 4
+
+Eu não **tenho** condições de **fugir** do Brasil que nem o Nando Moura, o 
+venezuelano, o **argentino** , o **chileno** , o colombian … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+chileno
+fugir
+ter

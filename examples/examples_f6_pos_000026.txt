@@ -1,0 +1,19 @@
+file = t000236
+date = 2016-11-24
+user = daniboghossian
+conversation = 27883150
+URL = https://twitter.com/daniboghossian/status/801617695749918720
+
+word count = 15
+words loading = 4
+factor score = 3
+
+**Jornais** venezuelanos **ficam** sem circular por **falta** de **papel** - 
+Portal IMPRENSA - Notícias, Jornalismo, Comunicação 
+
+Lemmas in this text that loaded on the factor:
+
+falta
+ficar (secondary)
+jornal
+papel

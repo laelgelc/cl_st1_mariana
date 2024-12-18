@@ -1,0 +1,18 @@
+file = t001454
+date = 2016-07-31
+user = CesarViana82
+conversation = 28476865
+URL = https://twitter.com/CesarViana82/status/759832453871640576
+
+word count = 17
+words loading = 3
+factor score = 3
+
+RT @LiberalismoBR: O estágio final do socialismo: governo venezuelano 
+**impõe** **campos** de trabalho forçado à **população** … 
+
+Lemmas in this text that loaded on the factor:
+
+campo
+impor
+população

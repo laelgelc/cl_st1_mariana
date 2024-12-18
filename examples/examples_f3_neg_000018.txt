@@ -1,0 +1,17 @@
+file = t000405
+date = 2016-12-27
+user = rev_adventista
+conversation = 60587608
+URL = https://twitter.com/rev_adventista/status/813699128400216064
+
+word count = 14
+words loading = 2
+factor score = -2
+
+Auxílio para refugiados: 6 , 5 **toneladas** de **alimentos** foram entregues 
+para haitianos e venezuelanos … 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+tonelada

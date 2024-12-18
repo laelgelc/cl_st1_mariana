@@ -1,0 +1,19 @@
+file = t003418
+date = 2017-05-15
+user = katiaduarte
+conversation = 33505213
+URL = https://twitter.com/katiaduarte/status/864136334428037120
+
+word count = 17
+words loading = 3
+factor score = -3
+
+RT @DireitaCivil: **Urnas** **Eletrônicas** da Empresa Venezuelana 
+SMARTIMATIC, compradas pelos governos Petistas Comunistas! É **Fraude** 2018 . 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+fraude
+urna

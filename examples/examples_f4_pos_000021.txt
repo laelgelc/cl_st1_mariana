@@ -1,0 +1,21 @@
+file = t016748
+date = 2022-10-16
+user = ChahadJorge
+conversation = 1030082584892592128
+URL = https://twitter.com/ChahadJorge/status/1581460314133909504
+
+word count = 23
+words loading = 5
+factor score = 5
+
+RT @Dirceusilva09 : Urgente! Bolsonaro assume que entrou na **casa** de uma 
+**criança** venezuelana de 14 **anos** de idade e " **pintou** um **clima** " 
+. BOLSONA … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+casa
+clima
+criança
+pintar

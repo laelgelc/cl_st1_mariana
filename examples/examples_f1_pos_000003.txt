@@ -1,0 +1,23 @@
+file = t015002
+date = 2021-05-01
+user = AhrmonyGallery
+conversation = 1103379936449097728
+URL = https://twitter.com/AhrmonyGallery/status/1388469800666554369
+
+word count = 25
+words loading = 7
+factor score = 6
+
+RT @valeriascher: **Queremos** nossos **filhos** **comendo** **lixo** como os 
+venezuelanos? **Fica** em **casa** q economia a gente **vê** depois? ? ? HJ É 
+DIA DE IR P … 
+
+Lemmas in this text that loaded on the factor:
+
+casa (secondary)
+comer
+ficar
+filho
+lixo
+querer
+ver

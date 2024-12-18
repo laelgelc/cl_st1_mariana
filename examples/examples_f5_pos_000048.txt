@@ -1,0 +1,18 @@
+file = t017923
+date = 2022-01-14
+user = jotajean87
+conversation = 990036558840516608
+URL = https://twitter.com/jotajean87/status/1481949872932720642
+
+word count = 21
+words loading = 3
+factor score = 3
+
+@jcrfjones Exatamente, **trabalho** de Uber em alguns dias do **mês** . Já 
+fiz corrida para venezuelano em um fim de **semana** , … 
+
+Lemmas in this text that loaded on the factor:
+
+mês
+semana
+trabalho

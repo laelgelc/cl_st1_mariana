@@ -1,0 +1,21 @@
+file = t016988
+date = 2022-10-16
+user = _esb19
+conversation = 189405104
+URL = https://twitter.com/_esb19/status/1581782847731687425
+
+word count = 18
+words loading = 5
+factor score = 5
+
+RT @UOLNoticias: film_projector_e " **Pintou** um **clima** " : **Fala** de 
+Bolsonaro sobre encontro com **jovens** venezuelanas causa reação nas 
+**redes** … 
+
+Lemmas in this text that loaded on the factor:
+
+clima
+falar
+jovem
+pintar
+rede

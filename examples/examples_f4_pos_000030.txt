@@ -1,0 +1,21 @@
+file = t016238
+date = 2022-10-16
+user = fesolar
+conversation = 2656693994
+URL = https://twitter.com/fesolar/status/1581678917089255424
+
+word count = 23
+words loading = 5
+factor score = 5
+
+RT @Estadao: Em podcast, Bolsonaro conta que ' **pintou** um **clima** ' com 
+**garotas** venezuelanas de 15 **anos** ; veja **vídeo** no Feed Estadão: 
+https://t.c … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+clima
+garota
+pintar
+vídeo

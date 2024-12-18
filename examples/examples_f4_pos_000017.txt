@@ -1,0 +1,20 @@
+file = t017141
+date = 2022-10-16
+user = AlinneMylane
+conversation = 1000449959525830656
+URL = https://twitter.com/AlinneMylane/status/1581788111608029184
+
+word count = 21
+words loading = 5
+factor score = 5
+
+@choquei Vezes que Bolsonaro **falou** que " **pintou** um **clima** " : 1 . 
+Sobre **meninas** de 14 , 15 **anos** venezuelanas " 2 - não tem. 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+clima
+falar
+menino
+pintar

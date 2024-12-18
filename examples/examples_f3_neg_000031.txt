@@ -1,0 +1,17 @@
+file = t001175
+date = 2016-06-09
+user = naborbjunior
+conversation = 159606700
+URL = https://twitter.com/naborbjunior/status/740939123419189248
+
+word count = 9
+words loading = 3
+factor score = -2
+
+Venezuelanos **disputam** **lixo** de feira com os **cães** : 
+
+Lemmas in this text that loaded on the factor:
+
+cão
+disputar
+lixo (secondary)

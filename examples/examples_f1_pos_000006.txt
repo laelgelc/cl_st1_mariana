@@ -1,0 +1,20 @@
+file = t018378
+date = 2022-05-04
+user = marcbarrod
+conversation = 2549885939
+URL = https://twitter.com/marcbarrod/status/1521669529180512260
+
+word count = 12
+words loading = 5
+factor score = 5
+
+Esta é **boa** ! NÃO PODEMOS ser Venezuelanos, **Argentinos** , **Chilenos** 
+, **Cubanos** ou **Bolivianos** … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+boliviano
+bom
+chileno
+cubano

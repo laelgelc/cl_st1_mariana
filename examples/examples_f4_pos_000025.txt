@@ -1,0 +1,20 @@
+file = t016636
+date = 2022-10-23
+user = gesse_rvg
+conversation = 3083002350
+URL = https://twitter.com/gesse_rvg/status/1584130449999552514
+
+word count = 17
+words loading = 5
+factor score = 5
+
+@Igortep Bolsonaro, inúmeras vezes **chamou** as **crianças** venezuelanas de 
+**prostitutas** além do " **pintou** um **clima** " . O judi … 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+clima
+criança
+pintar
+prostituta

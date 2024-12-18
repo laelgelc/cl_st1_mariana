@@ -1,0 +1,21 @@
+file = t017308
+date = 2022-10-23
+user = mavo_rh
+conversation = 540347689
+URL = https://twitter.com/mavo_rh/status/1584321521517924352
+
+word count = 18
+words loading = 6
+factor score = 5
+
+@MarceloCRedeTV O **Presidente** pode **chamar** **meninas** venezuelanas de 13 
+e 14 **anos** de **garotas** de **Programas** ? Mostrou o … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+chamar
+garota
+menino
+presidente (secondary)
+programa

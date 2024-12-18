@@ -1,0 +1,16 @@
+file = t002627
+date = 2017-02-09
+user = CiteF
+conversation = 529658835
+URL = https://twitter.com/CiteF/status/829494168418447360
+
+word count = 12
+words loading = 1
+factor score = -1
+
+RT @vitorsergio: Paulada venezuelana no Uruguai, sensação do Sul-Americano 
+Sub-20 : 3 a 0 . 
+
+Lemmas in this text that loaded on the factor:
+
+americano

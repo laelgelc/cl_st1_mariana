@@ -1,0 +1,16 @@
+file = t002403
+date = 2017-08-27
+user = maria_lima
+conversation = 60110208
+URL = https://twitter.com/maria_lima/status/901612134475472897
+
+word count = 14
+words loading = 1
+factor score = -1
+
+RT @folha: Governo venezuelano **fechou** 49 veículos de mídia em 2017 , diz 
+sindicato 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

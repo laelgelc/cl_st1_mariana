@@ -1,0 +1,18 @@
+file = t000275
+date = 2016-11-23
+user = MancheteReal
+conversation = 124316566
+URL = https://twitter.com/MancheteReal/status/801384584726384640
+
+word count = 14
+words loading = 3
+factor score = 3
+
+RT @N_Carvalheira: OUTRA UTILIDADE? Três **jornais** venezuelanos deixam de 
+circular por **falta** de **papel** 
+
+Lemmas in this text that loaded on the factor:
+
+falta
+jornal
+papel

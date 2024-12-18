@@ -1,0 +1,18 @@
+file = t007467
+date = 2019-11-18
+user = jomarlov
+conversation = 62891971
+URL = https://twitter.com/jomarlov/status/1196381230356455424
+
+word count = 19
+words loading = 2
+factor score = -2
+
+RT @trajanojorge: Didático Folha usando foto em ângulo **fechado** para 
+**aumentar** manifestação flopada da direita golpista venezuelana. Foto em 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar
+fechar

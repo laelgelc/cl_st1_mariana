@@ -1,0 +1,18 @@
+file = t005389
+date = 2018-08-09
+user = jornaltijucas
+conversation = 2151270211
+URL = https://twitter.com/jornaltijucas/status/1027356479202975745
+
+word count = 11
+words loading = 3
+factor score = -3
+
+Ministra do STF **suspende** **decreto** que restringia **serviços** para 
+venezuelanos - 
+
+Lemmas in this text that loaded on the factor:
+
+decreto
+serviço
+suspender

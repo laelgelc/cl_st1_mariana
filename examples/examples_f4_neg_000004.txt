@@ -1,0 +1,16 @@
+file = t000077
+date = 2016-10-27
+user = CarlosSekko
+conversation = 450105690
+URL = https://twitter.com/CarlosSekko/status/791705028687982592
+
+word count = 25
+words loading = 1
+factor score = -1
+
+E essa da galera com medinho de Russos e Venezuelanos? Imperialismo? Cês 
+querem é passaporte **americano** , FDPs. Querem é base da USAF no cu! 
+
+Lemmas in this text that loaded on the factor:
+
+americano

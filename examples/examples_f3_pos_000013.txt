@@ -1,0 +1,20 @@
+file = t009387
+date = 2019-03-01
+user = jornaldaband
+conversation = 31201557
+URL = https://twitter.com/jornaldaband/status/1101285927454822400
+
+word count = 18
+words loading = 5
+factor score = 4
+
+O **presidente** Jair Bolsonaro recebeu o **líder** da **oposição** 
+venezuelana Juan Guaidó e **afirmou** que o **governo** brasileiro … 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+governo (secondary)
+líder
+oposição
+presidente

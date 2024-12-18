@@ -1,0 +1,20 @@
+file = t018532
+date = 2022-06-20
+user = telmamelo17
+conversation = 1046583315812225024
+URL = https://twitter.com/telmamelo17/status/1538759069799964673
+
+word count = 19
+words loading = 5
+factor score = 4
+
+Sim! Já estamos com excesso de venezuelanos, **chegando** **argentinos** e em 
+breve **chilenos** e **colombianos** . Tem que **ver** iss … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+chegar (secondary)
+chileno
+colombiano
+ver

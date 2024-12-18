@@ -1,0 +1,19 @@
+file = t018834
+date = 2022-08-30
+user = Marcos96260432
+conversation = 1248745557549633536
+URL = https://twitter.com/Marcos96260432/status/1564755324044722179
+
+word count = 24
+words loading = 3
+factor score = 3
+
+RT @JornalBSM: Em tempos de socialismo, 6 , 8 **milhões** de venezuelanos 
+deixaram o país de Maduro. O mesmo **número** de **refugiados** ucranianos em 
+t … 
+
+Lemmas in this text that loaded on the factor:
+
+milhão
+número
+refugiado

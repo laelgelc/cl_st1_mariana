@@ -1,0 +1,20 @@
+file = t009593
+date = 2019-02-23
+user = rogercatatau
+conversation = 745655005772943360
+URL = https://twitter.com/rogercatatau/status/1099391289039224832
+
+word count = 18
+words loading = 4
+factor score = 4
+
+RT @DasilveiraAlan: O Ditador ordenou que os camiões que **cruzaram** a 
+**fronteira** Colombo-Venezuelana com **ajuda** **humanitária** fossem 
+queimados. . . … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+cruzar
+fronteira
+humanitário

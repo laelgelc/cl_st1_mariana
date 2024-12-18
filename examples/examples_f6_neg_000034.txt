@@ -1,0 +1,17 @@
+file = t000125
+date = 2016-10-19
+user = MarcoCampelo
+conversation = 57694231
+URL = https://twitter.com/MarcoCampelo/status/788544360547749888
+
+word count = 16
+words loading = 2
+factor score = -2
+
+RT @Estadao: **Justiça** venezuelana muda determinação e dificulta processo 
+de revogação do **mandato** de Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+justiça
+mandato

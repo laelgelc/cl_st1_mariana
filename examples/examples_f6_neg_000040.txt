@@ -1,0 +1,17 @@
+file = t000508
+date = 2016-01-14
+user = adelimiranda1
+conversation = 2694501686
+URL = https://twitter.com/adelimiranda1/status/687454914893619202
+
+word count = 17
+words loading = 2
+factor score = -2
+
+Parlamento venezuelano acata **decisão** da **Justiça** e afasta deputados da 
+oposição: Agência LusaApesar da saída de. . . 
+
+Lemmas in this text that loaded on the factor:
+
+decisão
+justiça

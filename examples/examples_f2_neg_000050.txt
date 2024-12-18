@@ -1,0 +1,18 @@
+file = t016902
+date = 2022-10-19
+user = sagaqrr
+conversation = 154671632
+URL = https://twitter.com/sagaqrr/status/1582797563127730176
+
+word count = 21
+words loading = 3
+factor score = -3
+
+@jonesmanoel_PCB Cara, se ele for **preso** pelo caso das venezuelanas, caso o 
+**crime** **passasse** a ser hediondo, ele não seria atingido. 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+passar
+prender

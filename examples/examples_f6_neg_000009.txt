@@ -1,0 +1,20 @@
+file = t014271
+date = 2021-10-29
+user = Natanael_Aju
+conversation = 241153560
+URL = https://twitter.com/Natanael_Aju/status/1454208351999610882
+
+word count = 19
+words loading = 4
+factor score = -4
+
+RT @MauricioCanto7 : **Justiça** **espanhola** **concorda** em **extraditar** 
+general venezuelano Carvajal para os EUA. A esquerda tupiniquim inteira e seus 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+concordar
+espanhol
+extraditar
+justiça

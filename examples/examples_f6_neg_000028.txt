@@ -1,0 +1,18 @@
+file = t014281
+date = 2021-10-21
+user = RivaldoRRibeir1
+conversation = 1274059928404217856
+URL = https://twitter.com/RivaldoRRibeir1/status/1451281277273915394
+
+word count = 16
+words loading = 3
+factor score = -3
+
+RT @AlexManente23 : DENÚNCIA GRAVE! Ex-chefe militar **chavista** diz que 
+governo venezuelano **financiou** Lula! É preciso investigar imediatam … 
+
+Lemmas in this text that loaded on the factor:
+
+chavista
+chefe
+financiar

@@ -1,0 +1,17 @@
+file = t002701
+date = 2017-09-16
+user = jaspionzzz
+conversation = 359359322
+URL = https://twitter.com/jaspionzzz/status/909084060554842114
+
+word count = 16
+words loading = 2
+factor score = -2
+
+Pela **escassez** de **alimentos** , 75 % dos venezuelanos emagreceram 8 , 7 kg 
+em média em 2016 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+escassez

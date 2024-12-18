@@ -1,0 +1,19 @@
+file = t014112
+date = 2020-09-04
+user = clickpetroleoeg
+conversation = 3393519442
+URL = https://twitter.com/clickpetroleoeg/status/1301975144596934656
+
+word count = 17
+words loading = 4
+factor score = 4
+
+**Navio** petroleiro venezuelano FSO Nabarima **corre** **risco** de naufragar 
+carregado de **petróleo** bruto e atrai preocupação … 
+
+Lemmas in this text that loaded on the factor:
+
+correr
+navio
+petróleo
+risco

@@ -1,0 +1,18 @@
+file = t018776
+date = 2022-08-09
+user = SrgioSoaresDia4
+conversation = 1326957970085867520
+URL = https://twitter.com/SrgioSoaresDia4/status/1557038974920687616
+
+word count = 11
+words loading = 3
+factor score = -3
+
+RT @revistaoeste: Líder **chavista** **acusa** Argentina de ' sequestrar ' 
+**avião** venezuelano 
+
+Lemmas in this text that loaded on the factor:
+
+acusar
+avião
+chavista

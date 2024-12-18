@@ -1,0 +1,21 @@
+file = t015633
+date = 2021-08-14
+user = R10daMassa
+conversation = 1284516950547337216
+URL = https://twitter.com/R10daMassa/status/1426687053031432193
+
+word count = 25
+words loading = 5
+factor score = 5
+
+RT @geglobo: **Gol** do Galo! Savarino tá danado! Venezuelano **marca** o 
+**segundo** dele no **jogo** e vai fazendo o **time** mineiro disparar na 
+ponta. Siga … 
+
+Lemmas in this text that loaded on the factor:
+
+gol
+jogo
+marcar
+segundo
+time

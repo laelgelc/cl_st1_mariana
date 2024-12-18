@@ -1,0 +1,17 @@
+file = t000752
+date = 2016-04-29
+user = JakeSohJake
+conversation = 3017920162
+URL = https://twitter.com/JakeSohJake/status/726051730782359552
+
+word count = 15
+words loading = 2
+factor score = -2
+
+RT @Corotenho: " **Salário** de 87 % dos venezuelanos não é suficiente para 
+**comida** , diz pesquisa. " 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+salário

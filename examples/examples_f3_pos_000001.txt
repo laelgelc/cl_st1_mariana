@@ -1,0 +1,20 @@
+file = t011159
+date = 2019-05-01
+user = Portalcwb
+conversation = 207333431
+URL = https://twitter.com/Portalcwb/status/1123476773554073600
+
+word count = 10
+words loading = 5
+factor score = 5
+
+25 **militares** venezuelanos **desertam** e **pedem** **asilo** em 
+**embaixada** do Brasil 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+desertar
+embaixada
+militar
+pedir

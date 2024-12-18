@@ -1,0 +1,20 @@
+file = t016742
+date = 2022-10-18
+user = ivaneide_gomesp
+conversation = 1354197213476433920
+URL = https://twitter.com/ivaneide_gomesp/status/1582440556537335810
+
+word count = 16
+words loading = 5
+factor score = 5
+
+RT @pauloteixeira13 : Outro **vídeo** do Bolsonaro **chamando** as **meninas** 
+venezuelanas de " **garotas** de **programa** " . Assistam: 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+garota
+menino
+programa
+vídeo

@@ -1,0 +1,21 @@
+file = t016631
+date = 2022-10-16
+user = EiDuduzinho
+conversation = 277636438
+URL = https://twitter.com/EiDuduzinho/status/1581491435865788416
+
+word count = 25
+words loading = 5
+factor score = 5
+
+RT @joaoabel_ : 0h43 e bolsonaro abriu uma live para **falar** sobre o 
+**vídeo** em que diz que " **pintou** um **clima** " entre ele e **meninas** 
+venezuelanas d … 
+
+Lemmas in this text that loaded on the factor:
+
+clima
+falar
+menino
+pintar
+vídeo

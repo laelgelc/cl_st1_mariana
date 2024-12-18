@@ -1,0 +1,18 @@
+file = t001627
+date = 2016-08-23
+user = marinapagno
+conversation = 818323478
+URL = https://twitter.com/marinapagno/status/768193442384113664
+
+word count = 13
+words loading = 3
+factor score = -2
+
+RT @zerohora: . @Leogerchmann: **atletas** venezuelanos voltam do Rio levando 
+**alimentos** e **medicamentos** … 
+
+Lemmas in this text that loaded on the factor:
+
+alimento
+atleta
+medicamento (secondary)

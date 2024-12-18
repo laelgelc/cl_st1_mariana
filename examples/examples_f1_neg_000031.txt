@@ -1,0 +1,17 @@
+file = t000147
+date = 2016-10-24
+user = marcoan57908373
+conversation = 849287089
+URL = https://twitter.com/marcoan57908373/status/790500009313730560
+
+word count = 12
+words loading = 2
+factor score = -2
+
+**Parlamento** venezuelano **aprova** texto que diz que Maduro promoveu golpe 
+HASHTAG #g1_h 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+parlamento

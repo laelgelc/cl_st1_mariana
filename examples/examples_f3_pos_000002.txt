@@ -1,0 +1,21 @@
+file = t010421
+date = 2019-04-30
+user = MacArthur_BR
+conversation = 1109934212164001792
+URL = https://twitter.com/MacArthur_BR/status/1123208459745484800
+
+word count = 19
+words loading = 5
+factor score = 5
+
+RT @hoje_no: Juan Guaidó conseguiu o **apoio** das **forças** armadas 
+venezuelanas! **Militares** libertaram Leopoldo López, antigo **líder** da 
+**oposição** ! … 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+força
+líder
+militar
+oposição

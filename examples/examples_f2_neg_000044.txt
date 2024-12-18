@@ -1,0 +1,20 @@
+file = t011815
+date = 2019-08-23
+user = LarissaColins
+conversation = 1538615761
+URL = https://twitter.com/LarissaColins/status/1164984167970590721
+
+word count = 25
+words loading = 4
+factor score = -3
+
+RT @NadiaRicardo1 : Se a União Européia não tem a dignidade de ajudar o 
+**povo** venezuelano que está sobe uma **ditadura** **morrendo** de **fome** 
+pois di … 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+fome (secondary)
+morrer
+povo

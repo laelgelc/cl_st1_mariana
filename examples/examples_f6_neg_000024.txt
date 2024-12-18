@@ -1,0 +1,18 @@
+file = t014145
+date = 2021-10-20
+user = Rosemei34368445
+conversation = 1100824195502624768
+URL = https://twitter.com/Rosemei34368445/status/1450825557755707400
+
+word count = 20
+words loading = 3
+factor score = -3
+
+RT @Rconstantino: Um ex-chefe da **inteligência** militar venezuelana informou 
+à **Justiça** da Espanha que os governos de Chávez e Maduro fizeram … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+inteligência
+justiça

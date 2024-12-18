@@ -1,0 +1,21 @@
+file = t016215
+date = 2022-10-23
+user = ana_acsd
+conversation = 330411766
+URL = https://twitter.com/ana_acsd/status/1584157192890245121
+
+word count = 19
+words loading = 5
+factor score = 5
+
+RT @Antropofagista1 : Bolsonaro, inúmeras vezes **chamou** as **crianças** 
+venezuelanas de **prostitutas** além do " **pintou** um **clima** " . O 
+judiciário nada … 
+
+Lemmas in this text that loaded on the factor:
+
+chamar
+clima
+criança
+pintar
+prostituta

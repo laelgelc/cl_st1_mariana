@@ -1,0 +1,19 @@
+file = t012743
+date = 2020-01-31
+user = glaucioteles2
+conversation = 403439612
+URL = https://twitter.com/glaucioteles2/status/1223033545070993408
+
+word count = 17
+words loading = 3
+factor score = 3
+
+RT @catleticomg: chicken_e writing_hand_light_skin_tone_e Camisa HASHTAG #10_h 
+NA ÁREA! O meia-atacante venezuelano Jefferson Savarino é o novo **reforço** 
+do Galo. 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+meia
+reforço

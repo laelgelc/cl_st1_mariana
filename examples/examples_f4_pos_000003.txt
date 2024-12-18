@@ -1,0 +1,22 @@
+file = t017233
+date = 2022-10-17
+user = maconheiro_rn
+conversation = 1456247329602908160
+URL = https://twitter.com/maconheiro_rn/status/1582090898401202176
+
+word count = 23
+words loading = 6
+factor score = 6
+
+RT @linsaquiles: Alexandre de Moraes manda tirar do **ar** **vídeo** do PT com 
+Bolsonaro **falando** que " **pintou** um **clima** " com **meninas** 
+venezuelanas. 
+
+Lemmas in this text that loaded on the factor:
+
+ar
+clima
+falar
+menino
+pintar
+vídeo

@@ -1,0 +1,16 @@
+file = t002032
+date = 2017-01-09
+user = Silversjavier
+conversation = 2521940319
+URL = https://twitter.com/Silversjavier/status/818265848829853696
+
+word count = 15
+words loading = 1
+factor score = -1
+
+► - Salario básico venezuelano e pensões **aumentam** de +50 % a partir 
+deste mês de janeiro de. . . 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

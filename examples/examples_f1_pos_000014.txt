@@ -1,0 +1,22 @@
+file = t018850
+date = 2022-08-11
+user = CezarVieira12
+conversation = 1547945319400321024
+URL = https://twitter.com/CezarVieira12/status/1557542761167036417
+
+word count = 19
+words loading = 6
+factor score = 4
+
+RT @QuintinoElisete: Comunistas que **apoiam** **ditaduras** **cubanas** , 
+venezuelanas, e africanas vem **falar** em **democracia** ? Será que **tem** 
+ingênuos que … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar
+cubano
+democracia
+ditadura (secondary)
+falar (secondary)
+ter

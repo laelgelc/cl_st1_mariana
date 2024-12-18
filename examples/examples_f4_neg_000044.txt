@@ -1,0 +1,16 @@
+file = t003457
+date = 2017-11-09
+user = Silviomarruda
+conversation = 408069482
+URL = https://twitter.com/Silviomarruda/status/928648731309826048
+
+word count = 19
+words loading = 1
+factor score = -1
+
+RT @FatosEsquerda: Maduro, que mata venezuelanos que protestam pacificamente a 
+todo momento, que prega o Bolivarianismo, vai **fechar** " m … 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

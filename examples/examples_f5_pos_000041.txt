@@ -1,0 +1,18 @@
+file = t018988
+date = 2022-09-20
+user = FilhoRq
+conversation = 1168611548518125568
+URL = https://twitter.com/FilhoRq/status/1572265326028398595
+
+word count = 23
+words loading = 3
+factor score = 3
+
+RT @yurivs: 2 , 1 **milhões** de **imigrantes** ilegais **entraram** nos EUA 
+este ano. Só em Agosto foram 25 mil venezuelanos. Que absurdo. 
+
+Lemmas in this text that loaded on the factor:
+
+entrar
+imigrante
+milhão

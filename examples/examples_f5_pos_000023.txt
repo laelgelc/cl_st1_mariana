@@ -1,0 +1,20 @@
+file = t009942
+date = 2019-02-22
+user = Visilva97Souza
+conversation = 570324012
+URL = https://twitter.com/Visilva97Souza/status/1099072211544096769
+
+word count = 19
+words loading = 4
+factor score = 4
+
+RT @iagoIV: parece que o exército Venezuelano matou uma índia que tentava 
+deixar **entrar** **ajuda** **humanitária** via **fronteira** Brasil-Venezuela 
+q … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda
+entrar
+fronteira
+humanitário

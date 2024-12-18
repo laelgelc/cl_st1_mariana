@@ -1,0 +1,20 @@
+file = t013275
+date = 2020-05-03
+user = ThiagoWyclef
+conversation = 1393283628
+URL = https://twitter.com/ThiagoWyclef/status/1256988914763681793
+
+word count = 21
+words loading = 4
+factor score = -3
+
+RT @reportersalles: STF **anula** ato de Bolsonaro que **determinava** 
+**expulsão** de 34 **diplomatas** venezuelanos do Brasil. O ministro Luís 
+Roberto Ba … 
+
+Lemmas in this text that loaded on the factor:
+
+anular
+determinar
+diplomata (secondary)
+expulsão

@@ -1,0 +1,21 @@
+file = t014045
+date = 2020-09-18
+user = AGiannini97
+conversation = 2704109752
+URL = https://twitter.com/AGiannini97/status/1307027351549743105
+
+word count = 20
+words loading = 5
+factor score = 5
+
+RT @Falagalo13 : **flag_venezuela_e** **eyes_e** O **atacante** Savarino está 
+na pré-lista de **convocados** pela **Seleção** Venezuelana. A tendência é 
+que seja **convocado** e desfal … 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+convocar
+eyes_e
+flag_venezuela_e
+seleção

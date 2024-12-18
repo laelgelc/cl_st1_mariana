@@ -1,0 +1,18 @@
+file = t018441
+date = 2022-06-20
+user = TiA_Do_ZaPp
+conversation = 1500620010221449216
+URL = https://twitter.com/TiA_Do_ZaPp/status/1538876678079905792
+
+word count = 24
+words loading = 2
+factor score = 2
+
+RT @CarlosCAlmeida3 : Oq será q os venezuelanos q vão todos os dias pra 
+Colômbia **comprar** alimentos, **remédios** ou qq outro produto, pq no seu 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+remédio

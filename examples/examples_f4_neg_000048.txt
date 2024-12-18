@@ -1,0 +1,16 @@
+file = t003932
+date = 2017-06-23
+user = gerciodias
+conversation = 38376540
+URL = https://twitter.com/gerciodias/status/878384020219756544
+
+word count = 22
+words loading = 1
+factor score = -1
+
+Lí outro dia que **americanos** lavavam dinheiro em diamantes numa mina 
+clandestina na amazônia Venezuelana esquisito, Cabral na H Stern. Burro? 
+
+Lemmas in this text that loaded on the factor:
+
+americano

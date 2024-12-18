@@ -1,0 +1,19 @@
+file = t018019
+date = 2022-02-11
+user = LorenzoZimmerer
+conversation = 1286339141043728384
+URL = https://twitter.com/LorenzoZimmerer/status/1492170498414948356
+
+word count = 19
+words loading = 3
+factor score = 3
+
+RT @Atletico: **soccer_ball_e** movie_camera_e Savaliso, Savagol, Savarino! Já 
+são dois anos de HASHTAG #galo_h para esse venezuelano que **joga** muita 
+bola! **flag_venezuela_e** … 
+
+Lemmas in this text that loaded on the factor:
+
+flag_venezuela_e
+jogar
+soccer_ball_e

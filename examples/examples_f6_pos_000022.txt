@@ -1,0 +1,18 @@
+file = t001109
+date = 2016-05-21
+user = edgarueno
+conversation = 16847406
+URL = https://twitter.com/edgarueno/status/733980475283378176
+
+word count = 19
+words loading = 3
+factor score = 3
+
+**Milhares** de Venezuelanos estão **abandonando** o país e vindo para o 
+Brasil, porque aqui tem **papel** higiênico, água. . . 
+
+Lemmas in this text that loaded on the factor:
+
+abandonar
+milhar
+papel

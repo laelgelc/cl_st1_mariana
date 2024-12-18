@@ -1,0 +1,18 @@
+file = t015079
+date = 2021-05-29
+user = Comenta_galo
+conversation = 1377275728388091904
+URL = https://twitter.com/Comenta_galo/status/1398461840779321346
+
+word count = 11
+words loading = 3
+factor score = 3
+
+RT @Atletico: **flag_venezuela_e** Savarino é **convocado** para a 
+**Seleção** Venezuelana: HASHTAG #vamogalo_h black_flag_e white_flag_e 
+
+Lemmas in this text that loaded on the factor:
+
+convocar
+flag_venezuela_e
+seleção

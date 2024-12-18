@@ -1,0 +1,18 @@
+file = t007604
+date = 2019-11-28
+user = MarcioH49532587
+conversation = 1147141530702045184
+URL = https://twitter.com/MarcioH49532587/status/1200200899139964929
+
+word count = 16
+words loading = 3
+factor score = -3
+
+RT @o_antagonista: A **ditadura** venezuelana é mantida com **dinheiro** do 
+**crime** , afirmou o almirante Craig Faller. 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+dinheiro
+ditadura

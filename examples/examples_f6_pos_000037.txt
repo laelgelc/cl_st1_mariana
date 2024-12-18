@@ -1,0 +1,17 @@
+file = t018115
+date = 2022-03-09
+user = Iugetsarevt
+conversation = 1166869500907704320
+URL = https://twitter.com/Iugetsarevt/status/1501682999527899139
+
+word count = 21
+words loading = 2
+factor score = 2
+
+E volta o ciclo, EUA volta a **comprar** **petróleo** venezuelano, que volta a 
+sustentar Cuba, que volta a circular entre o … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo

@@ -1,0 +1,18 @@
+file = t014422
+date = 2021-12-08
+user = William93703781
+conversation = 1282749379103936512
+URL = https://twitter.com/William93703781/status/1468580990322884612
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @Lindasod: Pollo Carvajall, **General** Venezuelano que **denunciou** Lula 
+como financiado pelo narcotráfico via Foro de SP, **afirma** que os os pr … 
+
+Lemmas in this text that loaded on the factor:
+
+afirmar
+denunciar
+general

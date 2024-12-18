@@ -1,0 +1,16 @@
+file = t002373
+date = 2017-08-01
+user = AdeliaBeling
+conversation = 2586092395
+URL = https://twitter.com/AdeliaBeling/status/892343209195696128
+
+word count = 22
+words loading = 1
+factor score = -1
+
+RT @Castro2Monica: Povo venezuelano tá **fechado** c Maduro, c defesa d 
+soberania nacional e contra interferência dos EUA BR tem patos manipulad … 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

@@ -1,0 +1,18 @@
+file = t018472
+date = 2022-06-19
+user = graca004
+conversation = 99012205
+URL = https://twitter.com/graca004/status/1538562210158587905
+
+word count = 24
+words loading = 2
+factor score = 2
+
+RT @CelAmericoBR: Quem em sã consciência **compraria** **papéis** de 
+empresas venezuelanas? Pois é , o governo do PT fez isso com o dinheiro dos 
+car … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+papel

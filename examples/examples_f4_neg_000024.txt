@@ -1,0 +1,16 @@
+file = t001824
+date = 2017-07-31
+user = AbelDadoFaleiro
+conversation = 476245278
+URL = https://twitter.com/AbelDadoFaleiro/status/892042657949732864
+
+word count = 17
+words loading = 1
+factor score = -1
+
+RT @turquim5 : Ditadura? Constituinte venezuelana tem 41 % de participação, 
+maior que as eleições **americanas** de 2014 . … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

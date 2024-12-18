@@ -1,0 +1,17 @@
+file = t000862
+date = 2016-04-08
+user = silvatimbeta2
+conversation = 2788861892
+URL = https://twitter.com/silvatimbeta2/status/718289751778988032
+
+word count = 12
+words loading = 2
+factor score = -2
+
+**Parlamento** venezuelano **aprova** reforma que aumenta nº de juízes do 
+Supremo 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+parlamento

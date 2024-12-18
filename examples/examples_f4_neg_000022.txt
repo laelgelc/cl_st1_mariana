@@ -1,0 +1,16 @@
+file = t001707
+date = 2016-09-07
+user = jr140797
+conversation = 605870928
+URL = https://twitter.com/jr140797/status/773563304920965121
+
+word count = 16
+words loading = 1
+factor score = -1
+
+RT @jessgouva: Com novo protesto, oposição **aumenta** pressão contra Maduro 
+na Venezuela: A oposição venezuelana. . . # … 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

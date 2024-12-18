@@ -1,0 +1,18 @@
+file = t005788
+date = 2018-09-19
+user = cafejornal
+conversation = 2460294426
+URL = https://twitter.com/cafejornal/status/1042443206158241793
+
+word count = 18
+words loading = 3
+factor score = -3
+
+" Chupa cabra " na **urna** **eletrônica** ? Presença de **empresa** 
+venezuelana na apuração dos votos? O presidente do Tribunal R … 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+empresa
+urna

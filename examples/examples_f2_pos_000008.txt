@@ -1,0 +1,21 @@
+file = t014737
+date = 2021-03-17
+user = gcvlo
+conversation = 3786006202
+URL = https://twitter.com/gcvlo/status/1372191065118285831
+
+word count = 22
+words loading = 4
+factor score = 4
+
+RT @LibertadoresBR: boy_medium-light_skin_tone_e **flag_venezuela_e** Com 
+vocês, Yeferson Soteldo! smiling_face_with_heart-eyes_e A classe do 
+venezuelano para cobrar a falta com perfeição e fazer o **gol** que classi 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+eyes_e
+flag_venezuela_e
+gol
+smiling_face_with_heart

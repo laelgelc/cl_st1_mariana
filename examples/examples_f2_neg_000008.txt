@@ -1,0 +1,19 @@
+file = t001845
+date = 2017-07-29
+user = suplementos_imp
+conversation = 793544241758756864
+URL = https://twitter.com/suplementos_imp/status/891301541205954561
+
+word count = 15
+words loading = 4
+factor score = -3
+
+RT @Desesquerdizada: Enquanto o **povo** venezuelano **passa** **fome** , os 
+líderes da **ditadura** socialista enriquecem. 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+fome (secondary)
+passar
+povo

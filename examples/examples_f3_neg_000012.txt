@@ -1,0 +1,19 @@
+file = t008971
+date = 2019-02-25
+user = Juliuscasamento
+conversation = 779329771733917696
+URL = https://twitter.com/Juliuscasamento/status/1100066030880284672
+
+word count = 18
+words loading = 4
+factor score = -3
+
+Venezuelanos **comem** **gatos** , **cachorros** e pombos para **sobreviver** , 
+" há pessoas caçando **gatos** e **cachorros** nas ruas, e pomb … 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro
+comer (secondary)
+gato
+sobreviver

@@ -1,0 +1,18 @@
+file = t013446
+date = 2020-05-27
+user = surtosfelopudos
+conversation = 3119304609
+URL = https://twitter.com/surtosfelopudos/status/1265736471304196096
+
+word count = 18
+words loading = 3
+factor score = 3
+
+@Modestii @_testesdamassa Td o **grupo** gulag kawaii já se predispõe a 
+**desertar** direto pro **exército** venezuelano e eu j … 
+
+Lemmas in this text that loaded on the factor:
+
+desertar
+exército
+grupo

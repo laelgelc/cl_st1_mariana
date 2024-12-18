@@ -1,0 +1,19 @@
+file = t018434
+date = 2022-06-13
+user = ULYSSESREZENDE
+conversation = 175488475
+URL = https://twitter.com/ULYSSESREZENDE/status/1536362754898112514
+
+word count = 20
+words loading = 4
+factor score = -4
+
+RT @Melnetto: **Justiça** **espanhola** **concorda** em **extraditar** general 
+venezuelano Carvajal para os EUA. Estados Unidos esperam que o general, que … 
+
+Lemmas in this text that loaded on the factor:
+
+concordar
+espanhol
+extraditar
+justiça

@@ -1,0 +1,22 @@
+file = t018140
+date = 2022-03-14
+user = AvelinoOl1
+conversation = 1252550675101364224
+URL = https://twitter.com/AvelinoOl1/status/1503340789795115015
+
+word count = 19
+words loading = 6
+factor score = 5
+
+RT @LidiaConta: Pobre **povo** **chileno** . Pobre **povo** **argentino** . 
+Pobre **povo** venezuelano. Pobre **povo** **boliviano** . Pobre **povo** 
+**colombiano** . **Temos** exempl … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+boliviano
+chileno
+colombiano
+povo (secondary)
+ter

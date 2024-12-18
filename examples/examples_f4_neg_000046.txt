@@ -1,0 +1,15 @@
+file = t003624
+date = 2017-05-29
+user = jornaltijucas
+conversation = 2151270211
+URL = https://twitter.com/jornaltijucas/status/869005694887878657
+
+word count = 9
+words loading = 1
+factor score = -1
+
+Oposição venezuelana **aumentará** pressão nas ruas contra Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

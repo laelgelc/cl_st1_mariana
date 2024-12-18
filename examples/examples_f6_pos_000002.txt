@@ -1,0 +1,19 @@
+file = t012022
+date = 2020-10-21
+user = NoticiaSaj
+conversation = 1283888885446201344
+URL = https://twitter.com/NoticiaSaj/status/1318865770403823616
+
+word count = 15
+words loading = 4
+factor score = 4
+
+**Navio** venezuelano com 1 , 4 milhão de barris de **petróleo** **corre** 
+**risco** de naufragar 
+
+Lemmas in this text that loaded on the factor:
+
+correr
+navio
+petróleo
+risco

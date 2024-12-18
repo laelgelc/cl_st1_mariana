@@ -1,0 +1,16 @@
+file = t002502
+date = 2017-08-26
+user = mafiasummers
+conversation = 1195666020
+URL = https://twitter.com/mafiasummers/status/901547772909899776
+
+word count = 23
+words loading = 1
+factor score = -1
+
+RT @PauloHe52181668 : @JornalOGlobo Os **americanos** podem ter as armas q for, 
+se os venezuelanos tiver Deus e suas armaduras q és teus anj … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

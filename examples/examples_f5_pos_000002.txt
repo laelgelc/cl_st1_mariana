@@ -1,0 +1,21 @@
+file = t004748
+date = 2018-02-19
+user = jornaldaband
+conversation = 31201557
+URL = https://twitter.com/jornaldaband/status/965733567732027392
+
+word count = 20
+words loading = 6
+factor score = 6
+
+Por causa da **crise** **humanitária** , mais de 40 mil venezuelanos já 
+**cruzaram** a **fronteira** em **busca** de **trabalho** e melhores … 
+
+Lemmas in this text that loaded on the factor:
+
+busca
+crise
+cruzar
+fronteira
+humanitário
+trabalho

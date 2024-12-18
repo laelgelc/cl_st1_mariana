@@ -1,0 +1,18 @@
+file = t001788
+date = 2016-09-24
+user = mais_velho
+conversation = 1561529839
+URL = https://twitter.com/mais_velho/status/779471288280739840
+
+word count = 16
+words loading = 3
+factor score = -2
+
+RT @psr_tweets: " Com fome graças ao socialismo, venezuelanos caçam **gatos** 
+, **cachorros** e pombos para **comer** " via @ilisp … 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro
+comer (secondary)
+gato

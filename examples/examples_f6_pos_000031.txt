@@ -1,0 +1,18 @@
+file = t018201
+date = 2022-03-06
+user = gabrielfenrir
+conversation = 69644901
+URL = https://twitter.com/gabrielfenrir/status/1500270395672432644
+
+word count = 20
+words loading = 2
+factor score = 2
+
+RT @OliverStuenkel: " Os EUA dependem do **petróleo** russo principalmente 
+para substituir o **petróleo** venezuelano que não **compram** por causa das 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo

@@ -1,0 +1,16 @@
+file = t002513
+date = 2017-08-12
+user = EoLili2010
+conversation = 546125980
+URL = https://twitter.com/EoLili2010/status/896490864133914624
+
+word count = 21
+words loading = 1
+factor score = -1
+
+@Boscardin Prefere o extermínio dos venezuelanos, que urram por socorro e 
+apoiam a intervenção **americana** e a postura de Trump. 
+
+Lemmas in this text that loaded on the factor:
+
+americano

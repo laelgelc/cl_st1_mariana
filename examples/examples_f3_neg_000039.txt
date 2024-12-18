@@ -1,0 +1,17 @@
+file = t001543
+date = 2016-08-11
+user = AntonioCSM
+conversation = 89261786
+URL = https://twitter.com/AntonioCSM/status/763570425984983040
+
+word count = 19
+words loading = 2
+factor score = -2
+
+**Escassez** de **comida** nas arenas olímpicas é para que venezuelanos se 
+sintam em casa, diz organização - Joselito Müller 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+escassez

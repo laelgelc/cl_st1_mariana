@@ -1,0 +1,18 @@
+file = t014720
+date = 2021-03-19
+user = CamilloJOGA10
+conversation = 4700481563
+URL = https://twitter.com/CamilloJOGA10/status/1372926020454612996
+
+word count = 20
+words loading = 3
+factor score = 3
+
+Com o **gol** no Deportivo Lara, Soteldo entra para a história da Libertadores 
+ao **marcar** contra um **time** venezuelano; en … 
+
+Lemmas in this text that loaded on the factor:
+
+gol
+marcar
+time

@@ -1,0 +1,18 @@
+file = t003588
+date = 2017-05-26
+user = flordelotus05
+conversation = 578771859
+URL = https://twitter.com/flordelotus05/status/868230851741573121
+
+word count = 20
+words loading = 2
+factor score = -2
+
+RT @Geraldofranca: Não confie em Diretas já com Gilmar Mendes no TSE e as 
+**urnas** **eletrônicas** venezuelanas. HASHTAG #diretasnao_h HASHTAG 
+#diretasjanao_h … 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+urna

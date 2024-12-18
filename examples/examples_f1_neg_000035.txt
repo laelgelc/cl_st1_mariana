@@ -1,0 +1,17 @@
+file = t000502
+date = 2016-01-13
+user = HigherNavy
+conversation = 1542053611
+URL = https://twitter.com/HigherNavy/status/687342775998742528
+
+word count = 16
+words loading = 2
+factor score = -2
+
+**Assembleia** venezuelana acata ordem do TSJ e afasta deputados opositores 
+**suspensos** : Os opositores Nirma Guarull. . . 
+
+Lemmas in this text that loaded on the factor:
+
+assembleia
+suspender

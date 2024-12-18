@@ -1,0 +1,18 @@
+file = t014949
+date = 2021-04-28
+user = Arthurz13296280
+conversation = 1312887638999863296
+URL = https://twitter.com/Arthurz13296280/status/1387491449906900995
+
+word count = 19
+words loading = 3
+factor score = 3
+
+A direção do Inter **confirma** que está contratando o **atacante** 
+venezuelano Jesús Orozco, de apenas 20 anos. O **jogador** … 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+confirmar
+jogador

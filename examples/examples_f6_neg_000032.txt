@@ -1,0 +1,18 @@
+file = t017925
+date = 2022-01-20
+user = Gerson__Souza
+conversation = 55408023
+URL = https://twitter.com/Gerson__Souza/status/1484213593314844678
+
+word count = 19
+words loading = 3
+factor score = -3
+
+RT @AlanLopesRio: ATENÇÃO: ex-chefe da **inteligência** venezuelana entrega 
+documentos oficiais à **justiça** , e bomba sobre Lula está prestes a ex … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe
+inteligência
+justiça

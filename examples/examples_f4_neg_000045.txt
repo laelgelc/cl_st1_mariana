@@ -1,0 +1,16 @@
+file = t003551
+date = 2017-05-05
+user = diulza
+conversation = 47960274
+URL = https://twitter.com/diulza/status/860297308939976706
+
+word count = 13
+words loading = 1
+factor score = -1
+
+@sputnik_brasil Excelente ideia do exercito brasileiro. Confio mais nos 
+**americanos** que nos cubanos, … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

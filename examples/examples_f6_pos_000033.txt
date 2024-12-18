@@ -1,0 +1,17 @@
+file = t018142
+date = 2022-03-08
+user = M_UltimosDias
+conversation = 1281231400184754176
+URL = https://twitter.com/M_UltimosDias/status/1501207931664089095
+
+word count = 18
+words loading = 2
+factor score = 2
+
+@lordivan22 Quem manda no **petróleo** venezuelano são os russos, ou seja, 
+ele deixa de **comprar** oficialmente dos russos … 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+petróleo

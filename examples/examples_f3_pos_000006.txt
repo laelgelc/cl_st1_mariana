@@ -1,0 +1,20 @@
+file = t010726
+date = 2019-04-30
+user = drakecafajeste
+conversation = 375895663
+URL = https://twitter.com/drakecafajeste/status/1123366861817753600
+
+word count = 22
+words loading = 4
+factor score = 4
+
+RT @digital_explora: VENEZUELA HOJE / TESÃO NAS RUAS - Em dia de **novos** 
+protestos em que o povo venezuelano **pede** **apoio** dos **militares** para 
+qu … 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+militar
+novo
+pedir

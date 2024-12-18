@@ -1,0 +1,17 @@
+file = t000767
+date = 2016-04-28
+user = marcsys
+conversation = 146076424
+URL = https://twitter.com/marcsys/status/725671240271278080
+
+word count = 19
+words loading = 2
+factor score = -2
+
+Verdade Gospel - Portal gospel de notícias do Brasil: " Crise: **salário** de 
+87 % dos venezuelanos não dá para **comida** " 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+salário

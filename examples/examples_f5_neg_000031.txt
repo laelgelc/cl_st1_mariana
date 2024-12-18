@@ -1,0 +1,19 @@
+file = t012886
+date = 2020-03-12
+user = CludiaM43627376
+conversation = 973770351372132352
+URL = https://twitter.com/CludiaM43627376/status/1237924809054523392
+
+word count = 20
+words loading = 3
+factor score = -3
+
+RT @ElossaCeu: @nopontodofato @valentinameyer TSE é o mesmo que deixou 
+**urnas** serem **fraudadas** ( com **empresa** venezuelana ) , que agora 
+colocou fo … 
+
+Lemmas in this text that loaded on the factor:
+
+empresa
+fraudar
+urna

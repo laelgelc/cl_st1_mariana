@@ -1,0 +1,17 @@
+file = t001682
+date = 2016-09-02
+user = portalafricas
+conversation = 173944935
+URL = https://twitter.com/portalafricas/status/771532133500235776
+
+word count = 13
+words loading = 2
+factor score = -2
+
+Chefe de **parlamento** venezuelano diz não poder **suspender** imunidade sem 
+crimes HASHTAG #mundo_h 
+
+Lemmas in this text that loaded on the factor:
+
+parlamento
+suspender

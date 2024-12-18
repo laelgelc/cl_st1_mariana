@@ -1,0 +1,18 @@
+file = t007207
+date = 2019-10-25
+user = jeffbasket
+conversation = 58813097
+URL = https://twitter.com/jeffbasket/status/1187854734591434752
+
+word count = 14
+words loading = 3
+factor score = 3
+
+RT @folha: **Petróleo** no **Nordeste** é mistura de três **campos** 
+venezuelanos, diz Petrobras 
+
+Lemmas in this text that loaded on the factor:
+
+campo
+nordeste
+petróleo

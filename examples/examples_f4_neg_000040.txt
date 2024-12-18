@@ -1,0 +1,16 @@
+file = t002645
+date = 2017-08-10
+user = RochelYaracuy
+conversation = 865703245074878464
+URL = https://twitter.com/RochelYaracuy/status/895540418083004416
+
+word count = 19
+words loading = 1
+factor score = -1
+
+RT Aloysio_Nunes: O Brasil e mais onze países **americanos** anunciaram hoje 
+em conjunto que não reconhecem a Constituinte venezuelana. 
+
+Lemmas in this text that loaded on the factor:
+
+americano

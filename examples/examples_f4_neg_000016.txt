@@ -1,0 +1,16 @@
+file = t001539
+date = 2016-08-13
+user = leticiaajp
+conversation = 2319500622
+URL = https://twitter.com/leticiaajp/status/764439863244431360
+
+word count = 19
+words loading = 1
+factor score = -1
+
+Fronteira reabre e milhares de venezuelanos entram na Colômbia: Parte da 
+fronteira foi **fechada** em agosto de 2 . . . 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

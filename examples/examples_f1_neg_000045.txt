@@ -1,0 +1,18 @@
+file = t000901
+date = 2016-04-21
+user = Xandy_Crazy
+conversation = 69101335
+URL = https://twitter.com/Xandy_Crazy/status/723032939173302272
+
+word count = 16
+words loading = 2
+factor score = -2
+
+HASHTAG #operacaobetalab_h **Parlamento** venezuelano **aprova** em 1ª 
+instância emenda para saída de Maduro: Cara. . . HASHTAG #sdv_h HASHTAG 
+#timbeta_h 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar
+parlamento

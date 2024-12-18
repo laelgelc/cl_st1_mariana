@@ -1,0 +1,17 @@
+file = t002997
+date = 2017-10-16
+user = zecarlosantos2
+conversation = 2943093201
+URL = https://twitter.com/zecarlosantos2/status/919909374633611265
+
+word count = 19
+words loading = 2
+factor score = -2
+
+Oposição venezuelana brincou de sapo e escorpião com o chavismo. Sabia que 
+haveria **fraude** na **eleição** e participou. … 
+
+Lemmas in this text that loaded on the factor:
+
+eleição
+fraude

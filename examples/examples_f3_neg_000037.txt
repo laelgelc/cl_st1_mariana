@@ -1,0 +1,17 @@
+file = t001528
+date = 2016-08-14
+user = AlessandroSADM
+conversation = 1058389087
+URL = https://twitter.com/AlessandroSADM/status/764652531234533376
+
+word count = 15
+words loading = 2
+factor score = -2
+
+RT @agirfilosofando: CRISE HUMANITÁRIA: 142 mil venezuelanos cruzam fronteira 
+para compra de **produtos** **básicos** 
+
+Lemmas in this text that loaded on the factor:
+
+básico
+produto

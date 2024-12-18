@@ -1,0 +1,19 @@
+file = t017434
+date = 2022-10-15
+user = lucasit
+conversation = 24023509
+URL = https://twitter.com/lucasit/status/1581392903276232705
+
+word count = 22
+words loading = 4
+factor score = 4
+
+" **Pintou** um **clima** " com uma **garota** **menor** de idade venezuelana 
+é muito pior que áudio sobre turismo sexual na Ucrânia, talquei? 
+
+Lemmas in this text that loaded on the factor:
+
+clima
+garota
+pequeno
+pintar

@@ -1,0 +1,19 @@
+file = t004271
+date = 2018-01-06
+user = sosopiava
+conversation = 831192469693984768
+URL = https://twitter.com/sosopiava/status/949474264385753088
+
+word count = 22
+words loading = 3
+factor score = -3
+
+RT @vtwillx3 : O cara foi fazer um trabalho humanitário na **ditadura** 
+venezuelana e foi **preso** por estar distribuindo alimentos aos que **passam** 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+passar
+prender

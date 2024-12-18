@@ -1,0 +1,19 @@
+file = t008921
+date = 2019-02-23
+user = monsieurverdoux
+conversation = 44011287
+URL = https://twitter.com/monsieurverdoux/status/1099293284915130368
+
+word count = 19
+words loading = 4
+factor score = -3
+
+Para o melhor amigo da **ditadura** iraniana, o correto é deixar o **povo** 
+venezuelano **passando** **fome** , impossibilitado de r … 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura
+fome (secondary)
+passar
+povo

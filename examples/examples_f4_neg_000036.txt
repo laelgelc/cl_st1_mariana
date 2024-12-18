@@ -1,0 +1,16 @@
+file = t002500
+date = 2017-08-08
+user = Fernandofrutal
+conversation = 51564077
+URL = https://twitter.com/Fernandofrutal/status/895066642060791808
+
+word count = 19
+words loading = 1
+factor score = -1
+
+RT @Aloysio_Nunes: O Brasil e mais onze países **americanos** anunciaram hoje 
+em conjunto que não reconhecem a Constituinte venezuelana. 
+
+Lemmas in this text that loaded on the factor:
+
+americano

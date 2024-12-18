@@ -1,0 +1,19 @@
+file = t010919
+date = 2019-05-20
+user = Alexand33970356
+conversation = 1059753802293788672
+URL = https://twitter.com/Alexand33970356/status/1130505055524855809
+
+word count = 21
+words loading = 3
+factor score = 3
+
+RT @BelinhaPoodleBR: Lógica esquerdista: **Presidente** que **pede** o 
+**apoio** do povo é ditador ( e usam de exemplo o vizinho venezuelano 
+face_screaming_in_fear_e ) ex-p … 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+pedir
+presidente

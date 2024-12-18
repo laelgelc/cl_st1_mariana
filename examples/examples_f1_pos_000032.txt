@@ -1,0 +1,20 @@
+file = t016061
+date = 2022-10-19
+user = RosePintolea
+conversation = 1483105136109142016
+URL = https://twitter.com/RosePintolea/status/1582719129634582528
+
+word count = 24
+words loading = 4
+factor score = 4
+
+RT @Chefcarolinavi1 : " Quem **tem** mais **medo** que o Brasil **vire** uma 
+Venezuela são os venezuelanos, ele não **terão** mais pra onde **fugir** " 
+Emilio Zu … 
+
+Lemmas in this text that loaded on the factor:
+
+fugir
+medo
+ter
+virar

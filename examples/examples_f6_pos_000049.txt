@@ -1,0 +1,18 @@
+file = t015044
+date = 2021-05-04
+user = marciopompilio
+conversation = 2298489942
+URL = https://twitter.com/marciopompilio/status/1389425787414196227
+
+word count = 25
+words loading = 2
+factor score = 2
+
+RT @AnaSilviaBotti1 : Hj é mais barato usar o dinheiro venezuelano como 
+**papel** de popozão do que **comprar** um rolo dele, isso é , se achar para 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+comprar
+papel

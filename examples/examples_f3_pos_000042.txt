@@ -1,0 +1,17 @@
+file = t010707
+date = 2019-04-30
+user = EltonApollo
+conversation = 49487350
+URL = https://twitter.com/EltonApollo/status/1123308447745835008
+
+word count = 8
+words loading = 3
+factor score = 3
+
+RT @o_antagonista: **Militares** venezuelanos **pedem** **asilo** ao Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+asilo
+militar
+pedir

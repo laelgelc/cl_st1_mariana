@@ -1,0 +1,18 @@
+file = t012330
+date = 2020-11-19
+user = alexpachecoprof
+conversation = 1201464936389660672
+URL = https://twitter.com/alexpachecoprof/status/1329366952847011842
+
+word count = 17
+words loading = 3
+factor score = -3
+
+Estados com acusações de **fraudes** apuraram votos usando **sistemas** de 
+processamento de dados da **empresa** Venezuelana Sm … 
+
+Lemmas in this text that loaded on the factor:
+
+empresa
+fraude
+sistema

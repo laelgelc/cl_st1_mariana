@@ -1,0 +1,17 @@
+file = t000145
+date = 2016-10-18
+user = ptpontonoticia
+conversation = 3304616500
+URL = https://twitter.com/ptpontonoticia/status/788493479462760449
+
+word count = 10
+words loading = 2
+factor score = -2
+
+**Justiça** venezuelana emite **decisão** que complica referendo contra 
+Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+decisão
+justiça

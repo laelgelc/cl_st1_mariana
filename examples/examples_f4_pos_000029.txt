@@ -1,0 +1,23 @@
+file = t016280
+date = 2022-10-18
+user = 01ReginaArruda
+conversation = 1474140106948763648
+URL = https://twitter.com/01ReginaArruda/status/1582406800803889155
+
+word count = 24
+words loading = 7
+factor score = 5
+
+RT @biazitagomes: O **presidente** da República achou que **pintou** um 
+**clima** com duas **meninas** **imigrantes** venezuelanas de 14 **anos** e as 
+**chamou** de p … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+chamar
+clima
+imigrante (secondary)
+menino
+pintar
+presidente (secondary)

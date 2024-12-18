@@ -1,0 +1,17 @@
+file = t002202
+date = 2017-08-13
+user = luizvitorio
+conversation = 37538077
+URL = https://twitter.com/luizvitorio/status/896746427271000067
+
+word count = 20
+words loading = 2
+factor score = -2
+
+@BashHaneen @diogomainardi Sim, é por isso também. O que é inadmissível é 
+uma **empresa** venezuelana fabricar as nossas **urnas** . 
+
+Lemmas in this text that loaded on the factor:
+
+empresa
+urna

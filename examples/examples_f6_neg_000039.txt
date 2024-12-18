@@ -1,0 +1,17 @@
+file = t000445
+date = 2016-01-06
+user = tririos
+conversation = 59030687
+URL = https://twitter.com/tririos/status/684584102557794308
+
+word count = 18
+words loading = 2
+factor score = -2
+
+RT @brasil247 : Mídia esconde que novo **chefe** do Congresso venezuelano 
+provocou **chavistas** - Brasil 24 / 7 Por @eduguim … 
+
+Lemmas in this text that loaded on the factor:
+
+chavistas
+chefe

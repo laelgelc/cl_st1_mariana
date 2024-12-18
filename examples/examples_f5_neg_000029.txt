@@ -1,0 +1,19 @@
+file = t012558
+date = 2020-12-20
+user = pemelpe
+conversation = 375983673
+URL = https://twitter.com/pemelpe/status/1340756300158930945
+
+word count = 20
+words loading = 3
+factor score = -3
+
+RT @MarleneFFL: **sistemas** **eleitorais** venezuelana por apoiar as 
+**eleições** legislativas fraudulentas de 6 de dezembro de Nicolas Maduro. 
+small_orange_diamond_e A emp … 
+
+Lemmas in this text that loaded on the factor:
+
+eleitoral
+eleição
+sistema

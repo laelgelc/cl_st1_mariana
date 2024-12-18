@@ -1,0 +1,20 @@
+file = t004865
+date = 2018-07-03
+user = diariofoco
+conversation = 281242890
+URL = https://twitter.com/diariofoco/status/1014166311688130560
+
+word count = 17
+words loading = 5
+factor score = 4
+
+Três **cidades** brasileiras **recebem** hoje ( 3 ) **imigrantes** 
+venezuelanos, em uma **nova** etapa do processo de **interiorização** . … 
+
+Lemmas in this text that loaded on the factor:
+
+cidade
+imigrante
+interiorização
+novo (secondary)
+receber

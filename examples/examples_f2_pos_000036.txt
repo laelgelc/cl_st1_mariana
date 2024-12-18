@@ -1,0 +1,18 @@
+file = t012282
+date = 2020-11-14
+user = Torcedor_Vasco_
+conversation = 1200744214654525440
+URL = https://twitter.com/Torcedor_Vasco_/status/1327592988755812352
+
+word count = 19
+words loading = 3
+factor score = 3
+
+@andrizek @RMPoficial Uma inovação tática! Só usou **jogadores** 
+brasileiros contra um **time** que **joga** só com venezuelanos. Gênio! 
+
+Lemmas in this text that loaded on the factor:
+
+jogador
+jogar
+time

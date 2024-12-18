@@ -1,0 +1,19 @@
+file = t002265
+date = 2017-08-04
+user = doceazedo
+conversation = 60070522
+URL = https://twitter.com/doceazedo/status/893451910526754816
+
+word count = 17
+words loading = 3
+factor score = -3
+
+RT @Francischini_ : **FRAUDE** ELEIÇÃO VENEZUELANA com mesmas **URNAS** 
+**ELETRÔNICAS** do BRASIL? Ocorreram FRAUDES nas ELEIÇÕES LULA / DILMA? 
+Quere … 
+
+Lemmas in this text that loaded on the factor:
+
+eletrônico
+fraude
+urna

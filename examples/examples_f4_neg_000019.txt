@@ -1,0 +1,16 @@
+file = t001655
+date = 2016-09-07
+user = WwwCesargomes
+conversation = 2806422725
+URL = https://twitter.com/WwwCesargomes/status/773547987343728642
+
+word count = 11
+words loading = 1
+factor score = -1
+
+Oposição venezuelana protesta para **aumentar** pressão por referendo contra 
+Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

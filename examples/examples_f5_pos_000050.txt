@@ -1,0 +1,19 @@
+file = t017595
+date = 2022-11-11
+user = Vieira2La
+conversation = 892714237935706112
+URL = https://twitter.com/Vieira2La/status/1591058920117882884
+
+word count = 19
+words loading = 3
+factor score = 3
+
+RT @BruceBarbosa88 : **URGENTE** : após discurso de Lula Venezuelanos são 
+vistos **cruzando** a **fronteira** de volta … " Lá teremos mais 
+oportunidades " 
+
+Lemmas in this text that loaded on the factor:
+
+cruzar
+fronteira
+urgente

@@ -1,0 +1,18 @@
+file = t000861
+date = 2016-04-28
+user = MitoSirius
+conversation = 419117476
+URL = https://twitter.com/MitoSirius/status/725632556217987072
+
+word count = 19
+words loading = 3
+factor score = -3
+
+**Salário** de 87 % dos venezuelanos não é suficiente para **comida** , diz 
+pesquisa: Série de fotos mostra **escassez** de. . . 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+escassez
+salário

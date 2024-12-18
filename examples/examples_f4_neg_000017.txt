@@ -1,0 +1,16 @@
+file = t001569
+date = 2016-08-21
+user = Paulo7662
+conversation = 330513142
+URL = https://twitter.com/Paulo7662/status/767481736079048704
+
+word count = 18
+words loading = 1
+factor score = -1
+
+RT @turquim5 : Ficou barato para os nadadores **americanos** . . . E se eles 
+fossem Cubanos ou Venezuelanos? Br247 https://t … 
+
+Lemmas in this text that loaded on the factor:
+
+americano

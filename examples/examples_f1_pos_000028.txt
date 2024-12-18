@@ -1,0 +1,21 @@
+file = t016523
+date = 2022-10-05
+user = Jugamenes
+conversation = 1135632260353449984
+URL = https://twitter.com/Jugamenes/status/1577494595537371136
+
+word count = 20
+words loading = 5
+factor score = 4
+
+RT @Sil_SCBR: **Precisamos** dos **irmãos** venezuelanos que **fugiram** do 
+Comuno / **socialismo** para o Brasil, fazendo **vídeos** com depoimentos do 
+sonho qu … 
+
+Lemmas in this text that loaded on the factor:
+
+fugir
+irmão
+precisar
+socialismo
+vídeo (secondary)

@@ -1,0 +1,18 @@
+file = t011061
+date = 2019-05-08
+user = PradoPecci
+conversation = 158482123
+URL = https://twitter.com/PradoPecci/status/1126270180026462209
+
+word count = 18
+words loading = 3
+factor score = 3
+
+RT @arielpalacios: **Militares** do SEBIN, o serviço secreto de Maduro, 
+**deteve** o vice-presidente do Parlamento venezuelano, Edgar Zambrano. 
+
+Lemmas in this text that loaded on the factor:
+
+deter
+militar
+presidente

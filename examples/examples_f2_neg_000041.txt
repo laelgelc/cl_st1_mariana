@@ -1,0 +1,20 @@
+file = t010346
+date = 2019-04-30
+user = jeroll3d
+conversation = 91118501
+URL = https://twitter.com/jeroll3d/status/1123237052324241409
+
+word count = 20
+words loading = 4
+factor score = -3
+
+@valoreconomico E na tal ' **ditadura** ' Venezuelana, segue Guaidó solto, na 
+' **democracia** ' brasileira, Lula, **preso** e sem provas de **crimes** . . . 
+unamused_face_e 
+
+Lemmas in this text that loaded on the factor:
+
+crime
+democracia (secondary)
+ditadura
+prender

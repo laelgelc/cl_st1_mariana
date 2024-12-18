@@ -1,0 +1,19 @@
+file = t009969
+date = 2019-02-23
+user = MColombinii
+conversation = 1080972273157328896
+URL = https://twitter.com/MColombinii/status/1099429251667898368
+
+word count = 16
+words loading = 4
+factor score = -3
+
+@MomentsBrasil Se tem **dinheiro** porque o **povo** venezuelano **passa** 
+**fome** , esse cara é um demônio 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro
+fome (secondary)
+passar
+povo

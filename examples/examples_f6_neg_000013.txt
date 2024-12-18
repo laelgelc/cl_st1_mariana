@@ -1,0 +1,19 @@
+file = t017210
+date = 2022-10-22
+user = bfm_jose
+conversation = 1494760884442439680
+URL = https://twitter.com/bfm_jose/status/1583739788360052736
+
+word count = 12
+words loading = 4
+factor score = -4
+
+**Justiça** **espanhola** **concorda** em **extraditar** general venezuelano 
+Carvajal para os EUA 
+
+Lemmas in this text that loaded on the factor:
+
+concordar
+espanhol
+extraditar
+justiça

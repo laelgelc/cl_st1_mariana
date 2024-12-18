@@ -1,0 +1,19 @@
+file = t017551
+date = 2022-10-21
+user = ibere
+conversation = 15380500
+URL = https://twitter.com/ibere/status/1583585379252260864
+
+word count = 21
+words loading = 4
+factor score = 4
+
+Eu vi um **vídeo** do Bolsonaro **falando** do " **pintou** um **clima** " e 
+ele mostra uma tal de uma embaixadora venezuelana. Além … 
+
+Lemmas in this text that loaded on the factor:
+
+clima
+falar
+pintar
+vídeo

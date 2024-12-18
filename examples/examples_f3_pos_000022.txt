@@ -1,0 +1,19 @@
+file = t015665
+date = 2021-08-24
+user = pedrojosevill16
+conversation = 1239995592350355456
+URL = https://twitter.com/pedrojosevill16/status/1430247064999432193
+
+word count = 20
+words loading = 3
+factor score = 3
+
+RT @liliamm_27 : Hoje HASHTAG #china_h fala em **apoio** ao **diplomata** 
+venezuelano Alex Saab e **pede** sua libertação. Se extraditado, haverá 
+graves consequên … 
+
+Lemmas in this text that loaded on the factor:
+
+apoio
+diplomata
+pedir

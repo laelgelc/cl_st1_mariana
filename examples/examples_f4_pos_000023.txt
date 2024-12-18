@@ -1,0 +1,20 @@
+file = t016714
+date = 2022-10-16
+user = LalaRempel
+conversation = 137025781
+URL = https://twitter.com/LalaRempel/status/1581582162863611904
+
+word count = 19
+words loading = 5
+factor score = 5
+
+Bolsonaro revela que " **pintou** um **clima** " com **menina** venezuelana de 
+14 **anos** **Fala** repercutiu mal entre usuários das red … 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+clima
+falar
+menina
+pintar

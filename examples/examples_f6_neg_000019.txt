@@ -1,0 +1,18 @@
+file = t000634
+date = 2016-02-17
+user = NeaJesus
+conversation = 2358490339
+URL = https://twitter.com/NeaJesus/status/699823443433385985
+
+word count = 18
+words loading = 3
+factor score = -3
+
+Parlamento venezuelano dá 1º **sinal** verde para lei de **anistia** para 
+políticos: Bancada **chavista** votou contra, ap. . . 
+
+Lemmas in this text that loaded on the factor:
+
+anistia
+chavista
+sinal

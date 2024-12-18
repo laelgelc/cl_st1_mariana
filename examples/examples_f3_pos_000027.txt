@@ -1,0 +1,19 @@
+file = t014198
+date = 2021-10-03
+user = SaberAlter0202
+conversation = 1443288554801610752
+URL = https://twitter.com/SaberAlter0202/status/1444719389350277123
+
+word count = 18
+words loading = 3
+factor score = 3
+
+RT @sputnik_brasil: Durante seu discurso, o **presidente** venezuelano 
+**denunciou** a infiltração de **grupos** terroristas armados e traficantes 
+de d … 
+
+Lemmas in this text that loaded on the factor:
+
+denunciar
+grupo
+presidente

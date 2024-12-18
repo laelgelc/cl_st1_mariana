@@ -1,0 +1,19 @@
+file = t000298
+date = 2016-11-23
+user = gumartinslive
+conversation = 382430644
+URL = https://twitter.com/gumartinslive/status/801313151518179329
+
+word count = 12
+words loading = 4
+factor score = 4
+
+Três **jornais** venezuelanos **param** de circular por **falta** de **papel** 
+G1 
+
+Lemmas in this text that loaded on the factor:
+
+falta
+jornal
+papel
+parar

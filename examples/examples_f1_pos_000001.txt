@@ -1,0 +1,22 @@
+file = t018648
+date = 2022-07-22
+user = GobboEdinho
+conversation = 1485019441129734144
+URL = https://twitter.com/GobboEdinho/status/1550409009219477504
+
+word count = 18
+words loading = 6
+factor score = 6
+
+RT @LongoJoao: Venezuelanos **Argentinos** **Chilenos** **Cubanos** Haitianos 
+Peruanos **Colombianos** **Bolivianos** todos **fugindo** dos seus países para 
+o Bras … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+boliviano
+chileno
+colombiano
+cubano
+fugir

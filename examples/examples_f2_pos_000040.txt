@@ -1,0 +1,19 @@
+file = t007846
+date = 2019-01-15
+user = danielucas2002
+conversation = 4845842968
+URL = https://twitter.com/danielucas2002/status/1085191305053954050
+
+word count = 18
+words loading = 4
+factor score = 3
+
+RT @_gabriel2santos: **Boa** tarde, amigos. Tudo bem? O Santos apresentará seu 
+primeiro **reforço** para a temporada, o meia-atacante venezuelano Y … 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+bom (secondary)
+meia
+reforço

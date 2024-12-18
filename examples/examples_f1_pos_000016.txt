@@ -1,0 +1,21 @@
+file = t018604
+date = 2022-07-30
+user = Tininho01
+conversation = 315464592
+URL = https://twitter.com/Tininho01/status/1553369931995123712
+
+word count = 23
+words loading = 5
+factor score = 4
+
+RT @JornalDaCidadeO: No Brasil para **fugir** da **fome** e da **miséria** , 
+venezuelano dá depoimento impactante e **vídeo** viraliza ( **veja** o 
+**vídeo** ) https: … 
+
+Lemmas in this text that loaded on the factor:
+
+fome
+fugir
+miséria
+ver
+vídeo (secondary)

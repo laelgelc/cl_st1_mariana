@@ -1,0 +1,19 @@
+file = t015611
+date = 2021-08-03
+user = HTE__Sports
+conversation = 956187289
+URL = https://twitter.com/HTE__Sports/status/1422661838177804294
+
+word count = 14
+words loading = 4
+factor score = 3
+
+**OFICIAL** ! O meia-atacante venezuelano Matías Lecava, de 18 anos, é novo 
+**reforço** do Santos 
+
+Lemmas in this text that loaded on the factor:
+
+atacante
+meia
+oficial (secondary)
+reforço

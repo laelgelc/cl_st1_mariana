@@ -1,0 +1,19 @@
+file = t014556
+date = 2021-01-05
+user = sonia_schoecher
+conversation = 1395584570
+URL = https://twitter.com/sonia_schoecher/status/1346478899497111556
+
+word count = 20
+words loading = 3
+factor score = -3
+
+RT @ernestofaraujo: A prorrogação dos atuais **mandatos** parlamentares tem 
+amparo na Constituição venezuelana e em **decisão** da Suprema **Corte** le 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+corte
+decisão
+mandato

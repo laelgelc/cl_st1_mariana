@@ -1,0 +1,18 @@
+file = t000722
+date = 2016-03-01
+user = SaCarllos
+conversation = 2575577429
+URL = https://twitter.com/SaCarllos/status/704757228390100992
+
+word count = 17
+words loading = 3
+factor score = -3
+
+Supremo **anula** parcialmente poderes do **Parlamento** venezuelano: O TSJ 
+**determinou** que o controle da Assembleia Na. . . 
+
+Lemmas in this text that loaded on the factor:
+
+anular
+determinar
+parlamento

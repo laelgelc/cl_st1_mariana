@@ -1,0 +1,17 @@
+file = t000428
+date = 2016-01-14
+user = klaudiomotta
+conversation = 3437441061
+URL = https://twitter.com/klaudiomotta/status/687633776801935360
+
+word count = 16
+words loading = 2
+factor score = -2
+
+RT @4nnak: HASHTAG #operacaobetalab_h Parlamento venezuelano acata **decisão** 
+da **Justiça** e afasta deputados da oposição: . . . HASHTAG #sdv_h … 
+
+Lemmas in this text that loaded on the factor:
+
+decisão
+justiça

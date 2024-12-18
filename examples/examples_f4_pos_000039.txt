@@ -1,0 +1,19 @@
+file = t017734
+date = 2022-11-05
+user = Railan16814353
+conversation = 1382559845904216064
+URL = https://twitter.com/Railan16814353/status/1588950875514757121
+
+word count = 16
+words loading = 4
+factor score = 4
+
+@rafael_elisio Deve tá procurando as **Venezuelanas** de 14 **anos** que 
+**pintou** **clima** com o mito KKKKK 
+
+Lemmas in this text that loaded on the factor:
+
+ano
+clima
+pintar
+venezuelanas

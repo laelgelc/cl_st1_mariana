@@ -1,0 +1,19 @@
+file = t001866
+date = 2017-07-25
+user = OvelhaVermelha7
+conversation = 760557686
+URL = https://twitter.com/OvelhaVermelha7/status/889689410148741120
+
+word count = 23
+words loading = 4
+factor score = -3
+
+RT @kallilolv: Na **ditadura** venezuelana o **povo** escolhe na urna o 
+**ditador** , na **democracia** dos EUA o menos votado ganha a eleição. 
+
+Lemmas in this text that loaded on the factor:
+
+democracia (secondary)
+ditador
+ditadura
+povo

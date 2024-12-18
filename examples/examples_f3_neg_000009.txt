@@ -1,0 +1,19 @@
+file = t005073
+date = 2018-07-02
+user = dnoticiaspt
+conversation = 22905057
+URL = https://twitter.com/dnoticiaspt/status/1013897876236193792
+
+word count = 14
+words loading = 4
+factor score = -3
+
+Venezuelanos protestam contra baixos **salários** , falta de **produtos** 
+**básicos** e **medicamentos** : Os venezuelanos protestara … 
+
+Lemmas in this text that loaded on the factor:
+
+básico
+medicamento (secondary)
+produto
+salário

@@ -1,0 +1,21 @@
+file = t015868
+date = 2022-10-10
+user = Wolfking_F12
+conversation = 1954031306
+URL = https://twitter.com/Wolfking_F12/status/1579486927665135616
+
+word count = 22
+words loading = 5
+factor score = 4
+
+RT @BolsonaroSP: Venezuelanos relatam que **viram** crianças **comendo** gato, 
+**cachorro** e iguana. É isso que você **quer** para o seu **filho** ? Lembre 
+-se … 
+
+Lemmas in this text that loaded on the factor:
+
+cachorro (secondary)
+comer
+filho
+querer
+ver

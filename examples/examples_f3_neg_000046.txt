@@ -1,0 +1,17 @@
+file = t002455
+date = 2017-08-29
+user = MinasPrevi
+conversation = 2451834308
+URL = https://twitter.com/MinasPrevi/status/902583623374831618
+
+word count = 11
+words loading = 2
+factor score = -2
+
+" Diante de **escassez** de dinheiro, venezuelanos **pagam** para comprar notas 
+" 
+
+Lemmas in this text that loaded on the factor:
+
+escassez
+pagar

@@ -1,0 +1,20 @@
+file = t004627
+date = 2018-02-14
+user = CeliaPfau
+conversation = 3373232345
+URL = https://twitter.com/CeliaPfau/status/963844897806671872
+
+word count = 23
+words loading = 4
+factor score = 4
+
+RT @Ricamconsult: A que ponto **chegou** a **crise** **humanitária** na 
+Venezuela? Já há tantos venezuelanos deixando o país quanto o **número** de 
+exilado … 
+
+Lemmas in this text that loaded on the factor:
+
+chegar
+crise
+humanitário
+número

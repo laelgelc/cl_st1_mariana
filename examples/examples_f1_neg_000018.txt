@@ -1,0 +1,18 @@
+file = t005372
+date = 2018-08-09
+user = elianaosonho
+conversation = 211991111
+URL = https://twitter.com/elianaosonho/status/1027374267246276608
+
+word count = 12
+words loading = 3
+factor score = -3
+
+RT @folha_mundo: Ministra do STF **suspende** **decreto** que restringia 
+**serviços** para venezuelanos 
+
+Lemmas in this text that loaded on the factor:
+
+decreto
+serviço
+suspender

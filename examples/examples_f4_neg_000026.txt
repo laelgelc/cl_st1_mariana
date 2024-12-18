@@ -1,0 +1,16 @@
+file = t002001
+date = 2017-07-10
+user = Convenbil
+conversation = 1650092862
+URL = https://twitter.com/Convenbil/status/884470777407524865
+
+word count = 15
+words loading = 1
+factor score = -1
+
+RT @diarioliberdade: Oposição venezuelana admite que parte de seu plano 
+golpista é **aumentar** conflitividade 
+
+Lemmas in this text that loaded on the factor:
+
+aumentar

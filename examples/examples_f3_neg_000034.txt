@@ -1,0 +1,17 @@
+file = t001391
+date = 2016-07-05
+user = revistacelebre
+conversation = 82415415
+URL = https://twitter.com/revistacelebre/status/750178168481325057
+
+word count = 13
+words loading = 2
+factor score = -2
+
+Sem **comida** , **hospital** venezuelano recorre a doações para alimentar 
+crianças ( via@revistacelebre ) 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+hospital

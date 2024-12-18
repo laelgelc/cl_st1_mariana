@@ -1,0 +1,22 @@
+file = t018598
+date = 2022-07-31
+user = valdeci09078149
+conversation = 1129569688688762880
+URL = https://twitter.com/valdeci09078149/status/1553774694913941504
+
+word count = 21
+words loading = 6
+factor score = 5
+
+RT @BrazilFight: Americanos foram pra o buraco. Venezuelanos **passam** 
+**fome** . 50 % dos **Argentinos** estão na **miséria** . Peruanos e 
+**chilenos** **querem** d … 
+
+Lemmas in this text that loaded on the factor:
+
+argentino
+chileno
+fome
+miséria
+passar (secondary)
+querer

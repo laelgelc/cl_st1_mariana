@@ -1,0 +1,18 @@
+file = t017837
+date = 2022-11-07
+user = eliazvendas
+conversation = 1438523880411316224
+URL = https://twitter.com/eliazvendas/status/1589730588248150016
+
+word count = 12
+words loading = 3
+factor score = -3
+
+RT @governofederaal: **Empresa** venezuelana tem acesso ao nosso **sistema** 
+**eleitoral** ? HASHTAG #brasilwasstollen_h 
+
+Lemmas in this text that loaded on the factor:
+
+eleitoral
+empresa
+sistema

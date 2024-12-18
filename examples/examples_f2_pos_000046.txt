@@ -1,0 +1,18 @@
+file = t003495
+date = 2017-05-22
+user = JJm536
+conversation = 3033597009
+URL = https://twitter.com/JJm536/status/866710567532285954
+
+word count = 17
+words loading = 3
+factor score = 3
+
+RT @Vingadorez: Rómulo Otero é **convocado** para **Seleção** Venezuelana e 
+desfalca Galo em dois **jogos** - via Super … 
+
+Lemmas in this text that loaded on the factor:
+
+convocar
+jogo
+seleção

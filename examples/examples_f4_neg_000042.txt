@@ -1,0 +1,16 @@
+file = t002825
+date = 2017-03-30
+user = syllassousa
+conversation = 195503270
+URL = https://twitter.com/syllassousa/status/847506636277071872
+
+word count = 23
+words loading = 1
+factor score = -1
+
+RT @DanielCoelho45 : Maduro acaba de concretizar o golpe de estado ao 
+**fechar** o legislativo venezuelano. Fica claro o que defendem para o Bra … 
+
+Lemmas in this text that loaded on the factor:
+
+fechar

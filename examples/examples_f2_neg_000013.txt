@@ -1,0 +1,21 @@
+file = t003298
+date = 2017-04-02
+user = ottoliveira
+conversation = 281470414
+URL = https://twitter.com/ottoliveira/status/848337653741342720
+
+word count = 22
+words loading = 5
+factor score = -3
+
+RT @stellebl: É revoltante esses imbecís defendendo o **ditador** 
+venezuelano. o **povo** **pedindo** refúgio no Brasil, **passa** **fome** , ñ 
+tem ph. G … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador
+fome (secondary)
+passar
+pedir (secondary)
+povo

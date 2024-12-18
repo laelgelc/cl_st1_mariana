@@ -1,0 +1,17 @@
+file = t000482
+date = 2016-01-23
+user = OPotiguar
+conversation = 276049992
+URL = https://twitter.com/OPotiguar/status/691002662742048768
+
+word count = 10
+words loading = 2
+factor score = -2
+
+**Parlamento** venezuelano **rejeita** Decreto de Emergência Econômica de 
+Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+parlamento
+rejeitar

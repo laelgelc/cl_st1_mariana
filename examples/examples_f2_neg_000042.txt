@@ -1,0 +1,19 @@
+file = t010438
+date = 2019-04-13
+user = Angelica_Ca09
+conversation = 864546491905581056
+URL = https://twitter.com/Angelica_Ca09/status/1117050298726531073
+
+word count = 22
+words loading = 3
+factor score = -3
+
+@UOL A loucura do **ditador** sanguinário Maduro já atinge níveis 
+alarmantes. **Prendam** esse **ditador** para o bem do sofrido **povo** 
+venezuelano. 
+
+Lemmas in this text that loaded on the factor:
+
+ditador
+povo
+prender

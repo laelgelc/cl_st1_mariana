@@ -1,0 +1,18 @@
+file = t000658
+date = 2016-03-24
+user = anddcruz
+conversation = 3570405267
+URL = https://twitter.com/anddcruz/status/713029381522853889
+
+word count = 14
+words loading = 3
+factor score = -3
+
+@empiricus @lobaoeletrico Ainda mais, voz de **urnas** venezuelanas, criadas 
+para **fraude** **eleitoral** . HASHTAG #ocupabrasilia_h 
+
+Lemmas in this text that loaded on the factor:
+
+eleitoral
+fraude
+urna

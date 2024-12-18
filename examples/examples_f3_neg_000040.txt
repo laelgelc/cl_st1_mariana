@@ -1,0 +1,17 @@
+file = t001552
+date = 2016-08-11
+user = AntoniodaMatta
+conversation = 42699596
+URL = https://twitter.com/AntoniodaMatta/status/763535953000591360
+
+word count = 18
+words loading = 2
+factor score = -2
+
+RT @JoselitoMuller3 : **Escassez** de **comida** nas arenas olímpicas é para 
+que venezuelanos se sintam em casa, … https://t. … 
+
+Lemmas in this text that loaded on the factor:
+
+comida
+escassez

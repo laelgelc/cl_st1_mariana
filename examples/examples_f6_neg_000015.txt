@@ -1,0 +1,20 @@
+file = t017882
+date = 2022-11-20
+user = CkivcT7WarqxKaG
+conversation = 2722794668
+URL = https://twitter.com/CkivcT7WarqxKaG/status/1594126789269458945
+
+word count = 17
+words loading = 4
+factor score = -4
+
+RT @lilianbscosta22 : **Justiça** **espanhola** **concorda** em **extraditar** 
+general venezuelano Carvajal para os EUA HASHTAG #cnnbrasil_h - notícias da 
+@CNNBrasil … 
+
+Lemmas in this text that loaded on the factor:
+
+concordar
+espanhol
+extraditar
+justiça

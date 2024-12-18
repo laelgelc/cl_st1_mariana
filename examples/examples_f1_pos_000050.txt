@@ -1,0 +1,20 @@
+file = t010048
+date = 2019-03-14
+user = naomencheosaco
+conversation = 983142366314983424
+URL = https://twitter.com/naomencheosaco/status/1106194311715192833
+
+word count = 20
+words loading = 4
+factor score = 4
+
+RT @gaviaox108 : **flag_brazil_e** Venezuelanos estão bebendo água de esgosto 
+e **comendo** **lixo** HASHTAG #socorro_h HASHTAG #ditaduradomaduro_h / É isso 
+que a @gleisi **apóia** . . . . http … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar
+comer
+flag_brazil_e
+lixo
