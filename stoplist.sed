@@ -60,3 +60,13 @@
 / kkkkk$/d
 / twitterhandle$/d
 / tu$/d
+/ que$/d
+/ lula$/d
+/ es$/d
+/ re$/d
+/ na$/d
+/ barroso$/d
+/ as$/d
+/ eh$/d
+/ tag$/d
+/ pra$/d
