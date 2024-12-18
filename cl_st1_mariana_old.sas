@@ -22,7 +22,7 @@ libname gelc "&whereisit/&myfolder";
 options fmtsearch=(work library);
 
 /* enter number of factors to extract */
-%let extractfactors = 3 ;
+%let extractfactors = 6 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
@@ -66,8 +66,8 @@ proc datasets library=work nolist; delete corr  ; run;
 
 DATA corr;
   INFILE "/home/&sasusername/&myfolder/corr.txt" ;
-  length _TYPE_ $ 4 _NAME_ $ 8 v000001-v000727 8 ;
-  input _TYPE_ $ _NAME_ $ v000001-v000727 ;
+  length _TYPE_ $ 4 _NAME_ $ 8 v000001-v001000 8 ;
+  input _TYPE_ $ _NAME_ $ v000001-v001000 ;
 RUN;
 
 /* turn missing correlation values to zeros */
@@ -80,7 +80,7 @@ DATA=temp (rename=_name_ = Name1)
 OUT=temp2 (rename = (_name_ = Name2 col1=corr))
 ;
 by name1;
-var v000001-v000727;
+var v000001-v001000;
 RUN;
 
 proc sort data=temp2 ; by corr ; run;
@@ -991,7 +991,7 @@ run;
 /* canonical correlation with user profiles */
 
 OPTIONS VALIDVARNAME=ANY;
-FILENAME IN "/home/&sasusername/&project._profiles/&project._profiles_scores_only.tsv";
+FILENAME IN "/home/&sasusername/cl_st1_mariana_profiles/cl_st1_mariana_profiles_scores_only.tsv";
 PROC IMPORT OUT= users
      DATAFILE= IN
      DBMS=DLM REPLACE;
@@ -1224,7 +1224,7 @@ run;
 /* list all files in your directory */
 
 /* name the zip file you want to zip into, e.g. */
-%let addcntzip = /home/&sasusername/zip/output_&project..zip;
+%let addcntzip = /home/u63529080/zip/output_&project..zip;
 
 FILENAME temp "&addcntzip";
 DATA _NULL_;
@@ -1237,7 +1237,6 @@ data filelist;
   length root dname $ 2048 filename $ 256 dir level 8;
   input root;
   retain filename dname ' ' level 0 dir 1;
-/* Update the SAS username and project name - variable resolution is not allowed here */
 cards4;
 /home/u63529080/cl_st1_mariana
 ;;;;
