@@ -1,0 +1,18 @@
+file = t007635
+date = 2019-12-05
+user = TheOneBoston98
+conversation = 902686285999075328
+URL = https://twitter.com/TheOneBoston98/status/1202606496044990464
+
+word count = 18
+words loading = 3
+factor score = 4
+
+RT @Estadao: Mais de 500 crianças e adolescentes venezuelanos cruzaram a 
+fronteira do Brasil sozinhos, diz ONG 
+
+Lemmas in this text that loaded on the factor:
+
+cruzar_verb_fin_plur 
+fronteira_noun_fem_sing 
+venezuelano_adj_masc_plur 

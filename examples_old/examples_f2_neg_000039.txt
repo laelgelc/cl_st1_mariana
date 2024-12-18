@@ -1,0 +1,17 @@
+file = t013231
+date = 2020-05-03
+user = zizag
+conversation = 32529716
+URL = https://twitter.com/zizag/status/1256979716638154758
+
+word count = 19
+words loading = 2
+factor score = -3
+
+RT @Trom_Petista: URGENTE! Ministro do STF suspende expulsão de 34 diplomatas 
+venezuelanos do Brasil - Política - G1 . Barroso atendeu o ped … 
+
+Lemmas in this text that loaded on the factor:
+
+diplomata_noun_masc_plur 
+suspender_verb_fin_sing 

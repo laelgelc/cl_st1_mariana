@@ -1,0 +1,15 @@
+file = t005915
+date = 2018-10-17
+user = Jorge_Anastacio
+conversation = 14568552
+URL = https://twitter.com/Jorge_Anastacio/status/1052376383375241216
+
+word count = 12
+words loading = 1
+factor score = -2
+
+RT @edmilsonpapo10 : Lula recebe a visita de chefão do tráfico venezuelano - 
+
+Lemmas in this text that loaded on the factor:
+
+chefe_noun_masc_sing 

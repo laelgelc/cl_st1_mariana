@@ -1,0 +1,13 @@
+@_LHcouto twitterhandle_NOUN_Masc_Sing
+@Ednaldo40916743 twitterhandle_ADJ_Masc_Sing
+Assistam assistam_PROPN_Masc_Sing
+Cara cara_PROPN_Sing
+a a_ADP
+Tapa tapa_PROPN_Sing
+, ,
+Rica rica_PROPN_Masc_Sing
+unho unhar_VERB_Fin_Sing
+de de_ADP
+2 2_NUM
+venezuelanos venezuelano_NOUN_Masc_Plur
+. .

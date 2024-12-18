@@ -1,0 +1,16 @@
+file = t010562
+date = 2019-05-01
+user = JDIASANETO
+conversation = 174903134
+URL = https://twitter.com/JDIASANETO/status/1123397216016662529
+
+word count = 20
+words loading = 1
+factor score = -2
+
+RT @PolitzOficial: HASHTAG #atenção_h! CHEFE DE INTELIGÊNCIA DO REGIME 
+DITATORIAL VENEZUELANO ATACA NICOLAS MADURO EM CARTA: - Chegou a hora de re … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe_noun_masc_sing 

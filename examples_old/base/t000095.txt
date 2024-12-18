@@ -1,0 +1,13 @@
+Fora fora_ADV
+Maduro maduro_PROPN_Masc_Sing
+, ,
+força força_NOUN_Fem_Sing
+Venezuelanos venezuelanos_PROPN_Fem_Sing
+- -
+Maduro maduro_PROPN_Masc_Sing
+sofre sofrer_VERB_Fin_Sing
+novo novo_ADJ_Masc_Sing
+protesto protesto_NOUN_Masc_Sing
+contra contra_ADP
+seu seu_DET_Masc_Sing
+mandato mandato_NOUN_Masc_Sing

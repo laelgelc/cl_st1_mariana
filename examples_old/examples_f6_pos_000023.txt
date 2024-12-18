@@ -1,0 +1,15 @@
+file = t019041
+date = 2022-09-13
+user = j_nabuco
+conversation = 1200969441242222592
+URL = https://twitter.com/j_nabuco/status/1569536180512751619
+
+word count = 17
+words loading = 0
+factor score = 
+
+@lhtaddeu @joaop2112_ @IngridGuimaraes Quem não se sensibiliza com o drama dos 
+Cubanos e Venezuelanos é o que? 
+
+Lemmas in this text that loaded on the factor:
+

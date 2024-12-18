@@ -1,0 +1,16 @@
+file = t005591
+date = 2018-10-10
+user = adrielthiago
+conversation = 44888543
+URL = https://twitter.com/adrielthiago/status/1050038541236035584
+
+word count = 16
+words loading = 1
+factor score = -2
+
+RT @JunnoRodrigues: Anistia Internacional acusa forças venezuelanas de 8 . 200 
+execuções extrajudiciais em três anos 
+
+Lemmas in this text that loaded on the factor:
+
+anistia_noun_fem_sing 

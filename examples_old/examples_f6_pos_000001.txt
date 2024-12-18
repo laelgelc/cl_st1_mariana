@@ -1,0 +1,16 @@
+file = t019064
+date = 2022-09-15
+user = CanaldoRafinhaF
+conversation = 1097873314314403840
+URL = https://twitter.com/CanaldoRafinhaF/status/1570508894115614720
+
+word count = 24
+words loading = 1
+factor score = 
+
+Venezuelana que fugiu do seu País Natal por causa da fome, pode ter que sair 
+do Brasil, caso o PT / Lula ganha a ele … 
+
+Lemmas in this text that loaded on the factor:
+
+venezuelano_adj_fem_sing 

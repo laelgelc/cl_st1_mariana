@@ -1,0 +1,15 @@
+file = t007952
+date = 2019-01-23
+user = ritary
+conversation = 105817729
+URL = https://twitter.com/ritary/status/1088054936754155523
+
+word count = 12
+words loading = 0
+factor score = -2
+
+RT @MouraEscocard: Que Deus abençoe todos os nossos irmãos Venezuelanos. 
+HASHTAG #23ecallehastaquesevaya_h 
+
+Lemmas in this text that loaded on the factor:
+

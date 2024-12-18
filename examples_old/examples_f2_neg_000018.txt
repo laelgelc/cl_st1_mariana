@@ -1,0 +1,19 @@
+file = t001477
+date = 2016-07-30
+user = john_dealmeida
+conversation = 730562181167759360
+URL = https://twitter.com/john_dealmeida/status/759189836171472896
+
+word count = 19
+words loading = 3
+factor score = -3
+
+RT @JosiasS1969 : HASHTAG #josiasbeta_h Chavismo pede à Justiça que anule 
+atos do Parlamento venezuelano: Deputados chavistas pediram nes. . . https://t 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+parlamento_noun_masc_sing 
+pedir_verb_fin_plur 
+pedir_verb_fin_sing 

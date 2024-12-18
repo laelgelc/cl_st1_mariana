@@ -1,0 +1,17 @@
+file = t003871
+date = 2017-06-19
+user = MarciaS81273164
+conversation = 818465374140239872
+URL = https://twitter.com/MarciaS81273164/status/876920413632077824
+
+word count = 19
+words loading = 2
+factor score = -2
+
+RT @MovAvanteBrasil: Diosdado Cabello, Venezuelano acusado de tráfico de 
+drogas, lavagem de dinheiro, com Lula e Joesley no … 
+
+Lemmas in this text that loaded on the factor:
+
+dinheiro_noun_masc_sing (secondary)
+droga_noun_fem_plur 

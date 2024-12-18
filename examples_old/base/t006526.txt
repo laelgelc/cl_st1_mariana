@@ -1,0 +1,23 @@
+Enquanto enquanto_ADV
+o o_DET_Masc_Sing
+povo povo_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+está estar_AUX_Fin_Sing
+morrendo morrer_VERB_Part
+de de_ADP
+fome fome_NOUN_Fem_Sing
+, ,
+Maduro maduro_PROPN_Masc_Sing
+come comer_VERB_Fin_Sing
+um um_DET_Masc_Sing
+churrasco churrasco_NOUN_Masc_Sing
+de de_ADP
+luxo luxo_NOUN_Masc_Sing
+em em_ADP
+Istambul istambul_PROPN_Sing
+. .
+ "  "
+Socialismo socialismo_NOUN_Masc_Sing
+pra pra_ADP
+v v_PROPN_Sing
+… …

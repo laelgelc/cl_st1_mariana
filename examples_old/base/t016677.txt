@@ -1,0 +1,25 @@
+Meu meu_INTJ
+Deus deus_INTJ
+, ,
+a a_ADP
+que que_PRON_Rel_Masc_Sing
+ponto ponto_NOUN_Masc_Sing
+chegamos chegar_VERB_Fin_Plur
+! !
+ "  "
+Pintou pintar_VERB_Fin_Sing
+um um_DET_Masc_Sing
+clima clima_NOUN_Masc_Sing
+ "  "
+: :
+fala falar_VERB_Fin_Sing
+de de_ADP
+Bolsonaro bolsonaro_NOUN_Masc_Sing
+sobre sobre_ADP
+meninas menino_NOUN_Fem_Plur
+venezuelanas venezuelano_ADJ_Fem_Plur
+repercute repercutir_VERB_Fin_Sing
+e e_CCONJ
+gera gerar_VERB_Fin_Sing
+cr cr_NOUN_Masc_Sing
+… …

@@ -1,0 +1,20 @@
+file = t017136
+date = 2022-10-18
+user = clauregsil
+conversation = 1084841563858092032
+URL = https://twitter.com/clauregsil/status/1582467710490841088
+
+word count = 24
+words loading = 5
+factor score = 5
+
+RT @julianopsol: O sujeito grava um vídeo para pedir desculpas por sentir que 
+pintou um clima com uma refugiada venezuelana de 14 anos e … 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+clima_noun_masc_sing 
+desculpa_noun_fem_plur 
+gravar_verb_fin_sing 
+pintar_verb_fin_sing 

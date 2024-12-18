@@ -1,0 +1,20 @@
+file = t017479
+date = 2022-10-24
+user = LimaGallucci
+conversation = 1212501144460656640
+URL = https://twitter.com/LimaGallucci/status/1584645376346583041
+
+word count = 21
+words loading = 5
+factor score = 6
+
+RT @julianopsol: Na última semana: - Escândalo pintou um clima de Bolsonaro 
+com venezuelanas de 14 anos; - Projeto de Guedes de congela … 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+clima_noun_masc_sing 
+pintar_verb_fin_sing 
+semana_noun_fem_sing 
+venezuelano_adj_fem_plur 

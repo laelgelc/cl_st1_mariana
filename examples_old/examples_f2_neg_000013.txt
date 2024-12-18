@@ -1,0 +1,18 @@
+file = t000592
+date = 2016-02-17
+user = AmeliaAOliveira
+conversation = 3308869996
+URL = https://twitter.com/AmeliaAOliveira/status/700078083840348160
+
+word count = 17
+words loading = 3
+factor score = -3
+
+RT @UchoInfo: Parlamento venezuelano desafia a ditadura de Nicolás Maduro e 
+aprova Lei da Anistia @uchoinfo 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar_verb_fin_sing 
+lei_noun_fem_sing 
+parlamento_noun_masc_sing 

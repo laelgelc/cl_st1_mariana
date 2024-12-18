@@ -1,0 +1,18 @@
+file = t014143
+date = 2021-10-20
+user = FE4andre
+conversation = 2588671410
+URL = https://twitter.com/FE4andre/status/1450823938766950410
+
+word count = 12
+words loading = 3
+factor score = -4
+
+RT @freu_rodrigues: BOMBA: ' Governo venezuelano financiou Lula ' , denuncia 
+ex-chefe de inteligência militar chavista 
+
+Lemmas in this text that loaded on the factor:
+
+chavista_adj_fem_sing 
+chefe 
+financiar_verb_fin_sing 

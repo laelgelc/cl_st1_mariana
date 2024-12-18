@@ -1,0 +1,16 @@
+RT rt_PROPN_Masc_Sing
+@MailsonMFreitas twitterhandle_VERB_Fin_Sing
+: :
+@matebe twitterhandle_VERB_Fin_Sing
+@Teresoca2013 twitterhandle_NUM
+Que que_PROPN_Masc_Sing
+Deus deus_PROPN_Sing
+abençoe abençoar_VERB_Fin_Sing
+nossos nosso_DET_Masc_Plur
+irmãos irmão_NOUN_Masc_Plur
+Venezuelanos venezuelano_ADJ_Masc_Plur
+. .
+HASHTAG hashtag_PROPN_Masc_Sing
+#venezuelagritalibertad_h #venezuelagritalibertad_h
+HASHTAG hashtag_PROPN_Sing
+#venezuela_h #venezuela_h

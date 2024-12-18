@@ -1,0 +1,19 @@
+file = t016971
+date = 2022-10-16
+user = NubiaHelena8
+conversation = 1445172116572286976
+URL = https://twitter.com/NubiaHelena8/status/1581467167626694659
+
+word count = 23
+words loading = 4
+factor score = 5
+
+RT @100nsurada: @lelispatricia Ele falava da prostituição das meninas de 13 e 
+14 anos venezuelanas. Você tá fazendo Fake news! Veja o vídeo … 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+falar_verb_fin_sing 
+menino_noun_fem_plur 
+venezuelano_adj_fem_plur 

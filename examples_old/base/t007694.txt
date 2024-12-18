@@ -1,0 +1,9 @@
+RT rt_PROPN_Masc_Sing
+@RevistaCrusoe twitterhandle_VERB_Fin_Sing
+: :
+Venezuelanos venezuelano_NOUN_Masc_Plur
+pedem pedir_VERB_Fin_Plur
+expulsão expulsão_NOUN_Fem_Sing
+de de_ADP
+diplomatas diplomata_NOUN_Masc_Plur
+. .

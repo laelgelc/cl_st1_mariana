@@ -1,0 +1,19 @@
+file = t015033
+date = 2021-05-11
+user = niaraalis
+conversation = 448952753
+URL = https://twitter.com/niaraalis/status/1392225284024373253
+
+word count = 21
+words loading = 4
+factor score = 3
+
+RT @danielsilva38am: @MLauraAssis Parece o ditador Nicolás Maduro deixando o 
+povo venezuelano morrendo de fome e ele comendo churrasco em r … 
+
+Lemmas in this text that loaded on the factor:
+
+comer_verb_ger 
+fome_noun_fem_sing 
+morrer_verb_part 
+povo_noun_masc_sing (secondary)

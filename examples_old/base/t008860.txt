@@ -1,0 +1,12 @@
+Vídeo vídeo_NOUN_Masc_Sing
+de de_ADP
+venezuelanos venezuelano_NOUN_Masc_Plur
+comendo comer_VERB_Ger
+lixo lixo_NOUN_Masc_Sing
+fez fazer_VERB_Fin_Sing
+Maduro maduro_NOUN_Masc_Sing
+deter deter_VERB_Inf
+jornalistas jornalista_NOUN_Masc_Plur
+, ,
+diz dizer_VERB_Fin_Sing
+TV tv_PROPN_Fem_Sing

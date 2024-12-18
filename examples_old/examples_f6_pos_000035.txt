@@ -1,0 +1,17 @@
+file = t019029
+date = 2022-09-26
+user = marcia_sousa62
+conversation = 1568221795588644864
+URL = https://twitter.com/marcia_sousa62/status/1574231989057687553
+
+word count = 23
+words loading = 2
+factor score = 
+
+RT @Marcelo21787971 : @roxmo Ao vivo, venezuelana diz que comunismo acabou com 
+seu país em apenas dois anos e deixa Huck sem palavras. https … 
+
+Lemmas in this text that loaded on the factor:
+
+dizer_verb_fin_sing 
+venezuelano_adj_fem_sing 

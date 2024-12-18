@@ -1,0 +1,15 @@
+file = t019046
+date = 2022-09-13
+user = tabomraphael
+conversation = 68769003
+URL = https://twitter.com/tabomraphael/status/1569828905191620608
+
+word count = 18
+words loading = 0
+factor score = 
+
+Lá vem a Fake News que os venezuelanos comem cachorro. Alguém lacra o sinal 
+do SBT plmdds. 
+
+Lemmas in this text that loaded on the factor:
+

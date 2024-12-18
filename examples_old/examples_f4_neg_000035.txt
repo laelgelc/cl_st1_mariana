@@ -1,0 +1,16 @@
+file = t014660
+date = 2021-02-03
+user = Anholeto
+conversation = 793643737
+URL = https://twitter.com/Anholeto/status/1356782542821724162
+
+word count = 13
+words loading = 1
+factor score = -2
+
+@LorenzonItalo @LRobertoBarroso Fiador das urnas eletrônicas venezuelanas, que 
+fraudaram eleições na Argentina, Bol … 
+
+Lemmas in this text that loaded on the factor:
+
+urna_noun_fem_plur (secondary)

@@ -1,0 +1,17 @@
+file = t012604
+date = 2020-01-13
+user = WeslennH
+conversation = 968511274068905984
+URL = https://twitter.com/WeslennH/status/1216724712052707328
+
+word count = 22
+words loading = 2
+factor score = 3
+
+RT @oswaldojor: Na tentativa de aumentar a popularidade, o ditador Venezuelano 
+Nicolás Maduro aumentou em 67 % o salário mínimo, que vale ag … 
+
+Lemmas in this text that loaded on the factor:
+
+pequeno_adj_masc_sing 
+valer_verb_fin_sing 

@@ -1,0 +1,17 @@
+file = t000623
+date = 2016-02-16
+user = Fabricio_betala
+conversation = 3952655063
+URL = https://twitter.com/Fabricio_betala/status/699653846750990337
+
+word count = 18
+words loading = 2
+factor score = -3
+
+Oposição venezuelana aprovará hoje lei da anistia; Maduro promete bloqueá 
+-la: Pelo fato de a oposição ter a ma. . . 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar_verb_fin_sing 
+lei_noun_fem_sing 

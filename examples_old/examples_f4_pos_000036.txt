@@ -1,0 +1,20 @@
+file = t008907
+date = 2019-02-23
+user = SarahCSampaio1
+conversation = 711919803632631808
+URL = https://twitter.com/SarahCSampaio1/status/1099337887122944000
+
+word count = 17
+words loading = 4
+factor score = 4
+
+RT @GLCampos_ : HASHTAG #urgente_h HASHTAG #venezuela_h **flag_venezuela_e** 
+Tanques da Guarda Nacional Bolivariana atacam civis venezuelanos que aguardam 
+chegada de ajuda human … 
+
+Lemmas in this text that loaded on the factor:
+
+ajuda_noun_fem_sing 
+chegada_noun_fem_sing 
+flag_venezuela_e 
+venezuelano_adj_masc_plur 

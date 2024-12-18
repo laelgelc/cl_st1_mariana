@@ -1,0 +1,14 @@
+@leletsia twitterhandle_VERB_Fin_Sing
+n n_NOUN_Masc_Sing
+comi comer_VERB_Fin_Sing
+venezuelano venezuelano_NOUN_Masc_Sing
+ainda ainda_ADV
+, ,
+me eu_PRON_Sing
+parece parecer_VERB_Fin_Sing
+mt mt_NOUN_Masc_Sing
+doce doce_ADJ_Masc_Sing
+odeio odiar_VERB_Fin_Sing
+coisa coisa_NOUN_Fem_Sing
+mt mt_NOUN_Masc_Sing
+doce doce_ADJ_Masc_Sing

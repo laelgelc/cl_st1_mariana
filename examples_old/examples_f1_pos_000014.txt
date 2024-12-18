@@ -1,0 +1,23 @@
+file = t015948
+date = 2022-10-16
+user = antares6991
+conversation = 1423729872980127744
+URL = https://twitter.com/antares6991/status/1581653201815629826
+
+word count = 24
+words loading = 7
+factor score = 6
+
+RT @choquei: police_car_light_e GRAVE: Jair Bolsonaro diz que uma vez já 
+pintou um clima entre o presidente e garotas venezuelanas de 14 anos. https://t 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+clima_noun_masc_sing 
+garota_noun_fem_plur 
+pintar_verb_fin_sing 
+presidente_noun_masc_sing (secondary)
+venezuelano_adj_fem_plur 
+vez_noun_fem_sing 

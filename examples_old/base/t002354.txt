@@ -1,0 +1,17 @@
+RT rt_NOUN_Masc_Sing
+@MovAvanteBrasil twitterhandle_ADJ_Masc_Sing
+: :
+Vão ir_AUX_Fin_Plur
+também também_ADV
+denunciar denunciar_VERB_Inf
+à a_o_ADP_DET_Fem_Sing
+comunidade comunidade_NOUN_Fem_Sing
+internacional internacional_ADJ_Fem_Sing
+a o_DET_Fem_Sing
+violação violação_NOUN_Fem_Sing
+dos de_o_ADP_DET_Masc_Plur
+direitos direito_NOUN_Masc_Plur
+políticos político_ADJ_Masc_Plur
+dos de_o_ADP_DET_Masc_Plur
+Venezuelanos venezuelano_NOUN_Masc_Plur
+… …

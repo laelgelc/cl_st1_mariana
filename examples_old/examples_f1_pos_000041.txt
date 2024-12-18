@@ -1,0 +1,20 @@
+file = t016659
+date = 2022-10-21
+user = Flamengo2022_RJ
+conversation = 179648269
+URL = https://twitter.com/Flamengo2022_RJ/status/1583391086508388357
+
+word count = 20
+words loading = 5
+factor score = 5
+
+RT @PopOnze: police_car_light_e MEU DEUS! Bolsonaro diz que ' pintou um clima ' 
+entre eles e meninas venezuelanas de 14 / 15 anos. 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+clima_noun_masc_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

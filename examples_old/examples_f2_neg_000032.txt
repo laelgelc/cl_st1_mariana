@@ -1,0 +1,18 @@
+file = t010755
+date = 2019-04-30
+user = yennygomes1984
+conversation = 203259471
+URL = https://twitter.com/yennygomes1984/status/1123322578356047874
+
+word count = 14
+words loading = 3
+factor score = -3
+
+RT @BrasilEFE: Grupo de HASHTAG #militares_h venezuelanos pede asilo na 
+embaixada brasileira em HASHTAG #caracas_h 
+
+Lemmas in this text that loaded on the factor:
+
+asilo_noun_masc_sing 
+embaixada_noun_fem_sing 
+pedir_verb_fin_sing 

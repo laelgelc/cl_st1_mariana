@@ -1,0 +1,19 @@
+file = t001191
+date = 2016-06-10
+user = MariaCarmemRibe
+conversation = 1115548771
+URL = https://twitter.com/MariaCarmemRibe/status/741080316262158336
+
+word count = 22
+words loading = 4
+factor score = 4
+
+RT @Gutbyra: Uma senhora grita: ' Estamos morrendo de fome, diga ao mundo todo. 
+' Venezuelanos disputam comida com cães no lixo. https://t. … 
+
+Lemmas in this text that loaded on the factor:
+
+comida_noun_fem_sing 
+fome_noun_fem_sing 
+lixo_noun_masc_sing (secondary)
+morrer_verb_part 

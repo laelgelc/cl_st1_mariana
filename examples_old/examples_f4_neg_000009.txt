@@ -1,0 +1,17 @@
+file = t001144
+date = 2016-05-14
+user = drvinagrephd
+conversation = 2568410930
+URL = https://twitter.com/drvinagrephd/status/731632847853895680
+
+word count = 22
+words loading = 2
+factor score = -2
+
+RT @blogdojefferson: Com medo de que o povo venezuelano se espelhasse no 
+Brasil, Maduro tomou medida preventiva e repressiva. É golpe! http … 
+
+Lemmas in this text that loaded on the factor:
+
+golpe_noun_masc_sing 
+tomar_verb_fin_sing 

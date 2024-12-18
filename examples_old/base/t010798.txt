@@ -1,0 +1,15 @@
+RT rt_PROPN_Masc_Sing
+@maibortpetit twitterhandle_PROPN_Sing
+: :
+Paradeiro paradeiro_NOUN_Masc_Sing
+de de_ADP
+militares militar_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur
+que que_PRON_Rel_Masc_Plur
+pediram pedir_VERB_Fin_Plur
+asilo asilo_NOUN_Masc_Sing
+em em_ADP
+embaixada embaixada_NOUN_Fem_Sing
+brasileira brasileiro_ADJ_Fem_Sing
+é ser_AUX_Fin_Sing
+desconhecido desconhecer_VERB_Part_Masc_Sing

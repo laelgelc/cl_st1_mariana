@@ -1,0 +1,18 @@
+file = t016271
+date = 2022-10-13
+user = Ricardo87897425
+conversation = 1168865542717038592
+URL = https://twitter.com/Ricardo87897425/status/1580549030295220225
+
+word count = 15
+words loading = 3
+factor score = 3
+
+Resgatando a dignidade de um povo sofrido, fugindo do ditador venezuelano 
+Maduro. OPERAÇÃO ACOLHIDA. 
+
+Lemmas in this text that loaded on the factor:
+
+ditador_noun_masc_sing 
+fugir_verb_part 
+povo_noun_masc_sing 

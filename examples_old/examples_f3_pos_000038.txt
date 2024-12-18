@@ -1,0 +1,20 @@
+file = t009480
+date = 2019-02-27
+user = WagnerSkywalker
+conversation = 2445771325
+URL = https://twitter.com/WagnerSkywalker/status/1100550556911833089
+
+word count = 24
+words loading = 5
+factor score = 3
+
+RT @JoelAlexandreM: Povo venezuelano comendo do lixo. Nunca podemos esquecer 
+que o PT não só apoia essa ditadura, como quer fazer o mesmo n … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar_verb_fin_sing (secondary)
+comer_verb_ger (secondary)
+fazer_verb_inf 
+lixo_noun_masc_sing 
+povo_noun_masc_sing 

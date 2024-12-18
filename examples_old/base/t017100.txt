@@ -1,0 +1,25 @@
+@SF_Moro twitterhandle_NOUN_Masc_Sing
+Bolsonaro bolsonaro_PROPN_Masc_Sing
+( (
+PINTOU pintar_VERB_Fin_Sing
+UM um_DET_Masc_Sing
+CLIMA clima_PROPN_Masc_Sing
+) )
+ "  "
+pediu pedir_VERB_Fin_Sing
+desculpas desculpa_NOUN_Fem_Plur
+ "  "
+às a_o_ADP_DET_Fem_Plur
+meninas menino_NOUN_Fem_Plur
+venezuelanas venezuelano_ADJ_Fem_Plur
+de de_ADP
+14 14_NUM
+anos ano_NOUN_Masc_Plur
+. .
+Para para_ADP
+você você_PRON_Sing
+se se_PRON_Fem_Sing
+igualar igualar_VERB_Inf
+a ela_PRON_Fem_Sing
+e e_CCONJ
+… …

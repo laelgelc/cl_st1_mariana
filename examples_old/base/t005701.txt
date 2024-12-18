@@ -1,0 +1,12 @@
+RT rt_PROPN_Masc_Sing
+@VEJA twitterhandle_VERB_Fin_Sing
+: :
+Crise crise_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+deixa deixar_VERB_Fin_Sing
+3 3_NUM
+, ,
+7 7_NUM
+milhões milhão_NOUN_Masc_Plur
+passando passar_VERB_Ger
+fome fome_NOUN_Fem_Sing

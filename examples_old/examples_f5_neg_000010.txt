@@ -1,0 +1,16 @@
+file = t001319
+date = 2016-07-21
+user = Uskeus
+conversation = 900732667
+URL = https://twitter.com/Uskeus/status/755949212034936833
+
+word count = 12
+words loading = 1
+factor score = -2
+
+PGR venezuelana denuncia violações dos direitos humanos por forças de 
+segurança: 
+
+Lemmas in this text that loaded on the factor:
+
+humano_adj_masc_plur 

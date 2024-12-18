@@ -1,0 +1,16 @@
+file = t007086
+date = 2019-10-13
+user = stanleyburburin
+conversation = 58008595
+URL = https://twitter.com/stanleyburburin/status/1183183445968805890
+
+word count = 20
+words loading = 1
+factor score = 3
+
+RT @brasil247 : Um mês e meio depois, vazamento ganha destaque na mídia, que 
+apostou na origem venezuelana do óleo 
+
+Lemmas in this text that loaded on the factor:
+
+origem_noun_fem_sing 

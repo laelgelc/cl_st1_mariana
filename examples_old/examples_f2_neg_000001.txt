@@ -1,0 +1,18 @@
+file = t000630
+date = 2016-02-17
+user = fransoria80
+conversation = 2746562327
+URL = https://twitter.com/fransoria80/status/699747451012411392
+
+word count = 15
+words loading = 3
+factor score = -4
+
+Parlamento venezuelano aprova lei de anistia para opositores presos: Controlado 
+pela oposição, o Parlamento. . . 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar_verb_fin_sing 
+lei_noun_fem_sing 
+parlamento_noun_masc_sing 

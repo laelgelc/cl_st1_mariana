@@ -1,0 +1,17 @@
+file = t002354
+date = 2017-08-20
+user = FabiolaMathiasT
+conversation = 702943304
+URL = https://twitter.com/FabiolaMathiasT/status/899092687357448192
+
+word count = 15
+words loading = 2
+factor score = -2
+
+RT @MovAvanteBrasil: Vão também denunciar à comunidade internacional a 
+violação dos direitos políticos dos Venezuelanos … 
+
+Lemmas in this text that loaded on the factor:
+
+comunidade_noun_fem_sing 
+internacional_adj_fem_sing 

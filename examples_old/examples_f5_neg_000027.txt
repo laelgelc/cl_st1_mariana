@@ -1,0 +1,16 @@
+file = t005748
+date = 2018-09-21
+user = CelinhaLaFuente
+conversation = 115718148
+URL = https://twitter.com/CelinhaLaFuente/status/1043148918765301760
+
+word count = 14
+words loading = 1
+factor score = -2
+
+Anistia Internacional acusa forças venezuelanas de 8 . 200 execuções 
+extrajudiciais em três anos 
+
+Lemmas in this text that loaded on the factor:
+
+anistia_noun_fem_sing 

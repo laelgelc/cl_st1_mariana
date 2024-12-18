@@ -1,0 +1,15 @@
+file = t019022
+date = 2022-09-09
+user = gusskttavo_
+conversation = 1286800796378697728
+URL = https://twitter.com/gusskttavo_/status/1568051581442052097
+
+word count = 8
+words loading = 1
+factor score = 
+
+fiquei puto com uns venezuelano, que aleatório 
+
+Lemmas in this text that loaded on the factor:
+
+venezuelano_adj_masc_sing 

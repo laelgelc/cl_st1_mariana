@@ -1,0 +1,17 @@
+file = t009036
+date = 2019-02-27
+user = claudiocezar18
+conversation = 1063119793132371968
+URL = https://twitter.com/claudiocezar18/status/1100802374522810368
+
+word count = 22
+words loading = 2
+factor score = 3
+
+RT @rebecca09feito1 : Enquanto a Shakira faz um vídeo condenando a atitude 
+monstruosa do ditador venezuelano. No Brasil atores como o HASHTAG #ze_h … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador_noun_masc_sing 
+fazer_verb_fin_sing 

@@ -1,0 +1,16 @@
+file = t005129
+date = 2018-03-12
+user = FlavihSouza
+conversation = 463346583
+URL = https://twitter.com/FlavihSouza/status/972989193558380545
+
+word count = 15
+words loading = 1
+factor score = -2
+
+RT @GABRlELPlNHElRO: A advogada venezuelana que denunciou tráfico de drogas na 
+ditadura de Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+droga_noun_fem_plur 

@@ -1,0 +1,17 @@
+file = t006010
+date = 2018-09-18
+user = ViniciusN1kolod
+conversation = 891603310041497600
+URL = https://twitter.com/ViniciusN1kolod/status/1041891634193915904
+
+word count = 14
+words loading = 3
+factor score = 3
+
+RT @exame: Venezuelanos passam fome e Maduro come churrasco de luxo em Istambul 
+
+Lemmas in this text that loaded on the factor:
+
+comer_verb_fin_sing 
+fome_noun_fem_sing 
+luxo_noun_masc_sing 

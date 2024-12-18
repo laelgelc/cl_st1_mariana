@@ -1,0 +1,17 @@
+file = t004734
+date = 2018-06-28
+user = silasamp
+conversation = 511041808
+URL = https://twitter.com/silasamp/status/1012433997044076544
+
+word count = 21
+words loading = 2
+factor score = -2
+
+RT @BebelSherab: Pesquisa na Globo News colocou Lula com 21 % Bolsonaro 11 % 
+Tão aprontando a fraude nas urnas eletrônicas venezuelana 
+
+Lemmas in this text that loaded on the factor:
+
+fraude_noun_fem_sing 
+urna_noun_fem_plur (secondary)

@@ -1,0 +1,18 @@
+file = t010260
+date = 2019-03-10
+user = Gilsoncarvalhoc
+conversation = 304685770
+URL = https://twitter.com/Gilsoncarvalhoc/status/1104867309418614784
+
+word count = 24
+words loading = 3
+factor score = 3
+
+RT @RevistaISTOE: Quem pisca primeiro Quem mais sofre com o impasse entre o 
+presidente Guaidó e o ditador Maduro é o povo venezuelano. Ape … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador_noun_masc_sing 
+povo_noun_masc_sing 
+presidente_noun_masc_sing 

@@ -1,0 +1,18 @@
+file = t011839
+date = 2019-09-24
+user = Maurici22933135
+conversation = 1102576999216959488
+URL = https://twitter.com/Maurici22933135/status/1176528041843077122
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @PontesLanny: De 10 palavras 11 foi socialismo, Amazônia tá de boa, os 
+venezuelanos estão seguros aqui, ideologias ameaçam a religião e … 
+
+Lemmas in this text that loaded on the factor:
+
+bom_adj_fem_sing 
+palavra_noun_fem_plur 
+socialismo_noun_masc_sing 

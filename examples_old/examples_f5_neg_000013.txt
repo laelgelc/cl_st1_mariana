@@ -1,0 +1,16 @@
+file = t001803
+date = 2017-01-30
+user = ielangeli
+conversation = 619093547
+URL = https://twitter.com/ielangeli/status/825873418688012293
+
+word count = 22
+words loading = 1
+factor score = -2
+
+RT @philosopop: gente. . . um momento de solidariedade com nossos irmãos 
+Venezuelanos que estão agora passando o 7 X 1 deles. HASHTAG #ripvenez_h … 
+
+Lemmas in this text that loaded on the factor:
+
+passar_verb_ger 

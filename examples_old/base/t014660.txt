@@ -1,0 +1,16 @@
+@LorenzonItalo twitterhandle_NOUN_Masc_Sing
+@LRobertoBarroso twitterhandle_ADJ_Masc_Sing
+Fiador fiador_NOUN_Masc_Sing
+das de_o_ADP_DET_Fem_Plur
+urnas urna_NOUN_Fem_Plur
+eletrônicas eletrônico_ADJ_Fem_Plur
+venezuelanas venezuelano_ADJ_Fem_Plur
+, ,
+que que_PRON_Rel_Fem_Plur
+fraudaram fraudar_VERB_Fin_Plur
+eleições eleição_NOUN_Fem_Plur
+na em_o_ADP_DET_Fem_Sing
+Argentina argentina_PROPN_Fem_Sing
+, ,
+Bol bol_PROPN_Fem_Sing
+… …

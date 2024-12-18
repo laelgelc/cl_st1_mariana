@@ -1,0 +1,16 @@
+file = t005701
+date = 2018-09-11
+user = _Mike_2018_
+conversation = 980799963163713536
+URL = https://twitter.com/_Mike_2018_/status/1039524507457937408
+
+word count = 11
+words loading = 2
+factor score = -2
+
+RT @VEJA: Crise venezuelana deixa 3 , 7 milhões passando fome 
+
+Lemmas in this text that loaded on the factor:
+
+crise_noun_fem_sing 
+passar_verb_ger 

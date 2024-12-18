@@ -1,0 +1,18 @@
+file = t006703
+date = 2018-12-06
+user = LenaBrito7
+conversation = 971459528112988160
+URL = https://twitter.com/LenaBrito7/status/1070636831102898176
+
+word count = 21
+words loading = 3
+factor score = 4
+
+RT @Pedro010763 : @macunaimaz Vamos levar os milhares de refugiados 
+venezuelanos que estão no país para comemorar com ela, afinal são conter … 
+
+Lemmas in this text that loaded on the factor:
+
+milhar_noun_masc_plur 
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

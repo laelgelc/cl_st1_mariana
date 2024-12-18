@@ -1,0 +1,12 @@
+Homes homes_PROPN_Masc_Sing
+de de_ADP
+bem bem_ADV
+sendo ser_AUX_Ger
+perseguidos perseguir_VERB_Part_Masc_Plur
+. .
+A o_DET_Fem_Sing
+democracia democracia_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+começou começar_VERB_Fin_Sing
+assim assim_ADV
+. .

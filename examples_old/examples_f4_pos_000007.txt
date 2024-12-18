@@ -1,0 +1,19 @@
+file = t017952
+date = 2022-01-15
+user = filhoeterno12
+conversation = 1256731536424079360
+URL = https://twitter.com/filhoeterno12/status/1482437821474484237
+
+word count = 24
+words loading = 3
+factor score = 4
+
+RT @ACNURBrasil: Existem mais de 6 milhões de refugiados e migrantes 
+venezuelanos em todo o mundo. globe_with_meridians_e Eles e os países que os 
+acolhem preci … 
+
+Lemmas in this text that loaded on the factor:
+
+migrante_noun_masc_plur 
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

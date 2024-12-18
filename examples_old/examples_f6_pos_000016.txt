@@ -1,0 +1,15 @@
+file = t019048
+date = 2022-09-03
+user = Alcantara22hH
+conversation = 1519096455272751104
+URL = https://twitter.com/Alcantara22hH/status/1566153147160084481
+
+word count = 23
+words loading = 0
+factor score = 
+
+RT @Vigilan66356230 : Na empresa onde trabalho meu patrao deu emprego a um 
+venezuelano. . . Trabalhador e alegre. . Só nao gosta de falar sobre o … 
+
+Lemmas in this text that loaded on the factor:
+

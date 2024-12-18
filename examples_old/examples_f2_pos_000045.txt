@@ -1,0 +1,19 @@
+file = t006337
+date = 2018-09-18
+user = whosdana
+conversation = 130561084
+URL = https://twitter.com/whosdana/status/1042121184274534401
+
+word count = 20
+words loading = 4
+factor score = 3
+
+as pessoas chocadas com o vídeo do maduro num restaurante de luxo na turquia 
+enquanto o povo venezuelano passa fome … 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+luxo_noun_masc_sing 
+povo_noun_masc_sing (secondary)
+restaurante_noun_masc_sing 

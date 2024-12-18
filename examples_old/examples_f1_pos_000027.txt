@@ -1,0 +1,20 @@
+file = t017208
+date = 2022-10-18
+user = cmlassuncao
+conversation = 2238307933
+URL = https://twitter.com/cmlassuncao/status/1582477130860212224
+
+word count = 21
+words loading = 5
+factor score = 5
+
+RT @julianadalpiva: Representação do PP diz que Bolsonaro falou pintou um 
+clima com meninas venezuelanas porque pensou que elas estavam s … 
+
+Lemmas in this text that loaded on the factor:
+
+clima_noun_masc_sing 
+falar_verb_fin_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

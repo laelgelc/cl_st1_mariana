@@ -1,0 +1,11 @@
+RT rt_NOUN_Masc_Sing
+@BlogsBrasil twitterhandle_ADJ_Masc_Sing
+: :
+Militares militar_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur
+desertam desertar_VERB_Fin_Plur
+e e_CCONJ
+pedem pedir_VERB_Fin_Plur
+asilo asilo_NOUN_Masc_Sing
+na em_o_ADP_DET_Fem_Sing
+Colômbia colômbia_PROPN_Fem_Sing

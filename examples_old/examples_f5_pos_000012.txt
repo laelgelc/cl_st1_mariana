@@ -1,0 +1,16 @@
+file = t012880
+date = 2020-03-24
+user = UtilIdiota
+conversation = 976538497204047872
+URL = https://twitter.com/UtilIdiota/status/1242513541183221762
+
+word count = 20
+words loading = 1
+factor score = 3
+
+@DeputadoFederal Venezuela eleva salário mínimo em 66 , 66 % para R$ 15 , 14 
+por mês. O governo venezuelano elevou o sal … 
+
+Lemmas in this text that loaded on the factor:
+
+pequeno_adj_masc_sing 

@@ -1,0 +1,17 @@
+file = t007147
+date = 2019-10-23
+user = SilviaT13507627
+conversation = 1157319459784273920
+URL = https://twitter.com/SilviaT13507627/status/1187146681588047874
+
+word count = 24
+words loading = 2
+factor score = 3
+
+RT @DavidM50843164 : Ajudem a recolher o óleo VENEZUELANO nas praias do 
+Nordeste. Façam a mesma palhaçada em frente a sede do Governo da Ven … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

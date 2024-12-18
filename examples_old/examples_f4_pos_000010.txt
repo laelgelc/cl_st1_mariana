@@ -1,0 +1,19 @@
+file = t017480
+date = 2022-10-27
+user = DaniloDSAraujo
+conversation = 1338948243321982976
+URL = https://twitter.com/DaniloDSAraujo/status/1585776580118577152
+
+word count = 20
+words loading = 3
+factor score = 4
+
+RT @jornaldarecord: Os Estados Unidos deportaram centenas de imigrantes 
+venezuelanos, impedidos de entrar no país right_arrow_e Assista agora ao 
+HASHTAG #jor_h … 
+
+Lemmas in this text that loaded on the factor:
+
+centena_noun_fem_plur 
+imigrante_noun_masc_plur 
+venezuelano_adj_masc_plur 

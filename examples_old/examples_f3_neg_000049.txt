@@ -1,0 +1,16 @@
+file = t014140
+date = 2021-10-25
+user = Marcelo_Lanzara
+conversation = 3196557484
+URL = https://twitter.com/Marcelo_Lanzara/status/1452639799777632263
+
+word count = 24
+words loading = 1
+factor score = -2
+
+RT @Hays88Smith: O que eu acho que acontecerá : o chefão do narcotráfico 
+venezuelano abrirá o bico nos EUA e mandados de captura serão exped … 
+
+Lemmas in this text that loaded on the factor:
+
+chefe_noun_masc_sing 

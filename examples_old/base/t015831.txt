@@ -1,0 +1,27 @@
+RT rt_NOUN_Masc_Sing
+@eixopolitico twitterhandle_ADJ_Masc_Sing
+: :
+flag_brazil_e flag_brazil_e
+Em em_ADP
+novo novo_ADJ_Masc_Sing
+vídeo vídeo_NOUN_Masc_Sing
+, ,
+Jair jair_PROPN_Masc_Sing
+Bolsonaro bolsonaro_PROPN_Sing
+diz dizer_VERB_Fin_Sing
+que que_ADV
+venezuelanas venezuelano_ADJ_Fem_Plur
+estavam estar_AUX_Fin_Plur
+arrumadas arrumar_VERB_Part_Fem_Plur
+ "  "
+para para_ADP
+fazer fazer_VERB_Inf
+programa programa_NOUN_Masc_Sing
+ "  "
+. .
+Declaração declaração_NOUN_Fem_Sing
+foi ser_AUX_Fin_Sing
+dada dar_VERB_Part_Fem_Sing
+ao a_o_ADP_DET_Masc_Sing
+po po_NOUN_Masc_Sing
+… …

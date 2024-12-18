@@ -1,0 +1,16 @@
+file = t000274
+date = 2016-11-23
+user = DecurionBifrost
+conversation = 488433144
+URL = https://twitter.com/DecurionBifrost/status/801232306329501697
+
+word count = 17
+words loading = 1
+factor score = -2
+
+RT @NotiCampina: HASHTAG #brasil_h: Invasão de HASHTAG #venezuelanos_h fugindo 
+de crise no país gera caos em HASHTAG #roraima_h. HASHTAG #video_h. v … 
+
+Lemmas in this text that loaded on the factor:
+
+crise_noun_fem_sing 

@@ -1,0 +1,18 @@
+file = t016499
+date = 2022-10-26
+user = fernandesdn21
+conversation = 1519172803441922048
+URL = https://twitter.com/fernandesdn21/status/1585216657328250880
+
+word count = 26
+words loading = 3
+factor score = 3
+
+RT @FlavioBolsonaro: O povo da Venezuela fez o M de Maduro e nunca mais o 
+ditador deixou o poder! Hoje, os venezuelanos comem comida do li … 
+
+Lemmas in this text that loaded on the factor:
+
+ditador_noun_masc_sing 
+fazer_verb_fin_sing 
+povo_noun_masc_sing 

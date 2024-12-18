@@ -1,0 +1,18 @@
+file = t016940
+date = 2022-10-09
+user = CapitalismoA
+conversation = 1092070604285636608
+URL = https://twitter.com/CapitalismoA/status/1579200473500110848
+
+word count = 16
+words loading = 3
+factor score = 3
+
+ Mendigos venezuelanos desmembram cachorros de rua para comer FATO: na 
+Venezuela, animais de estimação foram aban … 
+
+Lemmas in this text that loaded on the factor:
+
+animal_noun_masc_plur 
+cachorro_noun_masc_plur 
+comer_verb_inf 

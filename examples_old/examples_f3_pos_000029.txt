@@ -1,0 +1,18 @@
+file = t011534
+date = 2019-07-22
+user = lelacohen
+conversation = 66205927
+URL = https://twitter.com/lelacohen/status/1153096789031030787
+
+word count = 27
+words loading = 3
+factor score = 3
+
+RT @LedaViana92 : Se depender desse homem, ele vai fazer com o povo do 
+Maranhão o mesmo que o Maduro fez com o povo venezuelano. SEM O MENOR … 
+
+Lemmas in this text that loaded on the factor:
+
+fazer_verb_fin_sing 
+fazer_verb_inf 
+povo_noun_masc_sing 

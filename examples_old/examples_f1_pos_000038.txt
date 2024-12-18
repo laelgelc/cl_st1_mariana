@@ -1,0 +1,20 @@
+file = t016867
+date = 2022-10-16
+user = BARTELOCH
+conversation = 72662202
+URL = https://twitter.com/BARTELOCH/status/1581474553829597184
+
+word count = 23
+words loading = 5
+factor score = 5
+
+RT @cajr1569 : @jairbolsonaro entrou na casa depois que rolou um clima com 
+meninas de 13 anos, viu 20 meninas venezuelanas em situação d … 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+casa_noun_fem_sing 
+clima_noun_masc_sing 
+menino_noun_fem_plur 
+venezuelano_adj_fem_plur 

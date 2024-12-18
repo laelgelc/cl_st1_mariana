@@ -1,0 +1,15 @@
+file = t019025
+date = 2022-09-27
+user = Rapha_DeCarli
+conversation = 2163217182
+URL = https://twitter.com/Rapha_DeCarli/status/1574905405523861532
+
+word count = 15
+words loading = 0
+factor score = 
+
+Fui falar com minha colega Venezuelana sobre canudos Biodegradáveis: É pra 
+salvar as tartarugas! 
+
+Lemmas in this text that loaded on the factor:
+

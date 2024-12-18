@@ -1,0 +1,17 @@
+file = t007063
+date = 2019-10-22
+user = Cosmemoreira4
+conversation = 1130525542678171648
+URL = https://twitter.com/Cosmemoreira4/status/1186447130396909569
+
+word count = 23
+words loading = 2
+factor score = 4
+
+RT @Movimentodirei3 : SALDO DO CRIME VENEZUELANO: 900 toneladas de resíduo de 
+óleo recolhidas das praias do nordeste - um mês e meio e nenh … 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

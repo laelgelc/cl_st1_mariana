@@ -1,0 +1,17 @@
+file = t012492
+date = 2020-12-28
+user = DoriEdsonDaSil1
+conversation = 889506656299732992
+URL = https://twitter.com/DoriEdsonDaSil1/status/1343363278194532352
+
+word count = 18
+words loading = 2
+factor score = -2
+
+RT @revistaoeste: Parlamento venezuelano sanciona prorrogação do mandato de 
+Guaidó . Oposição quer a realização de eleições presidenciais e … 
+
+Lemmas in this text that loaded on the factor:
+
+mandato_noun_masc_sing 
+parlamento_noun_masc_sing (secondary)

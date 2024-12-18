@@ -1,0 +1,17 @@
+file = t013387
+date = 2020-05-02
+user = Joclau53
+conversation = 1084525988250353664
+URL = https://twitter.com/Joclau53/status/1256672173508476928
+
+word count = 16
+words loading = 2
+factor score = -3
+
+RT @guimaraes13PT: Ministro do STF suspende expulsão de 34 diplomatas 
+venezuelanos do Brasil - Política - G1 
+
+Lemmas in this text that loaded on the factor:
+
+diplomata_noun_masc_plur 
+suspender_verb_fin_sing 

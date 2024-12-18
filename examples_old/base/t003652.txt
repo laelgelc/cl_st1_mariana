@@ -1,0 +1,11 @@
+Investigação investigação_NOUN_Fem_Sing
+aponta apontar_VERB_Fin_Sing
+venezuelanos venezuelano_NOUN_Masc_Plur
+como como_ADV
+responsáveis responsável_ADJ_Masc_Plur
+por por_ADP
+acidente acidente_NOUN_Masc_Sing
+da de_o_ADP_DET_Fem_Sing
+Chapecoense chapecoense_PROPN_Fem_Sing
+HASHTAG hashtag_PROPN_Sing
+#tribunadonorte_h #tribunadonorte_h

@@ -1,0 +1,16 @@
+file = t019060
+date = 2022-09-20
+user = Jmalvesdc
+conversation = 1506118493938270208
+URL = https://twitter.com/Jmalvesdc/status/1572022895282458625
+
+word count = 21
+words loading = 1
+factor score = 
+
+RT @BoicaIslene: Victor Lucchesi, expõe os crimes da ditadura Venezuelana para 
+plateia esquerdista em palestra da UNE com embaixador da Ven … 
+
+Lemmas in this text that loaded on the factor:
+
+ditadura_noun_fem_sing 

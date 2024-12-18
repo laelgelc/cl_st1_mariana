@@ -1,0 +1,18 @@
+file = t014314
+date = 2021-11-22
+user = tiaarretada
+conversation = 1460310886330023936
+URL = https://twitter.com/tiaarretada/status/1462762484016816145
+
+word count = 20
+words loading = 3
+factor score = -3
+
+RT @nelsonpaffi: Aguardando a Espanha extraditar o general Pollo venezuelano, 
+responsável pelas rotas de tráfico de drogas na América do … 
+
+Lemmas in this text that loaded on the factor:
+
+droga_noun_fem_plur 
+extraditar_verb_inf 
+general_noun_masc_sing (secondary)

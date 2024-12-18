@@ -1,0 +1,20 @@
+file = t016442
+date = 2022-10-21
+user = JosueNeusa
+conversation = 1548321507687862272
+URL = https://twitter.com/JosueNeusa/status/1583503669995397120
+
+word count = 20
+words loading = 5
+factor score = 5
+
+RT @SergioHamara: Centenas de Imigrantes ilegais cruzaram a fronteira para 
+Eagle Pass, no Texas está manhã , eles são Venezuelanos, nicaragu … 
+
+Lemmas in this text that loaded on the factor:
+
+centena_noun_fem_plur 
+cruzar_verb_fin_plur 
+fronteira_noun_fem_sing 
+imigrante_noun_masc_plur 
+venezuelano_adj_masc_plur 

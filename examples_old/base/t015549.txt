@@ -1,0 +1,8 @@
+Parlamento parlamento_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+aprova aprovar_VERB_Fin_Sing
+diálogo diálogo_NOUN_Masc_Sing
+com com_ADP
+oposição oposição_NOUN_Fem_Sing
+no em_o_ADP_DET_Masc_Sing
+México méxico_PROPN_Masc_Sing

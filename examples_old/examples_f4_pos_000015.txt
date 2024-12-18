@@ -1,0 +1,20 @@
+file = t014712
+date = 2021-02-10
+user = PeaceNascimento
+conversation = 1000855398356865024
+URL = https://twitter.com/PeaceNascimento/status/1359609612752867329
+
+word count = 17
+words loading = 4
+factor score = 4
+
+flag_brazil_e **flag_venezuela_e** - Um novo abrigo para refugiados 
+venezuelanos abre em Brasília! Parabéns à @AVSIBrasil e ao HASHTAG #imdh_h 
+pela iniciat … 
+
+Lemmas in this text that loaded on the factor:
+
+abrigo_noun_masc_sing 
+flag_venezuela_e 
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

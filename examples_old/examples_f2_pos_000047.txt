@@ -1,0 +1,18 @@
+file = t006178
+date = 2018-09-18
+user = RosenthalThawyo
+conversation = 826460550137802752
+URL = https://twitter.com/RosenthalThawyo/status/1042115018639253505
+
+word count = 14
+words loading = 3
+factor score = 3
+
+RT @correio: Venezuelanos passam fome, mas Maduro é flagrado em restaurante de 
+luxo 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+luxo_noun_masc_sing 
+restaurante_noun_masc_sing 

@@ -1,0 +1,18 @@
+file = t012905
+date = 2020-03-21
+user = matsimon
+conversation = 23795573
+URL = https://twitter.com/matsimon/status/1241169983998234626
+
+word count = 19
+words loading = 3
+factor score = 3
+
+O povo chinês é vítima deste lixo chamado comunismo. . . Assim como o 
+venezuelano, cubano, russo. . . O que se critica … 
+
+Lemmas in this text that loaded on the factor:
+
+cubano_adj_masc_sing 
+lixo_noun_masc_sing 
+povo_noun_masc_sing 

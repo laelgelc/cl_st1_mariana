@@ -1,0 +1,16 @@
+file = t011510
+date = 2019-07-23
+user = Alex_ABCFC
+conversation = 305289316
+URL = https://twitter.com/Alex_ABCFC/status/1153455251032354820
+
+word count = 19
+words loading = 1
+factor score = 3
+
+RT @gazetadopovo: Entrada do Foro de São Paulo custa mais de sete meses de 
+salário mínimo venezuelano ( via @mundo_g … 
+
+Lemmas in this text that loaded on the factor:
+
+pequeno_adj_masc_sing 

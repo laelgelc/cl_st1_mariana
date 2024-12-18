@@ -1,0 +1,21 @@
+file = t006526
+date = 2018-09-18
+user = 08DAVIFRANCO
+conversation = 436080402
+URL = https://twitter.com/08DAVIFRANCO/status/1041851142387449857
+
+word count = 19
+words loading = 6
+factor score = 5
+
+Enquanto o povo venezuelano está morrendo de fome, Maduro come um churrasco de 
+luxo em Istambul. Socialismo pra v … 
+
+Lemmas in this text that loaded on the factor:
+
+comer_verb_fin_sing 
+fome_noun_fem_sing 
+luxo_noun_masc_sing 
+morrer_verb_part 
+povo_noun_masc_sing (secondary)
+socialismo_noun_masc_sing 

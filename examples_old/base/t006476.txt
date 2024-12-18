@@ -1,0 +1,16 @@
+Bom bom_ADV
+mesmo mesmo_ADV
+é ser_AUX_Fin_Sing
+o o_DET_Masc_Sing
+Maduro maduro_NOUN_Masc_Sing
+que que_PRON_Rel_Masc_Sing
+come comer_VERB_Fin_Sing
+em em_ADP
+restaurante restaurante_NOUN_Masc_Sing
+na em_o_ADP_DET_Fem_Sing
+Turquia turquia_PROPN_Fem_Sing
+enquanto enquanto_ADV
+os o_DET_Masc_Plur
+venezuelanos venezuelano_NOUN_Masc_Plur
+passam passar_VERB_Fin_Plur
+fome fome_NOUN_Fem_Sing

@@ -1,0 +1,20 @@
+file = t016677
+date = 2022-10-16
+user = vicentenunes
+conversation = 58611077
+URL = https://twitter.com/vicentenunes/status/1581560398624718848
+
+word count = 19
+words loading = 5
+factor score = 5
+
+Meu Deus, a que ponto chegamos! Pintou um clima: fala de Bolsonaro sobre 
+meninas venezuelanas repercute e gera cr … 
+
+Lemmas in this text that loaded on the factor:
+
+clima_noun_masc_sing 
+falar_verb_fin_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

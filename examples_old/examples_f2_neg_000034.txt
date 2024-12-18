@@ -1,0 +1,17 @@
+file = t012632
+date = 2020-01-07
+user = nonticuri
+conversation = 124931598
+URL = https://twitter.com/nonticuri/status/1214568051259125761
+
+word count = 20
+words loading = 2
+factor score = -3
+
+RT @FusaroZila: PT apoia golpe de Maduro que fechou acesso ao parlamento 
+venezuelano para a oposição - República de Curitiba … 
+
+Lemmas in this text that loaded on the factor:
+
+acesso_noun_masc_sing 
+parlamento_noun_masc_sing 

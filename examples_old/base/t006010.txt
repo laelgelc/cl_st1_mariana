@@ -1,0 +1,14 @@
+RT rt_PROPN_Masc_Sing
+@exame twitterhandle_VERB_Fin_Sing
+: :
+Venezuelanos venezuelano_NOUN_Masc_Plur
+passam passar_VERB_Fin_Plur
+fome fome_NOUN_Fem_Sing
+e e_CCONJ
+Maduro maduro_PROPN_Masc_Sing
+come comer_VERB_Fin_Sing
+churrasco churrasco_NOUN_Masc_Sing
+de de_ADP
+luxo luxo_NOUN_Masc_Sing
+em em_ADP
+Istambul istambul_PROPN_Sing

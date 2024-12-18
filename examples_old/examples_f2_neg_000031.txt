@@ -1,0 +1,20 @@
+file = t010591
+date = 2019-05-01
+user = fabiomoraes
+conversation = 14692201
+URL = https://twitter.com/fabiomoraes/status/1123393415964766208
+
+word count = 18
+words loading = 4
+factor score = -3
+
+RT @professorigor: 25 militares venezuelanos pediram asilo politica na 
+Embaixada Brasileira. Viu o que é repressão @jeanwyllys_real? HASHTAG #ven_h 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+asilo_noun_masc_sing 
+embaixada_noun_fem_sing 
+militar_noun_masc_plur (secondary)
+pedir_verb_fin_plur 

@@ -1,0 +1,17 @@
+file = t008223
+date = 2019-01-24
+user = sonia_divinaa
+conversation = 42271371
+URL = https://twitter.com/sonia_divinaa/status/1088256095590776833
+
+word count = 23
+words loading = 2
+factor score = -2
+
+RT @stanleyburburin: hahahahahaha Ué , mas como ele pode ser ditador se foi 
+eleito e reeleito pelo povo venezuelano? Ele tomou posse há 13 … 
+
+Lemmas in this text that loaded on the factor:
+
+posse_noun_fem_sing 
+tomar_verb_fin_sing 

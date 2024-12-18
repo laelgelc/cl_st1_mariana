@@ -1,0 +1,12 @@
+Busca busca_NOUN_Fem_Sing
+de de_ADP
+solução solução_NOUN_Fem_Sing
+para para_ADP
+crise crise_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+continua continuar_AUX_Fin_Sing
+em em_ADP
+evento evento_NOUN_Masc_Sing
+na em_o_ADP_DET_Fem_Sing
+capital capital_NOUN_Fem_Sing
+dominicana dominicano_ADJ_Fem_Sing

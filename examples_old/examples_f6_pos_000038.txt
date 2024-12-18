@@ -1,0 +1,15 @@
+file = t019026
+date = 2022-09-13
+user = rosachok60
+conversation = 1239373627
+URL = https://twitter.com/rosachok60/status/1569830666786709506
+
+word count = 21
+words loading = 0
+factor score = 
+
+RT @JosPaul15677550 : Cader os direitos humanos que nunca se levantou contra 
+tanta barbaridade ao pivo venezuelano. . muito triste vê um papa … 
+
+Lemmas in this text that loaded on the factor:
+

@@ -1,0 +1,17 @@
+file = t008118
+date = 2019-01-10
+user = ringoulart
+conversation = 245909273
+URL = https://twitter.com/ringoulart/status/1083422948722176001
+
+word count = 16
+words loading = 2
+factor score = -2
+
+RT @UOLNoticias: Maduro toma posse e diz que Bolsonaro é fascista contaminado 
+pela direita venezuelana 
+
+Lemmas in this text that loaded on the factor:
+
+posse_noun_fem_sing 
+tomar_verb_fin_sing 

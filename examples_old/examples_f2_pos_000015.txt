@@ -1,0 +1,18 @@
+file = t018296
+date = 2022-04-24
+user = putariaquegosto
+conversation = 972954469137879040
+URL = https://twitter.com/putariaquegosto/status/1518025022899638274
+
+word count = 19
+words loading = 3
+factor score = 3
+
+RT @boyzbyludovic: Gabriel Lima dando o cu pro venezuelano Safado! Levou muito 
+pau no rabo. By @PSVXXX https://t.c … 
+
+Lemmas in this text that loaded on the factor:
+
+cu_noun_masc_sing 
+pau_noun_masc_sing 
+venezuelano_noun_masc_sing 

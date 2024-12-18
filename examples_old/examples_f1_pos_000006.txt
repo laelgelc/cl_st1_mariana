@@ -1,0 +1,21 @@
+file = t017504
+date = 2022-10-19
+user = gregoryurism
+conversation = 1040701603186135040
+URL = https://twitter.com/gregoryurism/status/1582877443622604800
+
+word count = 24
+words loading = 6
+factor score = 6
+
+RT @FedeBurguesia1 : 5 dias atrás Bolsonaro disse que pintou um clima entre 
+ele e meninas venezuelanas de 14 anos A fala viralizou e ele … 
+
+Lemmas in this text that loaded on the factor:
+
+ano_noun_masc_plur 
+clima_noun_masc_sing 
+fala_noun_fem_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+venezuelano_adj_fem_plur 

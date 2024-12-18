@@ -1,0 +1,11 @@
+A o_DET_Fem_Sing
+solução solução_NOUN_Fem_Sing
+de de_ADP
+Temer temer_PROPN_Masc_Sing
+para para_ADP
+a o_DET_Fem_Sing
+invasão invasão_NOUN_Fem_Sing
+venezuelana venezuelano_ADJ_Fem_Sing
+- -
+O o_DET_Masc_Sing
+Antagonista antagonista_NOUN_Masc_Sing

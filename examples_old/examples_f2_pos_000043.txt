@@ -1,0 +1,19 @@
+file = t006572
+date = 2018-09-18
+user = erasmorusso
+conversation = 103095290
+URL = https://twitter.com/erasmorusso/status/1041983338448412672
+
+word count = 22
+words loading = 4
+factor score = 3
+
+RT @marcusvsdm: Maduro janta no caríssimo restaurante do Salt Bae enquanto os 
+venezuelanos morrem de fome. e comem comida estragada. Não s … 
+
+Lemmas in this text that loaded on the factor:
+
+comer_verb_fin_plur (secondary)
+comida_noun_fem_sing 
+fome_noun_fem_sing 
+restaurante_noun_masc_sing 

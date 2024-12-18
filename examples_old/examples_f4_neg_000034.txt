@@ -1,0 +1,18 @@
+file = t014562
+date = 2021-01-05
+user = ubuntuvendas
+conversation = 2855868959
+URL = https://twitter.com/ubuntuvendas/status/1346491620791877633
+
+word count = 14
+words loading = 3
+factor score = -2
+
+RT @brasil247 : Novo Parlamento venezuelano, com maioria aliada a Maduro, toma 
+posse hoje 
+
+Lemmas in this text that loaded on the factor:
+
+parlamento_noun_masc_sing (secondary)
+posse_noun_fem_sing 
+tomar_verb_fin_sing 

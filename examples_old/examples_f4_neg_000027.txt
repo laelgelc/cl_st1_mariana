@@ -1,0 +1,16 @@
+file = t011799
+date = 2019-08-15
+user = walter_souza
+conversation = 85631253
+URL = https://twitter.com/walter_souza/status/1162111698867761165
+
+word count = 15
+words loading = 1
+factor score = -2
+
+A msm empresa cubana-venezuelana SmartMatic que tb participou das eleições 
+aqui no Brasil. Santa coincidencia, Batm … 
+
+Lemmas in this text that loaded on the factor:
+
+empresa_noun_fem_sing 

@@ -1,0 +1,18 @@
+file = t008344
+date = 2019-01-24
+user = iscoelho5046
+conversation = 1384994318
+URL = https://twitter.com/iscoelho5046/status/1088566113343021057
+
+word count = 20
+words loading = 3
+factor score = 3
+
+RT @Ruicpimenta29 : Nota oficial do PCO: Todo apoio ao povo venezuelano contra 
+o imperialismo, não ao golpe de Estado norte-americano! - Diá … 
+
+Lemmas in this text that loaded on the factor:
+
+estado_noun_masc_sing 
+nota_noun_fem_sing 
+povo_noun_masc_sing 

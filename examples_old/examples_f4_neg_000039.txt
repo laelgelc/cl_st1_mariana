@@ -1,0 +1,16 @@
+file = t000022
+date = 2016-10-25
+user = brunoutsch
+conversation = 38931097
+URL = https://twitter.com/brunoutsch/status/790894475220508672
+
+word count = 10
+words loading = 1
+factor score = -1
+
+RT @o_antagonista: Brasil tem responsabilidade direta sobre o golpe venezuelano 
+- 
+
+Lemmas in this text that loaded on the factor:
+
+golpe_noun_masc_sing 

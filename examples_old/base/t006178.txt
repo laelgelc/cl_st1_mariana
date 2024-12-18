@@ -1,0 +1,15 @@
+RT rt_PROPN_Masc_Sing
+@correio twitterhandle_VERB_Fin_Sing
+: :
+Venezuelanos venezuelano_NOUN_Masc_Plur
+passam passar_VERB_Fin_Plur
+fome fome_NOUN_Fem_Sing
+, ,
+mas mas_CCONJ
+Maduro maduro_PROPN_Masc_Sing
+é ser_AUX_Fin_Sing
+flagrado flagrar_VERB_Part_Masc_Sing
+em em_ADP
+restaurante restaurante_NOUN_Masc_Sing
+de de_ADP
+luxo luxo_NOUN_Masc_Sing

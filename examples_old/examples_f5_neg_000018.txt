@@ -1,0 +1,16 @@
+file = t004151
+date = 2018-01-26
+user = rafafialho
+conversation = 49076373
+URL = https://twitter.com/rafafialho/status/956686630152269824
+
+word count = 16
+words loading = 1
+factor score = -2
+
+RT @Ricamconsult: Um dos efeitos do colapso da Venezuela? Uma invasão de 
+venezuelanos no Brasil. 
+
+Lemmas in this text that loaded on the factor:
+
+colapso_noun_masc_sing 

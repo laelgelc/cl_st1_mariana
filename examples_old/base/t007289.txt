@@ -1,0 +1,15 @@
+RT rt_PROPN_Masc_Sing
+@UOLNoticias twitterhandle_VERB_Fin_Sing
+: :
+Chanceler chanceler_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing
+culpa culpar_VERB_Fin_Sing
+Brasil brasil_PROPN_Masc_Sing
+por por_ADP
+invasão invasão_NOUN_Fem_Sing
+: :
+' '
+Vergonha vergonha_NOUN_Fem_Sing
+para para_ADP
+diplomacia diplomacia_NOUN_Fem_Sing
+' '

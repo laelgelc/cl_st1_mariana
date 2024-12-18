@@ -1,0 +1,16 @@
+file = t003346
+date = 2017-05-05
+user = edsoncyrillo
+conversation = 2434479096
+URL = https://twitter.com/edsoncyrillo/status/860490762819162112
+
+word count = 21
+words loading = 1
+factor score = -2
+
+RT @araunaborges1 : Cade a soberania nacional, venezuelano entra com arma, 
+tráfico enche o país de drogas e armas, fronteiras sem contr … 
+
+Lemmas in this text that loaded on the factor:
+
+droga_noun_fem_plur 

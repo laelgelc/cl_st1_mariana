@@ -1,0 +1,16 @@
+file = t013926
+date = 2020-09-21
+user = KriskaSilvano
+conversation = 1298913397967290368
+URL = https://twitter.com/KriskaSilvano/status/1308072437892943876
+
+word count = 18
+words loading = 1
+factor score = -2
+
+não falou nada sobre as queimadas, ainda acusou o Governo Venezuelano de 
+tráfico de drogas. . . FUMAÇA! ! ! Essa vis … 
+
+Lemmas in this text that loaded on the factor:
+
+droga_noun_fem_plur 

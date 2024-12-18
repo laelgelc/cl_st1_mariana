@@ -1,0 +1,16 @@
+file = t010073
+date = 2019-03-21
+user = kassatti
+conversation = 22384371
+URL = https://twitter.com/kassatti/status/1108717768579391488
+
+word count = 13
+words loading = 1
+factor score = -2
+
+Serviço de inteligência venezuelano prende chefe de gabinete de Guaidó via 
+@exame 
+
+Lemmas in this text that loaded on the factor:
+
+chefe_noun_masc_sing 

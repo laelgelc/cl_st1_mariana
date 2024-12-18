@@ -1,0 +1,15 @@
+file = t019056
+date = 2022-09-05
+user = jordao_jean
+conversation = 1034170279713484800
+URL = https://twitter.com/jordao_jean/status/1566938031462006784
+
+word count = 26
+words loading = 0
+factor score = 
+
+RT @Renancesar94 : Taticamente o Santos não faz um bom jogo. Nitidamente é 
+bola no Soteldo e ' se vira ' . E ali o jogo sai, pois o venezuelano … 
+
+Lemmas in this text that loaded on the factor:
+

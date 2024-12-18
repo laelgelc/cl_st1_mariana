@@ -1,0 +1,15 @@
+file = t007850
+date = 2019-01-23
+user = CristianeSecca
+conversation = 338064351
+URL = https://twitter.com/CristianeSecca/status/1088084036843642881
+
+word count = 18
+words loading = 0
+factor score = -2
+
+RT @DZlia3 : Que Deus abençoe e dê forças ao povo Venezuelano na luta contra 
+a ditadura! HASHTAG #23ecallehastaquesevaya_h 
+
+Lemmas in this text that loaded on the factor:
+

@@ -1,0 +1,13 @@
+Crianças criança_NOUN_Fem_Plur
+venezuelanas venezuelano_ADJ_Fem_Plur
+acabam acabar_VERB_Fin_Plur
+nas em_o_ADP_DET_Fem_Plur
+ruas rua_NOUN_Fem_Plur
+após após_ADP
+cruzar cruzar_VERB_Inf
+fronteira fronteira_NOUN_Fem_Sing
+em em_ADP
+busca busca_NOUN_Fem_Sing
+de de_ADP
+ajuda ajuda_NOUN_Fem_Sing
+humanitária humanitário_ADJ_Fem_Sing

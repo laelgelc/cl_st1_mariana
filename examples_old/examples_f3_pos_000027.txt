@@ -1,0 +1,20 @@
+file = t012751
+date = 2020-01-06
+user = EvertonMKT
+conversation = 161138300
+URL = https://twitter.com/EvertonMKT/status/1214328212584579072
+
+word count = 20
+words loading = 5
+factor score = 3
+
+@silvionavarro Mas parece que boa parte do povo Venezuelano também apoia o 
+ditador Maduro. . . não dá pra fazer o que … 
+
+Lemmas in this text that loaded on the factor:
+
+apoiar_verb_fin_sing (secondary)
+bom_adj_fem_sing (secondary)
+ditador_noun_masc_sing 
+fazer_verb_inf 
+povo_noun_masc_sing 

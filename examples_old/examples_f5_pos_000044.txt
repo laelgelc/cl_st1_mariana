@@ -1,0 +1,17 @@
+file = t006927
+date = 2019-10-11
+user = rogerio_royal
+conversation = 1089833875919028224
+URL = https://twitter.com/rogerio_royal/status/1182689507973455878
+
+word count = 14
+words loading = 2
+factor score = 3
+
+RT @WORD_NEWSS: Óleo que polui praias do nordeste fugiu do socialismos 
+venezuelano, diz pesquisa. 
+
+Lemmas in this text that loaded on the factor:
+
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

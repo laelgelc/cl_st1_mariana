@@ -1,5 +1,0 @@
-@pak_japa twitterhandle_VERB_Fin_Sing
-milhões milhão_NOUN_Masc_Plur
-de de_ADP
-bolivares bolivares_NOUN_Masc_Plur
-venezuelanos venezuelano_ADJ_Masc_Plur

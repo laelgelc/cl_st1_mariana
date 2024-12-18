@@ -1,0 +1,11 @@
+RT rt_PROPN_Masc_Sing
+@juliano_streit twitterhandle_PROPN_Sing
+: :
+Urgente urgente_ADJ_Fem_Sing
+: :
+STF stf_PROPN_Masc_Sing
+suspende suspender_VERB_Fin_Sing
+expulsão expulsão_NOUN_Fem_Sing
+de de_ADP
+diplomatas diplomata_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur

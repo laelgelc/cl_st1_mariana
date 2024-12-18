@@ -1,0 +1,14 @@
+Centenas centena_NOUN_Fem_Plur
+de de_ADP
+imigrantes imigrante_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur
+fazem fazer_VERB_Fin_Plur
+ato ato_NOUN_Masc_Sing
+no em_o_ADP_DET_Masc_Sing
+Centro centro_PROPN_Masc_Sing
+de de_ADP
+Boa boa_PROPN_Sing
+Vista vista_PROPN_Sing
+contra contra_ADP
+Maduro maduro_PROPN_Sing
+… …

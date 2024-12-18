@@ -1,0 +1,15 @@
+file = t004515
+date = 2018-02-12
+user = Florest09326505
+conversation = 919224060692791296
+URL = https://twitter.com/Florest09326505/status/963099783861764097
+
+word count = 10
+words loading = 1
+factor score = -2
+
+RT @o_antagonista: Invasão venezuelana: Estamos à beira de um colapso 
+
+Lemmas in this text that loaded on the factor:
+
+colapso_noun_masc_sing 

@@ -1,8 +1,0 @@
-Itamaraty itamaraty_PROPN_Masc_Sing
-pede pedir_VERB_Fin_Sing
-diálogo diálogo_NOUN_Masc_Sing
-entre entre_ADP
-chavismo chavismo_NOUN_Masc_Sing
-e e_CCONJ
-oposição oposição_NOUN_Fem_Sing
-venezuelana venezuelano_ADJ_Fem_Sing

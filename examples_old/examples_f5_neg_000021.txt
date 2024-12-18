@@ -1,0 +1,14 @@
+file = t004845
+date = 2018-02-13
+user = valrondelli
+conversation = 204639269
+URL = https://twitter.com/valrondelli/status/963210874210177024
+
+word count = 11
+words loading = 0
+factor score = -2
+
+A solução de Temer para a invasão venezuelana - O Antagonista 
+
+Lemmas in this text that loaded on the factor:
+

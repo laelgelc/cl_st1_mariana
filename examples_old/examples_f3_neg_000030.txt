@@ -1,0 +1,16 @@
+file = t005110
+date = 2018-03-12
+user = dinhoanildo
+conversation = 3434354369
+URL = https://twitter.com/dinhoanildo/status/972990774789988352
+
+word count = 17
+words loading = 1
+factor score = -2
+
+RT @GABRlELPlNHElRO: Parte 2 A advogada venezuelana que denunciou tráfico de 
+drogas na ditadura de Maduro 
+
+Lemmas in this text that loaded on the factor:
+
+droga_noun_fem_plur 

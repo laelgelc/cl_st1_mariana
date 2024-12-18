@@ -1,0 +1,17 @@
+file = t000558
+date = 2016-02-17
+user = blogdaleilahh
+conversation = 82165301
+URL = https://twitter.com/blogdaleilahh/status/699941517289525248
+
+word count = 12
+words loading = 2
+factor score = -3
+
+RT @VEJA: Oposição venezuelana aprovará hoje lei da anistia; Maduro promete 
+bloqueá -la 
+
+Lemmas in this text that loaded on the factor:
+
+aprovar_verb_fin_sing 
+lei_noun_fem_sing 

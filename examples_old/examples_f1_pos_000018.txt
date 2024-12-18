@@ -1,0 +1,20 @@
+file = t017477
+date = 2022-10-22
+user = RitadeFtimadeM2
+conversation = 944123162782060544
+URL = https://twitter.com/RitadeFtimadeM2/status/1583900899961090048
+
+word count = 15
+words loading = 5
+factor score = 5
+
+RT @DCM_online: Após ' pintou um clima ' de Bolsonaro, meninas venezuelanas 
+faltam uma semana na escola 
+
+Lemmas in this text that loaded on the factor:
+
+clima_noun_masc_sing 
+menino_noun_fem_plur 
+pintar_verb_fin_sing 
+semana_noun_fem_sing 
+venezuelano_adj_fem_plur 

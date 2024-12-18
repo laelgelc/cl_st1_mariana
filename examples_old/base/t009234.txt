@@ -1,0 +1,14 @@
+RT rt_PROPN_Masc_Sing
+@exame twitterhandle_VERB_Fin_Sing
+: :
+Mais mais_ADV
+de de_ADP
+400 400_NUM
+militares militar_NOUN_Masc_Plur
+venezuelanos venezuelano_ADJ_Masc_Plur
+já já_ADV
+desertaram desertar_VERB_Fin_Plur
+e e_CCONJ
+cruzaram cruzar_VERB_Fin_Plur
+a o_DET_Fem_Sing
+fronteira fronteira_NOUN_Fem_Sing

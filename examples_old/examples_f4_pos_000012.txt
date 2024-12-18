@@ -1,0 +1,17 @@
+file = t015707
+date = 2021-09-06
+user = hawkeyepierce57
+conversation = 174101972
+URL = https://twitter.com/hawkeyepierce57/status/1434904441132658690
+
+word count = 22
+words loading = 2
+factor score = 4
+
+RT @ArthurWeint: Milhões de refugiados venezuelanos que tiveram de fugir de 
+seu país. Quem ainda chama aquilo de democracia deveria ser pre … 
+
+Lemmas in this text that loaded on the factor:
+
+refugiado_noun_masc_plur 
+venezuelano_adj_masc_plur 

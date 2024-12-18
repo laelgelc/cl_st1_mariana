@@ -1,0 +1,19 @@
+file = t017878
+date = 2022-11-17
+user = francois_adv
+conversation = 338156981
+URL = https://twitter.com/francois_adv/status/1593106017302155264
+
+word count = 18
+words loading = 3
+factor score = 3
+
+RT @verinha_lucia17 : Fronteira BRASIL **flag_brazil_e** VENEZUELA 
+flag_venezuela_e Todos os dias entram no Brasil cerca de 800 venezuelanos 
+fugindo do regime socialist … 
+
+Lemmas in this text that loaded on the factor:
+
+flag_brazil_e 
+fugir_verb_part 
+regime_noun_masc_sing 

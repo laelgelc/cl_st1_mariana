@@ -1,0 +1,18 @@
+file = t014177
+date = 2021-10-20
+user = foreverpemba
+conversation = 16041920
+URL = https://twitter.com/foreverpemba/status/1450868884924477446
+
+word count = 12
+words loading = 3
+factor score = -4
+
+RT @PATRlOTAS: ' Governo venezuelano financiou Lula ' , denuncia ex-chefe de 
+inteligência militar chavista. 
+
+Lemmas in this text that loaded on the factor:
+
+chavista_adj_fem_sing 
+chefe 
+financiar_verb_fin_sing 

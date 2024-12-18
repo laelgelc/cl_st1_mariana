@@ -1,0 +1,18 @@
+file = t008677
+date = 2019-02-24
+user = AbdenegoCamillo
+conversation = 1054761955565670400
+URL = https://twitter.com/AbdenegoCamillo/status/1099661964253499392
+
+word count = 22
+words loading = 3
+factor score = 3
+
+RT @Francischini_ : O povo Venezuelano morrendo nas mãos sujas do DITADOR 
+MADURO. Seja de fome ou executados no meio da rua! Nossa fronteira … 
+
+Lemmas in this text that loaded on the factor:
+
+fome_noun_fem_sing 
+morrer_verb_part 
+povo_noun_masc_sing (secondary)

@@ -1,0 +1,18 @@
+file = t015831
+date = 2022-10-18
+user = Joelsonmen
+conversation = 1552061271922589696
+URL = https://twitter.com/Joelsonmen/status/1582388421351288835
+
+word count = 20
+words loading = 2
+factor score = 3
+
+RT @eixopolitico: **flag_brazil_e** Em novo vídeo, Jair Bolsonaro diz que 
+venezuelanas estavam arrumadas para fazer programa. Declaração foi dada ao po 
+… 
+
+Lemmas in this text that loaded on the factor:
+
+fazer_verb_inf 
+flag_brazil_e 

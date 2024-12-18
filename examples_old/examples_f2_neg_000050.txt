@@ -1,0 +1,17 @@
+file = t013412
+date = 2020-05-02
+user = brunaobarreto
+conversation = 1297089944
+URL = https://twitter.com/brunaobarreto/status/1256685045835862017
+
+word count = 22
+words loading = 2
+factor score = -3
+
+RT @dimacgarcia: Barroso suspendeu neste sábado ( 02 / 05 ) a expulsão de 34 
+diplomatas venezuelanos do Brasil. Ele determinou um prazo de 10 … 
+
+Lemmas in this text that loaded on the factor:
+
+diplomata_noun_masc_plur 
+suspender_verb_fin_sing 

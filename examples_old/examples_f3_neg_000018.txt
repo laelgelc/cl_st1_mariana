@@ -1,0 +1,16 @@
+file = t000067
+date = 2016-10-26
+user = Teresa_betalab
+conversation = 2783092291
+URL = https://twitter.com/Teresa_betalab/status/791092924515622912
+
+word count = 22
+words loading = 1
+factor score = -2
+
+Dupla de venezuelanos é presa em RR por suspeita de tráfico de drogas: Homens 
+foram presos em ação da DRE nes. . . 
+
+Lemmas in this text that loaded on the factor:
+
+droga_noun_fem_plur 

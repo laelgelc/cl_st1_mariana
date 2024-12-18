@@ -1,0 +1,16 @@
+file = t000281
+date = 2016-11-12
+user = rodapolitica
+conversation = 288733404
+URL = https://twitter.com/rodapolitica/status/797252511598047234
+
+word count = 13
+words loading = 1
+factor score = -2
+
+Oposição venezuelana diz que volta ao diálogo com ' solução eleitoral à 
+crise ' - 
+
+Lemmas in this text that loaded on the factor:
+
+crise_noun_fem_sing 

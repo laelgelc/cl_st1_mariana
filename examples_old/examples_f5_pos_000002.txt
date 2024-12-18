@@ -1,0 +1,18 @@
+file = t013820
+date = 2020-08-28
+user = luhes
+conversation = 49959329
+URL = https://twitter.com/luhes/status/1299156576536854528
+
+word count = 22
+words loading = 3
+factor score = 4
+
+RT @BlogdoNoblat: Oi! Não havia sido um navio com petróleo venezuelano que 
+provocara o desastre amnbiental nas praias do Nordeste? Agora, a … 
+
+Lemmas in this text that loaded on the factor:
+
+navio_noun_masc_sing 
+nordeste_noun_masc_sing 
+praia_noun_fem_plur 

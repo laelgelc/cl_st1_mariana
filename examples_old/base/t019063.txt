@@ -1,0 +1,14 @@
+RT rt_PROPN_Masc_Sing
+@DiarioPE twitterhandle_VERB_Fin_Sing
+: :
+Justiça justiça_NOUN_Fem_Sing
+argentina argentino_ADJ_Fem_Sing
+autoriza autorizar_VERB_Fin_Sing
+saída saída_NOUN_Fem_Sing
+de de_ADP
+parte parte_NOUN_Fem_Sing
+da de_o_ADP_DET_Fem_Sing
+tripulação tripulação_NOUN_Fem_Sing
+de de_ADP
+avião avião_NOUN_Masc_Sing
+venezuelano venezuelano_ADJ_Masc_Sing

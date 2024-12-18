@@ -1,0 +1,15 @@
+file = t008487
+date = 2019-01-24
+user = wesleysmatos
+conversation = 186186851
+URL = https://twitter.com/wesleysmatos/status/1088563500287516673
+
+word count = 19
+words loading = 0
+factor score = -2
+
+@unespciencia O bom Deus ( EU SOU ) abençoe os irmãos venezuelanos e os 
+demais panamericanos subjugados por ditadores cruéis. 
+
+Lemmas in this text that loaded on the factor:
+

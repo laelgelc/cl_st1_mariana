@@ -1,0 +1,15 @@
+file = t019021
+date = 2022-09-28
+user = Edduh99
+conversation = 887704271998914560
+URL = https://twitter.com/Edduh99/status/1575248520554094592
+
+word count = 20
+words loading = 0
+factor score = 
+
+Assistam o podcast do Inteligência LTDA. com um venezuelano e com um norte 
+coreano e tirem suas próprias conclusões 
+
+Lemmas in this text that loaded on the factor:
+
