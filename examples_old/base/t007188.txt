@@ -1,5 +1,0 @@
-Óleo óleo_NOUN_Masc_Sing
-venezuelano venezuelano_ADJ_Masc_Sing
-afeta afetar_VERB_Fin_Sing
-praias praia_NOUN_Fem_Plur
-brasileiras brasileiro_ADJ_Fem_Plur

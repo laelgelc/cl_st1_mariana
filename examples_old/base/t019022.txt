@@ -1,8 +1,0 @@
-fiquei ficar_VERB_Fin_Sing
-puto puto_ADJ_Masc_Sing
-com com_ADP
-uns um_PRON_Masc_Plur
-venezuelano venezuelano_ADJ_Masc_Sing
-, ,
-que que_SCONJ
-aleatório aleatório_ADJ_Masc_Sing
