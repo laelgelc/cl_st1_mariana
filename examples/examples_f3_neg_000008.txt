@@ -1,19 +1,16 @@
-file = t001272
-date = 2016-06-09
-user = rickbetatim
-conversation = 2752731972
-URL = https://twitter.com/rickbetatim/status/740783485376421888
+file = t000207
+date = 2016-11-12
+user = Arthuur_Alvess
+conversation = 707733161099333632
+URL = https://twitter.com/Arthuur_Alvess/status/797450667308687366
 
-word count = 20
-words loading = 4
-factor score = -3
+word count = 23
+words loading = 1
+factor score = -1
 
-Venezuelanos **disputam** **comida** com **cães** no **lixo** de feira de 
-Caracas: A cada início de tarde, dezenas de pessoas. . . 
+RT @FatosEsquerda: Um venezuelano tira uma foto com um soldado **colombiano** 
+na fronteira e diz que ficará pra história, e então, ele des … 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-cão
-disputar
-lixo (secondary)
+colombiano

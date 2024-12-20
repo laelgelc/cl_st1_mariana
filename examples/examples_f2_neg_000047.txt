@@ -1,19 +1,18 @@
-file = t013958
-date = 2020-09-20
-user = HugoSoares01001
-conversation = 1254048259275927552
-URL = https://twitter.com/HugoSoares01001/status/1307656971127058432
+file = t012834
+date = 2020-03-26
+user = edupinesso
+conversation = 4279352836
+URL = https://twitter.com/edupinesso/status/1243223175497949189
 
-word count = 22
+word count = 17
 words loading = 3
 factor score = -3
 
-RT @UmbelinoSilva: Muita gente confunde o **povo** venezuelano, com o 
-**Governo** venezuelano. O **povo** foge da Venezuela, para se livrar do 
-**Ditador** … 
+RT @mblivrenews: **Ditador** venezuelano é **acusado** pelo **governo** dos 
+EUA de financiar o narcoterrorismo no país 
 
 Lemmas in this text that loaded on the factor:
 
+acusar
 ditador
 governo
-povo

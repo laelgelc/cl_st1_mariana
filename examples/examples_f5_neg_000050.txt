@@ -1,17 +1,19 @@
-file = t003664
-date = 2017-11-12
-user = ailtonline
-conversation = 52076417
-URL = https://twitter.com/ailtonline/status/929534794811297793
+file = t004012
+date = 2018-01-27
+user = cissa_leite
+conversation = 2499935353
+URL = https://twitter.com/cissa_leite/status/957261648267501569
 
-word count = 18
-words loading = 2
+word count = 21
+words loading = 3
 factor score = -2
 
-RT @ailtonline: @avalvulaoficial @dnsemello A tecnologia usada no Brasil é da 
-Smartmatic, **empresa** venezuelana sist. **eletrônicos** de votação … 
+RT @leandroruschel: A **empresa** venezuelana Smartmatic venceu leilão para 
+fornecer impressoras e **urnas** **eletrônicas** para o TSE. Essa é a empre 
+… 
 
 Lemmas in this text that loaded on the factor:
 
 eletrônico
-empresa
+empresa (secondary)
+urna

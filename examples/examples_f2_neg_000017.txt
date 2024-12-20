@@ -1,20 +1,18 @@
-file = t004207
-date = 2018-05-06
-user = miriammadoenho
-conversation = 52548800
-URL = https://twitter.com/miriammadoenho/status/993234612401967104
+file = t003925
+date = 2017-06-03
+user = rivaildorc
+conversation = 71464354
+URL = https://twitter.com/rivaildorc/status/870793416313106432
 
-word count = 22
-words loading = 4
+word count = 18
+words loading = 3
 factor score = -3
 
-RT @Desesquerdizada: O PCdoB mostra que continua **apoiando** o **ditador** 
-Nicolás Maduro, uma **ditadura** genocida que mata o **povo** venezuelano de 
-fo … 
+RT @GABRIELPlNHEIRO: Venezuelana diz que o **governo** não tem **dinheiro** 
+pra **remédios** mas tem pra gás lacrimogêneo 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar (secondary)
-ditador
-ditadura
-povo
+dinheiro
+governo
+remédio

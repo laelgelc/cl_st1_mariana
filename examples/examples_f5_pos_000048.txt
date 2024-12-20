@@ -1,18 +1,20 @@
-file = t017923
-date = 2022-01-14
-user = jotajean87
-conversation = 990036558840516608
-URL = https://twitter.com/jotajean87/status/1481949872932720642
+file = t017945
+date = 2022-01-18
+user = adriano9270
+conversation = 1127298371528605696
+URL = https://twitter.com/adriano9270/status/1483504269428989962
 
-word count = 21
-words loading = 3
+word count = 19
+words loading = 4
 factor score = 3
 
-@jcrfjones Exatamente, **trabalho** de Uber em alguns dias do **mês** . Já 
-fiz corrida para venezuelano em um fim de **semana** , … 
+RT @DefesaGovBr: HASHTAG #minutodefesa_h studio_microphone_e - A **Operação** 
+Acolhida leva esperança a **imigrantes** e **refugiados** venezuelanos que 
+**chegam** ao Brasil. As Força … 
 
 Lemmas in this text that loaded on the factor:
 
-mês
-semana
-trabalho
+chegar (secondary)
+imigrante
+operação
+refugiado

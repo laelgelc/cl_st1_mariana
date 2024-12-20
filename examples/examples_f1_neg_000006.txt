@@ -1,18 +1,21 @@
-file = t000506
-date = 2016-01-24
-user = darkseid70
-conversation = 3165586519
-URL = https://twitter.com/darkseid70/status/691076427962261504
+file = t013420
+date = 2020-05-02
+user = Everaldo_Fernan
+conversation = 101330305
+URL = https://twitter.com/Everaldo_Fernan/status/1256719149721583626
 
-word count = 15
-words loading = 3
-factor score = -3
+word count = 17
+words loading = 5
+factor score = -4
 
-**Assembleia** venezuelana **rejeita** **decreto** que dava poderes especiais 
-para Maduro, comparsa da dupla medonha Lula- . . 
+RT @DeputadoFederal: STF **suspende** **expulsão** de **diplomatas** 
+venezuelanos **determinada** pelo governo Bolsonaro. **Decisão** do ministro 
+Luis Barroso … 
 
 Lemmas in this text that loaded on the factor:
 
-assembleia
-decreto
-rejeitar
+decisão
+determinar
+diplomata (secondary)
+expulsão
+suspender

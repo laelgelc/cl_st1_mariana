@@ -1,21 +1,20 @@
-file = t009803
-date = 2019-02-25
-user = dnoticiaspt
-conversation = 22905057
-URL = https://twitter.com/dnoticiaspt/status/1100119504078626818
+file = t010714
+date = 2019-04-30
+user = OficialBrendo
+conversation = 2869079424
+URL = https://twitter.com/OficialBrendo/status/1123339275876077569
 
-word count = 14
-words loading = 6
-factor score = 6
+word count = 17
+words loading = 5
+factor score = 5
 
-Brasil **recebeu** 587 **imigrantes** e **refugiados** venezuelanos desde 
-sexta-feira: Pelo menos 587 venezuelanos **entraram** no … 
+RT @terca_livre: **Entra** em vigor medida que destina R$ 224 **milhões** para 
+**ajuda** **humanitária** a **imigrantes** venezuelanos - … 
 
 Lemmas in this text that loaded on the factor:
 
+ajuda
 entrar
-feira
+humanitário
 imigrante
-receber
-refugiado
-sexta
+milhão

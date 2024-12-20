@@ -1,19 +1,20 @@
-file = t000680
-date = 2016-03-17
-user = igoryassue
-conversation = 67075745
-URL = https://twitter.com/igoryassue/status/710586178479632384
+file = t013269
+date = 2020-05-04
+user = jlmbl22
+conversation = 298600802
+URL = https://twitter.com/jlmbl22/status/1257281563928166404
 
-word count = 16
-words loading = 4
-factor score = -4
+word count = 15
+words loading = 5
+factor score = -5
 
-**Assembleia** venezuelana **rejeita** esticar **decreto** de **emergência** 
-econômica: A bancada opositora que domina a Assem. . . 
+RT @conexaopolitica: STF **suspende** **expulsão** de **corpo** 
+**diplomático** venezuelano **determinada** por Ministro Ernesto Araújo 
 
 Lemmas in this text that loaded on the factor:
 
-assembleia
-decreto
-emergência
-rejeitar
+corpo
+determinar
+diplomático
+expulsão
+suspender

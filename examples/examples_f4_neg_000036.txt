@@ -1,16 +1,19 @@
-file = t002500
-date = 2017-08-08
-user = Fernandofrutal
-conversation = 51564077
-URL = https://twitter.com/Fernandofrutal/status/895066642060791808
+file = t010755
+date = 2019-04-30
+user = yennygomes1984
+conversation = 203259471
+URL = https://twitter.com/yennygomes1984/status/1123322578356047874
 
-word count = 19
-words loading = 1
-factor score = -1
+word count = 14
+words loading = 4
+factor score = -3
 
-RT @Aloysio_Nunes: O Brasil e mais onze países **americanos** anunciaram hoje 
-em conjunto que não reconhecem a Constituinte venezuelana. 
+RT @BrasilEFE: **Grupo** de HASHTAG #militares_h venezuelanos **pede** 
+**asilo** na **embaixada** brasileira em HASHTAG #caracas_h 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+asilo
+embaixada
+grupo
+pedir (secondary)

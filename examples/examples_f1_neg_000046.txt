@@ -1,17 +1,19 @@
-file = t000902
-date = 2016-04-21
-user = PedroAlvinho
-conversation = 608026732
-URL = https://twitter.com/PedroAlvinho/status/723038173685673985
+file = t013442
+date = 2020-05-08
+user = GracieusaBrito
+conversation = 359821009
+URL = https://twitter.com/GracieusaBrito/status/1258899244058136576
 
-word count = 18
-words loading = 2
-factor score = -2
+word count = 22
+words loading = 3
+factor score = -3
 
-**Parlamento** venezuelano **aprova** em 1ª instância emenda para saída de 
-Maduro: Caracas, 20 abr ( EFE ) . - O parlament. . . 
+RT @pflkwy: Venezuela **decreta** **prisão** de Guaidó e 22 mercenários por 
+**tentativa** de sequestrar Maduro l Rendón é venezuelano, e atualmente ass 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-parlamento
+decretar
+prisão
+tentativa

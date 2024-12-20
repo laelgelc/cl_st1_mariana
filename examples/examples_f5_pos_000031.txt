@@ -1,20 +1,19 @@
-file = t005847
-date = 2018-09-13
-user = junh51
-conversation = 818126533139296256
-URL = https://twitter.com/junh51/status/1040207126231179264
+file = t007601
+date = 2019-11-15
+user = USAemPortugues
+conversation = 264344384
+URL = https://twitter.com/USAemPortugues/status/1195426631948656643
 
 word count = 21
 words loading = 4
 factor score = 4
 
-RT @psl_mg: Centenas de venezuelanos na **fronteira** com a Colombia, fugindo 
-em **busca** de comida, remédio, **trabalho** . Mais de 2 **milhões** fugiram 
-… 
+Diante de uma **crise** **humanitária** , mais de 4 , 6 **milhões** de 
+venezuelanos, 15 % da população, fugiram de seu **país** em busc … 
 
 Lemmas in this text that loaded on the factor:
 
-busca
-fronteira
+crise
+humanitário
 milhão
-trabalho
+país

@@ -1,19 +1,20 @@
-file = t015921
+file = t017254
 date = 2022-10-16
-user = eulorennarosa
-conversation = 1512055147383382016
-URL = https://twitter.com/eulorennarosa/status/1581665595967561728
+user = NizesSantos
+conversation = 1549618978053578752
+URL = https://twitter.com/NizesSantos/status/1581795560683470848
 
 word count = 20
-words loading = 3
-factor score = 3
+words loading = 5
+factor score = 4
 
-RT @bchartsnet: police_car_light_e Venezuelana desmente fala do **presidente** 
-, **afirmando** que estava acontecendo uma **ação** social no dia que 
-Bolsonaro visitou São … 
+@cappellarianton Bolsonaro vai **explicar** o que significa **PINTOU** UM 
+**CLIMA** dito para **meninas** venezuelanas de 14 **anos** de idade? 
 
 Lemmas in this text that loaded on the factor:
 
-afirmar
-ação
-presidente
+ano (secondary)
+clima
+explicar
+menino
+pintar

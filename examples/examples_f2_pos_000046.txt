@@ -1,18 +1,18 @@
-file = t003495
-date = 2017-05-22
-user = JJm536
-conversation = 3033597009
-URL = https://twitter.com/JJm536/status/866710567532285954
+file = t018739
+date = 2022-08-11
+user = LeoFerreiraSFC
+conversation = 1017054929255653376
+URL = https://twitter.com/LeoFerreiraSFC/status/1557733719427158016
 
-word count = 17
-words loading = 3
-factor score = 3
+word count = 24
+words loading = 2
+factor score = 2
 
-RT @Vingadorez: Rómulo Otero é **convocado** para **Seleção** Venezuelana e 
-desfalca Galo em dois **jogos** - via Super … 
+RT @TNTSportsBR: SOTELDO É O NOVO REFORÇO DO SANTOS FUTEBOL CLUBE! 
+**flag_venezuela_e** spouting_whale_e O **meia** venezuelano assinou por 1 ano 
+de empréstimo com o Alvinegro P … 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
-jogo
-seleção
+flag_venezuela_e
+meia

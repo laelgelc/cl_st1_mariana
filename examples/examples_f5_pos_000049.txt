@@ -1,18 +1,18 @@
-file = t017640
-date = 2022-11-01
-user = DudaTeixeira
-conversation = 19251755
-URL = https://twitter.com/DudaTeixeira/status/1587473075439804416
+file = t017923
+date = 2022-01-14
+user = jotajean87
+conversation = 990036558840516608
+URL = https://twitter.com/jotajean87/status/1481949872932720642
 
-word count = 20
+word count = 21
 words loading = 3
 factor score = 3
 
-Lula vai cobrar a dívida de Maduro com o BNDES? Vai manter a **ajuda** 
-**humanitária** dada aos **refugiados** venezuelanos? … 
+@jcrfjones Exatamente, **trabalho** de Uber em alguns dias do **mês** . Já 
+fiz corrida para venezuelano em um fim de **semana** , … 
 
 Lemmas in this text that loaded on the factor:
 
-ajuda
-humanitário
-refugiado
+mês
+semana
+trabalho

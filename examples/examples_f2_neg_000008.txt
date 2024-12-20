@@ -1,19 +1,19 @@
-file = t001845
-date = 2017-07-29
-user = suplementos_imp
-conversation = 793544241758756864
-URL = https://twitter.com/suplementos_imp/status/891301541205954561
+file = t000939
+date = 2016-05-14
+user = IvonMatoso
+conversation = 2270609839
+URL = https://twitter.com/IvonMatoso/status/731526341888184321
 
-word count = 15
-words loading = 4
+word count = 22
+words loading = 3
 factor score = -3
 
-RT @Desesquerdizada: Enquanto o **povo** venezuelano **passa** **fome** , os 
-líderes da **ditadura** socialista enriquecem. 
+RT @beltongomes: ABAIXO A **DITADURA** NA VENEZUELA! @NicolasMaduro ESTADO DE 
+EXCEÇÃO É **CRIME** CONTRA O **POVO** ! REBELAR É PRECISO **POVO** 
+VENEZUELANO! 
 
 Lemmas in this text that loaded on the factor:
 
+crime
 ditadura
-fome (secondary)
-passar
 povo

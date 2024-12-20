@@ -1,19 +1,23 @@
-file = t010755
-date = 2019-04-30
-user = yennygomes1984
-conversation = 203259471
-URL = https://twitter.com/yennygomes1984/status/1123322578356047874
+file = t017033
+date = 2022-10-16
+user = brunavilelav
+conversation = 1369095132130254848
+URL = https://twitter.com/brunavilelav/status/1581747301030428673
 
-word count = 14
-words loading = 4
-factor score = 4
+word count = 24
+words loading = 7
+factor score = 5
 
-RT @BrasilEFE: **Grupo** de HASHTAG #militares_h venezuelanos **pede** 
-**asilo** na **embaixada** brasileira em HASHTAG #caracas_h 
+RT @em_com: ' **PINTOU** UM **CLIMA** ' **Fala** de Bolsonaro ( PL ) sobre 
+**garotas** venezuelanas de 14 e 15 **anos** de idade repercutiu nas **redes** 
+**sociais** e fic … 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-grupo
-pedir
+ano (secondary)
+clima
+falar (secondary)
+garota
+pintar
+rede
+social

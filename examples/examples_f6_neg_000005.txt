@@ -1,19 +1,20 @@
-file = t014177
-date = 2021-10-20
-user = foreverpemba
-conversation = 16041920
-URL = https://twitter.com/foreverpemba/status/1450868884924477446
+file = t006930
+date = 2019-10-09
+user = conservadorsul
+conversation = 1142793743369744384
+URL = https://twitter.com/conservadorsul/status/1181905756125368321
 
-word count = 12
+word count = 22
 words loading = 4
 factor score = -4
 
-RT @PATRlOTAS: ' Governo venezuelano **financiou** Lula ' , denuncia ex-chefe 
-de **inteligência** militar **chavista** . 
+RT @NiltonGzCardoso: Quer dizer então que o **óleo** encontrado nas 
+**praias** do **nordeste** é de **origem** Venezuelano, Cadê os 
+ambientalistas, o índi … 
 
 Lemmas in this text that loaded on the factor:
 
-chavista
-chefe
-financiar
-inteligência
+nordeste
+origem
+praia
+óleo

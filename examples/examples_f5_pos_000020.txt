@@ -1,20 +1,20 @@
-file = t011345
-date = 2019-06-04
-user = Sandra22563580
-conversation = 1103728586253615104
-URL = https://twitter.com/Sandra22563580/status/1135725873490006018
+file = t011387
+date = 2019-06-07
+user = marinagon
+conversation = 32481708
+URL = https://twitter.com/marinagon/status/1137069619414519808
 
-word count = 18
+word count = 23
 words loading = 4
 factor score = 4
 
-RT @geraldomiotto: @CmdoCMS @dsm_aovivo @diariosm A **Operação** **Acolhida** 
-aos Venezuelanos é uma missão de caráter **humanitário** para **receber** 
-os … 
+RT @OGlobo_Mundo: Um **milhão** de venezuelanos deixaram o **país** nos 
+últimos sete **meses** . No total, 4 **milhões** já fugiram da **crise** , 
+diz ONU; cerca … 
 
 Lemmas in this text that loaded on the factor:
 
-acolher
-humanitário
-operação
-receber
+crise
+milhão
+mês
+país

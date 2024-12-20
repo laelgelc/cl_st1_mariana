@@ -1,18 +1,16 @@
-file = t000160
-date = 2016-10-27
-user = prmaduro
-conversation = 1643750532
-URL = https://twitter.com/prmaduro/status/791790139475451905
+file = t000328
+date = 2016-12-17
+user = SilkPesooa
+conversation = 755575006676054016
+URL = https://twitter.com/SilkPesooa/status/810113904420458496
 
-word count = 19
-words loading = 3
-factor score = -2
+word count = 20
+words loading = 1
+factor score = -1
 
-Lula e HASHTAG #maburro_h são FDP Enquanto venezuelanos estão **comendo** 
-**gatos** e pombos para **sobreviver** , Lula apoia o carrasco. 
+RT @brasil_fotos: Com a parte venezuelana da fronteira **fechada** , 
+brasileiros chegam ao Brasil andando pelo mato. Um deles perdeu o pró … 
 
 Lemmas in this text that loaded on the factor:
 
-comer (secondary)
-gato
-sobreviver
+fechar

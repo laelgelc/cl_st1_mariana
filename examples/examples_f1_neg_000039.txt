@@ -1,16 +1,20 @@
-file = t000606
-date = 2016-02-25
-user = rtraderapp
-conversation = 1938980444
-URL = https://twitter.com/rtraderapp/status/702983734040072192
+file = t013275
+date = 2020-05-03
+user = ThiagoWyclef
+conversation = 1393283628
+URL = https://twitter.com/ThiagoWyclef/status/1256988914763681793
 
-word count = 9
-words loading = 2
-factor score = -2
+word count = 21
+words loading = 4
+factor score = -3
 
-**Parlamento** venezuelano **suspende** sessão por desordens do público 
+RT @reportersalles: STF **anula** ato de Bolsonaro que **determinava** 
+**expulsão** de 34 **diplomatas** venezuelanos do Brasil. O ministro Luís 
+Roberto Ba … 
 
 Lemmas in this text that loaded on the factor:
 
-parlamento
-suspender
+anular
+determinar
+diplomata (secondary)
+expulsão

@@ -1,18 +1,21 @@
-file = t014422
-date = 2021-12-08
-user = William93703781
-conversation = 1282749379103936512
-URL = https://twitter.com/William93703781/status/1468580990322884612
+file = t017196
+date = 2022-10-18
+user = AdaliceDePaula
+conversation = 1117471660989399040
+URL = https://twitter.com/AdaliceDePaula/status/1582448492160876544
 
-word count = 22
-words loading = 3
-factor score = 3
+word count = 23
+words loading = 5
+factor score = 4
 
-RT @Lindasod: Pollo Carvajall, **General** Venezuelano que **denunciou** Lula 
-como financiado pelo narcotráfico via Foro de SP, **afirma** que os os pr … 
+RT @revistaforum: **Adolescentes** e mães venezuelanas se **negaram** a 
+**gravar** **vídeo** para Bolsonaro; Lula vai **falar** do tema no Flow Novo 
+**vídeo** div … 
 
 Lemmas in this text that loaded on the factor:
 
-afirmar
-denunciar
-general
+adolescente
+falar (secondary)
+gravar
+negar
+vídeo

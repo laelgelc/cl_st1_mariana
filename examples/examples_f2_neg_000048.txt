@@ -1,19 +1,19 @@
-file = t014079
-date = 2020-09-29
-user = pruda1268
-conversation = 70785512
-URL = https://twitter.com/pruda1268/status/1311064226564321287
+file = t012994
+date = 2020-03-02
+user = djarthurjonas
+conversation = 2500223364
+URL = https://twitter.com/djarthurjonas/status/1234570959673270274
 
-word count = 20
-words loading = 4
+word count = 16
+words loading = 3
 factor score = -3
 
-@Comodor0br **Passam** mal. . . E guerra pra que, dizem eles? Deixa o **povo** 
-Venezuelano **morrer** de **fome** , o ISIS decapitar y … 
+RT @digital_explora: DEMOCRACIA VENEZUELANA - HASHTAG #juanguaidó_h, 
+presidente interino da HASHTAG #venezuela_h **acusa** o **governo** do 
+**ditador** HASHTAG #nicolasmaduro_h de t … 
 
 Lemmas in this text that loaded on the factor:
 
-fome (secondary)
-morrer
-passar
-povo
+acusar
+ditador
+governo

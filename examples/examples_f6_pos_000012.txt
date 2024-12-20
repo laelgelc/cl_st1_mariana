@@ -1,19 +1,20 @@
-file = t007041
-date = 2019-10-09
-user = LenildaLuna
-conversation = 59462781
-URL = https://twitter.com/LenildaLuna/status/1181886579763232768
+file = t010366
+date = 2019-04-30
+user = regisouzar
+conversation = 54698081
+URL = https://twitter.com/regisouzar/status/1123251442943442946
 
 word count = 20
-words loading = 3
+words loading = 4
 factor score = 3
 
-RT @veluc111 : Jornalistas que **compraram** denúncia de **petróleo** 
-venezuelano no **Nordeste** precisam de aula de geografia. Por Fernando Brito 
-http … 
+RT @GaudTorquato: Boa tarde. INTERNACIONAL Guaidó diz ter **apoio** de base 
+**militar** para derrubar Maduro; **Líder** **opositor** venezuelano publicou 
+v … 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-nordeste
-petróleo
+apoio
+líder
+militar (secondary)
+opositor

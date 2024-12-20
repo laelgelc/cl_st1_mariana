@@ -1,21 +1,20 @@
-file = t017502
-date = 2022-10-24
-user = MenSidiney
-conversation = 2805410554
-URL = https://twitter.com/MenSidiney/status/1584653186140282880
+file = t006444
+date = 2018-10-06
+user = cwcmcz
+conversation = 202913340
+URL = https://twitter.com/cwcmcz/status/1048712692389896194
 
 word count = 20
-words loading = 5
-factor score = 5
+words loading = 4
+factor score = 4
 
-RT @Frida08136948 : @mfriasoficial Seu Jair **chama** de **prostitutas** 
-**adolescentes** venezuelanas pq se **arrumaram** pra ir em um projeto 
-**social** ; Robe … 
+RT @AiltonBenedito: Venezuelanos já **comem** **comida** de **cachorro** , diz 
+ONG - Internacional. Resultado do **socialismo** do século XXI infligido à Ve 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-adolescente
-arrumar
-chamar
-prostituta
-social
+cachorro
+comer
+comida
+socialismo

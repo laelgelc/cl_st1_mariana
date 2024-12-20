@@ -1,19 +1,21 @@
-file = t013820
-date = 2020-08-28
-user = luhes
-conversation = 49959329
-URL = https://twitter.com/luhes/status/1299156576536854528
+file = t010995
+date = 2019-05-01
+user = opedeuta
+conversation = 561368187
+URL = https://twitter.com/opedeuta/status/1123702024460279809
 
-word count = 22
-words loading = 3
+word count = 19
+words loading = 5
 factor score = 3
 
-RT @BlogdoNoblat: Oi! Não havia sido um **navio** com **petróleo** 
-venezuelano que provocara o desastre amnbiental nas praias do **Nordeste** ? 
-Agora, a … 
+RT @Pragmatismo_ : Maduro desmente secretário dos EUA e **nega** que fugiria 
+para Cuba. O **presidente** venezuelano **declara** **vitória** sobre 
+**golpistas** … 
 
 Lemmas in this text that loaded on the factor:
 
-navio
-nordeste
-petróleo
+declarar
+golpista
+negar (secondary)
+presidente
+vitória (secondary)

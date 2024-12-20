@@ -1,20 +1,20 @@
-file = t010366
-date = 2019-04-30
-user = regisouzar
-conversation = 54698081
-URL = https://twitter.com/regisouzar/status/1123251442943442946
+file = t017848
+date = 2022-11-22
+user = DDJoanaFranco1
+conversation = 1582913971564134400
+URL = https://twitter.com/DDJoanaFranco1/status/1594896267875946496
 
 word count = 20
-words loading = 4
+words loading = 5
 factor score = 4
 
-RT @GaudTorquato: Boa tarde. INTERNACIONAL Guaidó diz ter **apoio** de base 
-**militar** para derrubar Maduro; **Líder** **opositor** venezuelano publicou 
-v … 
+@DamaresAlves Onde tu estava **qdo** o **presidente** que tu defende, disse ter 
+**pintado** um **clima** com as **meninas** venezuelanos? 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-líder
-militar
-opositor
+clima
+menino
+pintar
+presidente (secondary)
+qdo

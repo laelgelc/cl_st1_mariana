@@ -1,19 +1,20 @@
-file = t014179
-date = 2021-10-23
-user = Pipoticoazul
-conversation = 1001798938364645376
-URL = https://twitter.com/Pipoticoazul/status/1451878772664328194
+file = t006966
+date = 2019-10-11
+user = Luska64650757
+conversation = 1076452353375682560
+URL = https://twitter.com/Luska64650757/status/1182613855299686400
 
-word count = 21
-words loading = 3
+word count = 27
+words loading = 4
 factor score = -3
 
-RT @SSlavko27 : Carvajal entregou à **Justiça** **espanhola** uma carta em 
-que diz que a ditadura venezuelana **financiou** partidos, políticos, o ex-pr 
-… 
+RT @PATRlOTAS: Sobre o **óleo** venezuelano que inundo as **praias** do 
+**Nordeste** . Não foi aberto um duto lá na Venezuela e o **óleo** veio 
+**parar** aqui. … 
 
 Lemmas in this text that loaded on the factor:
 
-espanhol
-financiar
-justiça
+nordeste
+parar (secondary)
+praia
+óleo

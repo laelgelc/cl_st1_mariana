@@ -1,19 +1,17 @@
-file = t012886
-date = 2020-03-12
-user = CludiaM43627376
-conversation = 973770351372132352
-URL = https://twitter.com/CludiaM43627376/status/1237924809054523392
+file = t000623
+date = 2016-02-16
+user = Fabricio_betala
+conversation = 3952655063
+URL = https://twitter.com/Fabricio_betala/status/699653846750990337
 
-word count = 20
-words loading = 3
-factor score = -3
+word count = 18
+words loading = 2
+factor score = -2
 
-RT @ElossaCeu: @nopontodofato @valentinameyer TSE é o mesmo que deixou 
-**urnas** serem **fraudadas** ( com **empresa** venezuelana ) , que agora 
-colocou fo … 
+Oposição venezuelana **aprovará** hoje **lei** da anistia; Maduro promete 
+bloqueá -la: Pelo fato de a oposição ter a ma. . . 
 
 Lemmas in this text that loaded on the factor:
 
-empresa
-fraudar
-urna
+aprovar
+lei

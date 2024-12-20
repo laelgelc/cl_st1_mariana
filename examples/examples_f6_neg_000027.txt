@@ -1,19 +1,19 @@
-file = t014235
-date = 2021-10-19
-user = LoiErika2
-conversation = 1253715346558779392
-URL = https://twitter.com/LoiErika2/status/1450611799246712838
+file = t007009
+date = 2019-10-24
+user = sigatop10
+conversation = 1058725540922867712
+URL = https://twitter.com/sigatop10/status/1187415297386520577
 
-word count = 16
+word count = 19
 words loading = 3
 factor score = -3
 
-RT @Andreoli38B: Está começando a avalanche: BOMBA: ' Governo venezuelano 
-**financiou** Lula ' , denuncia ex-chefe de **inteligência** militar chavis 
-… 
+RT @sigatop10 : Enquete: O **óleo** que está atingindo a costa do 
+**Nordeste** é de **origem** VENEZUELANO? HASHTAG #quintadetremurasdv_h 
+HASHTAG #sextadetrtemurasdv_h 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-financiar
-inteligência
+nordeste
+origem
+óleo

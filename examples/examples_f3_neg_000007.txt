@@ -1,19 +1,16 @@
-file = t001267
-date = 2016-06-10
-user = chicomagno
-conversation = 357500146
-URL = https://twitter.com/chicomagno/status/741212562692444160
+file = t000155
+date = 2016-10-02
+user = DiogoRedlich_97
+conversation = 719460330
+URL = https://twitter.com/DiogoRedlich_97/status/782412472653324288
 
-word count = 14
-words loading = 4
-factor score = -3
+word count = 21
+words loading = 1
+factor score = -1
 
-RT @UOL: Venezuelanos **disputam** **comida** com **cães** no **lixo** de 
-feira em Caracas 
+RT @onobrinho: Times brasileiros se reforçam com argentinos, uruguaios, 
+**colombianos** . Só o Inter apostou em um venezuelano. Tomara que dê ce … 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-cão
-disputar
-lixo (secondary)
+colombiano

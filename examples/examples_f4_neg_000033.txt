@@ -1,17 +1,20 @@
-file = t002359
-date = 2017-08-27
-user = RolexCubano
-conversation = 810798988547031040
-URL = https://twitter.com/RolexCubano/status/901955530557677569
+file = t010591
+date = 2019-05-01
+user = fabiomoraes
+conversation = 14692201
+URL = https://twitter.com/fabiomoraes/status/1123393415964766208
 
-word count = 14
-words loading = 1
-factor score = -1
+word count = 18
+words loading = 4
+factor score = -3
 
-RT @egocarioca: Flagrante! Forças venezuelanas cercam porta-aviões 
-**americano** . " Andem, gringos, rendam -se! Vocês estão cercados! " 
-https://t. … 
+RT @professorigor: 25 **militares** venezuelanos **pediram** **asilo** politica 
+na **Embaixada** Brasileira. Viu o que é repressão @jeanwyllys_real? HASHTAG 
+#ven_h … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+asilo
+embaixada
+militar
+pedir (secondary)

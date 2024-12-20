@@ -1,19 +1,17 @@
-file = t007052
-date = 2019-10-13
-user = MDilza
-conversation = 372085476
-URL = https://twitter.com/MDilza/status/1183200533571604480
+file = t000147
+date = 2016-10-24
+user = marcoan57908373
+conversation = 849287089
+URL = https://twitter.com/marcoan57908373/status/790500009313730560
 
-word count = 16
-words loading = 3
-factor score = -3
+word count = 12
+words loading = 2
+factor score = -2
 
-RT @64by94 : @AleTerraSouza17 @serenogustavo Com **urnas** **eletrônicas** 
-mantidas pela mesma **empresa** responsável pelas **urnas** venezuelanas ( 
-exemplo … 
+Parlamento venezuelano **aprova** texto que diz que Maduro promoveu **golpe** 
+HASHTAG #g1_h 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
-empresa
-urna
+aprovar
+golpe

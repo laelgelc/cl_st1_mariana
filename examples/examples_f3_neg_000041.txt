@@ -1,18 +1,16 @@
-file = t001627
-date = 2016-08-23
-user = marinapagno
-conversation = 818323478
-URL = https://twitter.com/marinapagno/status/768193442384113664
+file = t001972
+date = 2017-07-31
+user = dirma0913
+conversation = 1970672089
+URL = https://twitter.com/dirma0913/status/891850026145652736
 
-word count = 13
-words loading = 3
-factor score = -2
+word count = 18
+words loading = 1
+factor score = -1
 
-RT @zerohora: . @Leogerchmann: **atletas** venezuelanos voltam do Rio levando 
-**alimentos** e **medicamentos** … 
+RT @IZILDAMARIADE: @DonGatoADSM @oscarjuan5 @leopoldolopez Coisa feia esses 
+venezuelanos que baixam as calças para **americano** fazer o q … 
 
 Lemmas in this text that loaded on the factor:
 
-alimento
-atleta
-medicamento (secondary)
+americano

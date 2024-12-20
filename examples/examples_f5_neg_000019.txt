@@ -1,19 +1,18 @@
-file = t004849
-date = 2018-02-01
-user = FlavihSouza
-conversation = 463346583
-URL = https://twitter.com/FlavihSouza/status/959153338070847488
+file = t006672
+date = 2018-11-10
+user = leoprr01
+conversation = 838512839103037440
+URL = https://twitter.com/leoprr01/status/1061305112877023232
 
-word count = 23
+word count = 22
 words loading = 3
 factor score = -3
 
-RT @MMucke: A **eleição** brasileira está nas **mãos** da venezuelana 
-Smatmatic, **empresa** que roubou as **eleições** no país ajudando a 
-consolidar a dit … 
+Se nos EUA a esquerda **fraudou** as **eleições** c voto em papel, imagine 
+aqui, q ninguém audita as **urnas** venezuelanas e n … 
 
 Lemmas in this text that loaded on the factor:
 
 eleição
-empresa
-mão
+fraudar
+urna

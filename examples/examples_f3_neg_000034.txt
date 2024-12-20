@@ -1,17 +1,16 @@
-file = t001391
-date = 2016-07-05
-user = revistacelebre
-conversation = 82415415
-URL = https://twitter.com/revistacelebre/status/750178168481325057
+file = t001689
+date = 2016-09-07
+user = JuniorSub
+conversation = 55818224
+URL = https://twitter.com/JuniorSub/status/773565272032620545
 
-word count = 13
-words loading = 2
-factor score = -2
+word count = 16
+words loading = 1
+factor score = -1
 
-Sem **comida** , **hospital** venezuelano recorre a doações para alimentar 
-crianças ( via@revistacelebre ) 
+( folha ) Com novo protesto, oposição **aumenta** pressão contra Maduro na 
+Venezuela: A oposição venezuelana inicio. . . 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-hospital
+aumentar

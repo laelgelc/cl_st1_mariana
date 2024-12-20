@@ -1,18 +1,18 @@
-file = t003177
-date = 2017-04-03
-user = Anaamvs_Sanches
-conversation = 325109785
-URL = https://twitter.com/Anaamvs_Sanches/status/848749404387504128
+file = t003588
+date = 2017-05-26
+user = flordelotus05
+conversation = 578771859
+URL = https://twitter.com/flordelotus05/status/868230851741573121
 
-word count = 18
+word count = 20
 words loading = 2
 factor score = -2
 
-RT @leandroruschel: Numa **eleição** claramente **fraudada** , candidato 
-bolivariano ganha **eleição** e consolida Equador rumo ao desastre 
-venezuelano. 
+RT @Geraldofranca: Não confie em Diretas já com Gilmar Mendes no TSE e as 
+**urnas** **eletrônicas** venezuelanas. HASHTAG #diretasnao_h HASHTAG 
+#diretasjanao_h … 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-fraudar
+eletrônico
+urna

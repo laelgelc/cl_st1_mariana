@@ -1,22 +1,19 @@
-file = t018850
-date = 2022-08-11
-user = CezarVieira12
-conversation = 1547945319400321024
-URL = https://twitter.com/CezarVieira12/status/1557542761167036417
+file = t015351
+date = 2021-07-12
+user = pmcamatta
+conversation = 175625915
+URL = https://twitter.com/pmcamatta/status/1414538222131109889
 
 word count = 19
-words loading = 6
+words loading = 4
 factor score = 4
 
-RT @QuintinoElisete: Comunistas que **apoiam** **ditaduras** **cubanas** , 
-venezuelanas, e africanas vem **falar** em **democracia** ? Será que **tem** 
-ingênuos que … 
+RT @rafaelbboa: **Cubanos** indo às ruas pedindo **liberdade** . Venezuelanos 
+**fazem** isto há 4 **anos** . Mas sem armas, adivinha? 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar
+ano
 cubano
-democracia
-ditadura (secondary)
-falar (secondary)
-ter
+fazer
+liberdade

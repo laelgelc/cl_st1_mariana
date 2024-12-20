@@ -1,21 +1,21 @@
-file = t016748
-date = 2022-10-16
-user = ChahadJorge
-conversation = 1030082584892592128
-URL = https://twitter.com/ChahadJorge/status/1581460314133909504
+file = t001135
+date = 2016-05-29
+user = DadinhaMoura
+conversation = 580497999
+URL = https://twitter.com/DadinhaMoura/status/736716788860211200
 
-word count = 23
-words loading = 5
-factor score = 5
+word count = 14
+words loading = 6
+factor score = 4
 
-RT @Dirceusilva09 : Urgente! Bolsonaro assume que entrou na **casa** de uma 
-**criança** venezuelana de 14 **anos** de idade e " **pintou** um **clima** " 
-. BOLSONA … 
+Venezuelanos **comem** **comida** do **lixo** para não **morrer** de **fome** 
+no **socialismo** - ILISP 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-casa
-clima
-criança
-pintar
+comer
+comida
+fome (secondary)
+lixo (secondary)
+morrer
+socialismo

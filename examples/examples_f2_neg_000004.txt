@@ -1,18 +1,19 @@
-file = t000856
-date = 2016-04-30
-user = SEGUNDOJR
-conversation = 37404996
-URL = https://twitter.com/SEGUNDOJR/status/726251882960838656
+file = t010267
+date = 2019-03-06
+user = Cunhakc
+conversation = 1347663259
+URL = https://twitter.com/Cunhakc/status/1103087880115810309
 
-word count = 15
-words loading = 3
-factor score = -3
+word count = 18
+words loading = 4
+factor score = -4
 
-Pra que existe a @ONU_derechos @ONU_fr? **Povo** Venezuelano **passando** do 
-**estado** maduro para podre sem piedade! 
+RT @JoelAlexandreM: Enquanto o **povo** venezuelano **passa** fome, a elite da 
+**ditadura** chavista ostenta e esbanja **dinheiro** . 
 
 Lemmas in this text that loaded on the factor:
 
-estado
+dinheiro
+ditadura
 passar
 povo

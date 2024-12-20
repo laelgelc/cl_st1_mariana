@@ -1,22 +1,19 @@
-file = t016695
-date = 2022-10-03
-user = Pedro_Ninho_28
-conversation = 1207506068076662784
-URL = https://twitter.com/Pedro_Ninho_28/status/1576993590106284032
+file = t007117
+date = 2019-10-28
+user = webertbac
+conversation = 2262165384
+URL = https://twitter.com/webertbac/status/1188611613538029568
 
-word count = 22
-words loading = 6
+word count = 23
+words loading = 4
 factor score = 4
 
-@isaapavilak 23 **anos** atrás jovens venezuelanos comemoravam a **Vitória** 
-de Chávez, hoje o **filhos** deles **comem** **lixo** nas **ruas** . . . 
-Pensem nisso. 
+Veey uns caras Venezuelanos **chego** ne mim um **querendo** **ficar** cmg 
+outro com. A thais eles **falando** eu nao entendendo nada kkkkkk 
 
 Lemmas in this text that loaded on the factor:
 
-ano (secondary)
-comer
-filho
-lixo
-rua
-vitória (secondary)
+chegar
+falar
+ficar
+querer

@@ -1,20 +1,19 @@
-file = t010346
-date = 2019-04-30
-user = jeroll3d
-conversation = 91118501
-URL = https://twitter.com/jeroll3d/status/1123237052324241409
+file = t010020
+date = 2019-02-24
+user = geralyr
+conversation = 33977237
+URL = https://twitter.com/geralyr/status/1099464819378393088
 
 word count = 20
-words loading = 4
+words loading = 3
 factor score = -3
 
-@valoreconomico E na tal ' **ditadura** ' Venezuelana, segue Guaidó solto, na 
-' **democracia** ' brasileira, Lula, **preso** e sem provas de **crimes** . . . 
-unamused_face_e 
+RT @JMVivancoHRW: Os **crimes** cometidos pelas forças de segurança 
+venezuelana e grupos armados pró-governo mostram que a **ditadura** de Maduro, 
+… 
 
 Lemmas in this text that loaded on the factor:
 
 crime
-democracia (secondary)
 ditadura
-prender
+governo

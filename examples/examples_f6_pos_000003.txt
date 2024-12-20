@@ -1,19 +1,19 @@
-file = t011993
-date = 2020-10-21
-user = dariosailor86
-conversation = 703411120850210816
-URL = https://twitter.com/dariosailor86/status/1318896950876475394
+file = t015563
+date = 2021-08-15
+user = EmbaVEArgentina
+conversation = 219993062
+URL = https://twitter.com/EmbaVEArgentina/status/1426742715635613703
 
-word count = 19
-words loading = 4
-factor score = 4
+word count = 18
+words loading = 3
+factor score = 3
 
-RT @Tilica77 : **Navio** venezuelano com 1 , 4 milhão de barris de 
-**petróleo** **corre** **risco** de naufragar De novo? ? ? 
+RT @AndreteleSUR: Nesta sexta-feira o governo venezuelano e parte da 
+**oposição** ( aquela **apoiada** pelos Estados Unidos ) assinaram um 
+memorando … 
 
 Lemmas in this text that loaded on the factor:
 
-correr
-navio
-petróleo
-risco
+apoiar
+feira
+oposição

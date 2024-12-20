@@ -1,18 +1,20 @@
-file = t000027
-date = 2016-10-13
-user = jwmirisola
-conversation = 55986398
-URL = https://twitter.com/jwmirisola/status/786609364538916864
+file = t001477
+date = 2016-07-30
+user = john_dealmeida
+conversation = 730562181167759360
+URL = https://twitter.com/john_dealmeida/status/759189836171472896
 
-word count = 11
-words loading = 3
-factor score = -3
+word count = 19
+words loading = 4
+factor score = -4
 
-RT @Alex_Queirozz: Roraima estuda **decretar** **emergência** por **chegada** 
-de migrantes venezuelanos 
+RT @JosiasS1969 : HASHTAG #josiasbeta_h Chavismo pede à **Justiça** que 
+**anule** atos do **Parlamento** venezuelano: Deputados **chavistas** pediram 
+nes. . . https://t … 
 
 Lemmas in this text that loaded on the factor:
 
-chegada
-decretar
-emergência
+anular
+chavistas
+justiça
+parlamento

@@ -1,19 +1,20 @@
-file = t010923
-date = 2019-05-02
-user = erivanraposo
-conversation = 18161049
-URL = https://twitter.com/erivanraposo/status/1123978844338364416
+file = t016680
+date = 2022-10-16
+user = BrasilLivre20
+conversation = 1148750380999815168
+URL = https://twitter.com/BrasilLivre20/status/1581467419289489408
 
-word count = 21
-words loading = 3
-factor score = 3
+word count = 17
+words loading = 5
+factor score = 4
 
-RT @carapanarana: O 4chanceler detonou os canais de comunicação entre 
-**militares** brasileiros e venezuelanos na **reunião** do **grupo** de Lima, 
-em … 
+' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre **meninas** 
+venezuelanas repercute e gera críticas nas **redes** - Eleições 2022 … 
 
 Lemmas in this text that loaded on the factor:
 
-grupo
-militar
-reunião
+clima
+falar (secondary)
+menino
+pintar
+rede

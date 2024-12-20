@@ -1,16 +1,18 @@
-file = t001733
-date = 2016-09-06
-user = Zaga_Silos
-conversation = 24781968
-URL = https://twitter.com/Zaga_Silos/status/773257200403935232
+file = t007753
+date = 2019-12-28
+user = sergi_charlie
+conversation = 726085212388642816
+URL = https://twitter.com/sergi_charlie/status/1210722746902011904
 
-word count = 15
-words loading = 1
-factor score = -1
+word count = 17
+words loading = 3
+factor score = -3
 
-HASHTAG #sosvenezuela_h O mundo não pode **fechar** os olhos ao sofrimento 
-vivido pelos irmãos venezuelanos 
+Olha só . . . **Jornal** da Cidade Online: SUSPEITO: **Militares** 
+venezuelanos são **detidos** em terra indígena de Roraima. … 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+deter
+jornal
+militar

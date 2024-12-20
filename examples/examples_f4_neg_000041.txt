@@ -1,16 +1,19 @@
-file = t002710
-date = 2017-03-15
-user = OrganizadAntiPT
-conversation = 911357384
-URL = https://twitter.com/OrganizadAntiPT/status/842013700273901576
+file = t015793
+date = 2021-09-16
+user = dasilvastalin
+conversation = 171797636
+URL = https://twitter.com/dasilvastalin/status/1438618182760255498
 
-word count = 16
-words loading = 1
-factor score = -1
+word count = 20
+words loading = 3
+factor score = -3
 
-Opinião: A democracia venezuelana precisa da ajuda de todo o continente 
-**americano** via @UOLNoticias @UOL 
+RT @liliamm_27 : Relator da ONU **denuncia** impacto negativo das **sanções** 
+sobre a população venezuelana Alena Douhan speaking_head_e As **sanções** e 
+**bloqueios** i … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+bloqueio
+denunciar
+sanção

@@ -1,22 +1,20 @@
-file = t007904
-date = 2019-01-28
-user = luishenriquearq
-conversation = 573693237
-URL = https://twitter.com/luishenriquearq/status/1089899503577116672
+file = t016758
+date = 2022-10-16
+user = luismar89008
+conversation = 1572264324369989632
+URL = https://twitter.com/luismar89008/status/1581493574964649984
 
-word count = 23
-words loading = 6
-factor score = 5
+word count = 24
+words loading = 4
+factor score = 4
 
-RT @professorigor: **Queria** que os venezuelanos que **morrem** de **fome** 
-sob o **regime** **apoiado** por Jean Wyllys **tivessem** a mesma oportunidade 
-que ele … 
+RT @Alfredoribeiroj: Tudo que você **precisa** **saber** sobre a visita do 
+presidente a **casa** das venezuelanas. Pintou um clima de uma **boa** 
+matéria! … 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar
-fome
-morrer (secondary)
-querer
-regime
-ter
+bom
+casa
+precisar
+saber

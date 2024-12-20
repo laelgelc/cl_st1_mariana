@@ -1,20 +1,18 @@
-file = t005579
-date = 2018-09-30
-user = melsistemas
-conversation = 258445983
-URL = https://twitter.com/melsistemas/status/1046415102977748992
+file = t006217
+date = 2018-10-10
+user = TeteDuche
+conversation = 36492472
+URL = https://twitter.com/TeteDuche/status/1050170930272591872
 
-word count = 25
-words loading = 4
+word count = 23
+words loading = 3
 factor score = -3
 
-RT @jairbolsonaro: Os venezuelanos **morrem** de **fome** devido à tirania de 
-um **governo** que anda de mãos dadas com a **ditadura** cubana. Via BNDES e 
-… 
+RT @marisascruz: Eleitor que ainda pensa em votar no @Haddad_Fernando sabes o 
+**estado** que se encontra o **Povo** Venezuelano com a **Ditadura** do M … 
 
 Lemmas in this text that loaded on the factor:
 
 ditadura
-fome (secondary)
-governo
-morrer
+estado
+povo

@@ -1,21 +1,18 @@
-file = t004243
-date = 2018-01-14
-user = whowbitch
-conversation = 4719985227
-URL = https://twitter.com/whowbitch/status/952337086572580865
+file = t007467
+date = 2019-11-18
+user = jomarlov
+conversation = 62891971
+URL = https://twitter.com/jomarlov/status/1196381230356455424
 
-word count = 22
-words loading = 5
-factor score = -4
+word count = 19
+words loading = 2
+factor score = -2
 
-RT @bchartsnet: Coitados dos nossos vizinhos: com **escassez** de **alimentos** 
-e **inflação** em 400 . 000 % , venezuelanos já estão **comendo** ração 
-de **gato** … 
+RT @trajanojorge: Didático Folha usando foto em ângulo **fechado** para 
+**aumentar** manifestação flopada da direita golpista venezuelana. Foto em 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-alimento
-comer (secondary)
-escassez
-gato
-inflação
+aumentar
+fechar

@@ -1,19 +1,19 @@
-file = t014415
-date = 2021-12-04
-user = Carlos_L_Macedo
-conversation = 4343695006
-URL = https://twitter.com/Carlos_L_Macedo/status/1467150875265228805
+file = t007109
+date = 2019-10-10
+user = helloisamg
+conversation = 49888215
+URL = https://twitter.com/helloisamg/status/1182233410946904064
 
-word count = 21
+word count = 26
 words loading = 3
 factor score = -3
 
-RT @Lindasod: A **justiça** **espanhola** finalmente autorizou a extradição 
-para os EUA do ex **chefe** dos serviços secretos militares venezuelanos, H 
+RT @JoseMedeirosMT: Eu já disse, se provado que esse **petróleo** veio de um 
+**navio** venezuelano vão dizer que o **óleo** é saudável a vida marinha e 
 … 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-espanhol
-justiça
+navio
+petróleo
+óleo

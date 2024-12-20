@@ -1,411 +1,404 @@
-f1pos comer
-f1pos bom
-f1pos argentino
-f1pos viver
-f1pos cubano
-f1pos irmão
-f1pos filho
-f1pos fome
-f1pos precisar
-f1pos apoiar
-f1pos rua
-f1pos socialismo
-f1pos vir
-f1pos democracia
+f1pos jogar
 f1pos flag_brazil_e
-f1pos saber
-f1pos morrer (secondary)
-f1pos flag_venezuela_e (secondary)
-f1pos boliviano
+f1pos bom
 f1pos fugir
-f1pos regime
-f1pos chamar (secondary)
-f1pos falar (secondary)
-f1pos ditador (secondary)
-f1pos ditadura (secondary)
-f1pos cachorro (secondary)
-f1pos virar
-f1pos miséria
-f1pos querer
-f1pos ano (secondary)
-f1pos venezuelana
-f1pos tomar
-f1pos lixo
-f1pos bolivariano
+f1pos precisar
+f1pos cubano
+f1pos falar
+f1pos chamar
+f1pos colocar
+f1pos fome
+f1pos argentino
 f1pos ficar
-f1pos tirar
-f1pos gostar
-f1pos chegar (secondary)
-f1pos liberdade
-f1pos passar (secondary)
-f1pos pagar (secondary)
-f1pos ver
-f1pos colombiano
-f1pos casa (secondary)
-f1pos problema
+f1pos falta
 f1pos vídeo (secondary)
-f1pos mão (secondary)
-f1pos cu
-f1pos vitória (secondary)
+f1pos casa
+f1pos comer (secondary)
+f1pos chegar
+f1pos vir
+f1pos socialismo (secondary)
+f1pos lixo
+f1pos querer
+f1pos saber
 f1pos refugiado (secondary)
-f1pos povo (secondary)
-f1pos ouvir
-f1pos mulher (secondary)
+f1pos parar
+f1pos viver
+f1pos seleção (secondary)
+f1pos ano
+f1pos problema
+f1pos regime
+f1pos população (secondary)
+f1pos liberdade
+f1pos apoiar (secondary)
+f1pos boliviano
+f1pos mão (secondary)
+f1pos ditador (secondary)
+f1pos família (secondary)
+f1pos petróleo (secondary)
+f1pos tirar
+f1pos milhar (secondary)
+f1pos gostar
+f1pos fazer
+f1pos bater
 f1pos ter
-f1pos força (secondary)
-f1pos dinheiro (secondary)
-f1pos time (secondary)
-f1pos medo
-f1pos jogo (secondary)
-f1pos chileno
-f1pos foto
-f1neg emergência
-f1neg bloqueio
-f1neg rejeitar
-f1neg suspender
-f1neg parlamento
-f1neg medicamento
-f1neg acesso
-f1neg diálogo
-f1neg expulsão
-f1neg anular
-f1neg aprovar
-f1neg decreto
-f1neg investigar
+f1pos mulher (secondary)
+f1pos filho (secondary)
+f1pos resolver
+f1pos feliz
+f1pos venezuelana (secondary)
+f1pos papel
+f1pos jornal (secondary)
+f1neg justiça
+f1neg anistia
+f1neg chefe
 f1neg determinar
-f1neg serviço
-f1neg fechamento
-f1neg produto (secondary)
-f1neg assembleia
-f1neg anistia (secondary)
-f1neg reunião (secondary)
-f1neg apreender
-f1neg diplomata (secondary)
-f1neg processo (secondary)
-f1neg decisão (secondary)
-f1neg tráfico
-f1neg apontar (secondary)
-f1neg desertar (secondary)
+f1neg suspender
+f1neg decisão
+f1neg narcotráfico
+f1neg expulsão
+f1neg extraditar
+f1neg anular
+f1neg parlamento
+f1neg inteligência
+f1neg diplomático
 f1neg decretar
-f1neg chegada
-f1neg tonelada (secondary)
+f1neg emergência
+f1neg chavistas
+f1neg mandato
+f1neg concordar
+f1neg acusar (secondary)
+f1neg supremo
+f1neg assembleia
+f1neg tráfico
+f1neg droga
+f1neg sinal
+f1neg lei (secondary)
+f1neg decreto
+f1neg prisão
+f1neg diplomata (secondary)
+f1neg serviço
+f1neg libertação (secondary)
+f1neg rejeitar (secondary)
+f1neg fechamento
+f1neg processo (secondary)
+f1neg bolívares (secondary)
+f1neg organizar
+f1neg corpo
+f1neg pedido (secondary)
+f1neg tentativa
+f1neg apreender (secondary)
+f1neg popular
+f1neg escassez (secondary)
+f1neg saudar
 f2pos meia
 f2pos seleção
-f2pos atacante
-f2pos jogo
 f2pos gol
+f2pos jogo
 f2pos time
+f2pos atacante
 f2pos jogador
-f2pos jogar
+f2pos técnico
 f2pos soccer_ball_e
-f2pos reforço
 f2pos contratação
-f2pos marcar
-f2pos eyes_e
 f2pos flag_venezuela_e
+f2pos jogar (secondary)
 f2pos convocar
-f2pos contrato
-f2pos segundo
-f2pos oficial (secondary)
+f2pos eyes_e
+f2pos marcar
 f2pos vitória
-f2pos incrível
-f2pos atleta (secondary)
-f2pos smiling_face_with_heart
-f2pos espaço
+f2pos segundo
 f2pos número (secondary)
-f2pos português
+f2pos contrato
+f2pos incrível
 f2pos bom (secondary)
-f2pos confirmar
-f2neg ditadura
-f2neg prender
-f2neg morrer
-f2neg fome (secondary)
+f2pos argentino (secondary)
+f2pos oficial (secondary)
+f2pos atleta
+f2pos smiling_face_with_heart
+f2pos boliviano (secondary)
+f2pos segunda
+f2pos português (secondary)
+f2pos peruano
+f2neg população
 f2neg ditador
-f2neg passar
-f2neg democracia (secondary)
-f2neg governo
-f2neg população (secondary)
-f2neg rua (secondary)
-f2neg crise (secondary)
-f2neg estado
-f2neg social (secondary)
-f2neg oposição (secondary)
-f2neg parlamento (secondary)
+f2neg alimento
+f2neg prender
 f2neg ajuda (secondary)
-f2neg socialismo (secondary)
-f2neg regime (secondary)
-f2neg povo
-f2neg acusar (secondary)
-f2neg general (secondary)
-f2neg opositor (secondary)
-f2neg apoiar (secondary)
-f2neg remédio (secondary)
+f2neg ditadura
+f2neg remédio
 f2neg denunciar (secondary)
-f2neg milhar (secondary)
-f2neg justiça (secondary)
-f2neg dinheiro
-f2neg culpa
-f2neg pedir (secondary)
+f2neg comida (secondary)
+f2neg estado
+f2neg acusar
+f2neg fronteira (secondary)
+f2neg morrer (secondary)
+f2neg milhar
+f2neg governo
+f2neg fugir (secondary)
+f2neg passar
+f2neg ação (secondary)
+f2neg crise (secondary)
+f2neg general
 f2neg crime
-f2neg declarar (secondary)
-f2neg chavista (secondary)
-f2neg receber (secondary)
-f3pos militar
-f3pos líder
-f3pos opositor
-f3pos embaixada
-f3pos grupo
-f3pos denunciar
-f3pos afirmar
-f3pos oposição
-f3pos força
-f3pos pedir
-f3pos oficial
-f3pos presidente
+f2neg povo
+f2neg social (secondary)
+f2neg dinheiro
+f2neg invadir (secondary)
+f2neg bloqueio (secondary)
+f2neg expulsar
+f3pos pintar
+f3pos clima
+f3pos menino
+f3pos fala
+f3pos adolescente
+f3pos venezuelanas
+f3pos garota
+f3pos arrumar
+f3pos programa
+f3pos desculpa
+f3pos prostituta
+f3pos gravar
+f3pos vídeo
+f3pos pequeno
+f3pos caso
+f3pos social
+f3pos rede
+f3pos mulher
+f3pos chamar (secondary)
+f3pos prostituir
+f3pos falar (secondary)
+f3pos absurdo
+f3pos casa (secondary)
 f3pos negar
-f3pos novo
-f3pos general
-f3pos convocar (secondary)
-f3pos processo
-f3pos eleição (secondary)
-f3pos asilo
-f3pos governo (secondary)
-f3pos exército
-f3pos humanitário (secondary)
-f3pos golpe
-f3pos caso (secondary)
-f3pos diplomata
-f3pos apoio
-f3pos anunciar (secondary)
-f3pos americano (secondary)
-f3pos reunião
-f3pos desertar
-f3pos eleitoral (secondary)
-f3pos colocar
-f3pos aéreo
-f3pos diálogo (secondary)
-f3pos sanção
-f3pos deter
-f3pos ação
-f3pos avião (secondary)
-f3pos jornal (secondary)
-f3neg gato
-f3neg sobreviver
-f3neg animal
-f3neg escassez
-f3neg cachorro
-f3neg alimento
-f3neg salário
-f3neg comer (secondary)
-f3neg cão
-f3neg bolívares
-f3neg comida
-f3neg inflação
-f3neg atleta
-f3neg produto
-f3neg filho (secondary)
-f3neg video
-f3neg medicamento (secondary)
-f3neg pagar
-f3neg hospital
-f3neg carne
-f3neg reserva
-f3neg folded_hands_e
-f3neg puto
-f3neg sinal (secondary)
-f3neg postar (secondary)
-f3neg básico
-f3neg lixo (secondary)
-f3neg derramar (secondary)
-f3neg cu (secondary)
-f3neg tonelada
-f3neg disputar
-f3neg podre
-f3neg decretar (secondary)
-f3neg miséria (secondary)
-f3neg solidário
-f3neg linha
-f4pos pintar
-f4pos clima
-f4pos menino
-f4pos fala
-f4pos adolescente
-f4pos venezuelanas
-f4pos garota
-f4pos desculpa
-f4pos programa
-f4pos arrumar
-f4pos gravar
-f4pos prostituta
-f4pos vídeo
-f4pos caso
-f4pos pequeno
-f4pos rede
-f4pos social
-f4pos falar
-f4pos chamar
-f4pos casa
-f4pos mulher
-f4pos criança
-f4pos ano
-f4pos absurdo
-f4pos negar (secondary)
-f4pos campanha
-f4pos menina
-f4pos jovem
-f4pos imigrante (secondary)
-f4pos presidente (secondary)
-f4pos investigar (secondary)
-f4pos afirmar (secondary)
-f4pos pedido (secondary)
-f4pos ar
-f4pos qdo
-f4neg americano
-f4neg fechar
-f4neg militar (secondary)
-f4neg feira (secondary)
-f4neg aumentar
-f4neg colombiano (secondary)
-f4neg comprar (secondary)
+f3pos afirmar (secondary)
+f3pos criança
+f3pos jovem
+f3pos ano (secondary)
+f3pos campanha
+f3pos investigar
+f3pos presidente (secondary)
+f3pos imigrante (secondary)
+f3pos qdo
+f3pos explicar
+f3neg fechar
+f3neg americano
+f3neg colombiano
+f3neg aumentar
+f3neg operação (secondary)
+f4pos sobreviver
+f4pos comer
+f4pos gato
+f4pos cachorro
+f4pos filho
+f4pos socialismo
+f4pos rua
+f4pos luxo
+f4pos comida
+f4pos salário
+f4pos inflação
+f4pos bolívares
+f4pos escassez
+f4pos fome (secondary)
+f4pos cão
+f4pos morrer
+f4pos folded_hands_e
+f4pos restaurante
+f4pos lixo (secondary)
+f4pos andar
+f4pos irmão
+f4pos prostituir (secondary)
+f4pos pagar
+f4pos drama
+f4pos abençoar
+f4pos podre
+f4pos postar
+f4pos puto
+f4pos virar
+f4pos cu
+f4pos carne
+f4pos video
+f4pos estudante
+f4pos sinal (secondary)
+f4pos libertação
+f4pos passar (secondary)
+f4pos bolivariano
+f4pos disputar
+f4pos venezuelana
+f4pos desarmar
+f4pos obrigar (secondary)
+f4neg militar
+f4neg oficial
+f4neg grupo
+f4neg denunciar
+f4neg embaixada
+f4neg afirmar
+f4neg risco
+f4neg humanitário (secondary)
+f4neg oposição (secondary)
+f4neg asilo
+f4neg ação
+f4neg aéreo
+f4neg diplomata
+f4neg desertar
+f4neg acesso
+f4neg origem (secondary)
+f4neg caso (secondary)
+f4neg anunciar (secondary)
+f4neg navio (secondary)
+f4neg processo
+f4neg atacante (secondary)
+f4neg avião
+f4neg sanção
+f4neg opositor (secondary)
+f4neg bloqueio
+f4neg governo (secondary)
+f4neg líder (secondary)
+f4neg urgente (secondary)
+f4neg jornal
+f4neg pedir (secondary)
+f4neg confirmar
+f4neg general (secondary)
+f4neg exército
+f4neg colocar (secondary)
+f4neg eleitoral (secondary)
+f4neg deter
+f4neg americano (secondary)
+f4neg norte
+f4neg golpe (secondary)
+f4neg invadir
+f4neg diálogo
+f4neg espaço (secondary)
+f4neg estado (secondary)
+f4neg impor
 f5pos fronteira
-f5pos operação
 f5pos imigrante
-f5pos receber
 f5pos entrar
-f5pos busca
+f5pos operação
+f5pos receber
 f5pos número
 f5pos humanitário
-f5pos anunciar
-f5pos cruzar
-f5pos crise
-f5pos feira
-f5pos entrada
-f5pos refúgio
-f5pos cidade
 f5pos mês
+f5pos entrada
+f5pos anunciar
 f5pos ajuda
+f5pos refúgio
+f5pos cruzar
 f5pos semana
-f5pos trabalho
-f5pos interiorização
-f5pos refugiado
 f5pos acolher
+f5pos crise
+f5pos cidade
+f5pos trabalho
 f5pos pedido
+f5pos refugiado
+f5pos chegar (secondary)
+f5pos interiorização
 f5pos alimento (secondary)
-f5pos sexta
-f5pos chegar
 f5pos milhão
-f5pos novo (secondary)
+f5pos vacinar
+f5pos sexta
+f5pos feira (secondary)
+f5pos criança (secondary)
 f5pos urgente
+f5pos obrigar
 f5pos família
 f5pos fechar (secondary)
-f5pos vacinar
-f5pos assistência
-f5pos obrigar
-f5pos reforço (secondary)
+f5pos novo (secondary)
 f5pos crescer
-f5pos atravessar (secondary)
-f5pos hospital (secondary)
+f5pos espaço
+f5pos país
+f5pos chegada
+f5pos medicamento (secondary)
 f5neg fraude
 f5neg eletrônico
+f5neg eleição
 f5neg urna
 f5neg mão
-f5neg óleo
-f5neg sangue
-f5neg sistema
-f5neg eleição
 f5neg eleitoral
-f5neg empresa
-f5neg petróleo (secondary)
+f5neg aprovar
+f5neg sangue
 f5neg corrupto
-f5neg golpe (secondary)
-f5neg aprovar (secondary)
-f5neg ouro
-f5neg derramar
-f5neg cubano (secondary)
-f5neg navio (secondary)
-f5neg tirania
-f5neg origem (secondary)
-f5neg comemorar
-f5neg fraudar
-f5neg pau
+f5neg sistema
 f5neg lei
-f5neg coreano
-f6pos comprar
-f6pos população
-f6pos falta
-f6pos milhar
-f6pos risco
-f6pos caminhão
-f6pos correr
-f6pos papel
-f6pos abandonar
-f6pos bloqueio (secondary)
-f6pos fugir (secondary)
-f6pos jogar (secondary)
-f6pos remédio
-f6pos acesso (secondary)
-f6pos petróleo
-f6pos comida (secondary)
-f6pos campo
-f6pos sistema (secondary)
-f6pos navio
-f6pos apontar
-f6pos procurar
-f6pos jornal
-f6pos eletrônico (secondary)
-f6pos atravessar
-f6pos criança (secondary)
-f6pos óleo (secondary)
-f6pos ficar (secondary)
-f6pos nordeste
-f6pos origem
-f6pos pobreza
-f6pos palavra
-f6pos abrigar
-f6pos colocar (secondary)
-f6pos asilo (secondary)
-f6pos culpa (secondary)
-f6pos parar
-f6pos impor
-f6pos cima
-f6pos economia
-f6pos atacante (secondary)
-f6pos família (secondary)
-f6pos sanção (secondary)
-f6pos exército (secondary)
-f6pos urna (secondary)
-f6neg justiça
-f6neg chefe
-f6neg anistia
-f6neg narcotráfico
-f6neg prisão
-f6neg decisão
-f6neg chavista
-f6neg libertação
-f6neg concordar
-f6neg financiar
-f6neg avião
-f6neg acusar
-f6neg extraditar
-f6neg inteligência
-f6neg mandato
-f6neg espanhol
-f6neg chavistas
-f6neg sinal
-f6neg corte
-f6neg prender (secondary)
-f6neg postar
-f6neg droga
-f6neg campanha (secondary)
-f6neg apoio (secondary)
-f6neg golpista
-f6neg bolivariano (secondary)
-f6neg soberania
-f6neg determinar (secondary)
-f6neg inflação (secondary)
-f6neg imperialismo
-f6neg saudar
-f6neg declarar
-f6neg gato (secondary)
-f6neg fala (secondary)
-f6neg suspender (secondary)
+f5neg fraudar
+f5neg comemorar
+f5neg golpe
+f5neg empresa (secondary)
+f5neg tirania
+f5neg cubano (secondary)
+f5neg ouro (secondary)
+f5neg milícia
+f5neg óleo (secondary)
+f5neg rejeitar
+f5neg pau
+f5neg chavista (secondary)
+f5neg caminho
+f5neg povo (secondary)
+f6pos líder
+f6pos pedir
+f6pos opositor
+f6pos presidente
+f6pos apoio
+f6pos justiça (secondary)
+f6pos oposição
+f6pos declarar
+f6pos apoiar
+f6pos eleição (secondary)
+f6pos chavista
+f6pos flag_venezuela_e (secondary)
+f6pos rua (secondary)
+f6pos força
+f6pos parlamento (secondary)
+f6pos novo
+f6pos decisão (secondary)
+f6pos vitória (secondary)
+f6pos convocar (secondary)
+f6pos feira
+f6pos militar (secondary)
+f6pos negar (secondary)
+f6pos ditadura (secondary)
+f6pos liberdade (secondary)
+f6pos financiar
+f6pos regime (secondary)
+f6pos receber (secondary)
+f6pos direito
+f6pos prender (secondary)
+f6pos irmão (secondary)
+f6pos corte
+f6pos prisão (secondary)
+f6pos campanha (secondary)
+f6pos bolivariano (secondary)
+f6pos refúgio (secondary)
+f6pos anistia (secondary)
+f6pos embaixada (secondary)
+f6pos golpista
+f6pos chefe (secondary)
+f6neg óleo
+f6neg navio
+f6neg nordeste
+f6neg praia
+f6neg petróleo
+f6neg origem
+f6neg tonelada
+f6neg derramar
+f6neg ouro
+f6neg empresa
+f6neg caminhão
+f6neg risco (secondary)
+f6neg apreender
+f6neg medicamento
+f6neg quebrar
+f6neg reserva
+f6neg carne (secondary)
+f6neg fogo
+f6neg higiênico
+f6neg remédio (secondary)
+f6neg atleta (secondary)
+f6neg tráfico (secondary)
+f6neg tanque
+f6neg acesso (secondary)
+f6neg suspeito
+f6neg português
+f6neg parar (secondary)
+f6neg falta (secondary)
+f6neg ficar (secondary)
+f6neg chegada (secondary)

@@ -1,19 +1,19 @@
-file = t017210
-date = 2022-10-22
-user = bfm_jose
-conversation = 1494760884442439680
-URL = https://twitter.com/bfm_jose/status/1583739788360052736
+file = t006834
+date = 2019-10-26
+user = Alexand02717808
+conversation = 1132646025318023168
+URL = https://twitter.com/Alexand02717808/status/1188073446586179585
 
-word count = 12
-words loading = 4
-factor score = -4
+word count = 25
+words loading = 3
+factor score = -3
 
-**Justiça** **espanhola** **concorda** em **extraditar** general venezuelano 
-Carvajal para os EUA 
+RT @carmelonetobr: A Petrobras confirmou: o **óleo** no **Nordeste** é 
+venezuelano. A hipótese mais provável para a Marinha é a de que um " 
+**navio** fa … 
 
 Lemmas in this text that loaded on the factor:
 
-concordar
-espanhol
-extraditar
-justiça
+navio
+nordeste
+óleo

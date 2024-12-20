@@ -1,16 +1,20 @@
-file = t000090
-date = 2016-10-10
-user = LUISBARBAN
-conversation = 138825245
-URL = https://twitter.com/LUISBARBAN/status/785444618926252033
+file = t012469
+date = 2020-12-30
+user = CCambara2
+conversation = 826124450
+URL = https://twitter.com/CCambara2/status/1344117816711114752
 
-word count = 13
-words loading = 1
-factor score = -1
+word count = 24
+words loading = 4
+factor score = -4
 
-Para ajudar ditadura venezuelana, Dilma **aumentou** a conta de luz dos 
-brasileiros 
+RT @dilmabr: VACINA PARA OS VENEZUELANOS E PARA TODOS. **Grupo** de Puebla 
+**denuncia** que **bloqueio** deixa povo da Venezuela sem **acesso** à vacina. 
+/ … 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+acesso
+bloqueio
+denunciar
+grupo

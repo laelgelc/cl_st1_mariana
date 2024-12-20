@@ -1,21 +1,21 @@
-file = t010809
-date = 2019-05-26
-user = AurelioWelter
-conversation = 1085862038151270400
-URL = https://twitter.com/AurelioWelter/status/1132656905455853569
+file = t017960
+date = 2022-01-03
+user = cleiton_d7
+conversation = 1141127963435511808
+URL = https://twitter.com/cleiton_d7/status/1478062491322265605
 
-word count = 19
-words loading = 6
-factor score = 5
+word count = 18
+words loading = 5
+factor score = 4
 
-@gleisi E **apoiar** o **regime** ditatorial **bolivariano** , que trouxe 
-**miséria** e **fome** ao **povo** venezuelano, ai pode! ! Aí , tudo … 
+No capitalismo dá pra **fazer** tudo que **gosta** ? **flag_brazil_e** 
+thumbs_up_e Até gastar **milhares** ? **flag_brazil_e** thumbs_up_e Diferente 
+do povo venezuelano e **cubano** num … 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar
-bolivariano
-fome
-miséria
-povo (secondary)
-regime
+cubano
+fazer
+flag_brazil_e
+gostar
+milhar (secondary)

@@ -1,17 +1,18 @@
-file = t014815
-date = 2021-03-02
-user = _gvmmos
-conversation = 1096974259581341696
-URL = https://twitter.com/_gvmmos/status/1366571511457447940
+file = t017363
+date = 2022-10-25
+user = phademelo
+conversation = 170027081
+URL = https://twitter.com/phademelo/status/1585014579931017216
 
-word count = 21
-words loading = 2
+word count = 19
+words loading = 3
 factor score = 2
 
-venezuelano: os EUA não são um problema, qnd eles queria **comprar** 
-**petróleo** a gente vendia vereadora do PSOL: mas o i … 
+RT @revistaforum: Indicado por Bolsonaro, André Mendonça **nega** apuração 
+sobre caso das meninas venezuelanas O **presidente** **declarou** que quand … 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-petróleo
+declarar
+negar (secondary)
+presidente

@@ -1,18 +1,22 @@
-file = t010560
-date = 2019-04-30
-user = WarriorCleric
-conversation = 819330708053381120
-URL = https://twitter.com/WarriorCleric/status/1123285014161121281
+file = t016384
+date = 2022-10-19
+user = jorgemoraisvw
+conversation = 467524883
+URL = https://twitter.com/jorgemoraisvw/status/1582707498825326592
 
-word count = 16
-words loading = 3
-factor score = 3
+word count = 26
+words loading = 6
+factor score = 4
 
-RT @MiriamLeitaoCom: Vinte e cinco **militares** venezuelanos **pedem** 
-**asilo** no Brasil - Míriam Leitão - O Globo 
+RT @AntonyJojohn: O seu Jair **chamou** de **garotas** de **programa** as 
+venezuelanas de 14 , 15 **anos** com as quais **pintou** um **clima** . Mais um 
+dia normal … 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-militar
-pedir
+ano (secondary)
+chamar (secondary)
+clima
+garota
+pintar
+programa

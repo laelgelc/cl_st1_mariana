@@ -1,19 +1,17 @@
-file = t017672
-date = 2022-11-06
-user = helenamarrua
-conversation = 1492198633801981952
-URL = https://twitter.com/helenamarrua/status/1589287636199305221
+file = t000734
+date = 2016-03-02
+user = informexpresso
+conversation = 3397526205
+URL = https://twitter.com/informexpresso/status/704891018307571713
 
-word count = 18
-words loading = 3
-factor score = -3
+word count = 15
+words loading = 2
+factor score = -2
 
-RT @BrazilWasStolen: . @FerCerimedo_ok disse em sua live na TWITCH: Uma 
-**empresa** Venezuelana tem acesso ao nosso **sistema** **eleitoral** . 
-warning_e AVIS … 
+Oposição venezuelana **aprova** **lei** de produção nacional em 1ª leitura 
+Quando? 2016-02-03 00:54:00 ! Quem? UOL Notícias! 
 
 Lemmas in this text that loaded on the factor:
 
-eleitoral
-empresa
-sistema
+aprovar
+lei

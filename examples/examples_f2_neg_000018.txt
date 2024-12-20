@@ -1,19 +1,18 @@
-file = t004271
-date = 2018-01-06
-user = sosopiava
-conversation = 831192469693984768
-URL = https://twitter.com/sosopiava/status/949474264385753088
+file = t003998
+date = 2018-01-17
+user = michaelle_Sousa
+conversation = 3127687596
+URL = https://twitter.com/michaelle_Sousa/status/953644006537273345
 
-word count = 22
+word count = 21
 words loading = 3
 factor score = -3
 
-RT @vtwillx3 : O cara foi fazer um trabalho humanitário na **ditadura** 
-venezuelana e foi **preso** por estar distribuindo alimentos aos que **passam** 
-… 
+RT @MSouzaS_ : O assassino **ditador** Nicolás Maduro esta matando o **povo** 
+venezuelano e todos aqueles que se rebelam contra a **ditadura** implantad … 
 
 Lemmas in this text that loaded on the factor:
 
+ditador
 ditadura
-passar
-prender
+povo

@@ -1,18 +1,19 @@
-file = t013049
-date = 2020-04-19
-user = Occlusal_Med
-conversation = 1028659326360190976
-URL = https://twitter.com/Occlusal_Med/status/1251850829444853763
+file = t011604
+date = 2019-07-20
+user = freitas6388
+conversation = 1348331838
+URL = https://twitter.com/freitas6388/status/1152719263926575105
 
 word count = 23
 words loading = 3
 factor score = -3
 
-@DomDasThreads **Passou** da hora de Maduro e sua gangue serem **presos** e 
-julgados nos EUA! ! ! O **povo** Venezuelano sofreu além do necessário! ! ! 
+RT @PrJoelBSerra: Mesmo com **população** **passando** fome Maduro o 
+**ditador** Venezuelano vai gastar 5 mil por participante no foro de São 
+Paulo. # … 
 
 Lemmas in this text that loaded on the factor:
 
+ditador
 passar
-povo
-prender
+população

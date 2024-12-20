@@ -1,16 +1,18 @@
-file = t001322
-date = 2016-07-12
-user = kitwalkerbr
-conversation = 3177116753
-URL = https://twitter.com/kitwalkerbr/status/752900183713800192
+file = t007314
+date = 2019-11-13
+user = flaviocostaf
+conversation = 250769217
+URL = https://twitter.com/flaviocostaf/status/1194641030395695107
 
-word count = 11
-words loading = 1
-factor score = -1
+word count = 19
+words loading = 3
+factor score = -3
 
-Ditadura venezuelana desapropria fábrica de papel higiênico de empresa 
-**americana** 
+Mais uma prova de que a **ação** de **invadir** a **embaixada** Venezuelana 
+foi programada combinada com os EUA. 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+ação
+embaixada
+invadir

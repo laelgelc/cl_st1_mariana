@@ -1,20 +1,20 @@
-file = t018977
-date = 2022-09-15
-user = DonttreadMe
-conversation = 1254858602155737088
-URL = https://twitter.com/DonttreadMe/status/1570381202749624321
+file = t017952
+date = 2022-01-15
+user = filhoeterno12
+conversation = 1256731536424079360
+URL = https://twitter.com/filhoeterno12/status/1482437821474484237
 
 word count = 24
 words loading = 4
 factor score = 4
 
-RT @RafaelFontana: Em 5 anos, o Brasil **recebeu** mais de 325 mil 
-venezuelanos. A **crise** **humanitária** da Venezuela já afetou 6 
-**milhões** de pessoa … 
+RT @ACNURBrasil: Existem mais de 6 **milhões** de **refugiados** e migrantes 
+venezuelanos em todo o mundo. globe_with_meridians_e Eles e os **países** que 
+os **acolhem** preci … 
 
 Lemmas in this text that loaded on the factor:
 
-crise
-humanitário
+acolher
 milhão
-receber
+país
+refugiado

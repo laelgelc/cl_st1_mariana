@@ -1,19 +1,18 @@
-file = t012650
-date = 2020-01-30
-user = DDGalo13
-conversation = 1219532176359919616
-URL = https://twitter.com/DDGalo13/status/1222912858155094017
+file = t003495
+date = 2017-05-22
+user = JJm536
+conversation = 3033597009
+URL = https://twitter.com/JJm536/status/866710567532285954
 
-word count = 21
+word count = 17
 words loading = 3
 factor score = 3
 
-RT @ohenriqueandre: rooster_e O venezuelano Jefferson Savarino deve ser 
-**confirmado** como **reforço** do @Atletico em breve. **Jogador** é 
-aguardado em BH ai … 
+RT @Vingadorez: Rómulo Otero é **convocado** para **Seleção** Venezuelana e 
+desfalca Galo em dois **jogos** - via Super … 
 
 Lemmas in this text that loaded on the factor:
 
-confirmar
-jogador
-reforço
+convocar
+jogo
+seleção

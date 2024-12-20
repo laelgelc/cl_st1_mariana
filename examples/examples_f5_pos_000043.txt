@@ -1,18 +1,18 @@
-file = t018911
-date = 2022-08-20
-user = OIMBrasil
-conversation = 890269387491508224
-URL = https://twitter.com/OIMBrasil/status/1561076869134417920
+file = t018988
+date = 2022-09-20
+user = FilhoRq
+conversation = 1168611548518125568
+URL = https://twitter.com/FilhoRq/status/1572265326028398595
 
-word count = 19
+word count = 23
 words loading = 3
 factor score = 3
 
-Na última **semana** , a OIM lançou a minissérie " Jovens Venezuelanos, 
-Vidas no Brasil " com histórias de **refugiados** e **mi** … 
+RT @yurivs: 2 , 1 **milhões** de **imigrantes** ilegais **entraram** nos EUA 
+este ano. Só em Agosto foram 25 mil venezuelanos. Que absurdo. 
 
 Lemmas in this text that loaded on the factor:
 
+entrar
+imigrante
 milhão
-refugiado
-semana

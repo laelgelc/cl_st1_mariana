@@ -1,19 +1,17 @@
-file = t001162
-date = 2016-06-09
-user = dick_guimaraes
-conversation = 4407427576
-URL = https://twitter.com/dick_guimaraes/status/740925462571012096
+file = t016056
+date = 2022-10-09
+user = Claudia28671794
+conversation = 1123329271680913408
+URL = https://twitter.com/Claudia28671794/status/1579087109826449411
 
-word count = 20
-words loading = 4
-factor score = -3
+word count = 18
+words loading = 2
+factor score = -2
 
-RT @roxmo: Venezuelanos **disputam** **comida** com **cães** no **lixo** de 
-feira de Caracas Cadê os idiotas que apóiam Maduro, PT … 
+RT @EvertonSodario: **Americanos** sentem saudade do Trump, Argentinos sentem a 
+falta do Macri, Chilenos, **Colombianos** , Mexicanos e Venezuelanos … 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-cão
-disputar
-lixo (secondary)
+americano
+colombiano

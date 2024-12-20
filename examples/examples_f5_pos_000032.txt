@@ -1,19 +1,20 @@
-file = t005557
-date = 2018-04-14
-user = advancevisa
-conversation = 2335956344
-URL = https://twitter.com/advancevisa/status/984951155607375872
+file = t006340
+date = 2018-09-18
+user = brunocidadao
+conversation = 2163371677
+URL = https://twitter.com/brunocidadao/status/1042168747694469120
 
-word count = 17
+word count = 22
 words loading = 4
 factor score = 4
 
-Hoje, os Estados Unidos **anunciaram** quase US $ 16 **milhões** em 
-**assistência** **humanitária** para os venezuelanos que fugira … 
+RT @helomendonca: **Crise** **obriga** grávidas venezuelanas a irem até 
+Roraima para realizar seus partos, e **número** de nascimentos **cresce** 50 % 
+no Es … 
 
 Lemmas in this text that loaded on the factor:
 
-anunciar
-assistência
-humanitário
-milhão
+crescer
+crise
+número
+obrigar

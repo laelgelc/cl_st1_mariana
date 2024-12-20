@@ -1,19 +1,18 @@
-file = t018019
-date = 2022-02-11
-user = LorenzoZimmerer
-conversation = 1286339141043728384
-URL = https://twitter.com/LorenzoZimmerer/status/1492170498414948356
+file = t015079
+date = 2021-05-29
+user = Comenta_galo
+conversation = 1377275728388091904
+URL = https://twitter.com/Comenta_galo/status/1398461840779321346
 
-word count = 19
+word count = 11
 words loading = 3
 factor score = 3
 
-RT @Atletico: **soccer_ball_e** movie_camera_e Savaliso, Savagol, Savarino! Já 
-são dois anos de HASHTAG #galo_h para esse venezuelano que **joga** muita 
-bola! **flag_venezuela_e** … 
+RT @Atletico: **flag_venezuela_e** Savarino é **convocado** para a 
+**Seleção** Venezuelana: HASHTAG #vamogalo_h black_flag_e white_flag_e 
 
 Lemmas in this text that loaded on the factor:
 
+convocar
 flag_venezuela_e
-jogar
-soccer_ball_e
+seleção

@@ -1,20 +1,20 @@
-file = t012129
-date = 2020-10-20
-user = albuquerquejr
-conversation = 35578865
-URL = https://twitter.com/albuquerquejr/status/1318368757962637317
+file = t018143
+date = 2022-03-29
+user = BPEB765
+conversation = 512628703
+URL = https://twitter.com/BPEB765/status/1508782035204194314
 
-word count = 16
-words loading = 5
-factor score = 5
+word count = 26
+words loading = 4
+factor score = 4
 
-QUE SE FODAM OS VENEZUELANOS, **ARGENTINOS** , **BOLIVIANOS** E **CHILENOS** . 
-Se **querem** merda, que **comam** merda. 
+RT @Mito202275 : Um venezuelano que **viveu** sob a ditadura de Nicolás 
+Maduro, que é AMIGO de Lula! **Quer** ser livre e não **ter** sua 
+**liberdade** cerc … 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-boliviano
-chileno
-comer
+liberdade
 querer
+ter
+viver

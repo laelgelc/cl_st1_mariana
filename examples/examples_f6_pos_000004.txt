@@ -1,18 +1,18 @@
-file = t000299
-date = 2016-11-23
-user = pilatti
-conversation = 33370742
-URL = https://twitter.com/pilatti/status/801310983079784450
+file = t015333
+date = 2021-07-08
+user = TSFRadio
+conversation = 15392221
+URL = https://twitter.com/TSFRadio/status/1413104348964417538
 
-word count = 11
-words loading = 4
-factor score = 4
+word count = 12
+words loading = 3
+factor score = 3
 
-Três **jornais** venezuelanos **param** de circular por **falta** de **papel** 
+**Oposição** venezuelana **pede** ao PS **apoio** humanitário e " 
+reposição " da democracia Em … 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-jornal
-papel
-parar
+apoio
+oposição
+pedir

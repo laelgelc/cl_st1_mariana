@@ -1,17 +1,18 @@
-file = t000502
-date = 2016-01-13
-user = HigherNavy
-conversation = 1542053611
-URL = https://twitter.com/HigherNavy/status/687342775998742528
+file = t010073
+date = 2019-03-21
+user = kassatti
+conversation = 22384371
+URL = https://twitter.com/kassatti/status/1108717768579391488
 
-word count = 16
-words loading = 2
-factor score = -2
+word count = 13
+words loading = 3
+factor score = -3
 
-**Assembleia** venezuelana acata ordem do TSJ e afasta deputados opositores 
-**suspensos** : Os opositores Nirma Guarull. . . 
+**Serviço** de **inteligência** venezuelano prende **chefe** de gabinete de 
+Guaidó via @exame 
 
 Lemmas in this text that loaded on the factor:
 
-assembleia
-suspender
+chefe
+inteligência
+serviço

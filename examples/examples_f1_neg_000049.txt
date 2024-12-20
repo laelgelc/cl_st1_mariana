@@ -1,17 +1,19 @@
-file = t001682
-date = 2016-09-02
-user = portalafricas
-conversation = 173944935
-URL = https://twitter.com/portalafricas/status/771532133500235776
+file = t014178
+date = 2021-10-20
+user = Reinald65923641
+conversation = 1277730345698430976
+URL = https://twitter.com/Reinald65923641/status/1450868629050900489
 
-word count = 13
-words loading = 2
-factor score = -2
+word count = 19
+words loading = 3
+factor score = -3
 
-Chefe de **parlamento** venezuelano diz não poder **suspender** imunidade sem 
-crimes HASHTAG #mundo_h 
+RT @freu_rodrigues: Gazeta: Um ex-chefe da **inteligência** militar 
+venezuelana informou à **Justiça** da Espanha que os governos de Hugo Chávez 
+e … 
 
 Lemmas in this text that loaded on the factor:
 
-parlamento
-suspender
+chefe
+inteligência
+justiça

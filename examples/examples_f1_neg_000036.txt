@@ -1,18 +1,18 @@
-file = t000517
-date = 2016-01-07
-user = gumartinslive
-conversation = 382430644
-URL = https://twitter.com/gumartinslive/status/685204091971080192
+file = t011036
+date = 2019-05-11
+user = Cfranci59840708
+conversation = 1115387917306867712
+URL = https://twitter.com/Cfranci59840708/status/1127332567856889856
 
-word count = 10
+word count = 15
 words loading = 3
-factor score = -2
+factor score = -3
 
-Chavistas pedem que Justiça **anule** **decisões** do **Parlamento** 
-venezuelano 
+RT @brasil247 : Diretor de **serviço** venezuelano de **inteligência** 
+articulou **tentativa** de golpe, diz Maduro 
 
 Lemmas in this text that loaded on the factor:
 
-anular
-decisão (secondary)
-parlamento
+inteligência
+serviço
+tentativa

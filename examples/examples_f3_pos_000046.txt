@@ -1,19 +1,20 @@
-file = t010597
-date = 2019-04-30
-user = maryzina
-conversation = 357765760
-URL = https://twitter.com/maryzina/status/1123300696684679169
+file = t016487
+date = 2022-10-18
+user = Cizinhah
+conversation = 35373363
+URL = https://twitter.com/Cizinhah/status/1582429919807959048
 
-word count = 21
-words loading = 3
-factor score = 3
+word count = 23
+words loading = 4
+factor score = 4
 
-RT @HelioNogueiraTV: O **Presidente** Jair Bolsonaro acaba de autorizar a 
-entrada de 25 **militares** venezuelanos na **embaixada** do Brasil em Caraca 
-… 
+RT @GustavRamski: Até a representante venezuelana q Bolsonazi **arrumou** prá 
+tentar aliviar sua barra no **caso** do " **pintou** um **clima** " é fake 
+woozy_face_e … 
 
 Lemmas in this text that loaded on the factor:
 
-embaixada
-militar
-presidente
+arrumar
+caso
+clima
+pintar

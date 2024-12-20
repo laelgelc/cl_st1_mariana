@@ -1,18 +1,18 @@
-file = t006217
-date = 2018-10-10
-user = TeteDuche
-conversation = 36492472
-URL = https://twitter.com/TeteDuche/status/1050170930272591872
+file = t006497
+date = 2018-10-18
+user = _LopezBruno
+conversation = 963787807268491264
+URL = https://twitter.com/_LopezBruno/status/1053008649529057281
 
-word count = 23
+word count = 18
 words loading = 3
 factor score = -3
 
-RT @marisascruz: Eleitor que ainda pensa em votar no @Haddad_Fernando sabes o 
-**estado** que se encontra o **Povo** Venezuelano com a **Ditadura** do M … 
+É vergonhoso demais isso. Não só **passamos** pano pra **ditadura** 
+venezuelana como os financiamos com nosso **dinheiro** . 
 
 Lemmas in this text that loaded on the factor:
 
+dinheiro
 ditadura
-estado
-povo
+passar

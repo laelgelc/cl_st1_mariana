@@ -1,18 +1,20 @@
-file = t000687
-date = 2016-03-12
-user = SaraivaSaul
-conversation = 2480646631
-URL = https://twitter.com/SaraivaSaul/status/708495334704615424
+file = t008056
+date = 2019-01-24
+user = MovBrasil200
+conversation = 954546843953876992
+URL = https://twitter.com/MovBrasil200/status/1088482097273204738
 
-word count = 12
-words loading = 3
+word count = 20
+words loading = 5
 factor score = 3
 
-RT @Estadao: **Jornal** venezuelano deixará de circular por **falta** de 
-**papel** 
+O povo Venezuelano foi as **ruas** por **liberdade** , contra o socialismo de 
+Maduro! Todo **apoio** ao **novo** **presidente** Juan Gua … 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-jornal
-papel
+apoio
+liberdade (secondary)
+novo
+presidente
+rua (secondary)

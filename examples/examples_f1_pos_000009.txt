@@ -1,20 +1,20 @@
-file = t015311
-date = 2021-07-12
-user = edercasola
-conversation = 192761701
-URL = https://twitter.com/edercasola/status/1414597844162551815
+file = t018184
+date = 2022-03-11
+user = zacaelo
+conversation = 181368081
+URL = https://twitter.com/zacaelo/status/1502100148192694275
 
-word count = 16
-words loading = 5
-factor score = 5
+word count = 24
+words loading = 4
+factor score = 4
 
-**Apoiar** a esquerda brasileira é prolongar o sofrimento dos **irmãos** 
-**cubanos** , venezuelanos, **argentino** e outros. **Precisa** … 
+RT @JlTalio: Vamos **fazer** assim, venezuelano que não **quer** ditadura 
+comunista **vem** pra cá e vagabundo petista que **gosta** de ser capacho do 
+gove … 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar
-argentino
-cubano
-irmão
-precisar
+fazer
+gostar
+querer
+vir

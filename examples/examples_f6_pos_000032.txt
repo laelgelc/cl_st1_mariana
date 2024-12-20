@@ -1,17 +1,18 @@
-file = t018146
-date = 2022-03-08
-user = mia_regazzia
-conversation = 1836719270
-URL = https://twitter.com/mia_regazzia/status/1501170887583834120
+file = t002719
+date = 2017-03-15
+user = ptcavalcanti
+conversation = 298151813
+URL = https://twitter.com/ptcavalcanti/status/842032402700636160
 
-word count = 19
-words loading = 2
-factor score = 2
+word count = 15
+words loading = 3
+factor score = 3
 
-@jhbuena @hoje_no Os EUA querem dar um bom dinheiro para **comprar** o 
-**petróleo** venezuelano em troca de eles não ajudar … 
+**Presidente** do Equador impede que esposa de **líder** da **oposição** 
+venezuelana visite o país 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-petróleo
+líder
+oposição
+presidente

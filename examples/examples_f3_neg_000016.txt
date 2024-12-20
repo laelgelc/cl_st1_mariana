@@ -1,17 +1,16 @@
-file = t000309
-date = 2016-12-13
-user = eucruzanderson
-conversation = 71044219
-URL = https://twitter.com/eucruzanderson/status/808693851498151936
+file = t000436
+date = 2016-01-20
+user = amazonaspop
+conversation = 228660870
+URL = https://twitter.com/amazonaspop/status/689823719389147138
 
-word count = 15
-words loading = 2
-factor score = -2
+word count = 18
+words loading = 1
+factor score = -1
 
-RT @g1 : **Hospitais** venezuelanos sofrem com precariedade e **escassez** em 
-meio à crise HASHTAG #g1_h 
+Atacante venezuelano está na mira do Grêmio, diz rádio: O Grêmio deve 
+recorrer ao mercado sul-americano para t. . . 
 
 Lemmas in this text that loaded on the factor:
 
-escassez
-hospital
+americano

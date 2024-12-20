@@ -1,17 +1,16 @@
-file = t001652
-date = 2016-09-09
-user = Conserv_Cariri
-conversation = 1427868997
-URL = https://twitter.com/Conserv_Cariri/status/774246565435281408
+file = t002001
+date = 2017-07-10
+user = Convenbil
+conversation = 1650092862
+URL = https://twitter.com/Convenbil/status/884470777407524865
 
-word count = 16
-words loading = 2
-factor score = -2
+word count = 15
+words loading = 1
+factor score = -1
 
-O socialismo é tão cruel que venezuelanos abandonam **animais** de 
-estimação por falta de **comida** 
+RT @diarioliberdade: Oposição venezuelana admite que parte de seu plano 
+golpista é **aumentar** conflitividade 
 
 Lemmas in this text that loaded on the factor:
 
-animal
-comida
+aumentar

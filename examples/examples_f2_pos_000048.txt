@@ -1,19 +1,17 @@
-file = t002300
-date = 2017-02-07
-user = Babi_Galo1908
-conversation = 3053163035
-URL = https://twitter.com/Babi_Galo1908/status/828943959598759937
+file = t018575
+date = 2022-07-11
+user = neofc10
+conversation = 1346559340191363072
+URL = https://twitter.com/neofc10/status/1546486085093625857
 
 word count = 22
-words loading = 3
-factor score = 3
+words loading = 2
+factor score = 2
 
-RT @atletico: **Gol** do HASHTAG #galo_h: convidamos o **meia** Otero para 
-narrar o golaço **marcado** por ele diante do Tombense. O venezuelano arrisc 
-… 
+@Adriano30956916 Não quer dizer mta coisa. **Seleção** Venezuelana é pior 
+que mto **time** da Série B. Foi a lanterna das eliminatórias. 
 
 Lemmas in this text that loaded on the factor:
 
-gol
-marcar
-meia
+seleção
+time

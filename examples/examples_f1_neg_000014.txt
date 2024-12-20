@@ -1,18 +1,19 @@
-file = t003553
-date = 2017-05-09
-user = lisaugustalima
-conversation = 4421490737
-URL = https://twitter.com/lisaugustalima/status/861763583096606720
+file = t000640
+date = 2016-02-17
+user = nilda_ap
+conversation = 2328877819
+URL = https://twitter.com/nilda_ap/status/699828480792530944
 
 word count = 13
-words loading = 3
+words loading = 4
 factor score = -3
 
-RT @folha: Manaus **decreta** estado de **emergência** após **chegada** de 
-índios venezuelanos 
+**Parlamento** venezuelano dá 1º **sinal** verde para **lei** de **anistia** 
+para políticos - 
 
 Lemmas in this text that loaded on the factor:
 
-chegada
-decretar
-emergência
+anistia
+lei (secondary)
+parlamento
+sinal

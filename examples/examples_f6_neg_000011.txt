@@ -1,20 +1,19 @@
-file = t014329
-date = 2021-11-05
-user = internacionalzp
-conversation = 1404480457106939904
-URL = https://twitter.com/internacionalzp/status/1456660769941164034
+file = t006823
+date = 2019-10-23
+user = roluli
+conversation = 44888444
+URL = https://twitter.com/roluli/status/1187004368836579329
 
-word count = 17
-words loading = 4
-factor score = -4
+word count = 20
+words loading = 3
+factor score = -3
 
-RT @JOSERIC52692126 : Tic Tac. . . . Cambada de esquerdopata. . . **Justiça** 
-**espanhola** **concorda** em **extraditar** general venezuelano Carvajal para 
-os … 
+RT @rsallesmma: Nao bastasse não ajudar na limpeza do **petróleo** 
+venezuelano nas **praias** do **Nordeste** , os ecoterroristas ainda depredam 
+patrimô … 
 
 Lemmas in this text that loaded on the factor:
 
-concordar
-espanhol
-extraditar
-justiça
+nordeste
+petróleo
+praia

@@ -1,18 +1,17 @@
-file = t003588
-date = 2017-05-26
-user = flordelotus05
-conversation = 578771859
-URL = https://twitter.com/flordelotus05/status/868230851741573121
+file = t003987
+date = 2017-06-08
+user = emfoconoticias
+conversation = 751960944822067200
+URL = https://twitter.com/emfoconoticias/status/872709860923772929
 
-word count = 20
+word count = 12
 words loading = 2
 factor score = -2
 
-RT @Geraldofranca: Não confie em Diretas já com Gilmar Mendes no TSE e as 
-**urnas** **eletrônicas** venezuelanas. HASHTAG #diretasnao_h HASHTAG 
-#diretasjanao_h … 
+Órgão **eleitoral** venezuelano confirma **eleição** de Constituinte para 
+30 de julho 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
-urna
+eleitoral
+eleição

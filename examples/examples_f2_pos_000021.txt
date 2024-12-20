@@ -1,19 +1,18 @@
-file = t015100
-date = 2021-05-12
-user = asmreis
-conversation = 279553286
-URL = https://twitter.com/asmreis/status/1392275422747013125
+file = t013944
+date = 2020-09-18
+user = Carol_canoa
+conversation = 68181355
+URL = https://twitter.com/Carol_canoa/status/1306989099509780481
 
-word count = 18
+word count = 21
 words loading = 3
 factor score = 3
 
-RT @futsulamerica_ : flag_brazil_e **flag_venezuela_e** Internacional contra 
-adversários venezuelanos fora de casa na Libertadores: 6 **jogos** 1 
-**vitória** 2 empates 3 derrota … 
+RT @Vessoni: Info do @MeuTimao: Corinthians é avisado da convocação de Otero 
+pela **seleção** venezuelana; **meia** perderá dois **jogos** https://t. … 
 
 Lemmas in this text that loaded on the factor:
 
-flag_venezuela_e
 jogo
-vitória
+meia
+seleção

@@ -1,19 +1,19 @@
-file = t001399
-date = 2016-07-11
-user = ilhafm_br
-conversation = 4861016878
-URL = https://twitter.com/ilhafm_br/status/752633828619849728
+file = t008196
+date = 2019-01-23
+user = JohnnyLopez10
+conversation = 329377709
+URL = https://twitter.com/JohnnyLopez10/status/1088197492758466561
 
-word count = 12
-words loading = 4
+word count = 23
+words loading = 3
 factor score = 3
 
-**Milhares** de venezuelanos **atravessam** fronteira com a Colômbia para 
-**comprar** **comida** 
+RT @MassaFelipe19 : **Força** ao povo venezuelano! ! Espero o melhor a todos 
+vcs de coração! E que realmente entre um **novo** **presidente** para mudar 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-atravessar
-comida (secondary)
-comprar
-milhar
+força
+novo
+presidente

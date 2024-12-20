@@ -1,18 +1,19 @@
-file = t003998
-date = 2018-01-17
-user = michaelle_Sousa
-conversation = 3127687596
-URL = https://twitter.com/michaelle_Sousa/status/953644006537273345
+file = t003298
+date = 2017-04-02
+user = ottoliveira
+conversation = 281470414
+URL = https://twitter.com/ottoliveira/status/848337653741342720
 
-word count = 21
+word count = 22
 words loading = 3
 factor score = -3
 
-RT @MSouzaS_ : O assassino **ditador** Nicolás Maduro esta matando o **povo** 
-venezuelano e todos aqueles que se rebelam contra a **ditadura** implantad … 
+RT @stellebl: É revoltante esses imbecís defendendo o **ditador** 
+venezuelano. o **povo** pedindo refúgio no Brasil, **passa** fome, ñ tem ph. 
+G … 
 
 Lemmas in this text that loaded on the factor:
 
 ditador
-ditadura
+passar
 povo

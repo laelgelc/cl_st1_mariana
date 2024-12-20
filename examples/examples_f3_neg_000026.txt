@@ -1,17 +1,16 @@
-file = t000954
-date = 2016-05-05
-user = jherobr
-conversation = 58927548
-URL = https://twitter.com/jherobr/status/728051063220150272
+file = t001282
+date = 2016-07-19
+user = carlosgeilson
+conversation = 115768288
+URL = https://twitter.com/carlosgeilson/status/755412315948904450
 
-word count = 16
-words loading = 2
-factor score = -2
+word count = 19
+words loading = 1
+factor score = -1
 
-DESESPERO: VENEZUELANOS CAÇAM **GATOS** , **CACHORROS** E POMBOS PARA COMER; 
-GRAÇAS AO SOCIALISMO: Lamentável a situaç . . . 
+RT @aleluiacosta: 100 mil venezuelanos atravessando a fronteira **colombiana** 
+para comprar produtos básicos. Matéria do Jornal da Globo: https … 
 
 Lemmas in this text that loaded on the factor:
 
-cachorro
-gato
+colombiano

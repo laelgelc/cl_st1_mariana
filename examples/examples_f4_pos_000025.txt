@@ -1,20 +1,19 @@
-file = t016636
-date = 2022-10-23
-user = gesse_rvg
-conversation = 3083002350
-URL = https://twitter.com/gesse_rvg/status/1584130449999552514
+file = t000963
+date = 2016-05-19
+user = aramosfreitas11
+conversation = 2750634388
+URL = https://twitter.com/aramosfreitas11/status/733123578967826432
 
-word count = 17
-words loading = 5
-factor score = 5
+word count = 14
+words loading = 4
+factor score = 4
 
-@Igortep Bolsonaro, inúmeras vezes **chamou** as **crianças** venezuelanas de 
-**prostitutas** além do " **pintou** um **clima** " . O judi … 
+RT @ADLEZ_AP: O **socialismo** venezuelano: pessoas **comendo** **cachorros** , 
+saqueando supermercados e **morrendo** de inanição 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-clima
-criança
-pintar
-prostituta
+cachorro
+comer
+morrer
+socialismo

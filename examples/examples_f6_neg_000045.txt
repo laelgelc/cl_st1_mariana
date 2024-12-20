@@ -1,17 +1,19 @@
-file = t000645
-date = 2016-02-17
-user = PublishingSite
-conversation = 3314379070
-URL = https://twitter.com/PublishingSite/status/699880783742283776
+file = t007566
+date = 2019-11-01
+user = vasconrosi
+conversation = 1135652018796802048
+URL = https://twitter.com/vasconrosi/status/1190412328916979712
 
-word count = 14
-words loading = 2
-factor score = -2
+word count = 18
+words loading = 3
+factor score = -3
 
-HASHTAG #googlenewsbrasil_h Parlamento venezuelano dá 1º **sinal** verde para 
-lei de **anistia** para políticos 
+RT @Letcia92205701 : A Esquerda é criminosa e nociva! **Óleo** venezuelano 
+nas **praias** do **nordeste** brasileiro. . . falhando HASHTAG 
+#quemmandoumatarbo_h … 
 
 Lemmas in this text that loaded on the factor:
 
-anistia
-sinal
+nordeste
+praia
+óleo

@@ -1,20 +1,18 @@
-file = t012660
-date = 2020-01-10
-user = Ricar1do
-conversation = 224005672
-URL = https://twitter.com/Ricar1do/status/1215667894241185793
+file = t018825
+date = 2022-08-05
+user = lrs1980sp
+conversation = 1390057513819770880
+URL = https://twitter.com/lrs1980sp/status/1555616942261784581
 
-word count = 25
-words loading = 4
-factor score = 4
+word count = 14
+words loading = 3
+factor score = 3
 
-RT @jjguimaraess: quem mora nas proximidades do aviário e **quer** fazer uma 
-**boa** ação, **tem** um abrigo de venezuelanos na minha **rua** e estou 
-tenta … 
+@oricardobarbudo @Dayana84272019 Oh esquerdista inteligente venezuelanos 
+**fogem** por **fome** para o Acre **argentinos** **foge** … 
 
 Lemmas in this text that loaded on the factor:
 
-bom
-querer
-rua
-ter
+argentino
+fome
+fugir

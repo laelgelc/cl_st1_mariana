@@ -5,16 +5,14 @@ conversation = 733872128
 URL = https://twitter.com/roxximena/status/1088689207797825536
 
 word count = 20
-words loading = 4
+words loading = 3
 factor score = -3
 
-RT @RainhaB17 : Nós brasileiros **pedimos** perdão ao **povo** venezuelano, 
-pelo **governo** anterior ter financiado essa **ditadura** de Maduro. O Brasil 
-… 
+RT @RainhaB17 : Nós brasileiros pedimos perdão ao **povo** venezuelano, pelo 
+**governo** anterior ter financiado essa **ditadura** de Maduro. O Brasil … 
 
 Lemmas in this text that loaded on the factor:
 
 ditadura
 governo
-pedir (secondary)
 povo

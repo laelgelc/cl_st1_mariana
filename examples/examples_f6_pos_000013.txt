@@ -1,19 +1,20 @@
-file = t007033
-date = 2019-10-09
-user = Zparaujo
-conversation = 160908766
-URL = https://twitter.com/Zparaujo/status/1181872218474795008
+file = t010126
+date = 2019-03-04
+user = marta_trajano
+conversation = 176156451
+URL = https://twitter.com/marta_trajano/status/1102594210543398912
 
-word count = 23
-words loading = 3
+word count = 18
+words loading = 4
 factor score = 3
 
-RT @Videversus: O **petróleo** cru, altamente contaminante, encontrado nas 
-praias do **Nordeste** e Norte do País, é de **origem** venezuelana, e não r 
-… 
+RT @RenovaMidia: O **líder** **opositor** venezuelano, Juan Guaidó , 
+**convocou** manifestações em toda a HASHTAG #venezuela_h nesta 
+segunda-feira, ao anunciar se … 
 
 Lemmas in this text that loaded on the factor:
 
-nordeste
-origem
-petróleo
+convocar (secondary)
+feira
+líder
+opositor

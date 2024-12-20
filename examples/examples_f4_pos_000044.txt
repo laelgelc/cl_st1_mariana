@@ -1,20 +1,18 @@
-file = t017518
-date = 2022-10-23
-user = Geraldo19671
-conversation = 1575957652781383680
-URL = https://twitter.com/Geraldo19671/status/1584300709406642176
+file = t015035
+date = 2021-05-05
+user = EduardaMesquit5
+conversation = 1225848224457592832
+URL = https://twitter.com/EduardaMesquit5/status/1389999723407450115
 
 word count = 20
-words loading = 4
-factor score = 4
+words loading = 3
+factor score = 3
 
-RT @Catyesquerdista: BolsoNero **chamou** de **PROSTITUTAS** **meninas** 
-**Venezuelanas** em 3 ocasiões. Não foi fake, **chamou** mesmo! As " 
-**meninas** bonitas " … 
+É muito triste **andar** nas **ruas** de unai e ver uma família venezuelana 
+pedindo ajuda para comprar oque **comer** pensive_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-menino
-prostituta
-venezuelanas
+andar
+comer
+rua

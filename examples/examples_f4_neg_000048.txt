@@ -1,16 +1,17 @@
-file = t003932
-date = 2017-06-23
-user = gerciodias
-conversation = 38376540
-URL = https://twitter.com/gerciodias/status/878384020219756544
+file = t001295
+date = 2016-07-26
+user = SIMundial
+conversation = 1000140799
+URL = https://twitter.com/SIMundial/status/757970770106589186
 
-word count = 22
-words loading = 1
-factor score = -1
+word count = 13
+words loading = 2
+factor score = -2
 
-Lí outro dia que **americanos** lavavam dinheiro em diamantes numa mina 
-clandestina na amazônia Venezuelana esquisito, Cabral na H Stern. Burro? 
+Pedidos de **asilo** de venezuelanos cresceram 110 % no **norte** do Brasil? 
+imprensa 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+asilo
+norte

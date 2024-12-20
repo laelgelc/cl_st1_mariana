@@ -1,18 +1,19 @@
-file = t014720
-date = 2021-03-19
-user = CamilloJOGA10
-conversation = 4700481563
-URL = https://twitter.com/CamilloJOGA10/status/1372926020454612996
+file = t011379
+date = 2019-06-22
+user = SALAZRICAR30
+conversation = 139135432
+URL = https://twitter.com/SALAZRICAR30/status/1142516246124085253
 
-word count = 20
+word count = 24
 words loading = 3
 factor score = 3
 
-Com o **gol** no Deportivo Lara, Soteldo entra para a história da Libertadores 
-ao **marcar** contra um **time** venezuelano; en … 
+RT @CopaAmerica: Darwin Machís **flag_venezuela_e** **marcou** o **gol** mais 
+rápido deste século na Copa América; O venezuelano **marcou** em 1 ' : 15 " 
+contra a Bolívia e … 
 
 Lemmas in this text that loaded on the factor:
 
+flag_venezuela_e
 gol
 marcar
-time

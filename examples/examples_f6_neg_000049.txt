@@ -1,16 +1,18 @@
-file = t001496
-date = 2016-08-03
-user = juanacattaneo
-conversation = 69459146
-URL = https://twitter.com/juanacattaneo/status/760842794604691456
+file = t012235
+date = 2020-02-29
+user = nanogrupo
+conversation = 57700627
+URL = https://twitter.com/nanogrupo/status/1233881973950685186
 
-word count = 11
-words loading = 2
-factor score = -2
+word count = 14
+words loading = 3
+factor score = -3
 
-Não vou **saudar** um **golpista** , diz atleta venezuelana sobre Temer 
+RT @UOL: Cientistas questionam **origem** venezuelana de **óleo** que atingiu 
+**praias** em 2019 
 
 Lemmas in this text that loaded on the factor:
 
-golpista
-saudar
+origem
+praia
+óleo

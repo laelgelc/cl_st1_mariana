@@ -1,18 +1,18 @@
-file = t001594
-date = 2016-08-18
-user = rcdajr
-conversation = 569116174
-URL = https://twitter.com/rcdajr/status/766325945284202496
+file = t018313
+date = 2022-04-06
+user = jenny10mv
+conversation = 240669061
+URL = https://twitter.com/jenny10mv/status/1511799690110676993
 
-word count = 18
-words loading = 3
-factor score = 3
+word count = 21
+words loading = 2
+factor score = 2
 
-**Meia** do Galo, Otero é **convocado** para defender a **seleção** 
-venezuelana: **Meia** pode desfalcar o Atlético-MG na par. . . 
+RT @Palmeiras: pig_face_e vs_button_e **flag_venezuela_e** O nosso último 
+**jogo** contra venezuelanos aconteceu em fevereiro de 2006 contra o próprio 
+Deportivo Táchira e com dire … 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
-meia
-seleção
+flag_venezuela_e
+jogo

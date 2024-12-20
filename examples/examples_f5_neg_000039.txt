@@ -1,17 +1,19 @@
-file = t001951
-date = 2017-07-31
-user = mvautocar
-conversation = 1389313196
-URL = https://twitter.com/mvautocar/status/891990413694906368
+file = t002453
+date = 2017-08-06
+user = santosneto01
+conversation = 331060314
+URL = https://twitter.com/santosneto01/status/894023518664495104
 
-word count = 17
-words loading = 2
+word count = 24
+words loading = 3
 factor score = -2
 
-@Lys10ct @AnaPaulaDlamari acho q nem votos somos, **urnas** venezuelanas? 
-fraudulentas! ! somos apenas o **sangue** q eles como … 
+RT @jeversona4 : **Milícias** de Maduro matam venezuelanos. Em futuro governo 
+PT, armas nas **mãos** do MST e Boulos, para subjugarem o **povo** . https: 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-sangue
-urna
+milícia
+mão
+povo (secondary)

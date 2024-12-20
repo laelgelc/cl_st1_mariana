@@ -1,21 +1,19 @@
-file = t012367
-date = 2020-11-02
-user = itismedeborah
-conversation = 726629444799062016
-URL = https://twitter.com/itismedeborah/status/1323398873495339009
+file = t018783
+date = 2022-08-05
+user = DiretoDDireita
+conversation = 255575376
+URL = https://twitter.com/DiretoDDireita/status/1555582674802298883
 
-word count = 26
-words loading = 5
-factor score = 4
+word count = 25
+words loading = 3
+factor score = 3
 
-RT @pedrocertezas: **Irmão** , eu não **tenho** opinião NENHUMA sobre o 
-César Farías. Nunca **ouvi** **falar** , tudo o que eu **sei** é que ele é 
-venezuelano, … 
+@brancafr @GadoDecider Cadê o mapa da **fome** . Isso aí **tem** em todos os 
+países. E aqui no Brasil **tem** muito Venezuelanos pedindo comida, **sabia** 
+? 
 
 Lemmas in this text that loaded on the factor:
 
-falar (secondary)
-irmão
-ouvir
+fome
 saber
 ter

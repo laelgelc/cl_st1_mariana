@@ -1,19 +1,20 @@
-file = t012552
-date = 2020-12-22
-user = clipping_cacd
-conversation = 4296428781
-URL = https://twitter.com/clipping_cacd/status/1341471500306661377
+file = t012455
+date = 2020-12-09
+user = krika_ra
+conversation = 204115432
+URL = https://twitter.com/krika_ra/status/1336680036443844613
 
-word count = 19
+word count = 24
 words loading = 4
 factor score = 4
 
-Desde 2015 , aumentou o **número** de venezuelanos que **cruzam** a 
-**fronteira** para **chegar** ao Brasil. Hoje, eles são cerca … 
+RT @ThomasVConti: Maduro assumiu em 2013 . Desde então, mais de 4 **milhões** 
+de venezuelanos fugiram do **país** - é a maior **crise** de **refugiados** 
+da … 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-cruzar
-fronteira
-número
+crise
+milhão
+país
+refugiado

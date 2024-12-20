@@ -1,19 +1,19 @@
-file = t000224
-date = 2016-11-23
-user = denillze
-conversation = 2880049107
-URL = https://twitter.com/denillze/status/801398803400196097
+file = t013202
+date = 2020-05-18
+user = rangel59947610
+conversation = 1261656125944061952
+URL = https://twitter.com/rangel59947610/status/1262401211094962178
 
-word count = 13
-words loading = 4
-factor score = 4
+word count = 18
+words loading = 3
+factor score = 3
 
-RT @DiarioPE: Três **jornais** venezuelanos **param** de circular por 
-**falta** de **papel** 
+RT @CarlaZambelli38 : Durante a carreata de hoje em Brasília, além do 
+agradecimento ao **Presidente** @jairbolsonaro, venezuelanos **pediram** , 
+**nova** … 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-jornal
-papel
-parar
+novo
+pedir
+presidente

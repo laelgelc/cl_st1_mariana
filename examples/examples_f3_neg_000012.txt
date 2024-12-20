@@ -1,19 +1,16 @@
-file = t008971
-date = 2019-02-25
-user = Juliuscasamento
-conversation = 779329771733917696
-URL = https://twitter.com/Juliuscasamento/status/1100066030880284672
+file = t000260
+date = 2016-11-14
+user = luana_vitoriiaa
+conversation = 2470976715
+URL = https://twitter.com/luana_vitoriiaa/status/797978033936154625
 
-word count = 18
-words loading = 4
-factor score = -3
+word count = 23
+words loading = 1
+factor score = -1
 
-Venezuelanos **comem** **gatos** , **cachorros** e pombos para **sobreviver** , 
-" há pessoas caçando **gatos** e **cachorros** nas ruas, e pomb … 
+Nós dizemos que não sabemos como diferenciar um coreano de um japonês mas 
+GENTE, alguém sabe diferenciar um **colombiano** de em venezuelano? 
 
 Lemmas in this text that loaded on the factor:
 
-cachorro
-comer (secondary)
-gato
-sobreviver
+colombiano

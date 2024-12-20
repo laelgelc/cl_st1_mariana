@@ -1,19 +1,17 @@
-file = t010144
-date = 2019-03-01
-user = RuizCaroci
-conversation = 1523715738
-URL = https://twitter.com/RuizCaroci/status/1101442387551928320
+file = t000187
+date = 2016-10-24
+user = 1980cmrb
+conversation = 2982605951
+URL = https://twitter.com/1980cmrb/status/790418518218903552
 
-word count = 22
-words loading = 3
-factor score = -3
+word count = 19
+words loading = 2
+factor score = -2
 
-RT @JUBIRACY: As **mãos** imundas dos canalhas da QUADRILHA DO PT, estão 
-cheias do **sangue** **derramado** dos inocentes venezuelanos mortos p / 
-ditadur … 
+RT @AnonymousBr4sil: Parlamento venezuelano **aprova** texto que diz que Maduro 
+promoveu **golpe** . Parlamentares irão pedir garantia de. . . https: / … 
 
 Lemmas in this text that loaded on the factor:
 
-derramar
-mão
-sangue
+aprovar
+golpe

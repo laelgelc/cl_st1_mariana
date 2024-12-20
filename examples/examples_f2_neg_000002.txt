@@ -1,21 +1,20 @@
-file = t010267
-date = 2019-03-06
-user = Cunhakc
-conversation = 1347663259
-URL = https://twitter.com/Cunhakc/status/1103087880115810309
+file = t004271
+date = 2018-01-06
+user = sosopiava
+conversation = 831192469693984768
+URL = https://twitter.com/sosopiava/status/949474264385753088
 
-word count = 18
-words loading = 6
+word count = 22
+words loading = 4
 factor score = -4
 
-RT @JoelAlexandreM: Enquanto o **povo** venezuelano **passa** **fome** , a 
-elite da **ditadura** **chavista** ostenta e esbanja **dinheiro** . 
+RT @vtwillx3 : O cara foi fazer um trabalho humanitário na **ditadura** 
+venezuelana e foi **preso** por estar distribuindo **alimentos** aos que 
+**passam** … 
 
 Lemmas in this text that loaded on the factor:
 
-chavista (secondary)
-dinheiro
+alimento
 ditadura
-fome (secondary)
 passar
-povo
+prender

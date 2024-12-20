@@ -1,20 +1,16 @@
-file = t013966
-date = 2020-09-05
-user = ruthrenascerrp
-conversation = 302948055
-URL = https://twitter.com/ruthrenascerrp/status/1302219114686099456
+file = t000284
+date = 2016-11-29
+user = gumadeiras
+conversation = 79807551
+URL = https://twitter.com/gumadeiras/status/803538804426608640
 
-word count = 20
-words loading = 4
-factor score = -3
+word count = 21
+words loading = 1
+factor score = -1
 
-RT @AnaNascimenProf: Povo venezuelano não tem o essencial: falta -lhe 
-**COMIDA** e tem que **comer** seus **cachorros** ( 1a cesta básica = 200 
-**salários** … 
+@kokzviana " Segundo o entendimento da Anac, o voo deveria ser feito por 
+empresa brasileira ou **colombiana** , a empresa era [ . . . ] venezuelana " 
 
 Lemmas in this text that loaded on the factor:
 
-cachorro
-comer (secondary)
-comida
-salário
+colombiano

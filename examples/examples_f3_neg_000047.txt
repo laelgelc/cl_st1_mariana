@@ -1,17 +1,16 @@
-file = t002470
-date = 2017-08-29
-user = TicoETeco18
-conversation = 837326365347176448
-URL = https://twitter.com/TicoETeco18/status/902622177429684224
+file = t002152
+date = 2017-07-31
+user = demetera2
+conversation = 2792721306
+URL = https://twitter.com/demetera2/status/891952060966592512
 
-word count = 14
-words loading = 2
-factor score = -2
+word count = 16
+words loading = 1
+factor score = -1
 
-RT @UOLEconomia: Diante de **escassez** de dinheiro, venezuelanos **pagam** 
-para comprar notas @UOL 
+RT @ocafezinho: Constituinte venezuelana tem 41 % de participação, maior que 
+as eleições **americanas** de 2014 
 
 Lemmas in this text that loaded on the factor:
 
-escassez
-pagar
+americano

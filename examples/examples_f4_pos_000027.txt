@@ -1,21 +1,18 @@
-file = t016570
-date = 2022-10-23
-user = ruialex10
-conversation = 1128686588
-URL = https://twitter.com/ruialex10/status/1584133281167343616
+file = t019032
+date = 2022-09-13
+user = MarySou28387431
+conversation = 1448272575038115840
+URL = https://twitter.com/MarySou28387431/status/1569754649200148486
 
-word count = 24
-words loading = 5
-factor score = 5
+word count = 21
+words loading = 3
+factor score = 3
 
-RT @_Janoninho: Depois de Bolsonaro ter dito com todas as letras que **pintou** 
-um **clima** entre ele e **Venezuelanas** de 14 **anos** , tá proibido 
-**falar** … 
+@olabocos Tem um vídeo de um venezuelano, dizendo que lá na Venezuela, as 
+pessoas estavam **comendo** até **gato** e **cachorro** 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-falar
-pintar
-venezuelanas
+cachorro
+comer
+gato

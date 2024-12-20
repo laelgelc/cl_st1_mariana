@@ -1,19 +1,19 @@
-file = t012490
-date = 2020-12-08
-user = ernani_neto
-conversation = 61024949
-URL = https://twitter.com/ernani_neto/status/1336263747606867968
+file = t016997
+date = 2022-10-23
+user = Claudiacfls
+conversation = 1577031132851339264
+URL = https://twitter.com/Claudiacfls/status/1584009557612765184
 
 word count = 16
 words loading = 4
-factor score = 3
+factor score = 4
 
-RT @biabionica: Nota **oficial** do PT em **apoio** ao **processo** 
-**eleitoral** venezuelano. Viveremos e venceremos! 
+@Fernandojosea @alexandre Qual a ofensa? ? **Meninas** **Venezuelanas** 
+arrumadinhas são **garotas** de **programa** . Qual a diferença? 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-eleitoral (secondary)
-oficial
-processo
+garota
+menino
+programa
+venezuelanas

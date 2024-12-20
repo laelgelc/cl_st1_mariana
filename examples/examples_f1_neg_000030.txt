@@ -1,18 +1,18 @@
-file = t000130
-date = 2016-10-25
-user = enfoqueagencia
-conversation = 295852848
-URL = https://twitter.com/enfoqueagencia/status/790998540096974848
+file = t006987
+date = 2019-10-24
+user = EnaideAlves
+conversation = 80932776
+URL = https://twitter.com/EnaideAlves/status/1187411094693994497
 
-word count = 15
+word count = 17
 words loading = 3
-factor score = -2
+factor score = -3
 
-Acusado de promover golpe: **Parlamento** venezuelano **aprova** início de 
-**processo** político contra Maduro: Parlament. . . 
+RT @cdantas5 : **Chefão** do **tráfico** venezuelano visita Lula na 
+**prisão** . É um negócio cabuloso. via @ NBO04169435 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-parlamento
-processo (secondary)
+chefe
+prisão
+tráfico

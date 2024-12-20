@@ -1,18 +1,19 @@
-file = t000275
-date = 2016-11-23
-user = MancheteReal
-conversation = 124316566
-URL = https://twitter.com/MancheteReal/status/801384584726384640
+file = t008030
+date = 2019-01-17
+user = 266por1
+conversation = 22665476
+URL = https://twitter.com/266por1/status/1085872912991571968
 
-word count = 14
+word count = 22
 words loading = 3
 factor score = 3
 
-RT @N_Carvalheira: OUTRA UTILIDADE? Três **jornais** venezuelanos deixam de 
-circular por **falta** de **papel** 
+RT @jpcharleaux: A **oposição** venezuelana nunca ajudou a se ajudar. Nem bem 
+Gauidó foi ungido como **novo** **líder** , já há movimentos acusando -o de 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-jornal
-papel
+líder
+novo
+oposição

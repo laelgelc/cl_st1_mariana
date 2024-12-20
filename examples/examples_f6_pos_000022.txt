@@ -1,18 +1,19 @@
-file = t001109
-date = 2016-05-21
-user = edgarueno
-conversation = 16847406
-URL = https://twitter.com/edgarueno/status/733980475283378176
+file = t008085
+date = 2019-01-23
+user = mineiroemb
+conversation = 3129290409
+URL = https://twitter.com/mineiroemb/status/1088204493039329283
 
 word count = 19
 words loading = 3
 factor score = 3
 
-**Milhares** de Venezuelanos estão **abandonando** o país e vindo para o 
-Brasil, porque aqui tem **papel** higiênico, água. . . 
+RT @BlogDoPim: Brasil reconhece **novo** **presidente** venezuelano, anuncia 
+Bolsonaro. O país " **apoiará** política e economicamente o processo de tra 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-abandonar
-milhar
-papel
+apoiar
+novo
+presidente

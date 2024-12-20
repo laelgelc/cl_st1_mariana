@@ -1,19 +1,17 @@
-file = t015795
-date = 2021-09-30
-user = lcarboniii
-conversation = 1192243034106322944
-URL = https://twitter.com/lcarboniii/status/1443670255474200581
+file = t018776
+date = 2022-08-09
+user = SrgioSoaresDia4
+conversation = 1326957970085867520
+URL = https://twitter.com/SrgioSoaresDia4/status/1557038974920687616
 
-word count = 16
+word count = 11
 words loading = 2
 factor score = 2
 
-94 % da **população** venezuelana vivendo na **pobreza** , muito bem agora 
-não tem desigualdade, todo mundo igualmente pobre 
-rolling_on_the_floor_laughing_e rolling_on_the_floor_laughing_e 
-rolling_on_the_floor_laughing_e 
+RT @revistaoeste: **Líder** **chavista** acusa Argentina de ' sequestrar ' 
+avião venezuelano 
 
 Lemmas in this text that loaded on the factor:
 
-pobreza
-população
+chavista
+líder

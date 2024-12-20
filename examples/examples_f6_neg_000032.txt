@@ -1,18 +1,18 @@
-file = t017925
-date = 2022-01-20
-user = Gerson__Souza
-conversation = 55408023
-URL = https://twitter.com/Gerson__Souza/status/1484213593314844678
+file = t007112
+date = 2019-10-11
+user = pfasosantos
+conversation = 2405575617
+URL = https://twitter.com/pfasosantos/status/1182489217345249281
 
-word count = 19
+word count = 21
 words loading = 3
 factor score = -3
 
-RT @AlanLopesRio: ATENÇÃO: ex-chefe da **inteligência** venezuelana entrega 
-documentos oficiais à **justiça** , e bomba sobre Lula está prestes a ex … 
+RT @SaBolsonaro: O VERDADEIRO PULMÃO DO MUNDO FOI ATACADO. " O **petróleo** 
+que atingiu as **praias** do **nordeste** foi identificado, Venezuelano. Ao … 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-inteligência
-justiça
+nordeste
+petróleo
+praia

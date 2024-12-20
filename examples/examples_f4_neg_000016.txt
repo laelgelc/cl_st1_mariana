@@ -1,16 +1,17 @@
-file = t001539
-date = 2016-08-13
-user = leticiaajp
-conversation = 2319500622
-URL = https://twitter.com/leticiaajp/status/764439863244431360
+file = t007316
+date = 2019-11-13
+user = agimediata
+conversation = 136040782
+URL = https://twitter.com/agimediata/status/1194627994502873088
 
-word count = 19
-words loading = 1
-factor score = -1
+word count = 11
+words loading = 3
+factor score = -3
 
-Fronteira reabre e milhares de venezuelanos entram na Colômbia: Parte da 
-fronteira foi **fechada** em agosto de 2 . . . 
+Um **grupo** de fascistas **invade** a **Embaixada** venezuelana no Brasil 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+embaixada
+grupo
+invadir

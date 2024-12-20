@@ -1,20 +1,20 @@
-file = t004627
-date = 2018-02-14
-user = CeliaPfau
-conversation = 3373232345
-URL = https://twitter.com/CeliaPfau/status/963844897806671872
+file = t004865
+date = 2018-07-03
+user = diariofoco
+conversation = 281242890
+URL = https://twitter.com/diariofoco/status/1014166311688130560
 
-word count = 23
-words loading = 4
+word count = 17
+words loading = 5
 factor score = 4
 
-RT @Ricamconsult: A que ponto **chegou** a **crise** **humanitária** na 
-Venezuela? Já há tantos venezuelanos deixando o país quanto o **número** de 
-exilado … 
+Três **cidades** brasileiras **recebem** hoje ( 3 ) **imigrantes** 
+venezuelanos, em uma **nova** etapa do processo de **interiorização** . … 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-crise
-humanitário
-número
+cidade
+imigrante
+interiorização
+novo (secondary)
+receber

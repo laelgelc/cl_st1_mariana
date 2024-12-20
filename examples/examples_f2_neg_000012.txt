@@ -1,19 +1,19 @@
-file = t003254
-date = 2017-10-06
-user = nilzinha20
-conversation = 704830162186014720
-URL = https://twitter.com/nilzinha20/status/916385458854260736
+file = t002274
+date = 2017-08-07
+user = MancheteReal
+conversation = 124316566
+URL = https://twitter.com/MancheteReal/status/894534829492121600
 
-word count = 21
-words loading = 4
+word count = 17
+words loading = 3
 factor score = -3
 
-@lindberghfarias Ê quem defende **apoiar** países **ditadores** e Maduro? ? ? 
-E o **povo** Venezuelano assassinado pelo próprio **governo** que vcs defendem 
+RT @blogdojefferson: Primeiro os **governos** bolivarianos desarmaram a 
+**população** venezuelana. Depois distribuíram **milhares** de fuzis aos 
+milici … 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar (secondary)
-ditador
 governo
-povo
+milhar
+população

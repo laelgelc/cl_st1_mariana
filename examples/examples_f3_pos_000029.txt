@@ -1,18 +1,20 @@
-file = t013446
-date = 2020-05-27
-user = surtosfelopudos
-conversation = 3119304609
-URL = https://twitter.com/surtosfelopudos/status/1265736471304196096
+file = t017105
+date = 2022-10-16
+user = filhoeterno12
+conversation = 1256731536424079360
+URL = https://twitter.com/filhoeterno12/status/1581786714875756545
 
-word count = 18
-words loading = 3
-factor score = 3
+word count = 22
+words loading = 4
+factor score = 4
 
-@Modestii @_testesdamassa Td o **grupo** gulag kawaii já se predispõe a 
-**desertar** direto pro **exército** venezuelano e eu j … 
+RT @folha: Mônica Bergamo: Michelle e Damares devem visitar venezuelanas após 
+**fala** de Bolsonaro de que ' **pintou** um **clima** ' com **adolescentes** h 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-desertar
-exército
-grupo
+adolescente
+clima
+fala
+pintar

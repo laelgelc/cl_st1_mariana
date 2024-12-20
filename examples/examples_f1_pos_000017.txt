@@ -1,21 +1,20 @@
-file = t018561
-date = 2022-07-30
-user = LuisaOsbourne
-conversation = 1202672041360601088
-URL = https://twitter.com/LuisaOsbourne/status/1553394388998447105
+file = t014020
+date = 2020-09-11
+user = eduardoalvimm
+conversation = 344300642
+URL = https://twitter.com/eduardoalvimm/status/1304235555685912576
 
-word count = 22
-words loading = 5
+word count = 23
+words loading = 4
 factor score = 4
 
-RT @pais_vencedor: No Brasil para **fugir** da **fome** e da **miséria** , 
-venezuelano dá depoimento impactante e **vídeo** viraliza ( **veja** o 
-**vídeo** ) https: / / … 
+RT @EraldoPaola: Venezuelanos e **cubanos** **fazendo** campanha contra Biden 
+nas ruas de Miami. Nada **melhor** que a opinião de quem **fugiu** do social 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-fome
+bom
+cubano
+fazer
 fugir
-miséria
-ver
-vídeo (secondary)

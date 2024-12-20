@@ -1,20 +1,20 @@
-file = t010508
-date = 2019-05-01
-user = MarcBarcellos
-conversation = 2872444541
-URL = https://twitter.com/MarcBarcellos/status/1123423572989550593
+file = t016797
+date = 2022-10-18
+user = ClaudioVale12
+conversation = 1253730940033040384
+URL = https://twitter.com/ClaudioVale12/status/1582437868001144832
 
-word count = 23
-words loading = 4
-factor score = 4
+word count = 11
+words loading = 5
+factor score = 5
 
-RT @RenovaMidia: O **presidente** Jair Bolsonaro atendeu a pedido de **asilo** 
-político de 25 **militares** venezuelanos na **embaixada** do HASHTAG 
-#brasil_h na HASHTAG #ve_h … 
+As venezuelanas se **negam** a **gravar** **vídeo** , não **pintou** 
+**clima** 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-militar
-presidente
+clima
+gravar
+negar
+pintar
+vídeo

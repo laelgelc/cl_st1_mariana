@@ -1,16 +1,17 @@
-file = t003945
-date = 2017-12-28
-user = crvgdesj
-conversation = 922470715902881792
-URL = https://twitter.com/crvgdesj/status/946326770587979776
+file = t001345
+date = 2016-07-26
+user = JodmanGusmao
+conversation = 1538996144
+URL = https://twitter.com/JodmanGusmao/status/757979271923011584
 
-word count = 20
-words loading = 1
-factor score = -1
+word count = 19
+words loading = 2
+factor score = -2
 
-RT @eugenioleal: Outro meia habilidoso que está disponível no mercado 
-sul-americano é o venezuelano Soteldo, que está na Huachipato. Ele de … 
+Pedidos de **asilo** de venezuelanos cresceram 110 % no **norte** do Brasil: 
+Além dos pedidos legais, a polícia inform. . . 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+asilo
+norte

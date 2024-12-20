@@ -1,19 +1,20 @@
-file = t003997
-date = 2018-01-30
-user = danipeiter
-conversation = 1932753186
-URL = https://twitter.com/danipeiter/status/958358081242587138
+file = t006246
+date = 2018-09-19
+user = 32_saraiva
+conversation = 1040580402979786752
+URL = https://twitter.com/32_saraiva/status/1042472436250357760
 
-word count = 21
-words loading = 3
+word count = 23
+words loading = 4
 factor score = -3
 
-RT @leandroruschel: A **eleição** brasileira está nas **mãos** da 
-venezuelana Smatmatic, **empresa** que roubou as **eleições** no país 
-ajudando a consolid … 
+RT @AndrArajoLima2 : O Brasil entregou a uma **empresa** venezuelana a senha 
+das **urnas** **eletrônicas** . Acordem. O risco de **fraude** nas **urnas** 
+é possí … 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-empresa
-mão
+eletrônico
+empresa (secondary)
+fraude
+urna

@@ -1,20 +1,19 @@
-file = t014271
-date = 2021-10-29
-user = Natanael_Aju
-conversation = 241153560
-URL = https://twitter.com/Natanael_Aju/status/1454208351999610882
+file = t007280
+date = 2019-11-01
+user = drelerigou
+conversation = 2694196483
+URL = https://twitter.com/drelerigou/status/1190268975999062016
 
-word count = 19
+word count = 23
 words loading = 4
 factor score = -4
 
-RT @MauricioCanto7 : **Justiça** **espanhola** **concorda** em **extraditar** 
-general venezuelano Carvajal para os EUA. A esquerda tupiniquim inteira e seus 
-… 
+primeiro é venezuelano, depois os gregos, a perícia brasileira é amadora e 
+não sabe ainda quem **derramou** **óleo** nas **praias** do **nordeste** 
 
 Lemmas in this text that loaded on the factor:
 
-concordar
-espanhol
-extraditar
-justiça
+derramar
+nordeste
+praia
+óleo

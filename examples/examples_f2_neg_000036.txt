@@ -1,18 +1,20 @@
-file = t009108
-date = 2019-02-24
-user = flordelotus05
-conversation = 578771859
-URL = https://twitter.com/flordelotus05/status/1099732017518968833
+file = t009411
+date = 2019-02-22
+user = DireitaDaReal
+conversation = 743608219927482368
+URL = https://twitter.com/DireitaDaReal/status/1098897996933222400
 
-word count = 25
-words loading = 3
+word count = 24
+words loading = 4
 factor score = -3
 
-RT @StBnoBrasil: O nosso apoio ao **povo** venezuelano q sofre c o **governo** 
-comunista do **ditador** Nicolás Maduro. O polonês já sentiu na pele tod … 
+O nazista Donald Trump está **invadindo** a Venezuela com **alimentos** e 
+**remédios** p matar a fome dos venezuelanos. Um **crime** contra a 
+humanidade. . . 
 
 Lemmas in this text that loaded on the factor:
 
-ditador
-governo
-povo
+alimento
+crime
+invadir (secondary)
+remédio

@@ -1,21 +1,18 @@
-file = t003762
-date = 2017-12-04
-user = martoralho
-conversation = 399557993
-URL = https://twitter.com/martoralho/status/937707903661821952
+file = t003254
+date = 2017-10-06
+user = nilzinha20
+conversation = 704830162186014720
+URL = https://twitter.com/nilzinha20/status/916385458854260736
 
-word count = 20
-words loading = 5
+word count = 21
+words loading = 3
 factor score = -3
 
-RT @diguinhocoruja: Lula e a esquerda brasileira **apoiaram** e **apoiam** a 
-sanguinária **ditadura** venezuelana. O **povo** venezuelano **morre** de 
-**fome** … 
+@lindberghfarias Ê quem defende apoiar países **ditadores** e Maduro? ? ? E o 
+**povo** Venezuelano assassinado pelo próprio **governo** que vcs defendem 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar (secondary)
-ditadura
-fome (secondary)
-morrer
+ditador
+governo
 povo

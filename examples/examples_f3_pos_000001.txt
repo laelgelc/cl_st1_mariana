@@ -1,20 +1,24 @@
-file = t011159
-date = 2019-05-01
-user = Portalcwb
-conversation = 207333431
-URL = https://twitter.com/Portalcwb/status/1123476773554073600
+file = t017561
+date = 2022-10-15
+user = Marcelo72095143
+conversation = 1574429737245630464
+URL = https://twitter.com/Marcelo72095143/status/1581419277071962112
 
-word count = 10
-words loading = 5
-factor score = 5
+word count = 16
+words loading = 8
+factor score = 7
 
-25 **militares** venezuelanos **desertam** e **pedem** **asilo** em 
-**embaixada** do Brasil 
+Bolsonaro **falou** " **pintou** um **clima** " quando **explicava** sobre 
+**Venezuelanas** **menores** se **prostituindo** : **ABSURDO** ! ! ! Lula em v 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-desertar
-embaixada
-militar
-pedir
+absurdo
+clima
+explicar
+falar (secondary)
+pequeno
+pintar
+prostituir
+venezuelanas

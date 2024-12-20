@@ -1,20 +1,21 @@
-file = t007407
-date = 2019-11-14
-user = LudMlima
-conversation = 2836818154
-URL = https://twitter.com/LudMlima/status/1195112382093283332
+file = t017502
+date = 2022-10-24
+user = MenSidiney
+conversation = 2805410554
+URL = https://twitter.com/MenSidiney/status/1584653186140282880
 
-word count = 21
-words loading = 4
+word count = 20
+words loading = 5
 factor score = 4
 
-RT @taliriapetrone: **Líder** da invasão da **Embaixada** venezuelana se 
-reuniu 2 vezes com o vice-presidente, **General** Mourão. O Brasil vai se torn 
-… 
+RT @Frida08136948 : @mfriasoficial Seu Jair **chama** de **prostitutas** 
+**adolescentes** venezuelanas pq se **arrumaram** pra ir em um projeto 
+**social** ; Robe … 
 
 Lemmas in this text that loaded on the factor:
 
-embaixada
-general
-líder
-presidente
+adolescente
+arrumar
+chamar (secondary)
+prostituta
+social

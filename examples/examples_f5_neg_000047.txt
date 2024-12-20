@@ -1,17 +1,17 @@
-file = t003317
-date = 2017-04-09
-user = avpabreu
-conversation = 272565718
-URL = https://twitter.com/avpabreu/status/850870723941986308
+file = t003754
+date = 2017-12-12
+user = MuriloDallolio
+conversation = 723179913696686080
+URL = https://twitter.com/MuriloDallolio/status/940588165768863746
 
-word count = 13
+word count = 21
 words loading = 2
 factor score = -2
 
-@N_Carvalheira Essas **urnas** **eletrônicas** smartmatics venezuelanas com 
-tecnologia Cubana com certeza votaram muito nes … 
+@brasil247 A oposição só boicotou as **eleições** porque sabe que se for 
+as **urnas** perde, a direita venezuelana é uma op … 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
+eleição
 urna

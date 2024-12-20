@@ -1,20 +1,20 @@
-file = t010675
-date = 2019-04-30
-user = Gilbert28263475
-conversation = 1077623217190326272
-URL = https://twitter.com/Gilbert28263475/status/1123345835775995907
+file = t016938
+date = 2022-10-18
+user = RugasDaBozoroca
+conversation = 1570434279770816512
+URL = https://twitter.com/RugasDaBozoroca/status/1582442817296551936
 
-word count = 22
-words loading = 4
-factor score = 4
+word count = 20
+words loading = 5
+factor score = 5
 
-RT @ColunaCH: O Brasil aceitou o pedido de refúgio de 25 **militares** 
-venezuelanos. O **líder** oposicionista Leopoldo Lopez **pediu** **asilo** na 
-embaix … 
+@jairbolsonaro se você não é culpado, oq pediu deste as **Venezuelanas** se 
+**negaram** a **gravar** **vídeo** pra sua **campanha** ? … 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-líder
-militar
-pedir
+campanha
+gravar
+negar
+venezuelanas
+vídeo

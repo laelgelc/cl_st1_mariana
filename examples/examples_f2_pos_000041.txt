@@ -1,22 +1,18 @@
-file = t007691
-date = 2019-12-19
-user = itscarolana
-conversation = 3411551433
-URL = https://twitter.com/itscarolana/status/1207485344003874816
+file = t000891
+date = 2016-04-09
+user = conepeacecrew
+conversation = 275023986
+URL = https://twitter.com/conepeacecrew/status/718590533732474880
 
-word count = 10
+word count = 19
 words loading = 3
 factor score = 3
 
-as venezuelanas vão chegar **segunda** feiraaaaaaa aaaa as aaaaaaaaaaa 
-smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
-smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
-smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
-loudly_crying_face_e loudly_crying_face_e loudly_crying_face_e rose_e 
-sparkles_e rose_e 
+Inter acerta **contratação** do **meia** Seijas, do Santa Fé : Venezuelano 
+de 29 anos chega para reforçar **time** gaúcho 
 
 Lemmas in this text that loaded on the factor:
 
-eyes_e
-segundo
-smiling_face_with_heart
+contratação
+meia
+time

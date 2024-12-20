@@ -1,21 +1,20 @@
-file = t018143
-date = 2022-03-29
-user = BPEB765
-conversation = 512628703
-URL = https://twitter.com/BPEB765/status/1508782035204194314
+file = t013775
+date = 2020-08-28
+user = Marcelo19674535
+conversation = 1047103322929418240
+URL = https://twitter.com/Marcelo19674535/status/1299327813183582210
 
-word count = 26
-words loading = 5
+word count = 21
+words loading = 4
 factor score = 4
 
-RT @Mito202275 : Um venezuelano que **viveu** sob a **ditadura** de Nicolás 
-Maduro, que é AMIGO de Lula! **Quer** ser livre e não **ter** sua 
-**liberdade** cerc … 
+RT @EmbaixadaEUA: Milhões de venezuelanos **fogem** por **falta** de 
+alimentos, saúde e violência. Agora, o **regime** ilegítimo de Maduro 
+**quer** comprar … 
 
 Lemmas in this text that loaded on the factor:
 
-ditadura (secondary)
-liberdade
+falta
+fugir
 querer
-ter
-viver
+regime

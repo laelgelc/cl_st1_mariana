@@ -1,18 +1,19 @@
-file = t005043
-date = 2018-07-17
-user = sales_amaral
-conversation = 2942791912
-URL = https://twitter.com/sales_amaral/status/1019037786052186112
+file = t000645
+date = 2016-02-17
+user = PublishingSite
+conversation = 3314379070
+URL = https://twitter.com/PublishingSite/status/699880783742283776
 
 word count = 14
-words loading = 3
+words loading = 4
 factor score = -3
 
-RT @g1 : Belém **decreta** situação de **emergência** pela **chegada** de 
-índios venezuelanos HASHTAG #g1_h 
+HASHTAG #googlenewsbrasil_h **Parlamento** venezuelano dá 1º **sinal** verde 
+para **lei** de **anistia** para políticos 
 
 Lemmas in this text that loaded on the factor:
 
-chegada
-decretar
-emergência
+anistia
+lei (secondary)
+parlamento
+sinal

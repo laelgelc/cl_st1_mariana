@@ -1,18 +1,20 @@
-file = t000245
-date = 2016-11-23
-user = DagomirMarquezi
-conversation = 22235590
-URL = https://twitter.com/DagomirMarquezi/status/801477366946103296
+file = t007798
+date = 2019-01-13
+user = csilvaneto
+conversation = 61515112
+URL = https://twitter.com/csilvaneto/status/1084437609617780738
 
-word count = 16
-words loading = 3
+word count = 15
+words loading = 5
 factor score = 3
 
-Ditadura venezuelana fecha mais 3 **jornais** com **falta** de **papel** . Mais 
-uma razão para digitalizar. 
+**Presidente** do Congresso venezuelano **pede** **apoio** para tirar Maduro do 
+governo e **convocar** **eleições** 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-jornal
-papel
+apoio
+convocar (secondary)
+eleição (secondary)
+pedir
+presidente

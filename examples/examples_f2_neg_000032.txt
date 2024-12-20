@@ -1,19 +1,18 @@
-file = t008921
-date = 2019-02-23
-user = monsieurverdoux
-conversation = 44011287
-URL = https://twitter.com/monsieurverdoux/status/1099293284915130368
+file = t008955
+date = 2019-02-24
+user = Andstorm_nrk
+conversation = 3387636917
+URL = https://twitter.com/Andstorm_nrk/status/1099646625667010560
 
-word count = 19
-words loading = 4
+word count = 22
+words loading = 3
 factor score = -3
 
-Para o melhor amigo da **ditadura** iraniana, o correto é deixar o **povo** 
-venezuelano **passando** **fome** , impossibilitado de r … 
+@RodP13 Pois é né , a **ditadura** venezuelana começou assim q Lula, foi 
+**preso** , antes não havia **governo** de maduro nenhum, né ? 
 
 Lemmas in this text that loaded on the factor:
 
 ditadura
-fome (secondary)
-passar
-povo
+governo
+prender

@@ -1,21 +1,21 @@
-file = t016523
-date = 2022-10-05
-user = Jugamenes
-conversation = 1135632260353449984
-URL = https://twitter.com/Jugamenes/status/1577494595537371136
+file = t006484
+date = 2018-09-28
+user = zfabrogmailcom
+conversation = 241421596
+URL = https://twitter.com/zfabrogmailcom/status/1045798078912057344
 
-word count = 20
+word count = 24
 words loading = 5
 factor score = 4
 
-RT @Sil_SCBR: **Precisamos** dos **irmãos** venezuelanos que **fugiram** do 
-Comuno / **socialismo** para o Brasil, fazendo **vídeos** com depoimentos do 
-sonho qu … 
+RT @PatySoelo: **Fico** pensando: **Temos** um **bom** exemplo do que o 
+**socialismo** **faz** , bem aqui ao lado. Vimos os venezuelanos entrarem no 
+Brasil pra … 
 
 Lemmas in this text that loaded on the factor:
 
-fugir
-irmão
-precisar
-socialismo
-vídeo (secondary)
+bom
+fazer
+ficar
+socialismo (secondary)
+ter

@@ -1,19 +1,20 @@
-file = t010566
-date = 2019-04-14
-user = Mariada15392816
-conversation = 1108027657332117504
-URL = https://twitter.com/Mariada15392816/status/1117261783910232064
+file = t016433
+date = 2022-10-16
+user = patito_carvalho
+conversation = 912015231337078784
+URL = https://twitter.com/patito_carvalho/status/1581587707763232768
 
-word count = 24
-words loading = 3
-factor score = 3
+word count = 23
+words loading = 4
+factor score = 4
 
-RT @stanleyburburin: Desconhecem que o **Exército** venezuelano é treinado 
-por russos há mais de 20 anos e que os caças usados pela **força** 
-**aérea** … 
+RT @reporterenato: **Vídeo** em que Bolsonaro diz que " **pintou** um 
+**clima** " , ao ver **adolescentes** venezuelanas em São Sebastião, na 
+periferia do DF, … 
 
 Lemmas in this text that loaded on the factor:
 
-aéreo
-exército
-força
+adolescente
+clima
+pintar
+vídeo

@@ -1,22 +1,18 @@
-file = t001249
-date = 2016-06-01
-user = tinogueira
-conversation = 1537627088
-URL = https://twitter.com/tinogueira/status/737959141738721280
+file = t000856
+date = 2016-04-30
+user = SEGUNDOJR
+conversation = 37404996
+URL = https://twitter.com/SEGUNDOJR/status/726251882960838656
 
-word count = 20
-words loading = 6
+word count = 15
+words loading = 3
 factor score = -3
 
-RT @alerodrigues247 : **Povo** venezuelano **passando** **fome** , sem 
-**remédios** , com um **governo** tirano. Essa é a verdadeira face do 
-**socialismo** . 
+Pra que existe a @ONU_derechos @ONU_fr? **Povo** Venezuelano **passando** do 
+**estado** maduro para podre sem piedade! 
 
 Lemmas in this text that loaded on the factor:
 
-fome (secondary)
-governo
+estado
 passar
 povo
-remédio (secondary)
-socialismo (secondary)

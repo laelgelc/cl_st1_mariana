@@ -1,17 +1,18 @@
-file = t000082
-date = 2016-10-23
-user = parabolicalucas
-conversation = 156805960
-URL = https://twitter.com/parabolicalucas/status/790303145473695744
+file = t005389
+date = 2018-08-09
+user = jornaltijucas
+conversation = 2151270211
+URL = https://twitter.com/jornaltijucas/status/1027356479202975745
 
-word count = 17
-words loading = 2
-factor score = -2
+word count = 11
+words loading = 3
+factor score = -3
 
-**Parlamento** venezuelano **aprova** texto que diz que Maduro promoveu golpe: 
-Parlamentares irão pedir garantia de d. . . 
+Ministra do STF **suspende** **decreto** que restringia **serviços** para 
+venezuelanos - 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-parlamento
+decreto
+serviço
+suspender

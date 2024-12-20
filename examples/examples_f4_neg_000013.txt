@@ -1,15 +1,18 @@
-file = t000862
-date = 2016-04-08
-user = silvatimbeta2
-conversation = 2788861892
-URL = https://twitter.com/silvatimbeta2/status/718289751778988032
+file = t007301
+date = 2019-11-13
+user = Marcioa71930033
+conversation = 1106333057861251072
+URL = https://twitter.com/Marcioa71930033/status/1194641789573107716
 
-word count = 12
-words loading = 1
-factor score = -1
+word count = 19
+words loading = 3
+factor score = -3
 
-Parlamento venezuelano aprova reforma que **aumenta** nº de juízes do Supremo 
+RT @brasil247 : Dino: **diplomatas** brasileiros passam a correr **risco** 
+após apoio de autoridades à invasão da **embaixada** venezuelana … 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+diplomata
+embaixada
+risco

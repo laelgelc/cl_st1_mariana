@@ -1,16 +1,18 @@
-file = t000436
-date = 2016-01-20
-user = amazonaspop
-conversation = 228660870
-URL = https://twitter.com/amazonaspop/status/689823719389147138
+file = t007246
+date = 2019-11-13
+user = annarpintto
+conversation = 726591464369741824
+URL = https://twitter.com/annarpintto/status/1194602254051037190
 
-word count = 18
-words loading = 1
-factor score = -1
+word count = 14
+words loading = 3
+factor score = -3
 
-Atacante venezuelano está na mira do Grêmio, diz rádio: O Grêmio deve 
-recorrer ao mercado sul-americano para t. . . 
+RT @brasil247 : Pimenta: **embaixada** venezuelana foi **invadida** por 
+**grupos** ligados aos Estados Unidos 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+embaixada
+grupo
+invadir

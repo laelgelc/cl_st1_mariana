@@ -1,19 +1,20 @@
-file = t000539
-date = 2016-01-22
-user = Querubim_d4
-conversation = 2505532674
-URL = https://twitter.com/Querubim_d4/status/690675116934463488
+file = t013455
+date = 2020-05-06
+user = JosemarioCAV01
+conversation = 103689792
+URL = https://twitter.com/JosemarioCAV01/status/1258116511455162369
 
-word count = 11
+word count = 18
 words loading = 4
-factor score = -3
+factor score = -4
 
-Veja: **Parlamento** venezuelano **rejeita** **decreto** de **emergência** de 
-Maduro: Via @querubim_d4 
+RT @Direita_Network: **Narcotráfico** : STF " progressista " **suspendeu** 
+**expulsão** de pessoal venezuelano a **serviço** do Cartel de Los Soles no 
+Brasil … 
 
 Lemmas in this text that loaded on the factor:
 
-decreto
-emergência
-parlamento
-rejeitar
+expulsão
+narcotráfico
+serviço
+suspender

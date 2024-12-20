@@ -1,20 +1,19 @@
-file = t004806
-date = 2018-06-16
-user = Anelise1992
-conversation = 361491141
-URL = https://twitter.com/Anelise1992/status/1008112379110907904
+file = t009205
+date = 2019-02-23
+user = ElsaCarvalho34
+conversation = 1967263574
+URL = https://twitter.com/ElsaCarvalho34/status/1099383416322179075
 
-word count = 21
-words loading = 4
+word count = 22
+words loading = 3
 factor score = 3
 
-RT @GeracaodeValor: **Milhares** de funcionários da estatal venezuelana de 
-exploração de **petróleo** **abandonam** o trabalho e mtos **fogem** do 
-país. Co … 
+RT @RoseDBarros: VÍDEO: Apoiadores da **oposição** venezuelana se reúnem na 
+praça Altamira, em Caracas, para **apoiar** o **líder** Juan Guaido, que pr 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-abandonar
-fugir (secondary)
-milhar
-petróleo
+apoiar
+líder
+oposição

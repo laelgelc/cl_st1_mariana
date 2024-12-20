@@ -1,17 +1,16 @@
-file = t001528
-date = 2016-08-14
-user = AlessandroSADM
-conversation = 1058389087
-URL = https://twitter.com/AlessandroSADM/status/764652531234533376
+file = t001733
+date = 2016-09-06
+user = Zaga_Silos
+conversation = 24781968
+URL = https://twitter.com/Zaga_Silos/status/773257200403935232
 
 word count = 15
-words loading = 2
-factor score = -2
+words loading = 1
+factor score = -1
 
-RT @agirfilosofando: CRISE HUMANITÁRIA: 142 mil venezuelanos cruzam fronteira 
-para compra de **produtos** **básicos** 
+HASHTAG #sosvenezuela_h O mundo não pode **fechar** os olhos ao sofrimento 
+vivido pelos irmãos venezuelanos 
 
 Lemmas in this text that loaded on the factor:
 
-básico
-produto
+fechar

@@ -1,20 +1,21 @@
-file = t004474
-date = 2018-02-02
-user = TiagoCouto1893
-conversation = 3413686282
-URL = https://twitter.com/TiagoCouto1893/status/959400462293372928
+file = t015285
+date = 2021-06-12
+user = jorgeluizrod
+conversation = 38868148
+URL = https://twitter.com/jorgeluizrod/status/1403854834915328001
 
 word count = 19
 words loading = 4
-factor score = 4
+factor score = 3
 
-RT @playmaker_PT: Osorio no dragon_e FC Porto: até hoje, só um **jogador** 
-**flag_venezuela_e** venezuelano **jogou** pelos portistas: Victor Garcia ( 7 
-**jogos** ) … 
+RT @CopaAmerica: flag_argentina_e 4 **argentinos** flag_uruguay_e 2 uruguaios 
+flag_brazil_e 1 brasileiro flag_colombia_e 1 colombiano **flag_venezuela_e** 1 
+venezuelano flag_portugal_e 1 português **soccer_ball_e** Os 10 **técnicos** 
+da CONM … 
 
 Lemmas in this text that loaded on the factor:
 
+argentino (secondary)
 flag_venezuela_e
-jogador
-jogar
-jogo
+soccer_ball_e
+técnico

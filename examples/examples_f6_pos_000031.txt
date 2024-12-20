@@ -1,18 +1,19 @@
-file = t018201
-date = 2022-03-06
-user = gabrielfenrir
-conversation = 69644901
-URL = https://twitter.com/gabrielfenrir/status/1500270395672432644
+file = t003193
+date = 2017-04-10
+user = SzalayJulio
+conversation = 4011733582
+URL = https://twitter.com/SzalayJulio/status/851541804210159617
 
-word count = 20
-words loading = 2
-factor score = 2
+word count = 14
+words loading = 4
+factor score = 3
 
-RT @OliverStuenkel: " Os EUA dependem do **petróleo** russo principalmente 
-para substituir o **petróleo** venezuelano que não **compram** por causa das 
-… 
+RT @Estadao: **Oposição** venezuelana **pede** definição de **eleições** 
+em **novos** protestos em Caracas 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-petróleo
+eleição (secondary)
+novo
+oposição
+pedir

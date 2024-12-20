@@ -1,18 +1,19 @@
-file = t003522
-date = 2017-05-08
-user = Kaloraac
-conversation = 3153202241
-URL = https://twitter.com/Kaloraac/status/861722457945911296
+file = t000634
+date = 2016-02-17
+user = NeaJesus
+conversation = 2358490339
+URL = https://twitter.com/NeaJesus/status/699823443433385985
 
-word count = 11
-words loading = 3
+word count = 18
+words loading = 4
 factor score = -3
 
-Manaus **decreta** estado de **emergência** após **chegada** de índios 
-venezuelanos 
+**Parlamento** venezuelano dá 1º **sinal** verde para **lei** de **anistia** 
+para políticos: Bancada chavista votou contra, ap. . . 
 
 Lemmas in this text that loaded on the factor:
 
-chegada
-decretar
-emergência
+anistia
+lei (secondary)
+parlamento
+sinal

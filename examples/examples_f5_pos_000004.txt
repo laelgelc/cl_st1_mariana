@@ -1,21 +1,20 @@
-file = t010313
-date = 2019-03-01
-user = thiagohmb3
-conversation = 774670035822542848
-URL = https://twitter.com/thiagohmb3/status/1101623879276081153
+file = t009133
+date = 2019-02-23
+user = gusthpa
+conversation = 55718379
+URL = https://twitter.com/gusthpa/status/1099365808638226432
 
-word count = 22
+word count = 15
 words loading = 5
 factor score = 5
 
-RT @jpcharleaux: A expressão " ( **ajuda** ) **humanitária** " que dominou a 
-**semana** no caso da **crise** venezuelana reaparece nesta **sexta** em 
-relação à aut … 
+Os primeiros caminhões com **ajuda** **humanitária** **cruzaram** a 
+**fronteira** e **entraram** no território venezuelano eye_e eye_e 
 
 Lemmas in this text that loaded on the factor:
 
 ajuda
-crise
+cruzar
+entrar
+fronteira
 humanitário
-semana
-sexta

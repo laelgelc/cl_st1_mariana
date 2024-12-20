@@ -1,16 +1,19 @@
-file = t001655
-date = 2016-09-07
-user = WwwCesargomes
-conversation = 2806422725
-URL = https://twitter.com/WwwCesargomes/status/773547987343728642
+file = t007525
+date = 2019-11-13
+user = rikardolouzada
+conversation = 701139443542003712
+URL = https://twitter.com/rikardolouzada/status/1194693580843032579
 
-word count = 11
-words loading = 1
-factor score = -1
+word count = 21
+words loading = 3
+factor score = -3
 
-Oposição venezuelana protesta para **aumentar** pressão por referendo contra 
-Maduro 
+RT @brasilaomeio: É INACREDITÁVEL. A **embaixada** da Venezuela foi 
+**INVADIDA** por um **grupo** de venezuelanos e brasileiros. Moro está mudo, 
+Itamar … 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+embaixada
+grupo
+invadir

@@ -1,16 +1,18 @@
-file = t003457
-date = 2017-11-09
-user = Silviomarruda
-conversation = 408069482
-URL = https://twitter.com/Silviomarruda/status/928648731309826048
+file = t000215
+date = 2016-11-30
+user = IvanKaramelozov
+conversation = 2962325092
+URL = https://twitter.com/IvanKaramelozov/status/803943739332980738
 
-word count = 19
-words loading = 1
-factor score = -1
+word count = 18
+words loading = 3
+factor score = -2
 
-RT @FatosEsquerda: Maduro, que mata venezuelanos que protestam pacificamente a 
-todo momento, que prega o Bolivarianismo, vai **fechar** " m … 
+RT @RevistaISTOE: Companhia **aérea** dona de **avião** que caiu na Colômbia 
+tem **origem** em negócios de ex-parlamentar venezuelano. … 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+avião
+aéreo
+origem (secondary)

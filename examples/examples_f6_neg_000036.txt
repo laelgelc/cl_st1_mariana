@@ -1,17 +1,18 @@
-file = t000221
-date = 2016-11-30
-user = cidarossetti
-conversation = 105673637
-URL = https://twitter.com/cidarossetti/status/803991717976412160
+file = t007157
+date = 2019-10-10
+user = Lux8888
+conversation = 217024966
+URL = https://twitter.com/Lux8888/status/1182362817812488192
 
-word count = 19
-words loading = 2
-factor score = -2
+word count = 18
+words loading = 3
+factor score = -3
 
-@MonicaWaldvogel e a história dos proprietários do **avião** ? Chávez, 
-dinheiro dos venezuelanos, empresário chinês **acusado** de corrupção, etc. 
+RT @radardamidia: @llouzeiro Sugiro irem lamber o **petróleo** venezuelano que 
+chegou às 130 **praias** do **Nordeste** brasileiro! 
 
 Lemmas in this text that loaded on the factor:
 
-acusar
-avião
+nordeste
+petróleo
+praia

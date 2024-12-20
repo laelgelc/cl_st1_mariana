@@ -1,19 +1,21 @@
-file = t001607
-date = 2016-08-01
-user = Vitao_hs
-conversation = 2172529914
-URL = https://twitter.com/Vitao_hs/status/760257118750466048
+file = t006793
+date = 2019-10-26
+user = DRIO74998412
+conversation = 933397875316445184
+URL = https://twitter.com/DRIO74998412/status/1188108208969277440
 
-word count = 15
-words loading = 4
+word count = 19
+words loading = 5
 factor score = -4
 
-EUA indiciam ex-chefe da Guarda Nacional venezuelana por **narcotráfico** : A 
-**Justiça** americana **acusou** nesta segun. . . 
+RT @leandroruschel: Petrobras e UFBA confirmam: **petróleo** **derramado** no 
+**Nordeste** é venezuelano. Provavelmente do **tráfico** do **óleo** 
+promovido pa … 
 
 Lemmas in this text that loaded on the factor:
 
-acusar
-chefe
-justiça
-narcotráfico
+derramar
+nordeste
+petróleo
+tráfico (secondary)
+óleo

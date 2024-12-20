@@ -1,20 +1,21 @@
-file = t017399
-date = 2022-10-10
-user = PfeiferSuely
-conversation = 1504490481392267264
-URL = https://twitter.com/PfeiferSuely/status/1579580108314382336
+file = t007904
+date = 2019-01-28
+user = luishenriquearq
+conversation = 573693237
+URL = https://twitter.com/luishenriquearq/status/1089899503577116672
 
 word count = 23
-words loading = 4
+words loading = 5
 factor score = 4
 
-RT @avillarroellara: Antes de apertar 13 ou deixar de votar, **veja** essas 
-**fotos** de venezuelanos, **fugindo** do **socialismo** do Chávez e Maduro, 
-qu … 
+RT @professorigor: **Queria** que os venezuelanos que morrem de **fome** sob o 
+**regime** **apoiado** por Jean Wyllys **tivessem** a mesma oportunidade que 
+ele … 
 
 Lemmas in this text that loaded on the factor:
 
-foto
-fugir
-socialismo
-ver
+apoiar (secondary)
+fome
+querer
+regime
+ter

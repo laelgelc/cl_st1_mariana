@@ -1,19 +1,20 @@
-file = t001706
-date = 2016-09-14
-user = JornalDestak
-conversation = 20781852
-URL = https://twitter.com/JornalDestak/status/775871916972343296
+file = t004371
+date = 2018-02-16
+user = danielxs_1908
+conversation = 3904403596
+URL = https://twitter.com/danielxs_1908/status/964517454419562496
 
-word count = 19
+word count = 23
 words loading = 4
 factor score = 4
 
-Actualidade: Mais de 1 , 7 **milhões** de venezuelanos **entraram** na 
-Colômbia após reabertura da **fronteira** há um **mês** 
+RT @BolsonaroSP: Melhor do q prover **ajuda** **humanitária** ou construir 
+campos de **refugiados** para evitar a **entrada** em massa de venezuelanos no 
+B … 
 
 Lemmas in this text that loaded on the factor:
 
-entrar
-fronteira
-milhão
-mês
+ajuda
+entrada
+humanitário
+refugiado

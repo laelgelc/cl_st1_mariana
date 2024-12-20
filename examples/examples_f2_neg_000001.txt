@@ -1,22 +1,19 @@
-file = t000359
-date = 2016-12-24
-user = JFCC__
-conversation = 133115870
-URL = https://twitter.com/JFCC__/status/812721805232324608
+file = t001249
+date = 2016-06-01
+user = tinogueira
+conversation = 1537627088
+URL = https://twitter.com/tinogueira/status/737959141738721280
 
-word count = 21
-words loading = 6
+word count = 20
+words loading = 4
 factor score = -4
 
-RT @JFCC__ : **Morreu** desgraçado. Por sua **culpa** , hoje o **povo** 
-venezuelano come cães de **rua** pra não **passar** **fome** . fire_e fire_e 
-Queime no inferno … 
+RT @alerodrigues247 : **Povo** venezuelano **passando** fome, sem **remédios** 
+, com um **governo** tirano. Essa é a verdadeira face do socialismo. 
 
 Lemmas in this text that loaded on the factor:
 
-culpa
-fome (secondary)
-morrer
+governo
 passar
 povo
-rua (secondary)
+remédio

@@ -1,19 +1,18 @@
-file = t017347
-date = 2022-10-20
-user = Snia470312831
-conversation = 1327029781184081920
-URL = https://twitter.com/Snia470312831/status/1582889363834572800
+file = t012912
+date = 2020-03-24
+user = Simone36091831
+conversation = 1010530437079367680
+URL = https://twitter.com/Simone36091831/status/1242387292637052930
 
-word count = 18
-words loading = 4
-factor score = 4
+word count = 20
+words loading = 3
+factor score = 3
 
-@hmsconsultoria Bolsonaro **grava** um **vídeo** **falando** que a residência 
-das venezuelanas não é uma **casa** de prostituição. … 
+@DeputadoFederal O ' **salário** ' de um Venezuelano até eu **pago** . Os 
+coitados não tem nem o que **comer** . Esse ditador maldi … 
 
 Lemmas in this text that loaded on the factor:
 
-casa
-falar
-gravar
-vídeo
+comer
+pagar
+salário

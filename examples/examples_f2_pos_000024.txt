@@ -1,19 +1,19 @@
-file = t014991
-date = 2021-05-08
-user = BazilioAlex
-conversation = 1390874322462560256
-URL = https://twitter.com/BazilioAlex/status/1391054041384370178
+file = t012686
+date = 2020-01-02
+user = galocuia_mt
+conversation = 903994140450541568
+URL = https://twitter.com/galocuia_mt/status/1212712835123490816
 
 word count = 18
 words loading = 3
 factor score = 3
 
-RT @Atletico: **flag_venezuela_e** Savaliso: o bala! **Jogou** demais na 
-última noite de Copa. Pra cima deles, venezuelano! **soccer_ball_e** ️ 
-@QSavarino10 
+RT @radioitatiaia: **soccer_ball_e** ️HASHTAG #atlético_h: **Técnico** 
+Rafael Dudamel vai divulgar uma carta aberta aos venezuelanos para comunicar 
+saída da **seleção** . Depo … 
 
 Lemmas in this text that loaded on the factor:
 
-flag_venezuela_e
-jogar
+seleção
 soccer_ball_e
+técnico

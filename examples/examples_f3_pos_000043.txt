@@ -1,18 +1,19 @@
-file = t010674
-date = 2019-04-06
-user = ericknonato_LA
-conversation = 3382452994
-URL = https://twitter.com/ericknonato_LA/status/1114597700438245377
+file = t016563
+date = 2022-10-19
+user = joorodrigues16
+conversation = 390713118
+URL = https://twitter.com/joorodrigues16/status/1582776595776823307
 
-word count = 13
-words loading = 3
-factor score = 3
+word count = 18
+words loading = 4
+factor score = 4
 
-RT @folha: Deputados da **oposição** venezuelana são **detidos** por 
-**forças** de Maduro 
+RT @brasil247 : Viralizam novos **vídeos** em que Bolsonaro diz que 
+**meninas** venezuelanas estavam **arrumadas** para ' fazer **programa** ' … 
 
 Lemmas in this text that loaded on the factor:
 
-deter
-força
-oposição
+arrumar
+menino
+programa
+vídeo

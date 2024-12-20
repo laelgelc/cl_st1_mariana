@@ -1,15 +1,19 @@
-file = t000232
-date = 2016-11-09
-user = InfoRel
-conversation = 66552816
-URL = https://twitter.com/InfoRel/status/796422827951947777
+file = t012670
+date = 2020-01-04
+user = MrcioCsardeCar2
+conversation = 937583388948684800
+URL = https://twitter.com/MrcioCsardeCar2/status/1213518036600311808
 
-word count = 11
-words loading = 1
-factor score = -1
+word count = 18
+words loading = 4
+factor score = -4
 
-Índia e venezuelana PDVSA **fecham** acordos de produção de petróleo: 
+Maduro **denuncia** Brasil por **asilo** a **militares** desertores. Regime 
+venezuelano diz que Brasil " **confirma** o padrão de pr … 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+asilo
+confirmar
+denunciar
+militar

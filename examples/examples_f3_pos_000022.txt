@@ -1,19 +1,20 @@
-file = t015665
-date = 2021-08-24
-user = pedrojosevill16
-conversation = 1239995592350355456
-URL = https://twitter.com/pedrojosevill16/status/1430247064999432193
+file = t017250
+date = 2022-10-23
+user = Andrea01_Sama
+conversation = 882538482
+URL = https://twitter.com/Andrea01_Sama/status/1584092759987978240
 
-word count = 20
-words loading = 3
-factor score = 3
+word count = 23
+words loading = 4
+factor score = 4
 
-RT @liliamm_27 : Hoje HASHTAG #china_h fala em **apoio** ao **diplomata** 
-venezuelano Alex Saab e **pede** sua libertação. Se extraditado, haverá 
-graves consequên … 
+RT @Jujuca1987 : Bolsonaristas NÃO SABEM o que fazer pra lidar com a **fala** 
+dele sobre ' **pintou** **clima** ' com **meninas** venezuelanas. Damares e 
+Prim … 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-diplomata
-pedir
+clima
+fala
+menino
+pintar

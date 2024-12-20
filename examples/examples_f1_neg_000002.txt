@@ -1,20 +1,19 @@
-file = t000953
-date = 2016-05-18
-user = dashhde
-conversation = 270139933
-URL = https://twitter.com/dashhde/status/732908612490809344
+file = t000517
+date = 2016-01-07
+user = gumartinslive
+conversation = 382430644
+URL = https://twitter.com/gumartinslive/status/685204091971080192
 
-word count = 18
+word count = 10
 words loading = 4
 factor score = -4
 
-RT @revistavoto: **Parlamento** venezuelano **rejeitou** estado de exceção e 
-de **emergência** econômica **decretado** p / presidente Nicolás HASHTAG 
-#maduro_h. 
+**Chavistas** pedem que Justiça **anule** **decisões** do **Parlamento** 
+venezuelano 
 
 Lemmas in this text that loaded on the factor:
 
-decretar
-emergência
+anular
+chavistas
+decisão
 parlamento
-rejeitar

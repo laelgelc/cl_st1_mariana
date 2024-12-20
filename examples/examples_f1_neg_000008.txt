@@ -1,18 +1,19 @@
-file = t000722
-date = 2016-03-01
-user = SaCarllos
-conversation = 2575577429
-URL = https://twitter.com/SaCarllos/status/704757228390100992
+file = t000428
+date = 2016-01-14
+user = klaudiomotta
+conversation = 3437441061
+URL = https://twitter.com/klaudiomotta/status/687633776801935360
 
-word count = 17
+word count = 16
 words loading = 3
 factor score = -3
 
-Supremo **anula** parcialmente poderes do **Parlamento** venezuelano: O TSJ 
-**determinou** que o controle da Assembleia Na. . . 
+RT @4nnak: HASHTAG #operacaobetalab_h **Parlamento** venezuelano acata 
+**decisão** da **Justiça** e afasta deputados da oposição: . . . HASHTAG 
+#sdv_h … 
 
 Lemmas in this text that loaded on the factor:
 
-anular
-determinar
+decisão
+justiça
 parlamento

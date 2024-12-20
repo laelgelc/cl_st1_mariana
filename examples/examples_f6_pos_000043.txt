@@ -1,17 +1,17 @@
-file = t015722
-date = 2021-09-30
-user = LuigiMRD27
-conversation = 919554263247925248
-URL = https://twitter.com/LuigiMRD27/status/1443529242969509892
+file = t018664
+date = 2022-07-21
+user = anapaula18manu
+conversation = 1547760165721497600
+URL = https://twitter.com/anapaula18manu/status/1549936680274169856
 
-word count = 15
+word count = 18
 words loading = 2
 factor score = 2
 
-RT @revistaoeste: Relatório **aponta** que três de cada quatro venezuelanos 
-vivem na extrema **pobreza** 
+RT @areamilitarof: Nicolás Maduro dissolveu o Congresso Venezuelano e a 
+Suprema **Corte** **apoiou** todos seus movimentos, inclusive condecorando … 
 
 Lemmas in this text that loaded on the factor:
 
-apontar
-pobreza
+apoiar
+corte

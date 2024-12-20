@@ -1,19 +1,21 @@
-file = t014488
-date = 2021-12-09
-user = Tereza4249
-conversation = 2398274162
-URL = https://twitter.com/Tereza4249/status/1468735751756165124
+file = t017200
+date = 2022-10-16
+user = pintocore
+conversation = 52910613
+URL = https://twitter.com/pintocore/status/1581479121401835520
 
-word count = 20
-words loading = 3
-factor score = 3
+word count = 24
+words loading = 5
+factor score = 4
 
-RT @Tereza4249 : URGENTE: **Líder** do movimento da resistência venezuelana, 
-" RUMBO LIBERTAD " , **denuncia** falsa **oposição** de Juan Guaidó ( veja o 
-ví … 
+RT @linpjs: Esse **caso** do " senti um **clima** " do bolsonaro com 
+**meninas** venezuelanas é idêntico ao do mamãe **falei** com as 
+**mulheres** ucranianas. O … 
 
 Lemmas in this text that loaded on the factor:
 
-denunciar
-líder
-oposição
+caso
+clima
+falar (secondary)
+menino
+mulher

@@ -1,18 +1,18 @@
-file = t000835
-date = 2016-04-12
-user = rickbetatim
-conversation = 2752731972
-URL = https://twitter.com/rickbetatim/status/719685163177783296
+file = t006920
+date = 2019-10-10
+user = Ale77deCarvalho
+conversation = 76718615
+URL = https://twitter.com/Ale77deCarvalho/status/1182271449106649089
 
-word count = 17
+word count = 19
 words loading = 3
 factor score = -3
 
-**Justiça** venezuelana **declara** lei de **anistia** a opositores 
-inconstitucional: O Tribunal Supremo de **Justiça** da Ven. . . 
+Investigações da Marinha do Brasil confirmaram que o **óleo** que poluiu o 
+litoral do **Nordeste** tem **origem** venezuelana - … 
 
 Lemmas in this text that loaded on the factor:
 
-anistia
-declarar
-justiça
+nordeste
+origem
+óleo

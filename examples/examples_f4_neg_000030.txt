@@ -1,16 +1,18 @@
-file = t002137
-date = 2017-01-28
-user = sirkazzio
-conversation = 617759565
-URL = https://twitter.com/sirkazzio/status/825476771776704514
+file = t010251
+date = 2019-03-02
+user = Roberto25853115
+conversation = 1072348828664246272
+URL = https://twitter.com/Roberto25853115/status/1101795359234363397
 
-word count = 23
-words loading = 1
-factor score = -1
+word count = 13
+words loading = 3
+factor score = -3
 
-Sou Venezuelano, sou Português de PORTUGAL e se pudesse, também seria 
-Brasileiro e **Americano** e de todos os países que mais gosto! 
+RT @VEJA: EUA **impõem** **sanções** a **militares** venezuelanos que 
+reprimiram na fronteira 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+impor
+militar
+sanção

@@ -1,18 +1,20 @@
-file = t016902
-date = 2022-10-19
-user = sagaqrr
-conversation = 154671632
-URL = https://twitter.com/sagaqrr/status/1582797563127730176
+file = t013958
+date = 2020-09-20
+user = HugoSoares01001
+conversation = 1254048259275927552
+URL = https://twitter.com/HugoSoares01001/status/1307656971127058432
 
-word count = 21
-words loading = 3
+word count = 22
+words loading = 4
 factor score = -3
 
-@jonesmanoel_PCB Cara, se ele for **preso** pelo caso das venezuelanas, caso o 
-**crime** **passasse** a ser hediondo, ele não seria atingido. 
+RT @UmbelinoSilva: Muita gente confunde o **povo** venezuelano, com o 
+**Governo** venezuelano. O **povo** **foge** da Venezuela, para se livrar do 
+**Ditador** … 
 
 Lemmas in this text that loaded on the factor:
 
-crime
-passar
-prender
+ditador
+fugir (secondary)
+governo
+povo

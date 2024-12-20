@@ -1,18 +1,16 @@
-file = t001071
-date = 2016-05-03
-user = ruana_ruanab
-conversation = 488695638
-URL = https://twitter.com/ruana_ruanab/status/727636229764882433
+file = t001539
+date = 2016-08-13
+user = leticiaajp
+conversation = 2319500622
+URL = https://twitter.com/leticiaajp/status/764439863244431360
 
-word count = 17
-words loading = 3
-factor score = -2
+word count = 19
+words loading = 1
+factor score = -1
 
-RT @LiberalismoBR: Com fome graças ao socialismo, venezuelanos caçam 
-**gatos** , **cachorros** e pombos para **comer** via @ilis … 
+Fronteira reabre e milhares de venezuelanos entram na Colômbia: Parte da 
+fronteira foi **fechada** em agosto de 2 . . . 
 
 Lemmas in this text that loaded on the factor:
 
-cachorro
-comer (secondary)
-gato
+fechar

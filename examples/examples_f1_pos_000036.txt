@@ -1,20 +1,21 @@
-file = t015657
-date = 2021-08-29
-user = Mulher_Noticia
-conversation = 406766589
-URL = https://twitter.com/Mulher_Noticia/status/1431926170740723715
+file = t002788
+date = 2017-03-05
+user = Leo_Balmant
+conversation = 378705020
+URL = https://twitter.com/Leo_Balmant/status/838448407660400641
 
 word count = 23
-words loading = 4
+words loading = 5
 factor score = 4
 
-RT @FPallmeiras: ' Não **temos** um real sequer, **temos** **fome** ' : 
-venezuelanos que tentam vida **melhor** no Brasil sofrem para encontrar o que 
-**comer** h … 
+RT @Igortep: Ele mesmo já **ficou** umas semanas **paradas** **ano** passado 
+após uma comemoração assim em gol **feito** na **seleção** venezuelana. 
+https://t. … 
 
 Lemmas in this text that loaded on the factor:
 
-bom
-comer
-fome
-ter
+ano
+fazer
+ficar
+parar
+seleção (secondary)

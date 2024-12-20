@@ -1,18 +1,17 @@
-file = t015693
-date = 2021-09-30
-user = LoiErika2
-conversation = 1253715346558779392
-URL = https://twitter.com/LoiErika2/status/1443543818201149447
+file = t018519
+date = 2022-06-12
+user = RickyWill0309
+conversation = 806295462374412288
+URL = https://twitter.com/RickyWill0309/status/1536128389748342785
 
-word count = 22
+word count = 23
 words loading = 2
 factor score = 2
 
-RT @juliovschneider: Relatório **aponta** que três de cada quatro 
-venezuelanos vivem na extrema **pobreza** Entre 2019 e 2020 , a **pobreza** 
-aumentou m … 
+RT @NoticiaeGuerra: O **líder** **opositor** venezuelano Juan Guaidó foi 
+agredido e expulso de um restaurante por um grupo de pessoas neste sábado, … 
 
 Lemmas in this text that loaded on the factor:
 
-apontar
-pobreza
+líder
+opositor

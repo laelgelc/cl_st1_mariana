@@ -1,21 +1,19 @@
-file = t016238
-date = 2022-10-16
-user = fesolar
-conversation = 2656693994
-URL = https://twitter.com/fesolar/status/1581678917089255424
+file = t018766
+date = 2022-08-26
+user = gracelli
+conversation = 75096261
+URL = https://twitter.com/gracelli/status/1563197358220779521
 
-word count = 23
-words loading = 5
-factor score = 5
+word count = 24
+words loading = 3
+factor score = 3
 
-RT @Estadao: Em podcast, Bolsonaro conta que ' **pintou** um **clima** ' com 
-**garotas** venezuelanas de 15 **anos** ; veja **vídeo** no Feed Estadão: 
-https://t.c … 
+RT @BrazilFight: BOLSONARO NO PÂNICO " Você não vê um **cão** ou um 
+**gato** entrando com os venezuelanos no Brasil. Eles **comeram** todos porque 
+estav … 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-garota
-pintar
-vídeo
+comer
+cão
+gato

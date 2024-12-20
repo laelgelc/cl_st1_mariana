@@ -1,18 +1,19 @@
-file = t001592
-date = 2016-08-01
-user = MARCIOTICOS
-conversation = 281451881
-URL = https://twitter.com/MARCIOTICOS/status/760203096131792896
+file = t008216
+date = 2019-01-24
+user = reginaccampos
+conversation = 1265570149
+URL = https://twitter.com/reginaccampos/status/1088495552583647233
 
-word count = 17
+word count = 20
 words loading = 3
 factor score = 3
 
-RT @ElianaDiGiacomo: O estágio final do socialismo: governo venezuelano 
-**impõe** **campos** de trabalho forçado à **população** 
+RT @leandroruschel: O narcoditador Maduro fala em perda de soberania pelo 
+**apoio** americano ao **novo** **presidente** venezuelano, mas os chavistas 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-campo
-impor
-população
+apoio
+novo
+presidente

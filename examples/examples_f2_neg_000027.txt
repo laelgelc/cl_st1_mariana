@@ -1,19 +1,19 @@
-file = t007668
-date = 2019-12-17
-user = SandraC67084210
-conversation = 1024124563611951104
-URL = https://twitter.com/SandraC67084210/status/1206921797305806851
+file = t007800
+date = 2019-01-14
+user = Paulohortac
+conversation = 1037607210971475968
+URL = https://twitter.com/Paulohortac/status/1084836185917267970
 
-word count = 23
+word count = 20
 words loading = 3
 factor score = -3
 
-RT @LivreUff: Vídeo mostrando que o **governo** socialista venezuelano está 
-massacrando o seu **povo** para manter uma **ditadura** ! Onde está a ONU? O 
-… 
+RT @RnBoletim: **População** venezuelana começa a reagir, ao **ditador** 
+maduro. O **povo** venezuelano está colocando o exército narcotraficante de 
+Ma … 
 
 Lemmas in this text that loaded on the factor:
 
-ditadura
-governo
+ditador
+população
 povo

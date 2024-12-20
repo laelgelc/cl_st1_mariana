@@ -1,20 +1,18 @@
-file = t013412
-date = 2020-05-02
-user = brunaobarreto
-conversation = 1297089944
-URL = https://twitter.com/brunaobarreto/status/1256685045835862017
+file = t001740
+date = 2016-09-21
+user = news_portugal
+conversation = 52053647
+URL = https://twitter.com/news_portugal/status/778439200119021568
 
-word count = 22
-words loading = 4
+word count = 12
+words loading = 3
 factor score = -3
 
-RT @dimacgarcia: " Barroso **suspendeu** neste sábado ( 02 / 05 ) a 
-**expulsão** de 34 **diplomatas** venezuelanos do Brasil. Ele **determinou** 
-um prazo de 10 … 
+HASHTAG #destak_h **Parlamento** venezuelano chumba **decreto** que prolonga 
+estado de **emergência** económica 
 
 Lemmas in this text that loaded on the factor:
 
-determinar
-diplomata (secondary)
-expulsão
-suspender
+decreto
+emergência
+parlamento

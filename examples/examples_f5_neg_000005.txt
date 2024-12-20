@@ -1,20 +1,20 @@
-file = t006246
-date = 2018-09-19
-user = 32_saraiva
-conversation = 1040580402979786752
-URL = https://twitter.com/32_saraiva/status/1042472436250357760
+file = t015218
+date = 2021-06-01
+user = 1Nedicr56
+conversation = 1189958321161359360
+URL = https://twitter.com/1Nedicr56/status/1399654096831926272
 
-word count = 23
+word count = 21
 words loading = 4
 factor score = -4
 
-RT @AndrArajoLima2 : O Brasil entregou a uma **empresa** venezuelana a senha 
-das **urnas** **eletrônicas** . Acordem. O risco de **fraude** nas **urnas** 
-é possí … 
+RT @joaophaddad: projeto que tornaria o **sistema** **eleitoral** brasileiro 
+igual ao venezuelano ( em que, além da **urna** **eletrônica** , há a 
+impressão … 
 
 Lemmas in this text that loaded on the factor:
 
+eleitoral
 eletrônico
-empresa
-fraude
+sistema
 urna

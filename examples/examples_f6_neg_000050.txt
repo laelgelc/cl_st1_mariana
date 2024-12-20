@@ -1,17 +1,19 @@
-file = t001504
-date = 2016-08-02
-user = diamantarusso
-conversation = 460577684
-URL = https://twitter.com/diamantarusso/status/760507954898632704
+file = t014474
+date = 2021-12-03
+user = JoseAloiseBahia
+conversation = 56733955
+URL = https://twitter.com/JoseAloiseBahia/status/1466650968746041344
 
-word count = 12
-words loading = 2
-factor score = -2
+word count = 23
+words loading = 3
+factor score = -3
 
-Participar da Política: Não vou **saudar** um **golpista** , diz atleta 
-venezuelana. . . 
+RT @Helenasth: Lembra do Bolsonaro acusando **navio** Venezuelano de 
+**derramar** **óleo** em 11 estados do litoral brasileiro? A PF descobriu que 
+os g … 
 
 Lemmas in this text that loaded on the factor:
 
-golpista
-saudar
+derramar
+navio
+óleo

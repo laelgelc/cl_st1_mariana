@@ -1,20 +1,19 @@
-file = t011815
-date = 2019-08-23
-user = LarissaColins
-conversation = 1538615761
-URL = https://twitter.com/LarissaColins/status/1164984167970590721
+file = t010471
+date = 2019-04-30
+user = isoldacall
+conversation = 270078798
+URL = https://twitter.com/isoldacall/status/1123274146715197440
 
-word count = 25
-words loading = 4
+word count = 22
+words loading = 3
 factor score = -3
 
-RT @NadiaRicardo1 : Se a União Européia não tem a dignidade de ajudar o 
-**povo** venezuelano que está sobe uma **ditadura** **morrendo** de **fome** 
-pois di … 
+RT @pharaujo85 : A **Ditadura** venezuelana massacrando seu próprio **povo** , 
+enquanto alguns comemoram o fato de a **população** não ter armas, o exérc 
+… 
 
 Lemmas in this text that loaded on the factor:
 
 ditadura
-fome (secondary)
-morrer
+população
 povo

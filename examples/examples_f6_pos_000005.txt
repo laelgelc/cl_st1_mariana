@@ -1,19 +1,19 @@
-file = t000298
-date = 2016-11-23
-user = gumartinslive
-conversation = 382430644
-URL = https://twitter.com/gumartinslive/status/801313151518179329
+file = t013278
+date = 2020-05-28
+user = regis_pires_83
+conversation = 94477536
+URL = https://twitter.com/regis_pires_83/status/1265847888804040704
 
-word count = 12
-words loading = 4
-factor score = 4
+word count = 19
+words loading = 3
+factor score = 3
 
-Três **jornais** venezuelanos **param** de circular por **falta** de **papel** 
-G1 
+RT @hosousarj: @jairbolsonaro Esperamos mesmo **presidente** pois o sequestro 
+dos **direitos** dos cidadãos venezuelanos começou na suprema **corte** ! ! 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-jornal
-papel
-parar
+corte
+direito
+presidente

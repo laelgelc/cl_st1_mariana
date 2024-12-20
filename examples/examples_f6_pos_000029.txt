@@ -1,18 +1,20 @@
-file = t018441
-date = 2022-06-20
-user = TiA_Do_ZaPp
-conversation = 1500620010221449216
-URL = https://twitter.com/TiA_Do_ZaPp/status/1538876678079905792
+file = t003750
+date = 2017-06-28
+user = flavioqueiroz6
+conversation = 563284224
+URL = https://twitter.com/flavioqueiroz6/status/880073850779713536
 
-word count = 24
-words loading = 2
-factor score = 2
+word count = 20
+words loading = 4
+factor score = 3
 
-RT @CarlosCAlmeida3 : Oq será q os venezuelanos q vão todos os dias pra 
-Colômbia **comprar** alimentos, **remédios** ou qq outro produto, pq no seu 
-… 
+RT @estudioi: **Oposição** venezuelana **convoca** **novo** protesto após 
+ataque de helicóptero a Suprema **Corte** . Ataque foi considerado por Maduro 
+como … 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-remédio
+convocar (secondary)
+corte
+novo
+oposição

@@ -1,18 +1,21 @@
-file = t011002
-date = 2019-05-03
-user = FolhaDDS
-conversation = 1015430300841791488
-URL = https://twitter.com/FolhaDDS/status/1124264614844358656
+file = t017408
+date = 2022-10-24
+user = ivanovitchstos
+conversation = 308477896
+URL = https://twitter.com/ivanovitchstos/status/1584662287775805441
 
-word count = 9
-words loading = 4
-factor score = 4
+word count = 21
+words loading = 5
+factor score = 5
 
-**Líder** da **oposição** venezuelana revela **reuniões** com **generais** 
+RT @__Lorranna__ : **Caso** das **meninas** venezuelanas ( **pintou** um 
+**clima** ) Guedes e o salário **mínimo** e agora violência do bolsonarismo, 
+não tem co … 
 
 Lemmas in this text that loaded on the factor:
 
-general
-líder
-oposição
-reunião
+caso
+clima
+menino
+pequeno
+pintar

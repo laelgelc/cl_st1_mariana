@@ -1,18 +1,18 @@
-file = t005377
-date = 2018-08-09
-user = brbrunor
-conversation = 978862842047811584
-URL = https://twitter.com/brbrunor/status/1027359713003024384
+file = t000722
+date = 2016-03-01
+user = SaCarllos
+conversation = 2575577429
+URL = https://twitter.com/SaCarllos/status/704757228390100992
 
-word count = 20
+word count = 17
 words loading = 3
 factor score = -3
 
-RT @JotaInfo: STF **suspende** **decreto** de RR que restringe **serviços** a 
-venezuelanos sem passaportes. Para Rosa Weber, direitos fundamentais pode … 
+Supremo **anula** parcialmente poderes do **Parlamento** venezuelano: O TSJ 
+**determinou** que o controle da Assembleia Na. . . 
 
 Lemmas in this text that loaded on the factor:
 
-decreto
-serviço
-suspender
+anular
+determinar
+parlamento

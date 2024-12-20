@@ -1,21 +1,20 @@
-file = t009566
-date = 2019-02-24
-user = Prisciladourad4
-conversation = 1037891384483700736
-URL = https://twitter.com/Prisciladourad4/status/1099501280446291968
+file = t017560
+date = 2022-10-22
+user = ECancella
+conversation = 945680949496483840
+URL = https://twitter.com/ECancella/status/1583920567039983616
 
-word count = 19
+word count = 14
 words loading = 4
 factor score = 4
 
-RT @_AnnaStein: Genteeee face_with_open_mouth_e face_with_open_mouth_e 
-face_with_open_mouth_e O **exército** venezuelano tá **desertando** e fugindo 
-p / Colômbia. **Generais** sem **exército** , não tem **força** ! 
-oncoming_fist_e https://t.c … 
+' **Pintou** um **clima** ' : Huck detona Bolsonaro por **fala** sobre 
+**jovens** venezuelanas! HASHTAG #forabolsonaropedófilo_h HASHTAG 
+#forabolsonaros_h … 
 
 Lemmas in this text that loaded on the factor:
 
-desertar
-exército
-força
-general
+clima
+fala
+jovem
+pintar

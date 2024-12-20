@@ -1,21 +1,19 @@
-file = t005712
-date = 2018-09-20
-user = MottaOtavio
-conversation = 2843652118
-URL = https://twitter.com/MottaOtavio/status/1042782940583870464
+file = t014660
+date = 2021-02-03
+user = Anholeto
+conversation = 793643737
+URL = https://twitter.com/Anholeto/status/1356782542821724162
 
-word count = 19
+word count = 13
 words loading = 4
 factor score = -4
 
-RT @Ernesto41161071 : Chave criptográfica das **Urnas** **eletrônicas** na 
-**mão** da Venezuelana Smartmatic! ! ! face_screaming_in_fear_e 
-face_screaming_in_fear_e face_screaming_in_fear_e Isso já é uma **fraude** ! 
-Grandes chanc … 
+@LorenzonItalo @LRobertoBarroso Fiador das **urnas** **eletrônicas** 
+venezuelanas, que **fraudaram** **eleições** na Argentina, Bol … 
 
 Lemmas in this text that loaded on the factor:
 
+eleição
 eletrônico
-fraude
-mão
+fraudar
 urna

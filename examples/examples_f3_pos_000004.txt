@@ -1,19 +1,22 @@
-file = t010798
-date = 2019-05-05
-user = baladas_manolo
-conversation = 882683377798742016
-URL = https://twitter.com/baladas_manolo/status/1125055362787241984
+file = t017136
+date = 2022-10-18
+user = clauregsil
+conversation = 1084841563858092032
+URL = https://twitter.com/clauregsil/status/1582467710490841088
 
-word count = 15
-words loading = 4
-factor score = 4
+word count = 24
+words loading = 6
+factor score = 5
 
-RT @maibortpetit: Paradeiro de **militares** venezuelanos que **pediram** 
-**asilo** em **embaixada** brasileira é desconhecido 
+RT @julianopsol: O sujeito **grava** um **vídeo** para pedir **desculpas** por 
+sentir que " **pintou** um **clima** " com uma refugiada venezuelana de 14 
+**anos** e … 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-militar
-pedir
+ano (secondary)
+clima
+desculpa
+gravar
+pintar
+vídeo

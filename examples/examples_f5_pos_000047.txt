@@ -1,19 +1,19 @@
-file = t017952
-date = 2022-01-15
-user = filhoeterno12
-conversation = 1256731536424079360
-URL = https://twitter.com/filhoeterno12/status/1482437821474484237
+file = t018470
+date = 2022-06-21
+user = oscarcapella
+conversation = 70527344
+URL = https://twitter.com/oscarcapella/status/1539289628313886724
 
-word count = 24
+word count = 19
 words loading = 3
 factor score = 3
 
-RT @ACNURBrasil: Existem mais de 6 **milhões** de **refugiados** e migrantes 
-venezuelanos em todo o mundo. globe_with_meridians_e Eles e os países que os 
-**acolhem** preci … 
+RT @rosanagazola: GOVERNO FEDERAL flag_brazil_e - A **Operação** Acolhida, 
+que **recebe** venezuelanos que atravessam a **fronteira** em busca de melhores 
+condiçõ … 
 
 Lemmas in this text that loaded on the factor:
 
-acolher
-milhão
-refugiado
+fronteira
+operação
+receber

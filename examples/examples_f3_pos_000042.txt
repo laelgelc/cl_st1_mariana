@@ -1,17 +1,19 @@
-file = t010707
-date = 2019-04-30
-user = EltonApollo
-conversation = 49487350
-URL = https://twitter.com/EltonApollo/status/1123308447745835008
+file = t016573
+date = 2022-10-17
+user = leilacrisalves
+conversation = 205845631
+URL = https://twitter.com/leilacrisalves/status/1581843967120793600
 
-word count = 8
-words loading = 3
-factor score = 3
+word count = 14
+words loading = 4
+factor score = 4
 
-RT @o_antagonista: **Militares** venezuelanos **pedem** **asilo** ao Brasil. 
+RT @UOLNoticias: ' **Pintou** um **clima** ' : Huck detona Bolsonaro por 
+**fala** sobre **jovens** venezuelanas 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-militar
-pedir
+clima
+fala
+jovem
+pintar

@@ -1,21 +1,18 @@
-file = t016164
-date = 2022-10-22
-user = maramourao
-conversation = 62606850
-URL = https://twitter.com/maramourao/status/1583830003623817221
+file = t017471
+date = 2022-10-25
+user = Paulo__Franco
+conversation = 52829277
+URL = https://twitter.com/Paulo__Franco/status/1584725709838508032
 
-word count = 21
-words loading = 5
-factor score = 5
+word count = 20
+words loading = 3
+factor score = 3
 
-RT @AntonyJojohn: Seu Jair **chama** de **prostitutas** **adolescentes** 
-venezuelanas pq se **arrumaram** pra ir em um projeto **social** ; Roberto 
-Jefferson ch … 
+@eduardopaes Povo venezuelano está **comendo** **cachorro** , por falta de 
+**comida** ! A escolha é fácil! O voto no dia 30 será … 
 
 Lemmas in this text that loaded on the factor:
 
-adolescente
-arrumar
-chamar
-prostituta
-social
+cachorro
+comer
+comida

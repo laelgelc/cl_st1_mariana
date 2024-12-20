@@ -1,19 +1,19 @@
-file = t006937
-date = 2019-10-25
-user = sandra10053160
-conversation = 1144581799349280768
-URL = https://twitter.com/sandra10053160/status/1187710463137714176
+file = t009706
+date = 2019-02-24
+user = esserebuceteio
+conversation = 1082272907856891904
+URL = https://twitter.com/esserebuceteio/status/1099619698247958528
 
-word count = 18
+word count = 21
 words loading = 3
 factor score = 3
 
-RT @Movimentodirei3 : Tacaram fogo na Amazônia, despejaram criminosamente 
-**petróleo** crú de **origem** venezuelana nas praias do **nordeste** , 
-estamos … 
+RT @radiobandnewsfm: O Brasil ainda apelou aos países que ainda **apoiam** 
+Maduro a reconhecerem Juan Guaidó como **novo** **presidente** venezuelano e 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-nordeste
-origem
-petróleo
+apoiar
+novo
+presidente

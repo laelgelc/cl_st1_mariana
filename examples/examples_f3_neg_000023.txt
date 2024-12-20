@@ -1,17 +1,16 @@
-file = t000781
-date = 2016-04-28
-user = LucasVSalvador
-conversation = 1018852087
-URL = https://twitter.com/LucasVSalvador/status/725720678545166337
+file = t001107
+date = 2016-05-26
+user = JavellaTreasure
+conversation = 2350847191
+URL = https://twitter.com/JavellaTreasure/status/735634255800356864
 
-word count = 16
-words loading = 2
-factor score = -2
+word count = 23
+words loading = 1
+factor score = -1
 
-RT @g1 : **Salário** de 87 % dos venezuelanos não é suficiente para 
-**comida** , diz pesquisa HASHTAG #g1_h 
+RT @holandatimbeta: Em RR, venezuelanos, **colombiana** e brasileira são 
+presos com 9 kg droga: Grupo foi preso pela Civil com cocaín. . . https: … 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-salário
+colombiano

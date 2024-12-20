@@ -1,17 +1,18 @@
-file = t015549
-date = 2021-08-18
-user = brasil247
-conversation = 248890506
-URL = https://twitter.com/brasil247/status/1427921570903769088
+file = t005377
+date = 2018-08-09
+user = brbrunor
+conversation = 978862842047811584
+URL = https://twitter.com/brbrunor/status/1027359713003024384
 
-word count = 9
+word count = 20
 words loading = 3
 factor score = -3
 
-**Parlamento** venezuelano **aprova** **diálogo** com oposição no México 
+RT @JotaInfo: STF **suspende** **decreto** de RR que restringe **serviços** a 
+venezuelanos sem passaportes. Para Rosa Weber, direitos fundamentais pode … 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-diálogo
-parlamento
+decreto
+serviço
+suspender

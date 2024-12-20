@@ -1,22 +1,22 @@
-file = t017233
-date = 2022-10-17
-user = maconheiro_rn
-conversation = 1456247329602908160
-URL = https://twitter.com/maconheiro_rn/status/1582090898401202176
+file = t006186
+date = 2018-10-18
+user = vivislavik
+conversation = 60446665
+URL = https://twitter.com/vivislavik/status/1052747176621891584
 
-word count = 23
+word count = 16
 words loading = 6
-factor score = 6
+factor score = 5
 
-RT @linsaquiles: Alexandre de Moraes manda tirar do **ar** **vídeo** do PT com 
-Bolsonaro **falando** que " **pintou** um **clima** " com **meninas** 
-venezuelanas. 
+RT @ComandoCeleste2 : Venezuelanos já estão **comendo** **carne** **podre** 
+para **sobreviver** . Estão **morrendo** pela **fome** @GLCampos_ . HASHTAG 
+#venezuelasos_h flag_venezuela_e ht … 
 
 Lemmas in this text that loaded on the factor:
 
-ar
-clima
-falar
-menino
-pintar
-vídeo
+carne
+comer
+fome (secondary)
+morrer
+podre
+sobreviver

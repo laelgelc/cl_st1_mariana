@@ -1,18 +1,18 @@
-file = t011340
-date = 2019-06-19
-user = pedfaria
-conversation = 1023848212782895104
-URL = https://twitter.com/pedfaria/status/1141173951403581440
+file = t001776
+date = 2016-09-29
+user = felipelc_11
+conversation = 3290025936
+URL = https://twitter.com/felipelc_11/status/781547389068926976
 
-word count = 20
+word count = 22
 words loading = 3
 factor score = 3
 
-Apesar do **jogo** pouco criativo do Brasil, fica a mostra a evolução da 
-**seleção** Venezuelana. Fechando bem os **espaços** e … 
+RT @atletico: Otero **convocado** para defender a **Seleção** Venezuelana nos 
+**jogos** contra Uruguai e Brasil, pelas Eliminatórias da Copa do Mundo d … 
 
 Lemmas in this text that loaded on the factor:
 
-espaço
+convocar
 jogo
 seleção

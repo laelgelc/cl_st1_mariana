@@ -1,18 +1,18 @@
-file = t001477
-date = 2016-07-30
-user = john_dealmeida
-conversation = 730562181167759360
-URL = https://twitter.com/john_dealmeida/status/759189836171472896
+file = t007681
+date = 2019-12-31
+user = ferreira_f_h
+conversation = 18818881
+URL = https://twitter.com/ferreira_f_h/status/1212081932093317125
 
-word count = 19
-words loading = 2
-factor score = -2
+word count = 24
+words loading = 3
+factor score = -3
 
-RT @JosiasS1969 : HASHTAG #josiasbeta_h Chavismo pede à **Justiça** que anule 
-atos do Parlamento venezuelano: Deputados **chavistas** pediram nes. . . 
-https://t … 
+RT @secomvc: O Brasil sofreu um duro ataque. Nossas **praias** foram atingidas 
+por um tipo de **óleo** venezuelano que tem aparecido do **Nordeste** ao … 
 
 Lemmas in this text that loaded on the factor:
 
-chavistas
-justiça
+nordeste
+praia
+óleo

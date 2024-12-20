@@ -1,17 +1,16 @@
-file = t002701
-date = 2017-09-16
-user = jaspionzzz
-conversation = 359359322
-URL = https://twitter.com/jaspionzzz/status/909084060554842114
+file = t002356
+date = 2017-08-27
+user = guiwde
+conversation = 775339967807643648
+URL = https://twitter.com/guiwde/status/901636755048329221
 
-word count = 16
-words loading = 2
-factor score = -2
+word count = 22
+words loading = 1
+factor score = -1
 
-Pela **escassez** de **alimentos** , 75 % dos venezuelanos emagreceram 8 , 7 kg 
-em média em 2016 
+RT @FatosEsquerda: Fiz um teste: entrei num site venezuelano, brasileiro e 
+**americano** de compras para comparar o preço da mesma TV. . . V … 
 
 Lemmas in this text that loaded on the factor:
 
-alimento
-escassez
+americano

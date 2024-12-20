@@ -1,18 +1,17 @@
-file = t006672
-date = 2018-11-10
-user = leoprr01
-conversation = 838512839103037440
-URL = https://twitter.com/leoprr01/status/1061305112877023232
+file = t000130
+date = 2016-10-25
+user = enfoqueagencia
+conversation = 295852848
+URL = https://twitter.com/enfoqueagencia/status/790998540096974848
 
-word count = 22
-words loading = 3
-factor score = -3
+word count = 15
+words loading = 2
+factor score = -2
 
-Se nos EUA a esquerda **fraudou** as **eleições** c voto em papel, imagine 
-aqui, q ninguém audita as **urnas** venezuelanas e n … 
+Acusado de promover **golpe** : Parlamento venezuelano **aprova** início de 
+processo político contra Maduro: Parlament. . . 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-fraudar
-urna
+aprovar
+golpe

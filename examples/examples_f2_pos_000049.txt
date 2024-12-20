@@ -1,18 +1,17 @@
-file = t001776
-date = 2016-09-29
-user = felipelc_11
-conversation = 3290025936
-URL = https://twitter.com/felipelc_11/status/781547389068926976
+file = t018409
+date = 2022-05-20
+user = TartThitson
+conversation = 1422288335482019840
+URL = https://twitter.com/TartThitson/status/1527440430073364481
 
-word count = 22
-words loading = 3
-factor score = 3
+word count = 13
+words loading = 2
+factor score = 2
 
-RT @atletico: Otero **convocado** para defender a **Seleção** Venezuelana nos 
-**jogos** contra Uruguai e Brasil, pelas Eliminatórias da Copa do Mundo d … 
+Independiente 35 finalizações e só 4 **gols** . . . . . Mala branca pro 
+**time** Venezuelano? 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
-jogo
-seleção
+gol
+time

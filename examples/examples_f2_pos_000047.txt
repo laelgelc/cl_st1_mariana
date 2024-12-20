@@ -1,19 +1,17 @@
-file = t003181
-date = 2017-10-24
-user = cweIIar
-conversation = 260402178
-URL = https://twitter.com/cweIIar/status/922923544123645952
+file = t018657
+date = 2022-07-07
+user = Mamoniaco
+conversation = 45383602
+URL = https://twitter.com/Mamoniaco/status/1544868002306342912
 
 word count = 21
-words loading = 3
-factor score = 3
+words loading = 2
+factor score = 2
 
-RT @TimeFlamengo: **CONVOCADO** ! O armador do HASHTAG #flabasquete_h David 
-Cubillan está na lista dos 24 **jogadores** da **Seleção** Venezuelana que 
-irá d … 
+O comentarista da ConmebolTV disse que esse **jogo** contra um **time** 
+venezuelano, dentro da Vila não é para o Goulart. … 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
-jogador
-seleção
+jogo
+time

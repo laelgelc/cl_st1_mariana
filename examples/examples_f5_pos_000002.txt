@@ -1,21 +1,21 @@
-file = t004748
-date = 2018-02-19
-user = jornaldaband
-conversation = 31201557
-URL = https://twitter.com/jornaldaband/status/965733567732027392
+file = t010313
+date = 2019-03-01
+user = thiagohmb3
+conversation = 774670035822542848
+URL = https://twitter.com/thiagohmb3/status/1101623879276081153
 
-word count = 20
-words loading = 6
-factor score = 6
+word count = 22
+words loading = 5
+factor score = 5
 
-Por causa da **crise** **humanitária** , mais de 40 mil venezuelanos já 
-**cruzaram** a **fronteira** em **busca** de **trabalho** e melhores … 
+RT @jpcharleaux: A expressão " ( **ajuda** ) **humanitária** " que dominou a 
+**semana** no caso da **crise** venezuelana reaparece nesta **sexta** em 
+relação à aut … 
 
 Lemmas in this text that loaded on the factor:
 
-busca
+ajuda
 crise
-cruzar
-fronteira
 humanitário
-trabalho
+semana
+sexta

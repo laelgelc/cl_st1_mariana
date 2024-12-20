@@ -1,16 +1,19 @@
-file = t000517
-date = 2016-01-07
-user = gumartinslive
-conversation = 382430644
-URL = https://twitter.com/gumartinslive/status/685204091971080192
+file = t007279
+date = 2019-11-01
+user = drmarcelo_psiq
+conversation = 146823143
+URL = https://twitter.com/drmarcelo_psiq/status/1190268971804696577
 
-word count = 10
-words loading = 2
-factor score = -2
+word count = 18
+words loading = 3
+factor score = -3
 
-**Chavistas** pedem que Justiça anule **decisões** do Parlamento venezuelano 
+RT @OsmarTerra: Polícia Federal localiza **navio** com **óleo** venezuelano, 
+responsável pela poluição das **praias** nordestinas. Infelizmente um únic 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-chavistas
-decisão
+navio
+praia
+óleo

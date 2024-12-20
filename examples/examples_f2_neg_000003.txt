@@ -1,19 +1,20 @@
-file = t000076
-date = 2016-10-24
-user = RobertS33167519
-conversation = 4540347075
-URL = https://twitter.com/RobertS33167519/status/790655416682283009
+file = t010007
+date = 2019-02-25
+user = robsongfreire
+conversation = 19350237
+URL = https://twitter.com/robsongfreire/status/1100117679564820480
 
-word count = 21
-words loading = 3
-factor score = -3
+word count = 19
+words loading = 4
+factor score = -4
 
-RT @GzBRIGA: Direita venezuelana chama a golpe de **estado** contra o 
-**governo** de Maduro. Solidariedade internacionalista coa revoluçom e o 
-**povo** … 
+RT @BuzzFeedNewsBR: Mesmo sem conseguir entregar **alimentos** e **remédios** 
+para a **população** venezuelana, integrantes do **governo** evitam falar em 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-estado
+alimento
 governo
-povo
+população
+remédio

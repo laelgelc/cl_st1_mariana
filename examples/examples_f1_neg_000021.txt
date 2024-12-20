@@ -1,21 +1,20 @@
-file = t013235
-date = 2020-05-05
-user = Thaddeusfernan6
-conversation = 1253013491193184256
-URL = https://twitter.com/Thaddeusfernan6/status/1257645411424239616
+file = t000953
+date = 2016-05-18
+user = dashhde
+conversation = 270139933
+URL = https://twitter.com/dashhde/status/732908612490809344
 
-word count = 21
-words loading = 5
+word count = 18
+words loading = 4
 factor score = -3
 
-RT @erikakokay: URGENTE STF **suspende** **expulsão** de **diplomatas** 
-venezuelanos do Brasil. **Decisão** de Barroso **determinou** prazo de 10 dias 
-para q … 
+RT @revistavoto: **Parlamento** venezuelano **rejeitou** estado de exceção e 
+de **emergência** econômica **decretado** p / presidente Nicolás HASHTAG 
+#maduro_h. 
 
 Lemmas in this text that loaded on the factor:
 
-decisão (secondary)
-determinar
-diplomata (secondary)
-expulsão
-suspender
+decretar
+emergência
+parlamento
+rejeitar (secondary)

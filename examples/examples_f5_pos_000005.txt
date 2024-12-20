@@ -1,22 +1,20 @@
-file = t009867
-date = 2019-02-21
-user = swettyveris
-conversation = 2571300283
-URL = https://twitter.com/swettyveris/status/1098674818013151232
+file = t006395
+date = 2018-10-16
+user = reporterbrasil
+conversation = 14762045
+URL = https://twitter.com/reporterbrasil/status/1052279889225637888
 
-word count = 12
-words loading = 6
+word count = 21
+words loading = 5
 factor score = 5
 
-RT @ESUDEcds: newspaper_e HASHTAG #noticiasesude_h, flag_brazil_e Brasil - 
-**Novas** **cidades** **recebem** **imigrantes** venezuelanos nesta sexta-feira 
-( 15 ) . backhand_index_pointing_right_e … 
+A **crise** já fez com 2 , 5 **milhões** de venezuelanos **cruzassem** as 
+**fronteiras** dos **países** vizinhos, como Brasil e Colômbia. … 
 
 Lemmas in this text that loaded on the factor:
 
-cidade
-feira
-imigrante
-novo (secondary)
-receber
-sexta
+crise
+cruzar
+fronteira
+milhão
+país

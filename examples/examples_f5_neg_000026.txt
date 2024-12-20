@@ -1,17 +1,17 @@
-file = t011515
-date = 2019-07-14
-user = hlascalla
-conversation = 40025152
-URL = https://twitter.com/hlascalla/status/1150234017142398977
+file = t000189
+date = 2016-10-24
+user = tass_assuncao
+conversation = 341050087
+URL = https://twitter.com/tass_assuncao/status/790470544365850624
 
-word count = 10
-words loading = 3
-factor score = -3
+word count = 13
+words loading = 2
+factor score = -2
 
-@iodelson Eleito por **urna** **eletrônica** de uma **empresa** venezuelana 
+g1 : Parlamento venezuelano **aprova** texto que diz que Maduro promoveu 
+**golpe** HASHTAG #g1_h 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
-empresa
-urna
+aprovar
+golpe

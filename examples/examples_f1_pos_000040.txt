@@ -1,21 +1,19 @@
-file = t014662
-date = 2021-02-22
-user = KaaGomess_
-conversation = 889669836099518464
-URL = https://twitter.com/KaaGomess_/status/1363945273173680131
+file = t019027
+date = 2022-09-19
+user = GiliardSousa5
+conversation = 1567696018090639360
+URL = https://twitter.com/GiliardSousa5/status/1571984311867383808
 
-word count = 11
-words loading = 4
-factor score = 4
+word count = 23
+words loading = 3
+factor score = 3
 
-RT @mike_pss: @ScarlettSunniva brasileiros handshake_e **argentinos** 
-handshake_e uruguaios handshake_e **bolivianos** handshake_e **chilenos** 
-handshake_e paraguaios handshake_e venezuelanos handshake_e **colombianos** 
-handshake_e equ … 
+RT @OpressorZV: Venezuelana se emociona ao **falar** do seu primeiro salário 
+no Brasil e das condições as quais **vivia** na Venezuela! **flag_brazil_e** 
+folded_hands_medium-light_skin_tone_e https: / … 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-boliviano
-chileno
-colombiano
+falar
+flag_brazil_e
+viver

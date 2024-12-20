@@ -1,16 +1,18 @@
-file = t002627
-date = 2017-02-09
-user = CiteF
-conversation = 529658835
-URL = https://twitter.com/CiteF/status/829494168418447360
+file = t013536
+date = 2020-06-11
+user = NovoLauropro
+conversation = 2326184845
+URL = https://twitter.com/NovoLauropro/status/1271142610409848832
 
-word count = 12
-words loading = 1
-factor score = -1
+word count = 16
+words loading = 3
+factor score = -3
 
-RT @vitorsergio: Paulada venezuelana no Uruguai, sensação do Sul-Americano 
-Sub-20 : 3 a 0 . 
+**Exército** da Colômbia **detém** **militar** venezuelano ativo por 
+suspeita de espionagem **Exército** da Colômbia **detém** **militar** … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+deter
+exército
+militar

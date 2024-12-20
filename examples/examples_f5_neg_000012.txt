@@ -1,19 +1,18 @@
-file = t001273
-date = 2016-06-09
-user = bethferrao
-conversation = 628908509
-URL = https://twitter.com/bethferrao/status/740784760453246976
+file = t002362
+date = 2017-08-25
+user = jhilario11
+conversation = 75807702
+URL = https://twitter.com/jhilario11/status/900914550425493504
 
-word count = 20
+word count = 15
 words loading = 3
 factor score = -3
 
-RT @Lettradus: A Smartmatic é a fornecedora VENEZUELANA das **Urnas** 
-**Eletrônicas** para o Brasil. Nesse **sistema** Hugo Chávez foi 
-re-re-re-eleito … 
+RT @EricAmaral10 : Constituição venezuelana será submetida à referendo com 
+**urnas** **eletrônicas** que são **fraudadas** 
 
 Lemmas in this text that loaded on the factor:
 
 eletrônico
-sistema
+fraudar
 urna

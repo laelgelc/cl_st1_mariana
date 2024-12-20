@@ -1,18 +1,18 @@
-file = t014145
-date = 2021-10-20
-user = Rosemei34368445
-conversation = 1100824195502624768
-URL = https://twitter.com/Rosemei34368445/status/1450825557755707400
+file = t006931
+date = 2019-10-10
+user = lucianevaleria
+conversation = 131632267
+URL = https://twitter.com/lucianevaleria/status/1182269695854104577
 
-word count = 20
+word count = 19
 words loading = 3
 factor score = -3
 
-RT @Rconstantino: Um ex-chefe da **inteligência** militar venezuelana informou 
-à **Justiça** da Espanha que os governos de Chávez e Maduro fizeram … 
+RT @EgerVandenir: Manchas em **praias** do **Nordeste** são mistura de 
+**óleos** venezuelanos, diz relatório da Petrobras - Política - G1 … 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-inteligência
-justiça
+nordeste
+praia
+óleo

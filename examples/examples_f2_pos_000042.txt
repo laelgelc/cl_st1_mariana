@@ -1,34 +1,18 @@
-file = t007506
-date = 2019-12-01
-user = manutrouxao
-conversation = 1186072216238284800
-URL = https://twitter.com/manutrouxao/status/1200986215446646784
+file = t000599
+date = 2016-02-26
+user = binhoio
+conversation = 176312189
+URL = https://twitter.com/binhoio/status/703051291724005376
 
-word count = 12
+word count = 24
 words loading = 3
 factor score = 3
 
-Luiz: eu Dei pao baguette_bread_e baguette_bread_e baguette_bread_e 
-baguette_bread_e pros venezuelanos smiling_face_with_heart-eyes_e 
-**flag_venezuela_e** smiling_face_with_heart-eyes_e 
-smiling_face_with_heart-eyes_e smiling_face_with_hearts_e 
-smiling_face_with_hearts_e star-struck_e star-struck_e Also luiz: ImIgrAntE nA 
-FedEraL? ? ? ? ? ? face_with_symbols_on_mouth_e pouting_face_e 
-face_with_symbols_on_mouth_e face_with_symbols_on_mouth_e pouting_face_e 
-face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
-pouting_face_e angry_face_e angry_face_e face_with_symbols_on_mouth_e 
-face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
-pouting_face_e face_with_symbols_on_mouth_e pouting_face_e 
-face_with_symbols_on_mouth_e angry_face_e pouting_face_e 
-face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
-angry_face_e pouting_face_e face_with_symbols_on_mouth_e pouting_face_e 
-face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
-angry_face_e face_with_symbols_on_mouth_e face_with_symbols_on_mouth_e 
-face_with_symbols_on_mouth_e face_with_symbols_on_mouth_e 
-face_with_symbols_on_mouth_e angry_face_e pouting_face_e 
+River fez os 4 **gols** no **segundo** tempo, mas é obvio que o @SaoPauloFC 
+vai conseguir perder pontos pra esse **time** venezuelano ridículo 
 
 Lemmas in this text that loaded on the factor:
 
-eyes_e
-flag_venezuela_e
-smiling_face_with_heart
+gol
+segundo
+time

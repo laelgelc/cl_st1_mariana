@@ -1,19 +1,19 @@
-file = t018312
-date = 2022-04-27
-user = _MyInfluence
-conversation = 75778819
-URL = https://twitter.com/_MyInfluence/status/1519108478761058304
+file = t015100
+date = 2021-05-12
+user = asmreis
+conversation = 279553286
+URL = https://twitter.com/asmreis/status/1392275422747013125
 
-word count = 20
+word count = 18
 words loading = 3
 factor score = 3
 
-RT @LibertadoresBR: **flag_venezuela_e** party_popper_e Festa venezuelana! 
-**Jogando** fora de casa, o @DvoTachira venceu o @IndePetrolero por 2-1 e pulou 
-para a **segunda** coloc … 
+RT @futsulamerica_ : flag_brazil_e **flag_venezuela_e** Internacional contra 
+adversários venezuelanos fora de casa na Libertadores: 6 **jogos** 1 
+**vitória** 2 empates 3 derrota … 
 
 Lemmas in this text that loaded on the factor:
 
 flag_venezuela_e
-jogar
-segundo
+jogo
+vitória

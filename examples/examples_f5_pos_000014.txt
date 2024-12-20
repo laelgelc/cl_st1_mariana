@@ -1,19 +1,20 @@
-file = t016221
-date = 2022-10-22
-user = TalitaSOUSADEO3
-conversation = 1583616741489491968
-URL = https://twitter.com/TalitaSOUSADEO3/status/1583842502666506240
+file = t013813
+date = 2020-08-14
+user = AntiSmersh
+conversation = 1265756127993696256
+URL = https://twitter.com/AntiSmersh/status/1294360733837393925
 
-word count = 20
+word count = 21
 words loading = 4
 factor score = 4
 
-A PF. informou nesta sexta-feira ( 21 ) o atual **número** de venezuelanos que 
-**entram** no Br. por Pacaraima já é maior que … 
+RT @gazeta_brasil: **Milhões** de venezuelanos deixaram o **país** nos 
+últimos anos devido ao colapso econômico e a uma **crise** **humanitária** . 
+https: … 
 
 Lemmas in this text that loaded on the factor:
 
-entrar
-feira
-número
-sexta
+crise
+humanitário
+milhão
+país

@@ -1,17 +1,19 @@
-file = t000574
-date = 2016-02-14
-user = jolaia_jorge
-conversation = 3165920567
-URL = https://twitter.com/jolaia_jorge/status/698983282382221312
+file = t007295
+date = 2019-11-13
+user = BLOGdoPEPE
+conversation = 305774527
+URL = https://twitter.com/BLOGdoPEPE/status/1194590832990605312
 
-word count = 17
-words loading = 2
-factor score = -1
+word count = 21
+words loading = 3
+factor score = -3
 
-Venezuelanos correm aos supermercados para **comprar** arroz, massa, leite e 
-ovos: Nos últimos dias **aumentaram** sig. . . 
+RT @gleisi: **EMBAIXADA** DA VENEZUELA EM BRASÍLIA foi **invadida** por 
+apoiadores de Guaidó . **Grupo** de brasileiros e venezuelanos de direita, 
+procl … 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
-comprar (secondary)
+embaixada
+grupo
+invadir

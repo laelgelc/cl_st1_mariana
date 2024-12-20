@@ -1,17 +1,18 @@
-file = t000216
-date = 2016-11-09
-user = mkpadovani
-conversation = 52387489
-URL = https://twitter.com/mkpadovani/status/796157236246507520
+file = t001866
+date = 2017-07-25
+user = OvelhaVermelha7
+conversation = 760557686
+URL = https://twitter.com/OvelhaVermelha7/status/889689410148741120
 
-word count = 18
-words loading = 2
+word count = 23
+words loading = 3
 factor score = -2
 
-RT @o_colecionador: Se eles usassem **urnas** **eletrônicas** venezuelanas 
-Smartmatic o resultado já teria saído. Que paisinho fuleiro e atrasado … 
+RT @kallilolv: Na ditadura venezuelana o **povo** escolhe na **urna** o 
+ditador, na democracia dos EUA o menos votado ganha a **eleição** . 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
+eleição
+povo (secondary)
 urna

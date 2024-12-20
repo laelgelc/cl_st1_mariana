@@ -1,17 +1,16 @@
-file = t001175
-date = 2016-06-09
-user = naborbjunior
-conversation = 159606700
-URL = https://twitter.com/naborbjunior/status/740939123419189248
+file = t001581
+date = 2016-08-13
+user = valeriasiilvaa
+conversation = 1319375280
+URL = https://twitter.com/valeriasiilvaa/status/764600203118804992
 
-word count = 9
-words loading = 3
-factor score = -2
+word count = 16
+words loading = 1
+factor score = -1
 
-Venezuelanos **disputam** **lixo** de feira com os **cães** : 
+Justiça mantém presos venezuelano, peruano e **colombiana** por furtar 
+equipamento de. . . by @g1 via @c0nvey 
 
 Lemmas in this text that loaded on the factor:
 
-cão
-disputar
-lixo (secondary)
+colombiano

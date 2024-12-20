@@ -1,21 +1,21 @@
-file = t009848
-date = 2019-02-23
-user = MDilza
-conversation = 372085476
-URL = https://twitter.com/MDilza/status/1099172853868625920
+file = t005204
+date = 2018-03-22
+user = ashinarra
+conversation = 53440997
+URL = https://twitter.com/ashinarra/status/976746170025463809
 
-word count = 20
+word count = 24
 words loading = 5
 factor score = 5
 
-RT @minsaude: **Chegou** nesta sexta-feira a **ajuda** **humanitária** que o 
-@governodobrasil colocou à disposição do povo venezuelano. O estado de Ror 
-… 
+RT @Metropoles: Ministro pede **ajuda** à OMS para **obrigar** venezuelanos a 
+serem **vacinados** . O **pedido** foi feito em razão do grande **número** de 
+caso … 
 
 Lemmas in this text that loaded on the factor:
 
 ajuda
-chegar
-feira
-humanitário
-sexta
+número
+obrigar
+pedido
+vacinar

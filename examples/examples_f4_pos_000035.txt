@@ -1,21 +1,18 @@
-file = t015899
-date = 2022-10-21
-user = Rogesummer
-conversation = 1428482253575831552
-URL = https://twitter.com/Rogesummer/status/1583458505742163969
+file = t017315
+date = 2022-10-25
+user = Paulo__Franco
+conversation = 52829277
+URL = https://twitter.com/Paulo__Franco/status/1584725416216236032
 
-word count = 23
-words loading = 5
-factor score = 5
+word count = 17
+words loading = 3
+factor score = 3
 
-RT @Estadao: ' **Pintou** um **clima** ' : **Fala** de Bolsonaro sobre 
-**meninas** venezuelanas gera mais de 1 , 8 milhão de posts nas **redes** ( 
-via @EstadaoPoliti … 
+@sinceronunes @nikolas_dm Povo venezuelano está **comendo** **cachorro** , por 
+falta de **comida** ! A escolha é fácil! O voto no … 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-falar
-menino
-pintar
-rede
+cachorro
+comer
+comida

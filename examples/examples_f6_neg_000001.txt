@@ -1,21 +1,21 @@
-file = t014139
-date = 2021-10-20
-user = ramos_destro
-conversation = 1378699774518517760
-URL = https://twitter.com/ramos_destro/status/1450828296636272646
+file = t006937
+date = 2019-10-25
+user = sandra10053160
+conversation = 1144581799349280768
+URL = https://twitter.com/sandra10053160/status/1187710463137714176
 
-word count = 21
+word count = 18
 words loading = 5
 factor score = -5
 
-RT @RoderickNavarro: O Hugo Carvajal, ex **chefe** da **inteligência** 
-**chavista** , confiesa à **justiça** : " o governo venezuelano **financiou** 
-ao @Lula no B … 
+RT @Movimentodirei3 : Tacaram **fogo** na Amazônia, despejaram criminosamente 
+**petróleo** crú de **origem** venezuelana nas **praias** do **nordeste** , 
+estamos … 
 
 Lemmas in this text that loaded on the factor:
 
-chavista
-chefe
-financiar
-inteligência
-justiça
+fogo
+nordeste
+origem
+petróleo
+praia

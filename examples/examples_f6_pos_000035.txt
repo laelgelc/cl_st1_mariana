@@ -1,18 +1,18 @@
-file = t018123
-date = 2022-03-13
-user = IvanJr_BRA
-conversation = 1281546484329132032
-URL = https://twitter.com/IvanJr_BRA/status/1503003148314722309
+file = t000929
+date = 2016-05-21
+user = Brazil_Esporte
+conversation = 2176713456
+URL = https://twitter.com/Brazil_Esporte/status/734051510028378115
 
-word count = 23
-words loading = 2
-factor score = 2
+word count = 14
+words loading = 3
+factor score = 3
 
-RT @mendlowicz: Mesmo tendo a maior reserva de **petróleo** do mundo, 94 , 5 % 
-dos venezuelanos vivem na **pobreza** . Viva o Socialismo clown_face_e 
-clown_face_e clown_face_e https://t. … 
+Rajoy **pede** ' **apoio** expresso ' à imprensa **opositora** venezuelana: O 
+primeiro-ministro espanhol, o conservador Mar. . . 
 
 Lemmas in this text that loaded on the factor:
 
-petróleo
-pobreza
+apoio
+opositor
+pedir

@@ -1,18 +1,19 @@
-file = t011073
-date = 2019-05-12
-user = 24sapo
-conversation = 756116793664692224
-URL = https://twitter.com/24sapo/status/1127655747368755200
+file = t016768
+date = 2022-10-20
+user = biasaporetti
+conversation = 163103234
+URL = https://twitter.com/biasaporetti/status/1582925510375780355
 
-word count = 16
-words loading = 3
-factor score = 3
+word count = 20
+words loading = 4
+factor score = 4
 
-A **oposição** venezuelana **denunciou** hoje que o paradeiro do 
-vice-presidente do parlamento, Edgar Zambrano, não é conhe … 
+RT @aline_delage: Bozo e sua esposa passaram o dia pedindo **desculpa** as 
+**Venezuelanas** . Assumindo a culpa, **pintou** sim um **clima** . … 
 
 Lemmas in this text that loaded on the factor:
 
-denunciar
-oposição
-presidente
+clima
+desculpa
+pintar
+venezuelanas

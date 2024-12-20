@@ -1,19 +1,18 @@
-file = t010020
-date = 2019-02-24
-user = geralyr
-conversation = 33977237
-URL = https://twitter.com/geralyr/status/1099464819378393088
+file = t009969
+date = 2019-02-23
+user = MColombinii
+conversation = 1080972273157328896
+URL = https://twitter.com/MColombinii/status/1099429251667898368
 
-word count = 20
+word count = 16
 words loading = 3
 factor score = -3
 
-RT @JMVivancoHRW: Os **crimes** cometidos pelas forças de segurança 
-venezuelana e grupos armados pró-governo mostram que a **ditadura** de Maduro, 
-… 
+@MomentsBrasil Se tem **dinheiro** porque o **povo** venezuelano **passa** 
+fome, esse cara é um demônio 
 
 Lemmas in this text that loaded on the factor:
 
-crime
-ditadura
-governo
+dinheiro
+passar
+povo

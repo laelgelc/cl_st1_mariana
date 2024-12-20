@@ -1,21 +1,20 @@
-file = t018470
-date = 2022-06-21
-user = oscarcapella
-conversation = 70527344
-URL = https://twitter.com/oscarcapella/status/1539289628313886724
+file = t015266
+date = 2021-06-21
+user = LucasCesarGued1
+conversation = 1312152872751108096
+URL = https://twitter.com/LucasCesarGued1/status/1406785390938370049
 
-word count = 19
-words loading = 5
+word count = 22
+words loading = 4
 factor score = 4
 
-RT @rosanagazola: GOVERNO FEDERAL flag_brazil_e - A **Operação** Acolhida, 
-que **recebe** venezuelanos que **atravessam** a **fronteira** em **busca** de 
-melhores condiçõ … 
+RT @novaeramidia: flag_venezuela_e - No Dia Mundial do **Refugiado** , a 
+oposição venezuelana pediu **ajuda** e proteção para os 5 **milhões** de 
+**imigrantes** que fugir … 
 
 Lemmas in this text that loaded on the factor:
 
-atravessar (secondary)
-busca
-fronteira
-operação
-receber
+ajuda
+imigrante
+milhão
+refugiado

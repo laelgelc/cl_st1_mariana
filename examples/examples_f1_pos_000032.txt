@@ -1,20 +1,20 @@
-file = t016061
-date = 2022-10-19
-user = RosePintolea
-conversation = 1483105136109142016
-URL = https://twitter.com/RosePintolea/status/1582719129634582528
+file = t004303
+date = 2018-01-28
+user = ringoulart
+conversation = 245909273
+URL = https://twitter.com/ringoulart/status/957405751940698112
 
-word count = 24
+word count = 26
 words loading = 4
 factor score = 4
 
-RT @Chefcarolinavi1 : " Quem **tem** mais **medo** que o Brasil **vire** uma 
-Venezuela são os venezuelanos, ele não **terão** mais pra onde **fugir** " 
-Emilio Zu … 
+RT @micleutoncs: **Queria** ver se o que esse cara **falou** no Facebook 
+**tivesse** a coragem de **falar** para o povo venezuelano que passa **fome** . 
+https: / … 
 
 Lemmas in this text that loaded on the factor:
 
-fugir
-medo
+falar
+fome
+querer
 ter
-virar

@@ -1,16 +1,19 @@
-file = t002032
-date = 2017-01-09
-user = Silversjavier
-conversation = 2521940319
-URL = https://twitter.com/Silversjavier/status/818265848829853696
+file = t009414
+date = 2019-02-24
+user = tovaga
+conversation = 67865633
+URL = https://twitter.com/tovaga/status/1099812434888527874
 
-word count = 15
-words loading = 1
-factor score = -1
+word count = 20
+words loading = 3
+factor score = -3
 
-► - Salario básico venezuelano e pensões **aumentam** de +50 % a partir 
-deste mês de janeiro de. . . 
+RT @MatheusSchuch: Os dois **militares** venezuelanos que **desertaram** e 
+entraram aqui em Pacaraima ainda estão passando por **processo** de identifi 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+desertar
+militar
+processo

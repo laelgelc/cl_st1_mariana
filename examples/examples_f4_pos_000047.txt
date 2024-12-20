@@ -1,19 +1,18 @@
-file = t017434
-date = 2022-10-15
-user = lucasit
-conversation = 24023509
-URL = https://twitter.com/lucasit/status/1581392903276232705
+file = t014116
+date = 2020-09-20
+user = jeaniamaria1
+conversation = 61842043
+URL = https://twitter.com/jeaniamaria1/status/1307775321802977282
 
-word count = 22
-words loading = 4
-factor score = 4
+word count = 19
+words loading = 3
+factor score = 3
 
-" **Pintou** um **clima** " com uma **garota** **menor** de idade venezuelana 
-é muito pior que áudio sobre turismo sexual na Ucrânia, talquei? 
+@karladmelo @g1 E vc deve odiar os **cachorros** porque insiste em manter os 
+venezuelanos **comendo** **carne** de **cachorros** . A … 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-garota
-pequeno
-pintar
+cachorro
+carne
+comer

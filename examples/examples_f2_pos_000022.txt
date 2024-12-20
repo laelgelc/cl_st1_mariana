@@ -1,18 +1,18 @@
-file = t015079
-date = 2021-05-29
-user = Comenta_galo
-conversation = 1377275728388091904
-URL = https://twitter.com/Comenta_galo/status/1398461840779321346
+file = t013875
+date = 2020-08-02
+user = sepalmeirasonl1
+conversation = 1064507455395241984
+URL = https://twitter.com/sepalmeirasonl1/status/1289718654309785601
 
-word count = 11
+word count = 18
 words loading = 3
 factor score = 3
 
-RT @Atletico: **flag_venezuela_e** Savarino é **convocado** para a 
-**Seleção** Venezuelana: HASHTAG #vamogalo_h black_flag_e white_flag_e 
+**flag_venezuela_e** wolf_e O **contrato** registrado do **meia** Alejandro 
+Guerra com o Palmeiras se encerra neste domingo. Porém o venezuelano te … 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
+contrato
 flag_venezuela_e
-seleção
+meia

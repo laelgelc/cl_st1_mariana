@@ -1,18 +1,19 @@
-file = t005926
-date = 2018-10-07
-user = Nettoss
-conversation = 48541818
-URL = https://twitter.com/Nettoss/status/1049059569698312193
+file = t012853
+date = 2020-03-11
+user = Mmoreirabarreto
+conversation = 1084236124414005248
+URL = https://twitter.com/Mmoreirabarreto/status/1237750439224971264
 
-word count = 19
+word count = 22
 words loading = 3
 factor score = -3
 
-com a **fraude** nas **urnas** Smartmatic venezuelanas do @TSEjusbr vai 
-garantir o 2o turno para os **corruPTos** HASHTAG #eleiçãofraudada_h 
+RT @brunaobarreto: 09 / 03 : Bolsonaro diz ter provas de que houve **fraude** 
+nas **eleições** de 2018 10 / 03 : Infraestrutura **eleitoral** venezuelana, 
+b … 
 
 Lemmas in this text that loaded on the factor:
 
-corrupto
+eleitoral
+eleição
 fraude
-urna

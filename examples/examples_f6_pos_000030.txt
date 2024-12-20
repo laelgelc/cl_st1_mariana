@@ -1,18 +1,19 @@
-file = t018207
-date = 2022-03-08
-user = cintia_yy
-conversation = 1085707607812304896
-URL = https://twitter.com/cintia_yy/status/1501296527955873796
+file = t003423
+date = 2017-05-04
+user = elianekza
+conversation = 352747158
+URL = https://twitter.com/elianekza/status/859969482168598529
 
-word count = 16
+word count = 20
 words loading = 3
-factor score = 2
+factor score = 3
 
-@ravoxbrasil É a guerra das tesouras! Biden **comprando** **petróleo** 
-Venezuelano, **sanções** contra Rússia unindo -a com a Ch … 
+RT @reporterenato: Senador venezuelano Marco Rúbio, afirma que **líder** da 
+**oposição** , Leopoldo López, foi envenenado a mando do **presidente** Nico 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-petróleo
-sanção (secondary)
+líder
+oposição
+presidente

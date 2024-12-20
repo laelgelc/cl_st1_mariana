@@ -1,21 +1,20 @@
-file = t016925
-date = 2022-10-16
-user = blackjaac
-conversation = 1401000536279859200
-URL = https://twitter.com/blackjaac/status/1581452646979772416
+file = t001145
+date = 2016-05-07
+user = mvm_vic
+conversation = 1035427112
+URL = https://twitter.com/mvm_vic/status/728744050304659456
 
-word count = 21
+word count = 17
 words loading = 5
-factor score = 5
+factor score = 4
 
-RT @ZehdeAbreu: ' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre 
-**meninas** venezuelanas repercute e gera críticas nas **redes** - Eleições 
-2022 - G1 ht … 
+" O Grito do Bicho " : Com **fome** graças ao **socialismo** , venezuelanos 
+caçam. . . estão **comendo** **cães** e **gatos** . 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-falar
-menino
-pintar
-rede
+comer
+cão
+fome (secondary)
+gato
+socialismo

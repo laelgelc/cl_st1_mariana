@@ -1,19 +1,19 @@
-file = t013202
-date = 2020-05-18
-user = rangel59947610
-conversation = 1261656125944061952
-URL = https://twitter.com/rangel59947610/status/1262401211094962178
+file = t017011
+date = 2022-10-19
+user = jussanapaula
+conversation = 629841491
+URL = https://twitter.com/jussanapaula/status/1582543216326643712
 
 word count = 18
-words loading = 3
-factor score = 3
+words loading = 4
+factor score = 4
 
-RT @CarlaZambelli38 : Durante a carreata de hoje em Brasília, além do 
-agradecimento ao **Presidente** @jairbolsonaro, venezuelanos **pediram** , 
-**nova** … 
+RT @imondacouch: Viralizam novos **vídeos** em que Bolsonaro diz que 
+**meninas** venezuelanas estavam **arrumadas** para ' fazer **programa** ' … 
 
 Lemmas in this text that loaded on the factor:
 
-novo
-pedir
-presidente
+arrumar
+menino
+programa
+vídeo

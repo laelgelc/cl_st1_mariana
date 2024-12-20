@@ -1,16 +1,19 @@
-file = t002645
-date = 2017-08-10
-user = RochelYaracuy
-conversation = 865703245074878464
-URL = https://twitter.com/RochelYaracuy/status/895540418083004416
+file = t015003
+date = 2021-05-23
+user = bcarloscarvalho
+conversation = 1357422194
+URL = https://twitter.com/bcarloscarvalho/status/1396518686836592644
 
-word count = 19
-words loading = 1
-factor score = -1
+word count = 17
+words loading = 4
+factor score = -3
 
-RT Aloysio_Nunes: O Brasil e mais onze países **americanos** anunciaram hoje 
-em conjunto que não reconhecem a Constituinte venezuelana. 
+@AnaRFranca @PedroAGuerr Quase parece quando o **governo** de Cabo Verde 
+**deteve** um **diplomata** venezuelano quando o **avião** … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+avião
+deter
+diplomata
+governo (secondary)

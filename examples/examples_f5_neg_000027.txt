@@ -1,18 +1,17 @@
-file = t012330
-date = 2020-11-19
-user = alexpachecoprof
-conversation = 1201464936389660672
-URL = https://twitter.com/alexpachecoprof/status/1329366952847011842
+file = t000216
+date = 2016-11-09
+user = mkpadovani
+conversation = 52387489
+URL = https://twitter.com/mkpadovani/status/796157236246507520
 
-word count = 17
-words loading = 3
-factor score = -3
+word count = 18
+words loading = 2
+factor score = -2
 
-Estados com acusações de **fraudes** apuraram votos usando **sistemas** de 
-processamento de dados da **empresa** Venezuelana Sm … 
+RT @o_colecionador: Se eles usassem **urnas** **eletrônicas** venezuelanas 
+Smartmatic o resultado já teria saído. Que paisinho fuleiro e atrasado … 
 
 Lemmas in this text that loaded on the factor:
 
-empresa
-fraude
-sistema
+eletrônico
+urna

@@ -1,18 +1,20 @@
-file = t010623
-date = 2019-04-30
-user = Kontempart
-conversation = 1112068675530604544
-URL = https://twitter.com/Kontempart/status/1123316559538212864
+file = t016537
+date = 2022-10-18
+user = mmoraisfontes
+conversation = 4842064516
+URL = https://twitter.com/mmoraisfontes/status/1582425851303366658
 
-word count = 13
-words loading = 3
-factor score = 3
+word count = 17
+words loading = 4
+factor score = 4
 
-RT @cocando: Brasil autoriza **asilo** a 25 **militares** venezuelanos em 
-**embaixada** : Folha 
+RT @GeorgMarques: " Tavam se **arrumando** … para fazer **programa** " . Mais 
+uma **fala** preconceituosa de Bolsonaro contra **meninas** venezuelanas. Pinto 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-militar
+arrumar
+fala
+menino
+programa

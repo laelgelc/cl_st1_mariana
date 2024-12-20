@@ -1,21 +1,19 @@
-file = t016352
-date = 2022-10-18
-user = Leninha071275
-conversation = 1577100906805575680
-URL = https://twitter.com/Leninha071275/status/1582414463801888768
+file = t018943
+date = 2022-09-03
+user = AugustoCesarAz1
+conversation = 1147495471675531264
+URL = https://twitter.com/AugustoCesarAz1/status/1566072922724343811
 
-word count = 21
-words loading = 5
-factor score = 5
+word count = 23
+words loading = 3
+factor score = 3
 
-RT @77_frota: Bolsonaro mentindo de novo, **grava** **vídeo** ao lado da 
-esposa pedindo **desculpas** por ter **chamado** as **Venezuelanas** de 
-Prostitutas, e … 
+RT @amandamoraes500 : Encontrei agora um pai venezuelano com seu **filho** . . 
+. Dias e dias de viagem, sem **comer** , pra tentar **sobreviver** aqui no Br 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-desculpa
-gravar
-venezuelanas
-vídeo
+comer
+filho
+sobreviver

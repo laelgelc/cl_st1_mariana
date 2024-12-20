@@ -1,22 +1,21 @@
-file = t018648
-date = 2022-07-22
-user = GobboEdinho
-conversation = 1485019441129734144
-URL = https://twitter.com/GobboEdinho/status/1550409009219477504
+file = t018619
+date = 2022-07-18
+user = EltonFiamoncini
+conversation = 1268006804
+URL = https://twitter.com/EltonFiamoncini/status/1549059051513946112
 
-word count = 18
-words loading = 6
-factor score = 6
+word count = 24
+words loading = 5
+factor score = 5
 
-RT @LongoJoao: Venezuelanos **Argentinos** **Chilenos** **Cubanos** Haitianos 
-Peruanos **Colombianos** **Bolivianos** todos **fugindo** dos seus países para 
-o Bras … 
+RT @LucianoHangBr: 5 . Muitos dos **argentinos** , **cubanos** e venezuelanos 
+**vêm** para o Brasil para **fugir** do comunismo, da **fome** e da miséria, 
+mas pa … 
 
 Lemmas in this text that loaded on the factor:
 
 argentino
-boliviano
-chileno
-colombiano
 cubano
+fome
 fugir
+vir

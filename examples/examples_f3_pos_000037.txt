@@ -1,18 +1,20 @@
-file = t011061
-date = 2019-05-08
-user = PradoPecci
-conversation = 158482123
-URL = https://twitter.com/PradoPecci/status/1126270180026462209
+file = t016742
+date = 2022-10-18
+user = ivaneide_gomesp
+conversation = 1354197213476433920
+URL = https://twitter.com/ivaneide_gomesp/status/1582440556537335810
 
-word count = 18
-words loading = 3
-factor score = 3
+word count = 16
+words loading = 5
+factor score = 4
 
-RT @arielpalacios: **Militares** do SEBIN, o serviço secreto de Maduro, 
-**deteve** o vice-presidente do Parlamento venezuelano, Edgar Zambrano. 
+RT @pauloteixeira13 : Outro **vídeo** do Bolsonaro **chamando** as **meninas** 
+venezuelanas de " **garotas** de **programa** " . Assistam: 
 
 Lemmas in this text that loaded on the factor:
 
-deter
-militar
-presidente
+chamar (secondary)
+garota
+menino
+programa
+vídeo

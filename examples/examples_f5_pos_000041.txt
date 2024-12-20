@@ -1,18 +1,19 @@
-file = t018988
-date = 2022-09-20
-user = FilhoRq
-conversation = 1168611548518125568
-URL = https://twitter.com/FilhoRq/status/1572265326028398595
+file = t001571
+date = 2016-08-05
+user = ryanbrianbeta
+conversation = 2351800271
+URL = https://twitter.com/ryanbrianbeta/status/761637963314761728
 
-word count = 23
-words loading = 3
-factor score = 3
+word count = 21
+words loading = 4
+factor score = 4
 
-RT @yurivs: 2 , 1 **milhões** de **imigrantes** ilegais **entraram** nos EUA 
-este ano. Só em Agosto foram 25 mil venezuelanos. Que absurdo. 
+Com **crise** , **número** de **pedidos** de asilo de venezuelanos nos EUA 
+**cresce** 168 % : A **crise** econômica e política na Ve. . . 
 
 Lemmas in this text that loaded on the factor:
 
-entrar
-imigrante
-milhão
+crescer
+crise
+número
+pedido

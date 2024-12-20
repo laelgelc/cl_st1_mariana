@@ -1,17 +1,18 @@
-file = t018127
-date = 2022-03-08
-user = NiloPimenta2
-conversation = 1355290799211208704
-URL = https://twitter.com/NiloPimenta2/status/1501202831390519297
+file = t001185
+date = 2016-06-23
+user = globranco
+conversation = 599595192
+URL = https://twitter.com/globranco/status/746119554418413568
 
-word count = 23
-words loading = 2
-factor score = 2
+word count = 16
+words loading = 3
+factor score = 3
 
-RT @shadow2022br: @lordivan22 Pra sancionar a Rússia, os EUA vão **comprar** 
-**petróleo** venezuelano e com isso dar fôlego pra ditadura do Maduro. … 
+Opera Mundi - Nicolás Maduro **pede** diálogo com **líder** da 
+**oposição** ao governo venezuelano via @operamundi 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-petróleo
+líder
+oposição
+pedir

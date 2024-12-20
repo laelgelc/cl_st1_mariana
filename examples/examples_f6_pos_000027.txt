@@ -1,18 +1,18 @@
-file = t000235
-date = 2016-11-23
-user = mrasuos
-conversation = 193899004
-URL = https://twitter.com/mrasuos/status/801388988762300416
+file = t004405
+date = 2018-02-20
+user = blogdojota
+conversation = 119731647
+URL = https://twitter.com/blogdojota/status/965963692377608192
 
 word count = 13
 words loading = 3
 factor score = 3
 
-RT @VEJA: Três **jornais** venezuelanos deixam de circular por **falta** de 
-**papel** 
+RT @codigodoeleitor: Via @estadao: **Líder** da **oposição** venezuelana 
+**pede** ' ingerência humanitária ' internacional - " El … 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-jornal
-papel
+líder
+oposição
+pedir

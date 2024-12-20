@@ -1,18 +1,17 @@
-file = t015343
-date = 2021-07-30
-user = Leandro52013915
-conversation = 1188135016339070976
-URL = https://twitter.com/Leandro52013915/status/1421145354049884179
+file = t017554
+date = 2022-10-31
+user = ingrid_sb1234
+conversation = 1011015251192578048
+URL = https://twitter.com/ingrid_sb1234/status/1586950570006515713
 
-word count = 25
-words loading = 3
+word count = 20
+words loading = 2
 factor score = 2
 
-RT @flferronato: Segundo a OEA, 18 % dos Venezuelanos ja **abandonaram** o 
-país. O estudo **aponta** que **fogem** entre 700 e 900 pessoas por dia. 
+@ElenTorres10 Os venezuelanos q fugiram de lá por Roraima ( e **pediram** pra 
+gente ñ votar no amigo do **presidente** deles … 
 
 Lemmas in this text that loaded on the factor:
 
-abandonar
-apontar
-fugir (secondary)
+pedir
+presidente

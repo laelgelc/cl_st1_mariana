@@ -1,16 +1,18 @@
-file = t002001
-date = 2017-07-10
-user = Convenbil
-conversation = 1650092862
-URL = https://twitter.com/Convenbil/status/884470777407524865
+file = t008701
+date = 2019-02-26
+user = jeanmhurtyng
+conversation = 170003833
+URL = https://twitter.com/jeanmhurtyng/status/1100390246406148096
 
-word count = 15
-words loading = 1
-factor score = -1
+word count = 19
+words loading = 3
+factor score = -3
 
-RT @diarioliberdade: Oposição venezuelana admite que parte de seu plano 
-golpista é **aumentar** conflitividade 
+RT @recordtvoficial: O Exército Brasileiro **confirmou** que, até o momento, 
+dez **militares** venezuelanos **desertaram** e abandonaram os seus postos … 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+confirmar
+desertar
+militar

@@ -1,21 +1,19 @@
-file = t017918
-date = 2022-01-20
-user = Luciana35260124
-conversation = 1130126940097130496
-URL = https://twitter.com/Luciana35260124/status/1484130764199497729
+file = t011255
+date = 2019-06-04
+user = Brotherai
+conversation = 225919691
+URL = https://twitter.com/Brotherai/status/1135949027223252992
 
-word count = 21
-words loading = 5
+word count = 20
+words loading = 4
 factor score = 4
 
-RT @tatianamandelli: O **socialismo** venezuelano, **ditadura** da pior 
-espécie, gera milhares de fugitivos. **Fogem** da **fome** , da falta de 
-**liberdade** . … 
+RT @g1roraima: Venezuelano **faz** horta em prédio abandonado há 10 **anos** 
+em RR: ' vou dividir com quem **tem** **fome** ' 
 
 Lemmas in this text that loaded on the factor:
 
-ditadura (secondary)
+ano
+fazer
 fome
-fugir
-liberdade
-socialismo
+ter

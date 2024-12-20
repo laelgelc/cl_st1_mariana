@@ -1,20 +1,21 @@
-file = t010542
-date = 2019-04-30
-user = Celiarnl
-conversation = 90985940
-URL = https://twitter.com/Celiarnl/status/1123305121683845121
+file = t016352
+date = 2022-10-18
+user = Leninha071275
+conversation = 1577100906805575680
+URL = https://twitter.com/Leninha071275/status/1582414463801888768
 
-word count = 20
-words loading = 4
-factor score = 3
+word count = 21
+words loading = 5
+factor score = 4
 
-RT @Brasil_de_Fato: O **governo** venezuelano reconheceu insurgência de um 
-**grupo** de **militares** na tentativa de **golpe** liderada por Juan Guaidó 
-, … 
+RT @77_frota: Bolsonaro mentindo de novo, **grava** **vídeo** ao lado da 
+esposa pedindo **desculpas** por ter **chamado** as **Venezuelanas** de 
+Prostitutas, e … 
 
 Lemmas in this text that loaded on the factor:
 
-golpe
-governo (secondary)
-grupo
-militar
+chamar (secondary)
+desculpa
+gravar
+venezuelanas
+vídeo

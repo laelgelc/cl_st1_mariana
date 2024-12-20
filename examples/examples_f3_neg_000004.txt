@@ -1,19 +1,16 @@
-file = t001165
-date = 2016-06-09
-user = sergiomrvieira
-conversation = 141396995
-URL = https://twitter.com/sergiomrvieira/status/740927274493452288
+file = t000038
+date = 2016-10-28
+user = sandrar33276132
+conversation = 4724598027
+URL = https://twitter.com/sandrar33276132/status/791966514169667585
 
-word count = 14
-words loading = 4
-factor score = -3
+word count = 13
+words loading = 1
+factor score = -1
 
-RT @folha: Venezuelanos **disputam** **comida** com **cães** no **lixo** de 
-feira de Caracas 
+RT @correio: Oposição venezuelana **aumenta** a pressão contra Maduro com 
+greve geral 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-cão
-disputar
-lixo (secondary)
+aumentar

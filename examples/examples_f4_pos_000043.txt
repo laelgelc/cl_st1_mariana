@@ -1,19 +1,20 @@
-file = t017551
-date = 2022-10-21
-user = ibere
-conversation = 15380500
-URL = https://twitter.com/ibere/status/1583585379252260864
+file = t015057
+date = 2021-05-07
+user = gibson48521518
+conversation = 1203706510003585024
+URL = https://twitter.com/gibson48521518/status/1390513143944818689
 
-word count = 21
+word count = 18
 words loading = 4
-factor score = 4
+factor score = 3
 
-Eu vi um **vídeo** do Bolsonaro **falando** do " **pintou** um **clima** " e 
-ele mostra uma tal de uma embaixadora venezuelana. Além … 
+RT @Eugenia_Assis: Enquanto os venezuelanos **morrem** de **fome** o ' lindinho 
+' **anda** pelos **restaurantes** mais caros do mundo. . . . ( Vídeo: 
+Restaurant … 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-falar
-pintar
-vídeo
+andar
+fome (secondary)
+morrer
+restaurante

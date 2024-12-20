@@ -1,18 +1,21 @@
-file = t011370
-date = 2019-07-01
-user = Will_JC__BR
-conversation = 758486013413093376
-URL = https://twitter.com/Will_JC__BR/status/1145497070863814656
+file = t016925
+date = 2022-10-16
+user = blackjaac
+conversation = 1401000536279859200
+URL = https://twitter.com/blackjaac/status/1581452646979772416
 
-word count = 14
-words loading = 3
-factor score = 3
+word count = 21
+words loading = 5
+factor score = 4
 
-RT @VEJA: **Oposição** **denuncia** tortura como causa da morte de 
-**militar** venezuelano preso 
+RT @ZehdeAbreu: ' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre 
+**meninas** venezuelanas repercute e gera críticas nas **redes** - Eleições 
+2022 - G1 ht … 
 
 Lemmas in this text that loaded on the factor:
 
-denunciar
-militar
-oposição
+clima
+falar (secondary)
+menino
+pintar
+rede

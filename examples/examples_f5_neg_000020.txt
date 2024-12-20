@@ -1,18 +1,19 @@
-file = t005788
-date = 2018-09-19
-user = cafejornal
-conversation = 2460294426
-URL = https://twitter.com/cafejornal/status/1042443206158241793
+file = t012558
+date = 2020-12-20
+user = pemelpe
+conversation = 375983673
+URL = https://twitter.com/pemelpe/status/1340756300158930945
 
-word count = 18
+word count = 20
 words loading = 3
 factor score = -3
 
-" Chupa cabra " na **urna** **eletrônica** ? Presença de **empresa** 
-venezuelana na apuração dos votos? O presidente do Tribunal R … 
+RT @MarleneFFL: **sistemas** **eleitorais** venezuelana por apoiar as 
+**eleições** legislativas fraudulentas de 6 de dezembro de Nicolas Maduro. 
+small_orange_diamond_e A emp … 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
-empresa
-urna
+eleitoral
+eleição
+sistema

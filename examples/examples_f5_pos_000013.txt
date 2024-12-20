@@ -1,20 +1,19 @@
-file = t017945
-date = 2022-01-18
-user = adriano9270
-conversation = 1127298371528605696
-URL = https://twitter.com/adriano9270/status/1483504269428989962
+file = t014633
+date = 2021-02-05
+user = Danimusicv07
+conversation = 1185605249551273984
+URL = https://twitter.com/Danimusicv07/status/1357676017637335041
 
-word count = 19
+word count = 17
 words loading = 4
 factor score = 4
 
-RT @DefesaGovBr: HASHTAG #minutodefesa_h studio_microphone_e - A **Operação** 
-Acolhida leva esperança a **imigrantes** e **refugiados** venezuelanos que 
-**chegam** ao Brasil. As Força … 
+@jairbolsonaro **Obrigado** pelo **trabalho** no seu **país** @jairbolsonaro 
+**obrigado** pela **ajuda** a os Venezuelanos que faz vida … 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-imigrante
-operação
-refugiado
+ajuda
+obrigar
+país
+trabalho

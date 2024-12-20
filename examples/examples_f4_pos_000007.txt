@@ -1,20 +1,20 @@
-file = t017537
-date = 2022-10-22
-user = pcostafloripa
-conversation = 35911020
-URL = https://twitter.com/pcostafloripa/status/1583944495548469250
+file = t013966
+date = 2020-09-05
+user = ruthrenascerrp
+conversation = 302948055
+URL = https://twitter.com/ruthrenascerrp/status/1302219114686099456
 
-word count = 21
-words loading = 5
-factor score = 5
+word count = 20
+words loading = 4
+factor score = 4
 
-eu tenho **vídeo** de quando o verme **falou** que **PINTOU** UM **CLIMA** ao 
-ver as **adolescentes** venezuelanas bonitinhas e pobres. 
+RT @AnaNascimenProf: Povo venezuelano não tem o essencial: falta -lhe 
+**COMIDA** e tem que **comer** seus **cachorros** ( 1a cesta básica = 200 
+**salários** … 
 
 Lemmas in this text that loaded on the factor:
 
-adolescente
-clima
-falar
-pintar
-vídeo
+cachorro
+comer
+comida
+salário

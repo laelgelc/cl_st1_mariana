@@ -1,19 +1,18 @@
-file = t002694
-date = 2017-09-19
-user = Rlopesreporter
-conversation = 46836821
-URL = https://twitter.com/Rlopesreporter/status/910150567204474885
+file = t001866
+date = 2017-07-25
+user = OvelhaVermelha7
+conversation = 760557686
+URL = https://twitter.com/OvelhaVermelha7/status/889689410148741120
 
-word count = 19
-words loading = 4
+word count = 23
+words loading = 3
 factor score = -3
 
-" O **povo** venezuelano está **passando** **fome** " , diz Trump, ao citar 
-Venezuela, depois de chamar **governo** cubano de corrupto. 
+RT @kallilolv: Na **ditadura** venezuelana o **povo** escolhe na urna o 
+**ditador** , na democracia dos EUA o menos votado ganha a eleição. 
 
 Lemmas in this text that loaded on the factor:
 
-fome (secondary)
-governo
-passar
+ditador
+ditadura
 povo

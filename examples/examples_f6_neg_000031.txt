@@ -1,19 +1,18 @@
-file = t014556
-date = 2021-01-05
-user = sonia_schoecher
-conversation = 1395584570
-URL = https://twitter.com/sonia_schoecher/status/1346478899497111556
+file = t007110
+date = 2019-10-22
+user = MarciaB16982788
+conversation = 1077355459751890944
+URL = https://twitter.com/MarciaB16982788/status/1186442982226124806
 
-word count = 20
+word count = 21
 words loading = 3
 factor score = -3
 
-RT @ernestofaraujo: A prorrogação dos atuais **mandatos** parlamentares tem 
-amparo na Constituição venezuelana e em **decisão** da Suprema **Corte** le 
-… 
+RT @linikerpapke: O Humberto Bosta acaba de postar um vídeo culpando Bolsonaro 
+pelo **petróleo** venezuelano nas **praias** do **Nordeste** brasileiro. … 
 
 Lemmas in this text that loaded on the factor:
 
-corte
-decisão
-mandato
+nordeste
+petróleo
+praia

@@ -1,20 +1,18 @@
-file = t014984
-date = 2021-05-31
-user = Rcsvianna
-conversation = 46732528
-URL = https://twitter.com/Rcsvianna/status/1399374923982938117
+file = t019064
+date = 2022-09-15
+user = CanaldoRafinhaF
+conversation = 1097873314314403840
+URL = https://twitter.com/CanaldoRafinhaF/status/1570508894115614720
 
-word count = 15
-words loading = 4
-factor score = 4
+word count = 24
+words loading = 3
+factor score = 3
 
-RT @Lebehs: Venham todos: **argentinos** , venezuelanos, uruguaios, paraguaios, 
-peruanos, equatorianos, **bolivianos** , **colombianos** e **chilenos** . Temo 
-… 
+Venezuelana que **fugiu** do seu País Natal por causa da **fome** , pode 
+**ter** que sair do Brasil, caso o PT / Lula ganha a ele … 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-boliviano
-chileno
-colombiano
+fome
+fugir
+ter

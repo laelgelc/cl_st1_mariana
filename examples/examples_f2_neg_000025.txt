@@ -1,18 +1,18 @@
-file = t006592
-date = 2018-09-27
-user = Marcos49Fs
-conversation = 2885149171
-URL = https://twitter.com/Marcos49Fs/status/1045180052407758848
+file = t007604
+date = 2019-11-28
+user = MarcioH49532587
+conversation = 1147141530702045184
+URL = https://twitter.com/MarcioH49532587/status/1200200899139964929
 
-word count = 19
+word count = 16
 words loading = 3
 factor score = -3
 
-@brina_gugli Pois é , ne, menina Maduro **passa** fogo nos venezuelanos 
-desarmados e o **ditador** daqui quer armar o **povo** 
+RT @o_antagonista: A **ditadura** venezuelana é mantida com **dinheiro** do 
+**crime** , afirmou o almirante Craig Faller. 
 
 Lemmas in this text that loaded on the factor:
 
-ditador
-passar
-povo
+crime
+dinheiro
+ditadura

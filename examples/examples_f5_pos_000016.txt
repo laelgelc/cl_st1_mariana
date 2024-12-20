@@ -1,20 +1,20 @@
-file = t013760
-date = 2020-08-31
-user = DelmiraMathias
-conversation = 963438353352941568
-URL = https://twitter.com/DelmiraMathias/status/1300444248806952963
+file = t012764
+date = 2020-01-31
+user = matebe
+conversation = 54030619
+URL = https://twitter.com/matebe/status/1223333823649370112
 
-word count = 19
+word count = 20
 words loading = 4
 factor score = 4
 
-RT @secomvc: A **Operação** Acolhida **recebe** os **refugiados** do 
-comunismo venezuelano com acolhimento médico, **humanitário** e diplomático. 
-https://t … 
+RT @ACNURBrasil: Uma ótima notícia para terminar bem a **semana** . 
+star-struck_e HASHTAG #sextou_h Brasil torna -se o **país** com maior 
+**número** de **refugiados** venezuelano … 
 
 Lemmas in this text that loaded on the factor:
 
-humanitário
-operação
-receber
+número
+país
 refugiado
+semana

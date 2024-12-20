@@ -1,19 +1,19 @@
-file = t009693
-date = 2019-02-24
-user = claudiacfs1
-conversation = 1054432981950103552
-URL = https://twitter.com/claudiacfs1/status/1099764737276104705
+file = t009685
+date = 2019-02-22
+user = NossilaD
+conversation = 1042484968721731584
+URL = https://twitter.com/NossilaD/status/1099029324768964610
 
-word count = 24
-words loading = 3
+word count = 17
+words loading = 4
 factor score = -3
 
-RT @ValenteOlavo: Já **passou** da hora de alguém tomar uma atitude, mas 
-ainda espero que seja o **povo** venezuelano a derrubar esse **ditador** . http 
-… 
+Maduro prefere seu **povo** morto do que ter **ajuda** humanitária ( 
+**alimentos** e **remédios** ) . Esses venezuelanos foram feridos … 
 
 Lemmas in this text that loaded on the factor:
 
-ditador
-passar
+ajuda (secondary)
+alimento
 povo
+remédio

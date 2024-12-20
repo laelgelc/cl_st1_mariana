@@ -1,16 +1,19 @@
-file = t001607
-date = 2016-08-01
-user = Vitao_hs
-conversation = 2172529914
-URL = https://twitter.com/Vitao_hs/status/760257118750466048
+file = t007412
+date = 2019-11-13
+user = ViniciusN1kolod
+conversation = 891603310041497600
+URL = https://twitter.com/ViniciusN1kolod/status/1194674270242295808
 
-word count = 15
-words loading = 1
-factor score = -1
+word count = 20
+words loading = 3
+factor score = -3
 
-EUA indiciam ex-chefe da Guarda Nacional venezuelana por narcotráfico: A 
-Justiça **americana** acusou nesta segun. . . 
+RT @MarceloPintoBA: Dino: **diplomatas** brasileiros passam a correr **risco** 
+após apoio de autoridades à invasão da **embaixada** venezuelana https: / 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+diplomata
+embaixada
+risco

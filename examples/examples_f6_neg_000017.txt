@@ -1,19 +1,19 @@
-file = t018434
-date = 2022-06-13
-user = ULYSSESREZENDE
-conversation = 175488475
-URL = https://twitter.com/ULYSSESREZENDE/status/1536362754898112514
+file = t006861
+date = 2019-10-23
+user = valdomiro1974
+conversation = 538688669
+URL = https://twitter.com/valdomiro1974/status/1186996043138945024
 
-word count = 20
-words loading = 4
-factor score = -4
+word count = 19
+words loading = 3
+factor score = -3
 
-RT @Melnetto: **Justiça** **espanhola** **concorda** em **extraditar** general 
-venezuelano Carvajal para os EUA. Estados Unidos esperam que o general, que … 
+RT @OBrasildoFutur1 : flag_brazil_e " Nao bastasse não ajudar na limpeza do 
+**petróleo** venezuelano nas **praias** do **Nordeste** , os ecoterroristas 
+ainda depreda … 
 
 Lemmas in this text that loaded on the factor:
 
-concordar
-espanhol
-extraditar
-justiça
+nordeste
+petróleo
+praia

@@ -1,20 +1,18 @@
-file = t012515
-date = 2020-12-18
-user = sergio38003311
-conversation = 1297876264930467840
-URL = https://twitter.com/sergio38003311/status/1340006425695817737
+file = t018810
+date = 2022-08-31
+user = gbs2022oficial
+conversation = 1546331848107851776
+URL = https://twitter.com/gbs2022oficial/status/1565041551750975488
 
-word count = 17
-words loading = 4
-factor score = 4
+word count = 18
+words loading = 3
+factor score = 3
 
-RT @michelcandidos2 : " VENEZUELANOS E **ARGENTINOS** **fugindo** do " 
-**SOCIALISMO** " e alguns BURROS brasileiros **querendo** entrar. " VAI 
-ENTENDER. . . 
+@crisffaria @BolsonaroSP O **bom** é luladrão os Venezuelanos os 
+**Argentinos** os **Cubanos** entre outros vinheram para o Bra … 
 
 Lemmas in this text that loaded on the factor:
 
 argentino
-fugir
-querer
-socialismo
+bom
+cubano

@@ -1,16 +1,19 @@
-file = t002047
-date = 2017-07-29
-user = milca27sp
-conversation = 2440409308
-URL = https://twitter.com/milca27sp/status/891153348036108288
+file = t009596
+date = 2019-02-25
+user = lugoalexa
+conversation = 64502685
+URL = https://twitter.com/lugoalexa/status/1099825265285517312
 
-word count = 15
-words loading = 1
-factor score = -1
+word count = 20
+words loading = 3
+factor score = -3
 
-RT @ricardope: Força para o presidente venezuelano Nicolás Maduro na luta 
-contra o imperialismo norte-americano 
+RT @MatheusSchuch: O **Exército** brasileiro **confirma** que há três 
+**militares** venezuelanos desertores abrigados aqui em Pacaraima. As fotos dos 
+t … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+confirmar
+exército
+militar

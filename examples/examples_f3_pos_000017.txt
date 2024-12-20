@@ -1,20 +1,19 @@
-file = t003423
-date = 2017-05-04
-user = elianekza
-conversation = 352747158
-URL = https://twitter.com/elianekza/status/859969482168598529
+file = t017434
+date = 2022-10-15
+user = lucasit
+conversation = 24023509
+URL = https://twitter.com/lucasit/status/1581392903276232705
 
-word count = 20
+word count = 22
 words loading = 4
 factor score = 4
 
-RT @reporterenato: Senador venezuelano Marco Rúbio, **afirma** que **líder** 
-da **oposição** , Leopoldo López, foi envenenado a mando do **presidente** 
-Nico … 
+" **Pintou** um **clima** " com uma **garota** **menor** de idade venezuelana 
+é muito pior que áudio sobre turismo sexual na Ucrânia, talquei? 
 
 Lemmas in this text that loaded on the factor:
 
-afirmar
-líder
-oposição
-presidente
+clima
+garota
+pequeno
+pintar

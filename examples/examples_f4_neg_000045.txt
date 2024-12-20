@@ -1,16 +1,18 @@
-file = t003551
-date = 2017-05-05
-user = diulza
-conversation = 47960274
-URL = https://twitter.com/diulza/status/860297308939976706
+file = t000525
+date = 2016-01-05
+user = alexqueiroz9
+conversation = 2976402910
+URL = https://twitter.com/alexqueiroz9/status/684469098940624897
 
-word count = 13
-words loading = 1
-factor score = -1
+word count = 12
+words loading = 3
+factor score = -2
 
-@sputnik_brasil Excelente ideia do exercito brasileiro. Confio mais nos 
-**americanos** que nos cubanos, … 
+Polícia tenta barrar **acesso** de **grupo** da **oposição** à Assembleia 
+venezuelana 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+acesso
+grupo
+oposição (secondary)

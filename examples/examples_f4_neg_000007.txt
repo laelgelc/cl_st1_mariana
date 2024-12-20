@@ -1,16 +1,21 @@
-file = t000245
-date = 2016-11-23
-user = DagomirMarquezi
-conversation = 22235590
-URL = https://twitter.com/DagomirMarquezi/status/801477366946103296
+file = t015456
+date = 2021-07-23
+user = AllukaZoldyck38
+conversation = 1030611947522273280
+URL = https://twitter.com/AllukaZoldyck38/status/1418694685124702208
 
-word count = 16
-words loading = 1
-factor score = -1
+word count = 20
+words loading = 5
+factor score = -4
 
-Ditadura venezuelana **fecha** mais 3 jornais com falta de papel. Mais uma 
-razão para digitalizar. 
+RT @pharaujo85 : police_car_light_e **Aviões** **militares** dos EUA entraram 
+e **invadiram** o **espaço** **aéreo** venezuelano, diz Ministério da Defesa 
+da Venezuela. ________ … 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+avião
+aéreo
+espaço (secondary)
+invadir
+militar

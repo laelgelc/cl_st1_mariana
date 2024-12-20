@@ -1,18 +1,17 @@
-file = t017918
-date = 2022-01-20
-user = Luciana35260124
-conversation = 1130126940097130496
-URL = https://twitter.com/Luciana35260124/status/1484130764199497729
+file = t019016
+date = 2022-09-29
+user = zumbatumba
+conversation = 209363736
+URL = https://twitter.com/zumbatumba/status/1575349745903697920
 
 word count = 21
-words loading = 3
+words loading = 2
 factor score = 2
 
-RT @tatianamandelli: O socialismo venezuelano, ditadura da pior espécie, gera 
-**milhares** de fugitivos. **Fogem** da fome, da **falta** de liberdade. … 
+@flammable_man o meu atual vo **pedir** pra um venezuelano de mullet do meu 
+bairro fazer o mesmo **corte** dele em mim 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-fugir (secondary)
-milhar
+corte
+pedir

@@ -1,19 +1,21 @@
-file = t016027
-date = 2022-10-05
-user = Adailjunior10
-conversation = 4826937543
-URL = https://twitter.com/Adailjunior10/status/1577678394136956928
+file = t004025
+date = 2018-01-18
+user = jjuliabela
+conversation = 2423825456
+URL = https://twitter.com/jjuliabela/status/953997250803494915
 
-word count = 21
-words loading = 4
+word count = 23
+words loading = 5
 factor score = 4
 
-Eu não **tenho** condições de **fugir** do Brasil que nem o Nando Moura, o 
-venezuelano, o **argentino** , o **chileno** , o colombian … 
+RT @editorahumanas2 : **Boa** noite petista **Saiba** que você **tem** sangue 
+nas **mãos** de cada venezuelano que está morrendo no **regime** socialista 
+que vo … 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-chileno
-fugir
+bom
+mão (secondary)
+regime
+saber
 ter

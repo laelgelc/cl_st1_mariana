@@ -1,17 +1,18 @@
-file = t015775
-date = 2021-09-29
-user = ricardojgomes
-conversation = 158600838
-URL = https://twitter.com/ricardojgomes/status/1443340235082027009
+file = t018665
+date = 2022-07-03
+user = JenmaryGutierr1
+conversation = 1391310739210653696
+URL = https://twitter.com/JenmaryGutierr1/status/1543474587404582913
 
-word count = 16
-words loading = 2
+word count = 22
+words loading = 3
 factor score = 2
 
-RT @TerraBrasilnot: Socialismo: Relatório **aponta** que três de cada quatro 
-venezuelanos vivem na extrema **pobreza** 
+RT @VILMARBRUNO4 : Gays que **apoiam** a esquerda socialista, fica a dica. Olha 
+o risco que vocês correm. **Militares** Venezuelanos que se **declara** … 
 
 Lemmas in this text that loaded on the factor:
 
-apontar
-pobreza
+apoiar
+declarar
+militar (secondary)

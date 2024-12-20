@@ -1,18 +1,16 @@
-file = t001015
-date = 2016-05-24
-user = Romer_Matthias
-conversation = 43333578
-URL = https://twitter.com/Romer_Matthias/status/734940169795710982
+file = t001517
+date = 2016-08-20
+user = fckingcross
+conversation = 227279693
+URL = https://twitter.com/fckingcross/status/767134615475806208
 
-word count = 21
-words loading = 3
-factor score = -2
+word count = 18
+words loading = 1
+factor score = -1
 
-RT @roxmo: Isso SE tivesse **comida** RT @Corotenho: " **Salário** de 87 % dos 
-venezuelanos não é suficiente para **comida** , diz pesquisa. " … 
+@milkovichs galera não vê libertadores, parece. Fala de retranca mas nunca 
+viu jogo com **colombiano** ou venezuelano. 
 
 Lemmas in this text that loaded on the factor:
 
-comer (secondary)
-comida
-salário
+colombiano

@@ -1,19 +1,21 @@
-file = t006395
-date = 2018-10-16
-user = reporterbrasil
-conversation = 14762045
-URL = https://twitter.com/reporterbrasil/status/1052279889225637888
+file = t009222
+date = 2019-02-22
+user = piava_s
+conversation = 1062071856293908480
+URL = https://twitter.com/piava_s/status/1099003647231447047
 
-word count = 21
-words loading = 4
+word count = 22
+words loading = 5
 factor score = 4
 
-A **crise** já fez com 2 , 5 **milhões** de venezuelanos **cruzassem** as 
-**fronteiras** dos países vizinhos, como Brasil e Colômbia. … 
+RT @luizlima10 : Queridinho dos Petistas. . . Maduro **fecha** a **fronteira** 
+, com receio de que a **chegada** de **ajuda** **humanitária** para os 
+venezuelanos, … 
 
 Lemmas in this text that loaded on the factor:
 
-crise
-cruzar
+ajuda
+chegada
+fechar (secondary)
 fronteira
-milhão
+humanitário

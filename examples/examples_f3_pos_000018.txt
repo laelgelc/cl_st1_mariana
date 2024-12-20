@@ -1,19 +1,19 @@
-file = t002331
-date = 2017-08-12
-user = BlogsBrasil
-conversation = 99396451
-URL = https://twitter.com/BlogsBrasil/status/896347397957320704
+file = t017431
+date = 2022-10-18
+user = cunha_dilce
+conversation = 1190685453244076032
+URL = https://twitter.com/cunha_dilce/status/1582504129632800769
 
-word count = 11
+word count = 14
 words loading = 4
 factor score = 4
 
-RT @BlogsBrasil: **Militares** venezuelanos **desertam** e **pedem** **asilo** 
-na Colômbia 
+RT @EstadaoPolitica: Venezuelanas se **negaram** a **gravar** **vídeo** para 
+ajudar **campanha** de Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-desertar
-militar
-pedir
+campanha
+gravar
+negar
+vídeo

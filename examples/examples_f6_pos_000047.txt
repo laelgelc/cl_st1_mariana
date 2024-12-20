@@ -1,17 +1,18 @@
-file = t015448
-date = 2021-07-10
-user = i_f_an
-conversation = 129628999
-URL = https://twitter.com/i_f_an/status/1414010222155374597
+file = t017919
+date = 2022-01-20
+user = Kamomh
+conversation = 440322007
+URL = https://twitter.com/Kamomh/status/1484206421080166402
 
-word count = 21
+word count = 20
 words loading = 2
 factor score = 2
 
-RT @FernandoHoliday: A Venezuela possui as maiores reservas de **petróleo** do 
-mundo. Entretanto, 96 % dos venezuelanos vivem na **pobreza** . O re … 
+RT @NoticiaeGuerra: O Kremlin anunciou hoje que o **presidente** russo, 
+Vladimir HASHTAG #putin_h conversou por telefone com o **líder** venezuelano 
+Nicolas … 
 
 Lemmas in this text that loaded on the factor:
 
-petróleo
-pobreza
+líder
+presidente

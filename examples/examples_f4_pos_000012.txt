@@ -1,21 +1,21 @@
-file = t017408
-date = 2022-10-24
-user = ivanovitchstos
-conversation = 308477896
-URL = https://twitter.com/ivanovitchstos/status/1584662287775805441
+file = t005581
+date = 2018-09-01
+user = VerattiMarcos
+conversation = 956871442523721728
+URL = https://twitter.com/VerattiMarcos/status/1035899076880084992
 
-word count = 21
+word count = 20
 words loading = 5
-factor score = 5
+factor score = 4
 
-RT @__Lorranna__ : **Caso** das **meninas** venezuelanas ( **pintou** um 
-**clima** ) Guedes e o salário **mínimo** e agora violência do bolsonarismo, 
-não tem co … 
+RT @edmilsonpapo10 : Maduro matando os venezuelanos Venezuelanos **comendo** 
+**lixo** , **carne** **podre** , dormindo nas **ruas** e tomando banho frio 
+Lula toma … 
 
 Lemmas in this text that loaded on the factor:
 
-caso
-clima
-menino
-pequeno
-pintar
+carne
+comer
+lixo (secondary)
+podre
+rua

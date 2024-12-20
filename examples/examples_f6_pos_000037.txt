@@ -1,17 +1,18 @@
-file = t018115
-date = 2022-03-09
-user = Iugetsarevt
-conversation = 1166869500907704320
-URL = https://twitter.com/Iugetsarevt/status/1501682999527899139
+file = t000455
+date = 2016-01-05
+user = feed_brasil
+conversation = 248221757
+URL = https://twitter.com/feed_brasil/status/684464522950672387
 
-word count = 21
-words loading = 2
-factor score = 2
+word count = 11
+words loading = 3
+factor score = 3
 
-E volta o ciclo, EUA volta a **comprar** **petróleo** venezuelano, que volta a 
-sustentar Cuba, que volta a circular entre o … 
+HASHTAG #feedbrasil_h Com rejeição **chavista** , **oposição** elege 
+**presidente** da Assembleia venezuelana 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-petróleo
+chavista
+oposição
+presidente

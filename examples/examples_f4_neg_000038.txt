@@ -1,16 +1,18 @@
-file = t002513
-date = 2017-08-12
-user = EoLili2010
-conversation = 546125980
-URL = https://twitter.com/EoLili2010/status/896490864133914624
+file = t013446
+date = 2020-05-27
+user = surtosfelopudos
+conversation = 3119304609
+URL = https://twitter.com/surtosfelopudos/status/1265736471304196096
 
-word count = 21
-words loading = 1
-factor score = -1
+word count = 18
+words loading = 3
+factor score = -3
 
-@Boscardin Prefere o extermínio dos venezuelanos, que urram por socorro e 
-apoiam a intervenção **americana** e a postura de Trump. 
+@Modestii @_testesdamassa Td o **grupo** gulag kawaii já se predispõe a 
+**desertar** direto pro **exército** venezuelano e eu j … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+desertar
+exército
+grupo

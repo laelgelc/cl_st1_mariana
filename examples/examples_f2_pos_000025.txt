@@ -1,18 +1,19 @@
-file = t014949
-date = 2021-04-28
-user = Arthurz13296280
-conversation = 1312887638999863296
-URL = https://twitter.com/Arthurz13296280/status/1387491449906900995
+file = t012684
+date = 2020-01-04
+user = HudsonHCB
+conversation = 950862069351505920
+URL = https://twitter.com/HudsonHCB/status/1213523682167021568
 
-word count = 19
+word count = 22
 words loading = 3
 factor score = 3
 
-A direção do Inter **confirma** que está contratando o **atacante** 
-venezuelano Jesús Orozco, de apenas 20 anos. O **jogador** … 
+RT @ohenriqueandre: **flag_venezuela_e** Meia Eduard Bello, da **Seleção** 
+Venezuelana e do Antofagasta, começou a seguir o novo **time** do chefe 
+Dudamel no Instagr … 
 
 Lemmas in this text that loaded on the factor:
 
-atacante
-confirmar
-jogador
+flag_venezuela_e
+seleção
+time

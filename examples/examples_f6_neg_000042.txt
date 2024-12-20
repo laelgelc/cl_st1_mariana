@@ -1,17 +1,19 @@
-file = t000632
-date = 2016-02-17
-user = jumedeiros1980
-conversation = 62836734
-URL = https://twitter.com/jumedeiros1980/status/699824349415661568
+file = t007327
+date = 2019-11-01
+user = nunestonon
+conversation = 1116375042214985728
+URL = https://twitter.com/nunestonon/status/1190298482919313410
 
-word count = 16
-words loading = 2
-factor score = -2
+word count = 20
+words loading = 4
+factor score = -3
 
-HASHTAG #operacaobetalab_h Parlamento venezuelano dá 1º **sinal** verde para 
-lei de **anistia** para políticos: Bancada. . . HASHTAG #timbeta_h 
+@SpassosRJ @andretrig Se o **óleo** é de **origem** venezuelana, e o lugar 
+onde o **navio** supostamente foi carregado **fica** na … 
 
 Lemmas in this text that loaded on the factor:
 
-anistia
-sinal
+ficar (secondary)
+navio
+origem
+óleo

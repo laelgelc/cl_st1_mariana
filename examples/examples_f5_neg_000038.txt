@@ -1,17 +1,17 @@
-file = t001866
-date = 2017-07-25
-user = OvelhaVermelha7
-conversation = 760557686
-URL = https://twitter.com/OvelhaVermelha7/status/889689410148741120
+file = t002209
+date = 2017-08-04
+user = fbcantalice
+conversation = 2949545721
+URL = https://twitter.com/fbcantalice/status/893485133600362496
 
-word count = 23
+word count = 22
 words loading = 2
 factor score = -2
 
-RT @kallilolv: Na ditadura venezuelana o povo escolhe na **urna** o ditador, na 
-democracia dos EUA o menos votado ganha a **eleição** . 
+RT @blogdojefferson: **Milícias** de Maduro matam venezuelanos. Em futuro 
+governo PT, não duvido que coloquem armas nas **mãos** do MST e Boulos … 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-urna
+milícia
+mão

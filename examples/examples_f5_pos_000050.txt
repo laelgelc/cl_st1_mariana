@@ -1,19 +1,18 @@
-file = t017595
-date = 2022-11-11
-user = Vieira2La
-conversation = 892714237935706112
-URL = https://twitter.com/Vieira2La/status/1591058920117882884
+file = t017640
+date = 2022-11-01
+user = DudaTeixeira
+conversation = 19251755
+URL = https://twitter.com/DudaTeixeira/status/1587473075439804416
 
-word count = 19
+word count = 20
 words loading = 3
 factor score = 3
 
-RT @BruceBarbosa88 : **URGENTE** : após discurso de Lula Venezuelanos são 
-vistos **cruzando** a **fronteira** de volta … " Lá teremos mais 
-oportunidades " 
+Lula vai cobrar a dívida de Maduro com o BNDES? Vai manter a **ajuda** 
+**humanitária** dada aos **refugiados** venezuelanos? … 
 
 Lemmas in this text that loaded on the factor:
 
-cruzar
-fronteira
-urgente
+ajuda
+humanitário
+refugiado

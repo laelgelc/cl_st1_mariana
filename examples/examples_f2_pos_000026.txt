@@ -1,18 +1,18 @@
-file = t014927
-date = 2021-04-03
-user = ricardo1tavares
-conversation = 2564533712
-URL = https://twitter.com/ricardo1tavares/status/1378391060121014274
+file = t012593
+date = 2020-01-05
+user = G_Bernadino10
+conversation = 800870684620705792
+URL = https://twitter.com/G_Bernadino10/status/1213826808686292992
 
-word count = 24
+word count = 18
 words loading = 3
 factor score = 3
 
-RT @FelipeBMSa: Seu **time** precisa de um **atacante** de lado de campo e que 
-também faça **gols** ? Conheça Eduard Bello, venezuelano do Antofagasta. … 
+RT @MeuGaloBMG: O Galo anunciou hoje o seu novo **técnico** : Rafael Dudamel, 
+ex-jogador e ex-técnico da **seleção** venezuelana. Seja bem-vindo ao … 
 
 Lemmas in this text that loaded on the factor:
 
-atacante
-gol
-time
+jogador
+seleção
+técnico

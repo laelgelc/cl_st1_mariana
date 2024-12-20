@@ -1,16 +1,20 @@
-file = t000038
-date = 2016-10-28
-user = sandrar33276132
-conversation = 4724598027
-URL = https://twitter.com/sandrar33276132/status/791966514169667585
+file = t007754
+date = 2019-12-28
+user = EWaschburger
+conversation = 2302910702
+URL = https://twitter.com/EWaschburger/status/1211067040536113155
 
-word count = 13
-words loading = 1
-factor score = -1
+word count = 21
+words loading = 4
+factor score = -4
 
-RT @correio: Oposição venezuelana **aumenta** a pressão contra Maduro com 
-greve geral 
+RT @hoje_no: O @DefesaGovBr acabou de **confirmar** : os 5 **militares** 
+venezuelanos que o Brasil **deteve** em Roraima **desertaram** , mas o Maduro 
+alega … 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+confirmar
+desertar
+deter
+militar

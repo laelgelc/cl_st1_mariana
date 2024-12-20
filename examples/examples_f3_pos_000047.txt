@@ -1,18 +1,21 @@
-file = t010579
-date = 2019-05-01
-user = MagnoMarcoski
-conversation = 636605267
-URL = https://twitter.com/MagnoMarcoski/status/1123397895472996353
+file = t016434
+date = 2022-10-16
+user = MariaLciaFRizz1
+conversation = 714987495985954816
+URL = https://twitter.com/MariaLciaFRizz1/status/1581702249973133312
 
-word count = 23
-words loading = 3
-factor score = 3
+word count = 21
+words loading = 5
+factor score = 4
 
-RT @leandroruschel: Pode ser GAME OVER para o povo venezuelano: Leopoldo Lopez 
-acabou de **pedir** **asilo** na **embaixada** chilena em Caracas. Ele é … 
+RT @fabiomura: Venezuelana visitada por Bolsonaro **nega** que **meninas** com 
+quem o **presidente** disse que " **pintou** um **clima** " estivessem se 
+prostitu … 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-pedir
+clima
+menino
+negar
+pintar
+presidente (secondary)

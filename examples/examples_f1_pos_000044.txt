@@ -1,20 +1,19 @@
-file = t012884
-date = 2020-03-03
-user = SelaniraB
-conversation = 1187821527695278080
-URL = https://twitter.com/SelaniraB/status/1234877148038651906
+file = t018828
+date = 2022-08-13
+user = hkromania
+conversation = 1320014533923115008
+URL = https://twitter.com/hkromania/status/1558518167533752324
 
-word count = 23
-words loading = 4
-factor score = 4
+word count = 24
+words loading = 3
+factor score = 3
 
-RT @fo_adriana: Não **sei** se alguém percebeu, mas já estamos **vivendo** 
-num **regime** venezuelano. Ou saímos as **ruas** ou nos tornaremos reféns 
-dos p … 
+RT @TNTSportsBR: **TEM** ZAGUEIRO NOVO NA ÁREA! NAHUEL FERRARESI É DO 
+TRICOLOR! red_circle_e white_circle_e black_circle_e O venezuelano de 23 
+**anos** pertence ao grupo City e **chega** po … 
 
 Lemmas in this text that loaded on the factor:
 
-regime
-rua
-saber
-viver
+ano
+chegar
+ter

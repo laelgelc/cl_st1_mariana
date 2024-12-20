@@ -1,18 +1,19 @@
-file = t015004
-date = 2021-05-22
-user = victorgcarvalho
-conversation = 162856828
-URL = https://twitter.com/victorgcarvalho/status/1396075860596305921
+file = t012976
+date = 2020-03-09
+user = martins_xandin
+conversation = 2980145644
+URL = https://twitter.com/martins_xandin/status/1236825716844572672
 
-word count = 25
-words loading = 3
+word count = 18
+words loading = 4
 factor score = 3
 
-RT @TelesCinho: Klebinho com 22 anos, era **convocado** pela **seleção** sub 
-15 e sub 17 . Se chamasse El Klebito, fosse Venezuelano e **jogador** da ba … 
+RT @hevertonfutebol: Cruzeiro fez consulta pra tentar a **contratação** de 
+Matias Lacava, meia-atacante venezuelano que **joga** pelo Puerto Cabell … 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
-jogador
-seleção
+atacante
+contratação
+jogar (secondary)
+meia

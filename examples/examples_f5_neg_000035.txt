@@ -1,18 +1,17 @@
-file = t017837
-date = 2022-11-07
-user = eliazvendas
-conversation = 1438523880411316224
-URL = https://twitter.com/eliazvendas/status/1589730588248150016
+file = t000743
+date = 2016-03-02
+user = mcpois
+conversation = 29267420
+URL = https://twitter.com/mcpois/status/704919858341928960
 
-word count = 12
-words loading = 3
-factor score = -3
+word count = 13
+words loading = 2
+factor score = -2
 
-RT @governofederaal: **Empresa** venezuelana tem acesso ao nosso **sistema** 
-**eleitoral** ? HASHTAG #brasilwasstollen_h 
+Parlamento venezuelano **aprova** relatório sobre **eleição** " ilegal " de 
+magistrados - HASHTAG #maduradas_h corrupção HASHTAG #venezuela_h 
 
 Lemmas in this text that loaded on the factor:
 
-eleitoral
-empresa
-sistema
+aprovar
+eleição

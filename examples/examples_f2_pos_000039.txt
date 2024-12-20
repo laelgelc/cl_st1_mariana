@@ -1,19 +1,18 @@
-file = t008001
-date = 2019-01-22
-user = RealWellMarcelo
-conversation = 154193524
-URL = https://twitter.com/RealWellMarcelo/status/1087691072489295872
+file = t001594
+date = 2016-08-18
+user = rcdajr
+conversation = 569116174
+URL = https://twitter.com/rcdajr/status/766325945284202496
 
-word count = 20
+word count = 18
 words loading = 3
 factor score = 3
 
-RT @ademirquintino: Belo **gol** . O **segundo** do @RodrygoGoes high_voltage_e 
-️ na **vitória** do Brasil sobre os venezuelanos no Sul-Americano da 
-categoria. https: … 
+**Meia** do Galo, Otero é **convocado** para defender a **seleção** 
+venezuelana: **Meia** pode desfalcar o Atlético-MG na par. . . 
 
 Lemmas in this text that loaded on the factor:
 
-gol
-segundo
-vitória
+convocar
+meia
+seleção

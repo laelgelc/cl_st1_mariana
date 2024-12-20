@@ -1,20 +1,19 @@
-file = t017787
-date = 2022-11-06
-user = AleLeiHel
-conversation = 1351657111416090624
-URL = https://twitter.com/AleLeiHel/status/1589396704893501442
+file = t011221
+date = 2019-06-04
+user = dazzzlings
+conversation = 748274948096024576
+URL = https://twitter.com/dazzzlings/status/1135915560863031296
 
-word count = 19
+word count = 22
 words loading = 4
 factor score = 4
 
-RT @MetodoMoreira: Que todos os nossos **irmãos** venezuelanos, **argentinos** 
-, peruanos, **bolivianos** , **colombianos** se levantem contra o foro de São 
-… 
+RT @g1 : Venezuelano **faz** horta em prédio abandonado há 10 **anos** em RR: 
+' vou dividir com quem **tem** **fome** ' HASHTAG #g1_h https://t. … 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-boliviano
-colombiano
-irmão
+ano
+fazer
+fome
+ter

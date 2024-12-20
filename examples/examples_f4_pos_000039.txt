@@ -1,19 +1,18 @@
-file = t017734
-date = 2022-11-05
-user = Railan16814353
-conversation = 1382559845904216064
-URL = https://twitter.com/Railan16814353/status/1588950875514757121
+file = t016772
+date = 2022-10-31
+user = RianBar83488724
+conversation = 1537234503793614848
+URL = https://twitter.com/RianBar83488724/status/1586889542900109314
 
-word count = 16
-words loading = 4
-factor score = 4
+word count = 15
+words loading = 3
+factor score = 3
 
-@rafael_elisio Deve tá procurando as **Venezuelanas** de 14 **anos** que 
-**pintou** **clima** com o mito KKKKK 
+@aquino20211982 @ExMSTponcio Respeitar porra nenhuma, a mesma democracia dos 
+venezuelanos que **comem** **cachorro** e **gato** … 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-pintar
-venezuelanas
+cachorro
+comer
+gato

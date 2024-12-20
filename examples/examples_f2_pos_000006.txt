@@ -1,20 +1,20 @@
-file = t015533
-date = 2021-08-04
-user = morao980
-conversation = 1219631570874773504
-URL = https://twitter.com/morao980/status/1422763701053050880
+file = t015076
+date = 2021-05-06
+user = Mari26262267
+conversation = 1302789749497790464
+URL = https://twitter.com/Mari26262267/status/1390374891292135428
 
-word count = 23
+word count = 17
 words loading = 4
 factor score = 4
 
-RT @SantosFC: O Santos FC terá novamente um **jogador** venezuelano. O 
-meia-atacante Matías Lacava é o novo **reforço** do Peixe e chega por 
-emprés … 
+RT @radiopachola: HISTÓRICO Grêmio contra venezuelanos na história: -10 
+**jogos** -7 **vitórias** do Grêmio ( 26 **gols** **marcados** ) -2 empates 
+-1 derr … 
 
 Lemmas in this text that loaded on the factor:
 
-atacante
-jogador
-meia
-reforço
+gol
+jogo
+marcar
+vitória

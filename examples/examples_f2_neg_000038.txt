@@ -1,20 +1,19 @@
-file = t009732
+file = t009693
 date = 2019-02-24
-user = CardosoDhenifer
-conversation = 1097266809152176128
-URL = https://twitter.com/CardosoDhenifer/status/1099486122227441666
+user = claudiacfs1
+conversation = 1054432981950103552
+URL = https://twitter.com/claudiacfs1/status/1099764737276104705
 
-word count = 23
-words loading = 4
+word count = 24
+words loading = 3
 factor score = -3
 
-RT @SamCriscolo: a Venezuela em colapso **governo** venezuelano matando civis 
-que protestam o **povo** **morrendo** de **fome** mas isso não importa né o 
+RT @ValenteOlavo: Já **passou** da hora de alguém tomar uma atitude, mas 
+ainda espero que seja o **povo** venezuelano a derrubar esse **ditador** . http 
 … 
 
 Lemmas in this text that loaded on the factor:
 
-fome (secondary)
-governo
-morrer
+ditador
+passar
 povo

@@ -1,19 +1,18 @@
-file = t014178
-date = 2021-10-20
-user = Reinald65923641
-conversation = 1277730345698430976
-URL = https://twitter.com/Reinald65923641/status/1450868629050900489
+file = t006955
+date = 2019-10-23
+user = ErivalSouza
+conversation = 1055608563207417856
+URL = https://twitter.com/ErivalSouza/status/1187046810986127360
 
-word count = 19
+word count = 18
 words loading = 3
 factor score = -3
 
-RT @freu_rodrigues: Gazeta: Um ex-chefe da **inteligência** militar 
-venezuelana informou à **Justiça** da Espanha que os governos de Hugo Chávez 
-e … 
+RT @Mmoreirabarreto: @Z_LyhGomes @Longojoo Nao bastasse não ajudar na limpeza 
+do **petróleo** venezuelano nas **praias** do **Nordeste** , os ecoterrori … 
 
 Lemmas in this text that loaded on the factor:
 
-chefe
-inteligência
-justiça
+nordeste
+petróleo
+praia

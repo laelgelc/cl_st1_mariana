@@ -1,22 +1,21 @@
-file = t009477
-date = 2019-02-24
-user = alelacerdamdt
-conversation = 1099338372508729344
-URL = https://twitter.com/alelacerdamdt/status/1099617693366448128
+file = t007203
+date = 2019-10-08
+user = celsoapsil
+conversation = 870812749
+URL = https://twitter.com/celsoapsil/status/1181708711913492480
 
-word count = 21
-words loading = 6
-factor score = 6
+word count = 20
+words loading = 5
+factor score = 5
 
-RT @bolsonarotrump_ : A amiga Direitista e venezuelana @InaBaroni, que **vive** 
-lá , **precisa** de ajuda, **gostaria** de **ter** sua voz **ouvida** . 
-**Quero** pedi … 
+RT @Rita55833445 : **Argentinos** **fazem** greve, **param** o país ( lá 
+presidente já **teve** q **fugir** em helicóptero ) venezuelanos sofrem 
+embargos atrozes … 
 
 Lemmas in this text that loaded on the factor:
 
-gostar
-ouvir
-precisar
-querer
+argentino
+fazer
+fugir
+parar
 ter
-viver

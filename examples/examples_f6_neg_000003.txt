@@ -1,19 +1,20 @@
-file = t014143
-date = 2021-10-20
-user = FE4andre
-conversation = 2588671410
-URL = https://twitter.com/FE4andre/status/1450823938766950410
+file = t006827
+date = 2019-10-26
+user = mtmduarte
+conversation = 51888960
+URL = https://twitter.com/mtmduarte/status/1188073123645722625
 
-word count = 12
+word count = 21
 words loading = 4
 factor score = -4
 
-RT @freu_rodrigues: BOMBA: ' Governo venezuelano **financiou** Lula ' , 
-denuncia ex-chefe de **inteligência** militar **chavista** 
+RT @bibonunes1 : Esse **óleo** **derramado** de **navio** venezuelano, 
+atingindo **praias** brasileiras, tá com jeito de proposital, para abalar a 
+imagem de … 
 
 Lemmas in this text that loaded on the factor:
 
-chavista
-chefe
-financiar
-inteligência
+derramar
+navio
+praia
+óleo

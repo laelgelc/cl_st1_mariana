@@ -1,20 +1,16 @@
-file = t001191
-date = 2016-06-10
-user = MariaCarmemRibe
-conversation = 1115548771
-URL = https://twitter.com/MariaCarmemRibe/status/741080316262158336
+file = t000090
+date = 2016-10-10
+user = LUISBARBAN
+conversation = 138825245
+URL = https://twitter.com/LUISBARBAN/status/785444618926252033
 
-word count = 22
-words loading = 4
-factor score = -3
+word count = 13
+words loading = 1
+factor score = -1
 
-RT @Gutbyra: Uma senhora grita: ' Estamos morrendo de fome, diga ao mundo todo. 
-' " Venezuelanos **disputam** **comida** com **cães** no **lixo** . https://t. 
-… 
+Para ajudar ditadura venezuelana, Dilma **aumentou** a conta de luz dos 
+brasileiros 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-cão
-disputar
-lixo (secondary)
+aumentar

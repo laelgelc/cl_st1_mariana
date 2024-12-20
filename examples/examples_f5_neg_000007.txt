@@ -1,20 +1,20 @@
-file = t015218
-date = 2021-06-01
-user = 1Nedicr56
-conversation = 1189958321161359360
-URL = https://twitter.com/1Nedicr56/status/1399654096831926272
+file = t000083
+date = 2016-10-04
+user = tudoencima
+conversation = 142838926
+URL = https://twitter.com/tudoencima/status/783150955399372800
 
-word count = 21
+word count = 23
 words loading = 4
-factor score = -4
+factor score = -3
 
-RT @joaophaddad: projeto que tornaria o **sistema** **eleitoral** brasileiro 
-igual ao venezuelano ( em que, além da **urna** **eletrônica** , há a 
-impressão … 
+RT @luis13vieira: Pois é meu amigo! Parece q as **urnas** da **empresa** " 
+Venezuelana " q fraudam **eleições** , resolveram **fraudar** para o PSDB, 
+PMDB e … 
 
 Lemmas in this text that loaded on the factor:
 
-eleitoral
-eletrônico
-sistema
+eleição
+empresa (secondary)
+fraudar
 urna

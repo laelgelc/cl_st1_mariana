@@ -1,21 +1,20 @@
-file = t018604
-date = 2022-07-30
-user = Tininho01
-conversation = 315464592
-URL = https://twitter.com/Tininho01/status/1553369931995123712
+file = t014204
+date = 2021-10-14
+user = LigiadeAssis
+conversation = 711401234520010752
+URL = https://twitter.com/LigiadeAssis/status/1448709615290564611
 
-word count = 23
-words loading = 5
+word count = 24
+words loading = 4
 factor score = 4
 
-RT @JornalDaCidadeO: No Brasil para **fugir** da **fome** e da **miséria** , 
-venezuelano dá depoimento impactante e **vídeo** viraliza ( **veja** o 
-**vídeo** ) https: … 
+RT @mmmarianos: Assim é o PT. Assim **querem** **fazer** com o 
+**flag_brazil_e** . Enquanto o Povo Venezuelano está procurando comida nos 
+**LIXÕES** e a População pass … 
 
 Lemmas in this text that loaded on the factor:
 
-fome
-fugir
-miséria
-ver
-vídeo (secondary)
+fazer
+flag_brazil_e
+lixo
+querer

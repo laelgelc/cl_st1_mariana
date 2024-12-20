@@ -1,20 +1,18 @@
-file = t014020
-date = 2020-09-11
-user = eduardoalvimm
-conversation = 344300642
-URL = https://twitter.com/eduardoalvimm/status/1304235555685912576
+file = t018989
+date = 2022-09-16
+user = Dchg99
+conversation = 1516017574374486016
+URL = https://twitter.com/Dchg99/status/1570737164916510724
 
-word count = 23
-words loading = 4
-factor score = 4
+word count = 16
+words loading = 3
+factor score = 3
 
-RT @EraldoPaola: Venezuelanos e **cubanos** fazendo campanha contra Biden nas 
-**ruas** de Miami. Nada **melhor** que a opinião de quem **fugiu** do social 
-… 
+@revistaoeste **Façam** isso para não nós arrependermos como **Argentinos** 
+, Venezuelanos, **Cubanos** , Chilenos e agora os Colom … 
 
 Lemmas in this text that loaded on the factor:
 
-bom
+argentino
 cubano
-fugir
-rua
+fazer

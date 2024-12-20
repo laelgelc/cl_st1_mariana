@@ -1,18 +1,18 @@
-file = t017964
-date = 2022-01-05
-user = GuendolinaP
-conversation = 1329951556058443776
-URL = https://twitter.com/GuendolinaP/status/1478828031498240000
+file = t018520
+date = 2022-06-07
+user = buenno_thiago
+conversation = 1491865720275283968
+URL = https://twitter.com/buenno_thiago/status/1534270493427126272
 
-word count = 12
+word count = 16
 words loading = 3
 factor score = 3
 
-@Conservadora191 @Anholeto @gen_heleno Não existem mais **fronteiras** , 
-milhares **chegam** todo **mês** . Venezuelanos, haitian … 
+RT @exercitooficial: Exército promove **interiorização** da **Operação** 
+**Acolhida** para mais de 5 mil venezuelanos HASHTAG #braçofor_h … 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-fronteira
-mês
+acolher
+interiorização
+operação

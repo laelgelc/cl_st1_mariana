@@ -1,17 +1,17 @@
-file = t003115
-date = 2017-10-18
-user = brn_soares
-conversation = 318058982
-URL = https://twitter.com/brn_soares/status/920469444232609793
+file = t003317
+date = 2017-04-09
+user = avpabreu
+conversation = 272565718
+URL = https://twitter.com/avpabreu/status/850870723941986308
 
-word count = 18
+word count = 13
 words loading = 2
 factor score = -2
 
-RT @blogdojefferson: Doze países, o Brasil incluído, pediram auditoria nas 
-**eleições** venezuelanas. A **urna** SmartMaduratic só contabiliza voto … 
+@N_Carvalheira Essas **urnas** **eletrônicas** smartmatics venezuelanas com 
+tecnologia Cubana com certeza votaram muito nes … 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
+eletrônico
 urna

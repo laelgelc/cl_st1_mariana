@@ -1,18 +1,18 @@
-file = t015044
-date = 2021-05-04
-user = marciopompilio
-conversation = 2298489942
-URL = https://twitter.com/marciopompilio/status/1389425787414196227
+file = t017487
+date = 2022-10-23
+user = Emesoneso
+conversation = 1605588416
+URL = https://twitter.com/Emesoneso/status/1584066092598988800
 
-word count = 25
-words loading = 2
+word count = 20
+words loading = 3
 factor score = 2
 
-RT @AnaSilviaBotti1 : Hj é mais barato usar o dinheiro venezuelano como 
-**papel** de popozão do que **comprar** um rolo dele, isso é , se achar para 
-… 
+@GugaNoblat Fdp vc pensa em crianças venezuelanos né ? **Apoiando** quem 
+**financiou** a **ditadura** de lá , **apoiando** o luLadrão. Hipócrita. 
 
 Lemmas in this text that loaded on the factor:
 
-comprar
-papel
+apoiar
+ditadura (secondary)
+financiar

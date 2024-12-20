@@ -1,19 +1,18 @@
-file = t009070
-date = 2019-02-25
-user = felipepicinato_
-conversation = 3904702576
-URL = https://twitter.com/felipepicinato_/status/1100072876013748227
+file = t009149
+date = 2019-02-24
+user = DeiseOB
+conversation = 856691643843584000
+URL = https://twitter.com/DeiseOB/status/1099507169253355520
 
-word count = 23
+word count = 20
 words loading = 3
 factor score = -3
 
-RT @MBLivre: Na hora de desviar **dinheiro** do **povo** brasileiro para 
-financiar a **ditadura** venezuelana, Maduro era um problema seu, né ? https: 
-/ / … 
+RT @Fernuf91 : Caminhões de **alimentos** e **remédios** cruciais ao **povo** 
+venezuelano foram queimados e os jornalistas resolveram ignorar para debat … 
 
 Lemmas in this text that loaded on the factor:
 
-dinheiro
-ditadura
+alimento
 povo
+remédio

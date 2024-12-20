@@ -1,16 +1,19 @@
-file = t002029
-date = 2017-07-30
-user = IZILDAMARIADE
-conversation = 32545698
-URL = https://twitter.com/IZILDAMARIADE/status/891787472279142400
+file = t009270
+date = 2019-02-28
+user = Lfp1875
+conversation = 895415899
+URL = https://twitter.com/Lfp1875/status/1101184131701096448
 
-word count = 16
-words loading = 1
-factor score = -1
+word count = 25
+words loading = 3
+factor score = -3
 
-@unidadvenezuela @EternoTemplario Coisa feia esses venezuelanos que baixam as 
-calças para **americano** fazer o que qui … 
+RT @MatheusSchuch: Guaidó **afirma** que 300 mil venezuelanos estão em 
+**risco** de vida por causa da miséria e falta de **acesso** a serviços 
+básicos. … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+acesso
+afirmar
+risco

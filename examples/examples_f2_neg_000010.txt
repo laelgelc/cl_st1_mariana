@@ -1,20 +1,18 @@
-file = t002672
-date = 2017-08-05
-user = SalnaTequila
-conversation = 3169691674
-URL = https://twitter.com/SalnaTequila/status/893931919246856193
+file = t001845
+date = 2017-07-29
+user = suplementos_imp
+conversation = 793544241758756864
+URL = https://twitter.com/suplementos_imp/status/891301541205954561
 
-word count = 27
-words loading = 4
+word count = 15
+words loading = 3
 factor score = -3
 
-o caso aqui nao é puramente a inclinação política. O **governo** 
-venezuelano parou de governar para o **povo** e impos uma **ditadura** . Com 
-ela a **crise** 
+RT @Desesquerdizada: Enquanto o **povo** venezuelano **passa** fome, os 
+líderes da **ditadura** socialista enriquecem. 
 
 Lemmas in this text that loaded on the factor:
 
-crise (secondary)
 ditadura
-governo
+passar
 povo

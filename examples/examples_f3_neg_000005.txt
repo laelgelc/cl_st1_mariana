@@ -1,19 +1,16 @@
-file = t001179
-date = 2016-06-12
-user = 22asmip2014
-conversation = 2331981475
-URL = https://twitter.com/22asmip2014/status/741977394001514499
+file = t000077
+date = 2016-10-27
+user = CarlosSekko
+conversation = 450105690
+URL = https://twitter.com/CarlosSekko/status/791705028687982592
 
-word count = 12
-words loading = 4
-factor score = -3
+word count = 25
+words loading = 1
+factor score = -1
 
-Venezuelanos **disputam** **comida** com **cães** no **lixo** de feira de 
-Caracas 
+E essa da galera com medinho de Russos e Venezuelanos? Imperialismo? Cês 
+querem é passaporte **americano** , FDPs. Querem é base da USAF no cu! 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-cão
-disputar
-lixo (secondary)
+americano

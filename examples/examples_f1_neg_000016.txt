@@ -1,18 +1,19 @@
-file = t003662
-date = 2017-05-08
-user = ashinarra
-conversation = 53440997
-URL = https://twitter.com/ashinarra/status/861731123390533632
+file = t000642
+date = 2016-02-17
+user = Delta_233
+conversation = 2667963392
+URL = https://twitter.com/Delta_233/status/699823741212237828
 
-word count = 15
-words loading = 3
+word count = 18
+words loading = 4
 factor score = -3
 
-RT @GloboNews: Manaus **decreta** estado de **emergência** após **chegada** 
-de 400 índios venezuelanos: HASHTAG #globonews_h 
+HASHTAG #hu3b3t_h **Parlamento** venezuelano dá 1º **sinal** verde para 
+**lei** de **anistia** para políticos: Bancada chavista votou co. . . 
 
 Lemmas in this text that loaded on the factor:
 
-chegada
-decretar
-emergência
+anistia
+lei (secondary)
+parlamento
+sinal

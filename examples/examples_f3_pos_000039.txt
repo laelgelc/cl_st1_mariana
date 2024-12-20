@@ -1,19 +1,20 @@
-file = t010919
-date = 2019-05-20
-user = Alexand33970356
-conversation = 1059753802293788672
-URL = https://twitter.com/Alexand33970356/status/1130505055524855809
+file = t016651
+date = 2022-10-20
+user = ant_osmar
+conversation = 359032147
+URL = https://twitter.com/ant_osmar/status/1583035115898253313
 
 word count = 21
-words loading = 3
-factor score = 3
+words loading = 4
+factor score = 4
 
-RT @BelinhaPoodleBR: Lógica esquerdista: **Presidente** que **pede** o 
-**apoio** do povo é ditador ( e usam de exemplo o vizinho venezuelano 
-face_screaming_in_fear_e ) ex-p … 
+RT @contrafake_ : **PINTOU** UM **CLIMA** OU **PINTOU** UM CRIME? Bolsonaro 
+mente ao dizer que não associou as **adolescentes** venezuelanas do **caso** " 
+pinto … 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-pedir
-presidente
+adolescente
+caso
+clima
+pintar

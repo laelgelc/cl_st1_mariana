@@ -1,20 +1,18 @@
-file = t015033
-date = 2021-05-11
-user = niaraalis
-conversation = 448952753
-URL = https://twitter.com/niaraalis/status/1392225284024373253
+file = t013049
+date = 2020-04-19
+user = Occlusal_Med
+conversation = 1028659326360190976
+URL = https://twitter.com/Occlusal_Med/status/1251850829444853763
 
-word count = 21
-words loading = 4
+word count = 23
+words loading = 3
 factor score = -3
 
-RT @danielsilva38am: @MLauraAssis Parece o **ditador** Nicolás Maduro deixando 
-o **povo** venezuelano **morrendo** de **fome** e ele comendo churrasco em r 
-… 
+@DomDasThreads **Passou** da hora de Maduro e sua gangue serem **presos** e 
+julgados nos EUA! ! ! O **povo** Venezuelano sofreu além do necessário! ! ! 
 
 Lemmas in this text that loaded on the factor:
 
-ditador
-fome (secondary)
-morrer
+passar
 povo
+prender

@@ -1,19 +1,19 @@
-file = t017641
-date = 2022-11-05
-user = Railan16814353
-conversation = 1382559845904216064
-URL = https://twitter.com/Railan16814353/status/1588894382442577920
+file = t016569
+date = 2022-10-06
+user = Renaldo_1998
+conversation = 2982857158
+URL = https://twitter.com/Renaldo_1998/status/1578069068350889991
 
-word count = 17
-words loading = 4
-factor score = 4
+word count = 23
+words loading = 3
+factor score = 3
 
-@joseblum11 @ArturBernardoK @KimKataguiri @folha Verdade porém E o **clima** 
-que **pintou** com as **Venezuelanas** de 14 **anos** … 
+RT @bibonunes1 : Todos os dias, cerca de 600 venezuelanos atravessam a 
+fronteira, rumo ao Brasil. Com eles veem nenhum **cão** ou **gato** . 
+**Comeram** … 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-pintar
-venezuelanas
+comer
+cão
+gato

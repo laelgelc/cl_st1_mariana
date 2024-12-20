@@ -1,20 +1,20 @@
-file = t014227
-date = 2021-10-20
-user = AnaMari27977310
-conversation = 3600669617
-URL = https://twitter.com/AnaMari27977310/status/1450651921946120197
+file = t007063
+date = 2019-10-22
+user = Cosmemoreira4
+conversation = 1130525542678171648
+URL = https://twitter.com/Cosmemoreira4/status/1186447130396909569
 
-word count = 17
+word count = 23
 words loading = 4
 factor score = -4
 
-RT @FFL1Marlene: Acabei de ver BOMBA: ' Governo venezuelano **financiou** Lula 
-' , denuncia ex-chefe de **inteligência** militar **chavista** - Clique par 
+RT @Movimentodirei3 : SALDO DO CRIME VENEZUELANO: 900 **toneladas** de resíduo 
+de **óleo** recolhidas das **praias** do **nordeste** - um mês e meio e nenh 
 … 
 
 Lemmas in this text that loaded on the factor:
 
-chavista
-chefe
-financiar
-inteligência
+nordeste
+praia
+tonelada
+óleo

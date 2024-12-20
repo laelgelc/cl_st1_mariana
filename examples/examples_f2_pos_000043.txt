@@ -1,20 +1,19 @@
-file = t004316
-date = 2018-01-12
-user = ChunchoXelMundo
-conversation = 547477989
-URL = https://twitter.com/ChunchoXelMundo/status/951686579365601280
+file = t000372
+date = 2016-12-28
+user = carlossepcat
+conversation = 242087263
+URL = https://twitter.com/carlossepcat/status/813937008322244609
 
-word count = 20
+word count = 19
 words loading = 4
 factor score = 3
 
-RT @LaU_Brasil: É **OFICIAL** ! blue_circle_e red_circle_e Yonathan Soteldo é 
-o mais novo **reforço** da Universidad de Chile! O meia-atacante venezuelano 
-de 20 anos estav … 
+Palmeiras anuncia acerto com Guerra; **contrato** com o **meia** será de três 
+anos **Jogador** venezuelano, eleito o **melhor** . . . 
 
 Lemmas in this text that loaded on the factor:
 
-atacante
+bom (secondary)
+contrato
+jogador
 meia
-oficial (secondary)
-reforço

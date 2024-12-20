@@ -1,21 +1,19 @@
-file = t017815
-date = 2022-11-06
-user = martinha9090
-conversation = 1457489627774914560
-URL = https://twitter.com/martinha9090/status/1589351293163749377
+file = t018378
+date = 2022-05-04
+user = marcbarrod
+conversation = 2549885939
+URL = https://twitter.com/marcbarrod/status/1521669529180512260
 
-word count = 15
-words loading = 5
-factor score = 5
+word count = 12
+words loading = 4
+factor score = 4
 
-RT @ArcanjoEdnardo1 : Força **irmãos** **Argentinos** , venezuelanos, 
-peruanos, **colombianos** Bolívianos, **chilenos** **cubanos** Nicaragueses, 
-lutem pelos se … 
+Esta é **boa** ! NÃO PODEMOS ser Venezuelanos, **Argentinos** , Chilenos, 
+**Cubanos** ou **Bolivianos** … 
 
 Lemmas in this text that loaded on the factor:
 
 argentino
-chileno
-colombiano
+boliviano
+bom
 cubano
-irmão

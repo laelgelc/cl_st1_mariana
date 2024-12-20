@@ -1,19 +1,21 @@
-file = t015333
-date = 2021-07-08
-user = TSFRadio
-conversation = 15392221
-URL = https://twitter.com/TSFRadio/status/1413104348964417538
+file = t017233
+date = 2022-10-17
+user = maconheiro_rn
+conversation = 1456247329602908160
+URL = https://twitter.com/maconheiro_rn/status/1582090898401202176
 
-word count = 12
-words loading = 4
-factor score = 3
+word count = 23
+words loading = 5
+factor score = 4
 
-**Oposição** venezuelana **pede** ao PS **apoio** **humanitário** e " 
-reposição " da democracia Em … 
+RT @linsaquiles: Alexandre de Moraes manda tirar do ar **vídeo** do PT com 
+Bolsonaro **falando** que " **pintou** um **clima** " com **meninas** 
+venezuelanas. 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-humanitário (secondary)
-oposição
-pedir
+clima
+falar (secondary)
+menino
+pintar
+vídeo

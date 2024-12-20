@@ -1,20 +1,21 @@
-file = t016714
-date = 2022-10-16
-user = LalaRempel
-conversation = 137025781
-URL = https://twitter.com/LalaRempel/status/1581582162863611904
+file = t001040
+date = 2016-05-28
+user = leandrosioli
+conversation = 251873897
+URL = https://twitter.com/leandrosioli/status/736613718050676736
 
 word count = 19
-words loading = 5
-factor score = 5
+words loading = 6
+factor score = 4
 
-Bolsonaro revela que " **pintou** um **clima** " com **menina** venezuelana de 
-14 **anos** **Fala** repercutiu mal entre usuários das red … 
+RT @Conserv_I: Eis o preço do **socialismo** ! Venezuelanos **comem** 
+**comida** do **lixo** para não **morrer** de **fome** no **socialismo** 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-falar
-menina
-pintar
+comer
+comida
+fome (secondary)
+lixo (secondary)
+morrer
+socialismo

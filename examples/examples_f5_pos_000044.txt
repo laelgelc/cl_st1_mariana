@@ -1,19 +1,19 @@
-file = t018834
-date = 2022-08-30
-user = Marcos96260432
-conversation = 1248745557549633536
-URL = https://twitter.com/Marcos96260432/status/1564755324044722179
+file = t018934
+date = 2022-09-02
+user = RafaelDiaRoc4
+conversation = 1267555385906532352
+URL = https://twitter.com/RafaelDiaRoc4/status/1565718726334451720
 
-word count = 24
+word count = 22
 words loading = 3
 factor score = 3
 
-RT @JornalBSM: Em tempos de socialismo, 6 , 8 **milhões** de venezuelanos 
-deixaram o país de Maduro. O mesmo **número** de **refugiados** ucranianos em 
-t … 
+RT @novaeramidia: flag_venezuela_e - Venezuela supera a Síria em **crise** 
+migratória: Mais de 6 **milhões** de venezuelanos já deixaram seu **país** 
+nos últimos ano … 
 
 Lemmas in this text that loaded on the factor:
 
+crise
 milhão
-número
-refugiado
+país

@@ -1,21 +1,18 @@
-file = t011729
-date = 2019-08-25
-user = scalongg
-conversation = 1119332299
-URL = https://twitter.com/scalongg/status/1165473811036327938
+file = t018662
+date = 2022-07-05
+user = necrodwarf
+conversation = 49128290
+URL = https://twitter.com/necrodwarf/status/1544457958746202113
 
-word count = 15
-words loading = 5
-factor score = 4
+word count = 24
+words loading = 3
+factor score = 3
 
-@BolsonaroSP @Dom_Andolini @mauriciomacri Força, Macri! ! Avante, 
-**argentinos** ! Não **queremos** **vê** -los como os venezuelanos. **Virem** 
-o **jogo** ! 
+**Fiz** cachapas aqui. Honestamente eu achei que ficou **bom** mas ao mesmo 
+tempo **tenho** certeza que 9 a cada 10 venezuelanos ficariam ofendidos 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-jogo (secondary)
-querer
-ver
-virar
+bom
+fazer
+ter

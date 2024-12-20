@@ -1,16 +1,18 @@
-file = t002825
-date = 2017-03-30
-user = syllassousa
-conversation = 195503270
-URL = https://twitter.com/syllassousa/status/847506636277071872
+file = t017906
+date = 2022-01-02
+user = MarxistaJohan
+conversation = 1331999888385699840
+URL = https://twitter.com/MarxistaJohan/status/1477642087843737601
 
-word count = 23
-words loading = 1
-factor score = -1
+word count = 19
+words loading = 3
+factor score = -3
 
-RT @DanielCoelho45 : Maduro acaba de concretizar o golpe de estado ao 
-**fechar** o legislativo venezuelano. Fica claro o que defendem para o Bra … 
+RT @RebeldeSinCauz2 : Pdte @NicolasMaduro **denuncia** que os Estados Unidos, 
+ao sequestrar o **diplomata** venezuelano Alex Saab, sabotou o **diálogo** … 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+denunciar
+diplomata
+diálogo

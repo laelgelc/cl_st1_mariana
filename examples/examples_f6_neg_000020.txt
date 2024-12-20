@@ -1,18 +1,18 @@
-file = t000642
-date = 2016-02-17
-user = Delta_233
-conversation = 2667963392
-URL = https://twitter.com/Delta_233/status/699823741212237828
+file = t006884
+date = 2019-10-09
+user = tnvcampos
+conversation = 4164356301
+URL = https://twitter.com/tnvcampos/status/1181957069236252672
 
-word count = 18
+word count = 22
 words loading = 3
 factor score = -3
 
-HASHTAG #hu3b3t_h Parlamento venezuelano dá 1º **sinal** verde para lei de 
-**anistia** para políticos: Bancada **chavista** votou co. . . 
+RT @BrazilFight: URGENTE Investigações da Marinha do Brasil confirmaram que o 
+**óleo** que poluiu o litoral do **Nordeste** tem **origem** venezuelana. … 
 
 Lemmas in this text that loaded on the factor:
 
-anistia
-chavista
-sinal
+nordeste
+origem
+óleo

@@ -1,19 +1,20 @@
-file = t012022
-date = 2020-10-21
-user = NoticiaSaj
-conversation = 1283888885446201344
-URL = https://twitter.com/NoticiaSaj/status/1318865770403823616
+file = t008080
+date = 2019-01-23
+user = ffmadruga
+conversation = 304918906
+URL = https://twitter.com/ffmadruga/status/1088164542318891008
 
-word count = 15
+word count = 21
 words loading = 4
 factor score = 4
 
-**Navio** venezuelano com 1 , 4 milhão de barris de **petróleo** **corre** 
-**risco** de naufragar 
+RT @viniciuscfp: **Líder** da **oposição** venezuelana se auto **declara** 
+**presidente** interino da Venezuela e é reconhecido pelos EUA. Anúncio 
+ocorre d … 
 
 Lemmas in this text that loaded on the factor:
 
-correr
-navio
-petróleo
-risco
+declarar
+líder
+oposição
+presidente

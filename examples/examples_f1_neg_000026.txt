@@ -1,19 +1,18 @@
-file = t013455
-date = 2020-05-06
-user = JosemarioCAV01
-conversation = 103689792
-URL = https://twitter.com/JosemarioCAV01/status/1258116511455162369
+file = t005372
+date = 2018-08-09
+user = elianaosonho
+conversation = 211991111
+URL = https://twitter.com/elianaosonho/status/1027374267246276608
 
-word count = 18
+word count = 12
 words loading = 3
 factor score = -3
 
-RT @Direita_Network: Narcotráfico: STF " progressista " **suspendeu** 
-**expulsão** de pessoal venezuelano a **serviço** do Cartel de Los Soles no 
-Brasil … 
+RT @folha_mundo: Ministra do STF **suspende** **decreto** que restringia 
+**serviços** para venezuelanos 
 
 Lemmas in this text that loaded on the factor:
 
-expulsão
+decreto
 serviço
 suspender

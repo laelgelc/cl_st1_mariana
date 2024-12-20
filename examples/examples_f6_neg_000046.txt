@@ -1,17 +1,19 @@
-file = t000840
-date = 2016-04-12
-user = helhaodoaxe
-conversation = 147671185
-URL = https://twitter.com/helhaodoaxe/status/719690800335089665
+file = t007611
+date = 2019-11-02
+user = ClemonCarlos
+conversation = 2705523981
+URL = https://twitter.com/ClemonCarlos/status/1190730190042873857
 
-word count = 16
-words loading = 2
-factor score = -2
+word count = 22
+words loading = 3
+factor score = -3
 
-" @VEJA: Supremo venezuelano **declara** inconstitucional lei de **anistia** 
-para opositores " olha Venezuela virando o Brasil 
+RT @drandregusmao: @CNBBNacional Pq o CNBB não cobra de: Maduro ( **óleo** 
+venezuelano ) **Empresa** grega ( dona do **navio** ) PT ( envolveu a 
+**empresa** gr … 
 
 Lemmas in this text that loaded on the factor:
 
-anistia
-declarar
+empresa
+navio
+óleo

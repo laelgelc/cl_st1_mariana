@@ -1,17 +1,16 @@
-file = t002411
-date = 2017-08-29
-user = Leogerchmann
-conversation = 1306116049
-URL = https://twitter.com/Leogerchmann/status/902601444968288256
+file = t002047
+date = 2017-07-29
+user = milca27sp
+conversation = 2440409308
+URL = https://twitter.com/milca27sp/status/891153348036108288
 
-word count = 22
-words loading = 2
-factor score = -2
+word count = 15
+words loading = 1
+factor score = -1
 
-Governo venezuelano já atribui colapso do desabastecimento de **produtos** 
-**básicos** a uma trégua q nem começou direito. Maduro ganha 1 discurso! 
+RT @ricardope: Força para o presidente venezuelano Nicolás Maduro na luta 
+contra o imperialismo norte-americano 
 
 Lemmas in this text that loaded on the factor:
 
-básico
-produto
+americano

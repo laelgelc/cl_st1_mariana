@@ -1,19 +1,17 @@
-file = t006523
-date = 2018-09-15
-user = jennyfercruz76
-conversation = 2833036457
-URL = https://twitter.com/jennyfercruz76/status/1041057085151174656
+file = t000082
+date = 2016-10-23
+user = parabolicalucas
+conversation = 156805960
+URL = https://twitter.com/parabolicalucas/status/790303145473695744
 
-word count = 20
-words loading = 3
-factor score = -3
+word count = 17
+words loading = 2
+factor score = -2
 
-@adrielfcuban @nizmycuba E não votamos em Dilma **fraudaram** as 
-**eleições** nas **urnas** venezuelanas. . . com uma contagem de votos 
-secreta 
+Parlamento venezuelano **aprova** texto que diz que Maduro promoveu **golpe** : 
+Parlamentares irão pedir garantia de d. . . 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-fraudar
-urna
+aprovar
+golpe

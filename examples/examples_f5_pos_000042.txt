@@ -1,18 +1,19 @@
-file = t018930
-date = 2022-09-30
-user = ProtaMendes
-conversation = 1570195449725739008
-URL = https://twitter.com/ProtaMendes/status/1575865397806440448
+file = t001528
+date = 2016-08-14
+user = AlessandroSADM
+conversation = 1058389087
+URL = https://twitter.com/AlessandroSADM/status/764652531234533376
 
-word count = 21
-words loading = 3
-factor score = 3
+word count = 15
+words loading = 4
+factor score = 4
 
-RT @reinaldoazevedo: por meio do Instagram. Ali, ele **chegou** a **receber** 
-alguns **refugiados** venezuelanos. O caso foi denunciado à Defensoria Pú … 
+RT @agirfilosofando: **CRISE** **HUMANITÁRIA** : 142 mil venezuelanos 
+**cruzam** **fronteira** para compra de produtos básicos 
 
 Lemmas in this text that loaded on the factor:
 
-chegar
-receber
-refugiado
+crise
+cruzar
+fronteira
+humanitário

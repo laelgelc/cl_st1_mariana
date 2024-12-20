@@ -1,17 +1,19 @@
-file = t015570
-date = 2021-08-11
-user = Edmilso43986433
-conversation = 1174672861165948928
-URL = https://twitter.com/Edmilso43986433/status/1425246984890470403
+file = t018221
+date = 2022-03-30
+user = lachampt58
+conversation = 781782871946170368
+URL = https://twitter.com/lachampt58/status/1509312547534561281
 
-word count = 22
-words loading = 2
+word count = 17
+words loading = 3
 factor score = 2
 
-@angela_nespoli @Biakicis com certeza ñ irmã , nosso país **corre** um 
-**risco** muito grande de se torna uma Venezuelana ou uma Cuba infelizmente. 
+RT @Conservadora191 : VENEZUELA **flag_venezuela_e** - O oponente venezuelano 
+Leopoldo López **pediu** nesta quarta-feira que uma aproximação entre os 
+governos da … 
 
 Lemmas in this text that loaded on the factor:
 
-correr
-risco
+feira
+flag_venezuela_e (secondary)
+pedir

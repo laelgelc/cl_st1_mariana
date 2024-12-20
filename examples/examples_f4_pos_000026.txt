@@ -1,21 +1,22 @@
-file = t016631
-date = 2022-10-16
-user = EiDuduzinho
-conversation = 277636438
-URL = https://twitter.com/EiDuduzinho/status/1581491435865788416
+file = t000359
+date = 2016-12-24
+user = JFCC__
+conversation = 133115870
+URL = https://twitter.com/JFCC__/status/812721805232324608
 
-word count = 25
-words loading = 5
-factor score = 5
+word count = 21
+words loading = 6
+factor score = 4
 
-RT @joaoabel_ : 0h43 e bolsonaro abriu uma live para **falar** sobre o 
-**vídeo** em que diz que " **pintou** um **clima** " entre ele e **meninas** 
-venezuelanas d … 
+RT @JFCC__ : **Morreu** desgraçado. Por sua culpa, hoje o povo venezuelano 
+**come** **cães** de **rua** pra não **passar** **fome** . fire_e fire_e 
+Queime no inferno … 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-falar
-menino
-pintar
-vídeo
+comer
+cão
+fome (secondary)
+morrer
+passar (secondary)
+rua

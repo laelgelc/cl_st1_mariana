@@ -1,20 +1,21 @@
-file = t016680
-date = 2022-10-16
-user = BrasilLivre20
-conversation = 1148750380999815168
-URL = https://twitter.com/BrasilLivre20/status/1581467419289489408
+file = t001033
+date = 2016-05-28
+user = fox_vendas
+conversation = 103008775
+URL = https://twitter.com/fox_vendas/status/736615152502476804
 
-word count = 17
-words loading = 5
-factor score = 5
+word count = 14
+words loading = 6
+factor score = 4
 
-' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre **meninas** 
-venezuelanas repercute e gera críticas nas **redes** - Eleições 2022 … 
+Venezuelanos **comem** **comida** do **lixo** para não **morrer** de **fome** 
+no **socialismo** via @ilisp_org 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-falar
-menino
-pintar
-rede
+comer
+comida
+fome (secondary)
+lixo (secondary)
+morrer
+socialismo

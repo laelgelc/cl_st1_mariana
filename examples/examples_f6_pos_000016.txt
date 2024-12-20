@@ -1,18 +1,19 @@
-file = t006818
-date = 2019-10-09
-user = Guilherme2702
-conversation = 3384512415
-URL = https://twitter.com/Guilherme2702/status/1181951281092550657
+file = t009387
+date = 2019-03-01
+user = jornaldaband
+conversation = 31201557
+URL = https://twitter.com/jornaldaband/status/1101285927454822400
 
-word count = 20
-words loading = 3
+word count = 18
+words loading = 4
 factor score = 3
 
-RT @oiluiz: Relatório da Petrobras, após analisar 23 amostras, **aponta** que 
-o **petróleo** despejado no **Nordeste** é venezuelano. Leia -se: Maduro, … 
+O **presidente** Jair Bolsonaro **recebeu** o **líder** da **oposição** 
+venezuelana Juan Guaidó e afirmou que o governo brasileiro … 
 
 Lemmas in this text that loaded on the factor:
 
-apontar
-nordeste
-petróleo
+líder
+oposição
+presidente
+receber (secondary)

@@ -1,16 +1,18 @@
-file = t002373
-date = 2017-08-01
-user = AdeliaBeling
-conversation = 2586092395
-URL = https://twitter.com/AdeliaBeling/status/892343209195696128
+file = t010622
+date = 2019-04-30
+user = Alexandria_077
+conversation = 565592408
+URL = https://twitter.com/Alexandria_077/status/1123316345628712960
 
-word count = 22
-words loading = 1
-factor score = -1
+word count = 12
+words loading = 3
+factor score = -3
 
-RT @Castro2Monica: Povo venezuelano tá **fechado** c Maduro, c defesa d 
-soberania nacional e contra interferência dos EUA BR tem patos manipulad … 
+RT @folha: Brasil autoriza **asilo** a 25 **militares** venezuelanos em 
+**embaixada** 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+asilo
+embaixada
+militar

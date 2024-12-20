@@ -1,20 +1,20 @@
-file = t009133
-date = 2019-02-23
-user = gusthpa
-conversation = 55718379
-URL = https://twitter.com/gusthpa/status/1099365808638226432
+file = t004748
+date = 2018-02-19
+user = jornaldaband
+conversation = 31201557
+URL = https://twitter.com/jornaldaband/status/965733567732027392
 
-word count = 15
+word count = 20
 words loading = 5
 factor score = 5
 
-Os primeiros caminhões com **ajuda** **humanitária** **cruzaram** a 
-**fronteira** e **entraram** no território venezuelano eye_e eye_e 
+Por causa da **crise** **humanitária** , mais de 40 mil venezuelanos já 
+**cruzaram** a **fronteira** em busca de **trabalho** e melhores … 
 
 Lemmas in this text that loaded on the factor:
 
-ajuda
+crise
 cruzar
-entrar
 fronteira
 humanitário
+trabalho

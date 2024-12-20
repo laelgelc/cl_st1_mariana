@@ -1,19 +1,19 @@
-file = t014231
-date = 2021-10-19
-user = akarolly10
-conversation = 1165136182541508608
-URL = https://twitter.com/akarolly10/status/1450554056276123649
+file = t007186
+date = 2019-10-09
+user = BrasileiriaMAXI
+conversation = 3688357229
+URL = https://twitter.com/BrasileiriaMAXI/status/1182042331022811136
 
-word count = 12
+word count = 23
 words loading = 4
 factor score = -4
 
-RT @o_antagonista: Ex-chefe de **inteligência** militar **chavista** diz que 
-governo venezuelano **financiou** Lula. 
+RT @JoseMedeirosMT: Foi comprovado que o **óleo** nas **praias** do 
+**Nordeste** é de **origem** Venezuelana. E agora o que dirá o PT? 
 
 Lemmas in this text that loaded on the factor:
 
-chavista
-chefe
-financiar
-inteligência
+nordeste
+origem
+praia
+óleo

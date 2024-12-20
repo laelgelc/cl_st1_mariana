@@ -1,19 +1,17 @@
-file = t012956
-date = 2020-03-11
-user = rmexel
-conversation = 56109493
-URL = https://twitter.com/rmexel/status/1237863547037560838
+file = t000630
+date = 2016-02-17
+user = fransoria80
+conversation = 2746562327
+URL = https://twitter.com/fransoria80/status/699747451012411392
 
-word count = 18
-words loading = 3
-factor score = -3
+word count = 15
+words loading = 2
+factor score = -2
 
-RT @caio_bellote: Ontem: Bolsonaro diz ter provas de **fraude** nas 
-**eleições** brasileiras. Relação direta com Smartmatic **empresa** 
-venezuelana for … 
+Parlamento venezuelano **aprova** **lei** de anistia para opositores presos: 
+Controlado pela oposição, o Parlamento. . . 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-empresa
-fraude
+aprovar
+lei

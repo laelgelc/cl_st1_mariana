@@ -1,17 +1,16 @@
-file = t001536
-date = 2016-08-23
-user = Feferaso
-conversation = 156420488
-URL = https://twitter.com/Feferaso/status/768111535998853120
+file = t001754
+date = 2016-09-03
+user = CarlaLouysse
+conversation = 1669301323
+URL = https://twitter.com/CarlaLouysse/status/771879639979466752
 
-word count = 14
-words loading = 2
-factor score = -2
+word count = 17
+words loading = 1
+factor score = -1
 
-RT @letrasLTDA: **Atletas** venezuelanos retornam com **alimentos** e remédios 
-de Olimpíada no Rio 
+Clínica odontológica clandestina de dentista venezuelana é **fechada** em 
+RR: Polícia foi à casa onde funcionaria. . . 
 
 Lemmas in this text that loaded on the factor:
 
-alimento
-atleta
+fechar

@@ -1,21 +1,19 @@
-file = t011856
-date = 2019-09-17
-user = arrobasaara
-conversation = 1103421860207837184
-URL = https://twitter.com/arrobasaara/status/1173982166386192384
+file = t018725
+date = 2022-08-05
+user = consueloayresm
+conversation = 211169185
+URL = https://twitter.com/consueloayresm/status/1555544011716399106
 
-word count = 24
-words loading = 6
-factor score = 4
+word count = 19
+words loading = 3
+factor score = 3
 
-@myriamps @NicolasMaduro **mulher** tu nem é venezuelana pra ta **apoiando** o 
-Maduro e nem **sabe** o que ta **falando** , vai **tomar** no **cu** 
+RT @tonico_22 : **Cubanos** **fugindo** de Cuba; Venezuelanos **fugindo** da 
+Venezuela. **Argentinos** **fugindo** da Argentina. Chilenos **fugindo** do 
+Chile. Se o … 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar
-cu
-falar (secondary)
-mulher (secondary)
-saber
-tomar
+argentino
+cubano
+fugir

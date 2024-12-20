@@ -1,17 +1,15 @@
-file = t000568
-date = 2016-02-20
-user = Silvio_MKT
-conversation = 196365400
-URL = https://twitter.com/Silvio_MKT/status/701096590858129408
+file = t000862
+date = 2016-04-08
+user = silvatimbeta2
+conversation = 2788861892
+URL = https://twitter.com/silvatimbeta2/status/718289751778988032
 
-word count = 17
-words loading = 2
-factor score = -2
+word count = 12
+words loading = 1
+factor score = -1
 
-Assistam ao sacrifício dos venezuelanos em busca de **comida** , falta tudo, 
-**alimentos** , papel higiênico, sabonetes, tudo. 
+Parlamento venezuelano aprova reforma que **aumenta** nº de juízes do Supremo 
 
 Lemmas in this text that loaded on the factor:
 
-alimento
-comida
+aumentar

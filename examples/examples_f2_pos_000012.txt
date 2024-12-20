@@ -1,20 +1,19 @@
-file = t012073
-date = 2020-10-24
-user = YouTiMao
-conversation = 3071759011
-URL = https://twitter.com/YouTiMao/status/1320040225842860033
+file = t015509
+date = 2021-08-19
+user = Marcos74108334
+conversation = 1301555012737400832
+URL = https://twitter.com/Marcos74108334/status/1428369656797093894
 
-word count = 18
-words loading = 4
-factor score = 4
+word count = 19
+words loading = 3
+factor score = 3
 
-RT @Corinthians: O nosso **meia** @scorpionotero80 foi **convocado** novamente 
-para participar dos **jogos** da **Seleção** Venezuelana, pelas Eliminatória 
-… 
+RT @Falagalo13 : **flag_venezuela_e** Jefferson Savarino foi pré-convocado 
+pela **seleção** venezuelana, para os **jogos** das Eliminatórias da Copa do 
+Mundo contra a … 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
+flag_venezuela_e
 jogo
-meia
 seleção

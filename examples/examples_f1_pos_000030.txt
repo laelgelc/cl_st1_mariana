@@ -1,20 +1,20 @@
-file = t016269
-date = 2022-10-26
-user = sobian10
-conversation = 1096601288467537920
-URL = https://twitter.com/sobian10/status/1585237456873754624
+file = t005644
+date = 2018-10-10
+user = cetusjc
+conversation = 1012282862790496256
+URL = https://twitter.com/cetusjc/status/1050022879725846528
 
-word count = 24
+word count = 26
 words loading = 4
 factor score = 4
 
-RT @opilhado: VENEZUELANO QUE **FUGIU** PRO BRASIL DESABAFA CONTRA QUEM VAI 
-VOTAR NO LULA: " VOCÊS **SABEM** MESMO O QUE É **VIVER** NO **SOCIALISMO** ? 
-" ASS … 
+RT @nicollelaila2 : Vejo gente q n **sabe** nd de Roraima **falando** do 
+estado, vcs **tem** noção como é **viver** em uma cidade onde Venezuelanos 
+matam, r … 
 
 Lemmas in this text that loaded on the factor:
 
-fugir
+falar
 saber
-socialismo
+ter
 viver

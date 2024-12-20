@@ -1,20 +1,20 @@
-file = t016268
-date = 2022-10-16
-user = Estevao_1974
-conversation = 442790645
-URL = https://twitter.com/Estevao_1974/status/1581606737307611136
+file = t005584
+date = 2018-10-12
+user = LCS_2001
+conversation = 912486238438985728
+URL = https://twitter.com/LCS_2001/status/1050757113612525568
 
-word count = 23
-words loading = 4
+word count = 19
+words loading = 5
 factor score = 4
 
-RT @tiasonia62 : Os venezuelanos estão com **medo** do Brasil **virar** uma 
-Venezuela e **ter** que **fugir** daqui também. sad_but_relieved_face_e 
-sad_but_relieved_face_e Mas JUNTOS SOMOS MAIS FORTE … 
+RT @Theus_ptc: Haddad, que **apoia** os **regimes** **cubano** e venezuelano, 
+**falando** que Bolsonaro **quer** fuzilar quem pensa diferente. Ok. … 
 
 Lemmas in this text that loaded on the factor:
 
-fugir
-medo
-ter
-virar
+apoiar (secondary)
+cubano
+falar
+querer
+regime

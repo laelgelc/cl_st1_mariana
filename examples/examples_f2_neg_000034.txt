@@ -1,19 +1,18 @@
-file = t009022
-date = 2019-02-05
-user = alziraaymore
-conversation = 25176613
-URL = https://twitter.com/alziraaymore/status/1092809423599345664
+file = t009108
+date = 2019-02-24
+user = flordelotus05
+conversation = 578771859
+URL = https://twitter.com/flordelotus05/status/1099732017518968833
 
-word count = 15
-words loading = 4
+word count = 25
+words loading = 3
 factor score = -3
 
-@diogomainardi Enquanto o **povo** venezuelano **morre** de **fome** , ele dá 
-**dinheiro** para outros canalhas. 
+RT @StBnoBrasil: O nosso apoio ao **povo** venezuelano q sofre c o **governo** 
+comunista do **ditador** Nicolás Maduro. O polonês já sentiu na pele tod … 
 
 Lemmas in this text that loaded on the factor:
 
-dinheiro
-fome (secondary)
-morrer
+ditador
+governo
 povo

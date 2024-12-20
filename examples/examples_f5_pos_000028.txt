@@ -1,20 +1,19 @@
-file = t006340
-date = 2018-09-18
-user = brunocidadao
-conversation = 2163371677
-URL = https://twitter.com/brunocidadao/status/1042168747694469120
+file = t009145
+date = 2019-02-23
+user = eenfantterrible
+conversation = 3910368635
+URL = https://twitter.com/eenfantterrible/status/1099368589457612800
 
 word count = 22
 words loading = 4
 factor score = 4
 
-RT @helomendonca: **Crise** **obriga** grávidas venezuelanas a irem até 
-Roraima para realizar seus partos, e **número** de nascimentos **cresce** 50 % 
-no Es … 
+RT @helopait: Manifestação para que a **ajuda** **humanitária** possa 
+**entrar** no **país** . Esse é o ponto em que os venezuelanos estão. … 
 
 Lemmas in this text that loaded on the factor:
 
-crescer
-crise
-número
-obrigar
+ajuda
+entrar
+humanitário
+país

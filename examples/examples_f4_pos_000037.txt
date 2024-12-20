@@ -1,20 +1,21 @@
-file = t017848
-date = 2022-11-22
-user = DDJoanaFranco1
-conversation = 1582913971564134400
-URL = https://twitter.com/DDJoanaFranco1/status/1594896267875946496
+file = t017035
+date = 2022-10-17
+user = JorgeFe42443531
+conversation = 1577621325262331904
+URL = https://twitter.com/JorgeFe42443531/status/1582092328671801344
 
-word count = 20
+word count = 22
 words loading = 5
-factor score = 4
+factor score = 3
 
-@DamaresAlves Onde tu estava **qdo** o **presidente** que tu defende, disse ter 
-**pintado** um **clima** com as **meninas** venezuelanos? 
+RT @ferdeg_renasce: Lula é um dos maiores responsáveis pelo povo venezuelano 
+estar **passando** **fome** e tendo que **comer** **carne** de **cachorro** 
+para s … 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-menino
-pintar
-presidente (secondary)
-qdo
+cachorro
+carne
+comer
+fome (secondary)
+passar (secondary)

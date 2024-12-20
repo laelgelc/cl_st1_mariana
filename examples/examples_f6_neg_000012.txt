@@ -1,20 +1,18 @@
-file = t016059
-date = 2022-10-21
-user = AG21D
-conversation = 1142224857364611072
-URL = https://twitter.com/AG21D/status/1583458224719921152
+file = t006833
+date = 2019-10-10
+user = TeresaLenir
+conversation = 1058039780242587648
+URL = https://twitter.com/TeresaLenir/status/1182294727468752897
 
-word count = 18
-words loading = 4
-factor score = -4
+word count = 22
+words loading = 3
+factor score = -3
 
-RT @Isaque45153048 : **Justiça** **espanhola** **concorda** em **extraditar** 
-general venezuelano Carvajal para os EUA HASHTAG #cnnbrasil_h - notícias da 
-@CNNBrasil h … 
+RT @manoelmsgontijo: Descobriu -se q o **petróleo** que contaminou mais de 150 
+**praias** no **nordeste** é venezuelano. A suspeita é q o derramamento f … 
 
 Lemmas in this text that loaded on the factor:
 
-concordar
-espanhol
-extraditar
-justiça
+nordeste
+petróleo
+praia

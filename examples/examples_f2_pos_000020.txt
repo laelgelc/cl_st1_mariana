@@ -1,19 +1,19 @@
-file = t015203
-date = 2021-06-12
-user = paulacramon
-conversation = 53437626
-URL = https://twitter.com/paulacramon/status/1403679148103634948
+file = t014129
+date = 2020-09-18
+user = SCCPreizinho
+conversation = 1207047959440957440
+URL = https://twitter.com/SCCPreizinho/status/1307085451065466886
 
-word count = 19
+word count = 23
 words loading = 3
 factor score = 3
 
-RT @Ricardo_Abreu_ : A **seleção** venezuelana **confirmou** agora à noite 
-que 5 **jogadores** testaram positivo para a Covid-19 . A Venezuela enfrenta o 
-… 
+RT @povotime1910 : Otero foi **convocado** pela **seleção** Venezuelana. Meia 
+irá perder 2 **jogos** são eles, contra o Santos e contra o Ceará . 
+rolled-up_newspaper_e @Meu … 
 
 Lemmas in this text that loaded on the factor:
 
-confirmar
-jogador
+convocar
+jogo
 seleção

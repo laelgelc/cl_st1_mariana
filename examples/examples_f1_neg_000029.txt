@@ -1,19 +1,18 @@
-file = t000106
-date = 2016-10-26
-user = jldiniz1
-conversation = 1239268687
-URL = https://twitter.com/jldiniz1/status/791068408821477380
+file = t006892
+date = 2019-10-24
+user = Gregory61935764
+conversation = 871224507696128000
+URL = https://twitter.com/Gregory61935764/status/1187362008737431552
 
-word count = 14
+word count = 16
 words loading = 3
-factor score = -2
+factor score = -3
 
-RT @httpMoresco: HASHTAG #urgente_h **Parlamento** venezuelano **aprova** 
-início de **processo** político contra. . . by HASHTAG #caesar_viaosnus_h v 
-… 
+RT @MarcosQuezado1 : **Chefão** do **tráfico** venezuelano visita Lula na 
+**prisão** – Noticia Brasil Online via @ NBO04169435 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-parlamento
-processo (secondary)
+chefe
+prisão
+tráfico

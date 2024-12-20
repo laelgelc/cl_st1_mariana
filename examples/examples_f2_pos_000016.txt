@@ -1,19 +1,18 @@
-file = t015611
-date = 2021-08-03
-user = HTE__Sports
-conversation = 956187289
-URL = https://twitter.com/HTE__Sports/status/1422661838177804294
+file = t015004
+date = 2021-05-22
+user = victorgcarvalho
+conversation = 162856828
+URL = https://twitter.com/victorgcarvalho/status/1396075860596305921
 
-word count = 14
-words loading = 4
+word count = 25
+words loading = 3
 factor score = 3
 
-**OFICIAL** ! O meia-atacante venezuelano Matías Lecava, de 18 anos, é novo 
-**reforço** do Santos 
+RT @TelesCinho: Klebinho com 22 anos, era **convocado** pela **seleção** sub 
+15 e sub 17 . Se chamasse El Klebito, fosse Venezuelano e **jogador** da ba … 
 
 Lemmas in this text that loaded on the factor:
 
-atacante
-meia
-oficial (secondary)
-reforço
+convocar
+jogador
+seleção

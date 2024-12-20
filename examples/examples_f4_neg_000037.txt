@@ -1,16 +1,19 @@
-file = t002502
-date = 2017-08-26
-user = mafiasummers
-conversation = 1195666020
-URL = https://twitter.com/mafiasummers/status/901547772909899776
+file = t010798
+date = 2019-05-05
+user = baladas_manolo
+conversation = 882683377798742016
+URL = https://twitter.com/baladas_manolo/status/1125055362787241984
 
-word count = 23
-words loading = 1
-factor score = -1
+word count = 15
+words loading = 4
+factor score = -3
 
-RT @PauloHe52181668 : @JornalOGlobo Os **americanos** podem ter as armas q for, 
-se os venezuelanos tiver Deus e suas armaduras q és teus anj … 
+RT @maibortpetit: Paradeiro de **militares** venezuelanos que **pediram** 
+**asilo** em **embaixada** brasileira é desconhecido 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+asilo
+embaixada
+militar
+pedir (secondary)

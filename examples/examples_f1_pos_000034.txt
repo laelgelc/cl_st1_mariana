@@ -1,21 +1,21 @@
-file = t015868
-date = 2022-10-10
-user = Wolfking_F12
-conversation = 1954031306
-URL = https://twitter.com/Wolfking_F12/status/1579486927665135616
+file = t003043
+date = 2017-04-22
+user = CatuabadoPoder
+conversation = 4857804123
+URL = https://twitter.com/CatuabadoPoder/status/855829725088034816
 
 word count = 22
 words loading = 5
 factor score = 4
 
-RT @BolsonaroSP: Venezuelanos relatam que **viram** crianças **comendo** gato, 
-**cachorro** e iguana. É isso que você **quer** para o seu **filho** ? Lembre 
--se … 
+@RitaLisauskas como uma **boa** adoradora da ditadura venezuelana, não 
+**gosta** de **liberdade** , né ? A **mulher** trabalha SE **QUISER** , não 
+é obrigada. 
 
 Lemmas in this text that loaded on the factor:
 
-cachorro (secondary)
-comer
-filho
+bom
+gostar
+liberdade
+mulher (secondary)
 querer
-ver

@@ -1,22 +1,20 @@
-file = t017385
-date = 2022-10-20
-user = yalegontijo
-conversation = 173316174
-URL = https://twitter.com/yalegontijo/status/1582893050644533248
+file = t004243
+date = 2018-01-14
+user = whowbitch
+conversation = 4719985227
+URL = https://twitter.com/whowbitch/status/952337086572580865
 
 word count = 22
-words loading = 6
-factor score = 5
+words loading = 4
+factor score = 4
 
-RT @biazitagomes: Na semana que veio a tona os **vídeos** do **presidente** 
-Bolsonaro **chamando** de **prostitutas** duas **meninas** venezuelanas de 14 
-**ano** … 
+RT @bchartsnet: Coitados dos nossos vizinhos: com **escassez** de alimentos e 
+**inflação** em 400 . 000 % , venezuelanos já estão **comendo** ração de 
+**gato** … 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-chamar
-menino
-presidente (secondary)
-prostituta
-vídeo
+comer
+escassez
+gato
+inflação

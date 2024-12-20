@@ -1,19 +1,18 @@
-file = t007846
-date = 2019-01-15
-user = danielucas2002
-conversation = 4845842968
-URL = https://twitter.com/danielucas2002/status/1085191305053954050
+file = t001412
+date = 2016-07-20
+user = AlbertoCailan
+conversation = 2757572481
+URL = https://twitter.com/AlbertoCailan/status/755563512223633412
 
-word count = 18
-words loading = 4
+word count = 11
+words loading = 3
 factor score = 3
 
-RT @_gabriel2santos: **Boa** tarde, amigos. Tudo bem? O Santos apresentará seu 
-primeiro **reforço** para a temporada, o meia-atacante venezuelano Y … 
+RT @AtIeticoMG: Você gostou da **contratação** do meia-atacante venezuelano 
+Rómulo Otero? 
 
 Lemmas in this text that loaded on the factor:
 
 atacante
-bom (secondary)
+contratação
 meia
-reforço

@@ -1,17 +1,19 @@
-file = t000862
-date = 2016-04-08
-user = silvatimbeta2
-conversation = 2788861892
-URL = https://twitter.com/silvatimbeta2/status/718289751778988032
+file = t013391
+date = 2020-05-03
+user = newsalternativo
+conversation = 3424954239
+URL = https://twitter.com/newsalternativo/status/1257032875259711488
 
-word count = 12
-words loading = 2
-factor score = -2
+word count = 16
+words loading = 4
+factor score = -3
 
-**Parlamento** venezuelano **aprova** reforma que aumenta nº de juízes do 
-Supremo 
+RT @VIOMUNDO: Pimenta comemora **decisão** do STF que **suspende** 
+**expulsão** de 34 **diplomatas** venezuelanos; vídeo 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-parlamento
+decisão
+diplomata (secondary)
+expulsão
+suspender

@@ -1,20 +1,21 @@
-file = t007564
-date = 2019-11-11
-user = JZanarin
-conversation = 1136039777088745472
-URL = https://twitter.com/JZanarin/status/1193747438143705088
+file = t017504
+date = 2022-10-19
+user = gregoryurism
+conversation = 1040701603186135040
+URL = https://twitter.com/gregoryurism/status/1582877443622604800
 
-word count = 21
-words loading = 4
+word count = 24
+words loading = 5
 factor score = 4
 
-RT @VivianedeBarro5 : A **embaixada** venezuelana na Bolívia foi tomada por 
-**militares** . Evo não pode **pedir** **asilo** político na Venezuela. 
-Espaço aé … 
+RT @FedeBurguesia1 : 5 dias atrás Bolsonaro disse que " **pintou** um 
+**clima** " entre ele e **meninas** venezuelanas de 14 **anos** A **fala** 
+viralizou e ele … 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-militar
-pedir
+ano (secondary)
+clima
+fala
+menino
+pintar

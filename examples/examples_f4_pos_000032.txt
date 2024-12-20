@@ -1,20 +1,19 @@
-file = t016192
-date = 2022-10-19
-user = MarclioAlves17
-conversation = 1565810503489933312
-URL = https://twitter.com/MarclioAlves17/status/1582731746101321728
+file = t017727
+date = 2022-11-03
+user = HarryGa78360548
+conversation = 1560579858341797888
+URL = https://twitter.com/HarryGa78360548/status/1588232051517538304
 
-word count = 20
-words loading = 5
-factor score = 5
+word count = 21
+words loading = 3
+factor score = 3
 
-RT @lazarorosa25 : Mais um **vídeo** do delinquente da república **chamando** 
-as **meninas** **Venezuelanas** de **prostitutas** . Já é o terceiro! … 
+RT @JaspionRedPiLLL: Prefiro **morrer** , do que viver ajoelhado pro sistema! ! 
+! Levaram os venezuelanos ao ponto de **comerem** seus próprios **cães** , 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-chamar
-menino
-prostituta
-venezuelanas
-vídeo
+comer
+cão
+morrer

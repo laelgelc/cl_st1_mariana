@@ -1,20 +1,20 @@
-file = t015266
-date = 2021-06-21
-user = LucasCesarGued1
-conversation = 1312152872751108096
-URL = https://twitter.com/LucasCesarGued1/status/1406785390938370049
+file = t013760
+date = 2020-08-31
+user = DelmiraMathias
+conversation = 963438353352941568
+URL = https://twitter.com/DelmiraMathias/status/1300444248806952963
 
-word count = 22
+word count = 19
 words loading = 4
 factor score = 4
 
-RT @novaeramidia: flag_venezuela_e - No Dia Mundial do **Refugiado** , a 
-oposição venezuelana pediu **ajuda** e proteção para os 5 **milhões** de 
-**imigrantes** que fugir … 
+RT @secomvc: A **Operação** Acolhida **recebe** os **refugiados** do 
+comunismo venezuelano com acolhimento médico, **humanitário** e diplomático. 
+https://t … 
 
 Lemmas in this text that loaded on the factor:
 
-ajuda
-imigrante
-milhão
+humanitário
+operação
+receber
 refugiado

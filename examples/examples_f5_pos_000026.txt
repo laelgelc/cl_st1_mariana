@@ -1,20 +1,19 @@
-file = t008370
-date = 2019-01-24
-user = delaircoelho
-conversation = 1058461609071443968
-URL = https://twitter.com/delaircoelho/status/1088548245641576448
+file = t009500
+date = 2019-02-06
+user = DALTROINFO
+conversation = 406980608
+URL = https://twitter.com/DALTROINFO/status/1093228308748222464
 
-word count = 22
+word count = 13
 words loading = 4
 factor score = 4
 
-RT @AlexandreMega: O secretário dos EUA, Mike Pompeo, **anunciou** que 
-enviará US$ 20 **milhões** em **ajuda** **humanitária** ao povo venezuelano 
-e instou … 
+RT @dw_brasil: Oposição venezuelana denuncia bloqueio à **entrada** de 
+**ajuda** **humanitária** no **país** 
 
 Lemmas in this text that loaded on the factor:
 
 ajuda
-anunciar
+entrada
 humanitário
-milhão
+país

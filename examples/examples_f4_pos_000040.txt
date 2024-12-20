@@ -1,20 +1,20 @@
-file = t017730
-date = 2022-11-01
-user = Denise85421151
-conversation = 1243711604992233472
-URL = https://twitter.com/Denise85421151/status/1587569317935284225
+file = t016695
+date = 2022-10-03
+user = Pedro_Ninho_28
+conversation = 1207506068076662784
+URL = https://twitter.com/Pedro_Ninho_28/status/1576993590106284032
 
-word count = 19
+word count = 22
 words loading = 4
-factor score = 4
+factor score = 3
 
-RT @EvanEduardo: @maoxpn @arthurmoledoval imagine se esse deputado dissesse que 
-**pintou** um **clima** com **Venezuelanas** de 14 **anos** 
-face_screaming_in_fear_e 
+@isaapavilak 23 anos atrás jovens venezuelanos comemoravam a Vitória de 
+Chávez, hoje o **filhos** deles **comem** **lixo** nas **ruas** . . . Pensem 
+nisso. 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-pintar
-venezuelanas
+comer
+filho
+lixo (secondary)
+rua

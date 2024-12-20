@@ -1,19 +1,18 @@
-file = t003549
-date = 2017-05-08
-user = maateusandrade
-conversation = 216077108
-URL = https://twitter.com/maateusandrade/status/861645203052126211
+file = t002694
+date = 2017-09-19
+user = Rlopesreporter
+conversation = 46836821
+URL = https://twitter.com/Rlopesreporter/status/910150567204474885
 
-word count = 23
-words loading = 4
+word count = 19
+words loading = 3
 factor score = -3
 
-Força aos Venezuelanos que tão **morrendo** nas **ruas** , por causa dessa 
-**Ditadura** nojenta do Maduro, que esse **povo** sair dessa ruim logo! ! 
+" O **povo** venezuelano está **passando** fome " , diz Trump, ao citar 
+Venezuela, depois de chamar **governo** cubano de corrupto. 
 
 Lemmas in this text that loaded on the factor:
 
-ditadura
-morrer
+governo
+passar
 povo
-rua (secondary)

@@ -5,11 +5,11 @@ conversation = 752924540431437824
 URL = https://twitter.com/Monique92995547/status/1088163393075400705
 
 word count = 23
-words loading = 4
+words loading = 3
 factor score = -3
 
 RT @CavaleiroTemplo: Para **prender** Guaidó , a **ditadura** vai ter que 
-**passar** por cima de milhões de venezuelanos que estão nas **ruas** nesse 
+**passar** por cima de milhões de venezuelanos que estão nas ruas nesse 
 moment … 
 
 Lemmas in this text that loaded on the factor:
@@ -17,4 +17,3 @@ Lemmas in this text that loaded on the factor:
 ditadura
 passar
 prender
-rua (secondary)

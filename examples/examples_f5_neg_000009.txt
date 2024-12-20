@@ -1,19 +1,18 @@
-file = t000248
-date = 2016-11-08
-user = RolimSkyl
-conversation = 1117427144
-URL = https://twitter.com/RolimSkyl/status/796067578791792640
+file = t000658
+date = 2016-03-24
+user = anddcruz
+conversation = 3570405267
+URL = https://twitter.com/anddcruz/status/713029381522853889
 
-word count = 22
+word count = 14
 words loading = 3
 factor score = -3
 
-RT @guivogt: smartmatic, uma **empresa** venezuelana fundada em 2000 , é a 
-responsável pelas **urnas** **eletrônicas** do brasil e dos EUA tá tranquilo 
-… 
+@empiricus @lobaoeletrico Ainda mais, voz de **urnas** venezuelanas, criadas 
+para **fraude** **eleitoral** . HASHTAG #ocupabrasilia_h 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
-empresa
+eleitoral
+fraude
 urna

@@ -1,17 +1,21 @@
-file = t011129
-date = 2019-05-05
-user = luizalbertotao
-conversation = 52631842
-URL = https://twitter.com/luizalbertotao/status/1124844930361372680
+file = t007377
+date = 2019-11-15
+user = RodP13
+conversation = 487110460
+URL = https://twitter.com/RodP13/status/1195303592003022850
 
-word count = 17
-words loading = 2
-factor score = -2
+word count = 15
+words loading = 6
+factor score = -4
 
-Com o embargo do petróleo venezuelano imposto pelos **americanos** menos 
-petróleo estará em oferta no mundo, **aumentando** … 
+RT @sputnik_brasil: Forças venezuelanas **denuncia** nova violação de seu 
+**espaço** **aéreo** por um **avião** espião norte-americano … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
-aumentar
+americano (secondary)
+avião
+aéreo
+denunciar
+espaço (secondary)
+norte

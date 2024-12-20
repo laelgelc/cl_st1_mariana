@@ -1,21 +1,20 @@
-file = t010496
-date = 2019-04-30
-user = theoldbeechtree
-conversation = 917881012629229568
-URL = https://twitter.com/theoldbeechtree/status/1123304928741601280
+file = t016094
+date = 2022-10-18
+user = matheusagostin
+conversation = 978658091406413824
+URL = https://twitter.com/matheusagostin/status/1582403558581817346
 
-word count = 18
+word count = 14
 words loading = 5
-factor score = 4
+factor score = 5
 
-RT @joicehasselmann: police_car_light_e flag_venezuela_e 25 **militares** 
-venezuelanos **pediram** **asilo** na **Embaixada** do Brasil em Caracas. 
-**Governo** brasileiro irá acolher. flag_brazil_e Bem … 
+RT @CentralEleicoes: police_car_light_e **Venezuelanas** se **negaram** a 
+**gravar** **vídeo** para ajudar **campanha** de Bolsonaro. 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-governo (secondary)
-militar
-pedir
+campanha
+gravar
+negar
+venezuelanas
+vídeo

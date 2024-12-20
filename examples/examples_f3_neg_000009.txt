@@ -1,19 +1,16 @@
-file = t005073
-date = 2018-07-02
-user = dnoticiaspt
-conversation = 22905057
-URL = https://twitter.com/dnoticiaspt/status/1013897876236193792
+file = t000220
+date = 2016-11-03
+user = luizrogerio73
+conversation = 36956926
+URL = https://twitter.com/luizrogerio73/status/793989049488969728
 
 word count = 14
-words loading = 4
-factor score = -3
+words loading = 1
+factor score = -1
 
-Venezuelanos protestam contra baixos **salários** , falta de **produtos** 
-**básicos** e **medicamentos** : Os venezuelanos protestara … 
+Podem contratar 300 mil **colombianos** e venezuelanos. . . . não engraxam a 
+chuteira do Rob 
 
 Lemmas in this text that loaded on the factor:
 
-básico
-medicamento (secondary)
-produto
-salário
+colombiano

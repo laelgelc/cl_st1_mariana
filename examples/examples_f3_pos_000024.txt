@@ -1,18 +1,20 @@
-file = t015030
-date = 2021-05-20
-user = MSHoje_combr
-conversation = 987735675897249792
-URL = https://twitter.com/MSHoje_combr/status/1395431946847719425
+file = t017207
+date = 2022-10-18
+user = jornalagora_uol
+conversation = 1463168019354599424
+URL = https://twitter.com/jornalagora_uol/status/1582477093136392243
 
 word count = 13
-words loading = 3
-factor score = 3
+words loading = 5
+factor score = 4
 
-Herculano **pede** **apoio** parlamentar para **ação** de regularização de 
-venezuelanos em MS 
+**Vídeo** : Bolsonaro pede **desculpas** a venezuelanas por " **pintou** um 
+**clima** " ; assista O **presidente** … 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-ação
-pedir
+clima
+desculpa
+pintar
+presidente (secondary)
+vídeo

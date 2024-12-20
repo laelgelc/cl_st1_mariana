@@ -1,20 +1,18 @@
-file = t018021
-date = 2022-02-23
-user = Lidianeguima52
-conversation = 1484315519905722368
-URL = https://twitter.com/Lidianeguima52/status/1496503973595029507
+file = t017224
+date = 2022-10-25
+user = Paulo__Franco
+conversation = 52829277
+URL = https://twitter.com/Paulo__Franco/status/1584716658547265536
 
-word count = 25
-words loading = 4
-factor score = 4
+word count = 20
+words loading = 3
+factor score = 3
 
-RT @Paulinhaguima52 : Hoje de manhã uma venezuelana com uma **menina** de 7 
-**anos** mais ou menos bateram na minha **casa** . A **mulher** pedia algo para 
-… 
+@FernandoHoliday Povo venezuelano está **comendo** **cachorro** , por falta de 
+**comida** ! A escolha é fácil! O voto no dia 30 s … 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-casa
-menina
-mulher
+cachorro
+comer
+comida

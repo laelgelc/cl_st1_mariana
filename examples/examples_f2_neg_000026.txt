@@ -1,18 +1,19 @@
-file = t007604
-date = 2019-11-28
-user = MarcioH49532587
-conversation = 1147141530702045184
-URL = https://twitter.com/MarcioH49532587/status/1200200899139964929
+file = t007668
+date = 2019-12-17
+user = SandraC67084210
+conversation = 1024124563611951104
+URL = https://twitter.com/SandraC67084210/status/1206921797305806851
 
-word count = 16
+word count = 23
 words loading = 3
 factor score = -3
 
-RT @o_antagonista: A **ditadura** venezuelana é mantida com **dinheiro** do 
-**crime** , afirmou o almirante Craig Faller. 
+RT @LivreUff: Vídeo mostrando que o **governo** socialista venezuelano está 
+massacrando o seu **povo** para manter uma **ditadura** ! Onde está a ONU? O 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-crime
-dinheiro
 ditadura
+governo
+povo

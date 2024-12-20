@@ -1,21 +1,19 @@
-file = t014737
-date = 2021-03-17
-user = gcvlo
-conversation = 3786006202
-URL = https://twitter.com/gcvlo/status/1372191065118285831
+file = t012980
+date = 2020-03-14
+user = cavalinhogalo
+conversation = 864179906925789184
+URL = https://twitter.com/cavalinhogalo/status/1238959283779375110
 
-word count = 22
+word count = 9
 words loading = 4
 factor score = 4
 
-RT @LibertadoresBR: boy_medium-light_skin_tone_e **flag_venezuela_e** Com 
-vocês, Yeferson Soteldo! smiling_face_with_heart-eyes_e A classe do 
-venezuelano para cobrar a falta com perfeição e fazer o **gol** que classi 
-… 
+**GOL** DO MEU OUTRO VENEZUELANO QUE AMO, SAVARINO 
+smiling_face_with_heart-eyes_e **soccer_ball_e** 
 
 Lemmas in this text that loaded on the factor:
 
 eyes_e
-flag_venezuela_e
 gol
 smiling_face_with_heart
+soccer_ball_e

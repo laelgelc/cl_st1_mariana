@@ -1,18 +1,19 @@
-file = t012357
-date = 2020-11-21
-user = DireitaMaria
-conversation = 1002041935299833856
-URL = https://twitter.com/DireitaMaria/status/1330017145493876737
+file = t000248
+date = 2016-11-08
+user = RolimSkyl
+conversation = 1117427144
+URL = https://twitter.com/RolimSkyl/status/796067578791792640
 
-word count = 13
+word count = 22
 words loading = 3
-factor score = -3
+factor score = -2
 
-@allanldsantos @realDonaldTrump @danielPMERJ 09 ) " SMARTMATIC, a **empresa** 
-Venezuelana que fabrica as **urnas** **eletrônica** … 
+RT @guivogt: smartmatic, uma **empresa** venezuelana fundada em 2000 , é a 
+responsável pelas **urnas** **eletrônicas** do brasil e dos EUA tá tranquilo 
+… 
 
 Lemmas in this text that loaded on the factor:
 
 eletrônico
-empresa
+empresa (secondary)
 urna

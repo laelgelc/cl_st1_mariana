@@ -1,21 +1,20 @@
-file = t003298
-date = 2017-04-02
-user = ottoliveira
-conversation = 281470414
-URL = https://twitter.com/ottoliveira/status/848337653741342720
+file = t002672
+date = 2017-08-05
+user = SalnaTequila
+conversation = 3169691674
+URL = https://twitter.com/SalnaTequila/status/893931919246856193
 
-word count = 22
-words loading = 5
+word count = 27
+words loading = 4
 factor score = -3
 
-RT @stellebl: É revoltante esses imbecís defendendo o **ditador** 
-venezuelano. o **povo** **pedindo** refúgio no Brasil, **passa** **fome** , ñ 
-tem ph. G … 
+o caso aqui nao é puramente a inclinação política. O **governo** 
+venezuelano parou de governar para o **povo** e impos uma **ditadura** . Com 
+ela a **crise** 
 
 Lemmas in this text that loaded on the factor:
 
-ditador
-fome (secondary)
-passar
-pedir (secondary)
+crise (secondary)
+ditadura
+governo
 povo

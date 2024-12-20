@@ -1,20 +1,18 @@
-file = t010048
-date = 2019-03-14
-user = naomencheosaco
-conversation = 983142366314983424
-URL = https://twitter.com/naomencheosaco/status/1106194311715192833
+file = t018618
+date = 2022-07-17
+user = ricardaope
+conversation = 721291638203629568
+URL = https://twitter.com/ricardaope/status/1548633954621820932
 
-word count = 20
-words loading = 4
-factor score = 4
+word count = 22
+words loading = 3
+factor score = 3
 
-RT @gaviaox108 : **flag_brazil_e** Venezuelanos estão bebendo água de esgosto 
-e **comendo** **lixo** HASHTAG #socorro_h HASHTAG #ditaduradomaduro_h / É isso 
-que a @gleisi **apóia** . . . . http … 
+RT @marcofeliciano: Mas se os governos de esquerda são tão **bons** pq tantos 
+venezuelanos, **bolivianos** e **argentinos** vêm morar no Brasil? ? ? ? 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar
-comer
-flag_brazil_e
-lixo
+argentino
+boliviano
+bom

@@ -1,19 +1,18 @@
-file = t001315
-date = 2016-07-11
-user = Querubim_d4
-conversation = 2505532674
-URL = https://twitter.com/Querubim_d4/status/752525233882402817
+file = t008103
+date = 2019-01-24
+user = caromedy
+conversation = 493002286
+URL = https://twitter.com/caromedy/status/1088256514987577344
 
-word count = 16
-words loading = 4
+word count = 19
+words loading = 3
 factor score = 3
 
-Veja: **Milhares** de venezuelanos **atravessam** fronteira com a Colômbia 
-para **comprar** **comida** : O go. . . Via @querubim_d4 
+RT @leandroruschel: E a União Europeia? Não vai reconhecer o **novo** 
+**presidente** venezuelano? Ou **apoiará** a narcoditadura implicitamente? 
 
 Lemmas in this text that loaded on the factor:
 
-atravessar
-comida (secondary)
-comprar
-milhar
+apoiar
+novo
+presidente

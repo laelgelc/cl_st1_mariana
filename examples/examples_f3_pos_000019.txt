@@ -1,19 +1,21 @@
-file = t018519
-date = 2022-06-12
-user = RickyWill0309
-conversation = 806295462374412288
-URL = https://twitter.com/RickyWill0309/status/1536128389748342785
+file = t017419
+date = 2022-10-17
+user = FabioDib3
+conversation = 1507051236654305280
+URL = https://twitter.com/FabioDib3/status/1582156111444316166
 
-word count = 23
-words loading = 3
-factor score = 3
+word count = 21
+words loading = 5
+factor score = 4
 
-RT @NoticiaeGuerra: O **líder** **opositor** venezuelano Juan Guaidó foi 
-agredido e expulso de um restaurante por um **grupo** de pessoas neste sábado, 
-… 
+RT @marinalang: ' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre 
+**meninas** venezuelanas é asquerosa, abjeta, nojenta e até agora não foi 
+**explicada** … 
 
 Lemmas in this text that loaded on the factor:
 
-grupo
-líder
-opositor
+clima
+explicar
+falar (secondary)
+menino
+pintar

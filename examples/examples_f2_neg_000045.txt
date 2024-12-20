@@ -1,20 +1,18 @@
-file = t012511
-date = 2020-12-03
-user = Dimas70476533
-conversation = 1034297038605873152
-URL = https://twitter.com/Dimas70476533/status/1334341133162442755
+file = t010807
+date = 2019-05-05
+user = Queenie_owo
+conversation = 1018858696556924928
+URL = https://twitter.com/Queenie_owo/status/1125069388548321281
 
 word count = 20
-words loading = 4
+words loading = 3
 factor score = -3
 
-RT @Damadeferroofic: A Venezuela está caindo acabada. Sua economia? Falida. O 
-**povo** venezuelano? **Morrendo** de **fome** . Seu **governo** ? Ditatorial. 
-… 
+Acabou de **passar** uma moça no stories defendendo que a **população** 
+Venezuelana não abre mão do **governo** maduro por que … 
 
 Lemmas in this text that loaded on the factor:
 
-fome (secondary)
 governo
-morrer
-povo
+passar
+população

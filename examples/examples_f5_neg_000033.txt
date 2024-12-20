@@ -1,18 +1,17 @@
-file = t014578
-date = 2021-01-03
-user = a_xpz
-conversation = 44608102
-URL = https://twitter.com/a_xpz/status/1345797694162403333
+file = t000697
+date = 2016-03-10
+user = Tatianelopesb
+conversation = 3069771982
+URL = https://twitter.com/Tatianelopesb/status/708039929775828992
 
-word count = 18
-words loading = 3
-factor score = -3
+word count = 16
+words loading = 2
+factor score = -2
 
-RT @fatos_esquerda: **Urnas** da Smartmatic, **empresa** venezuelana comandada 
-por George Soros, que serão usadas na **eleição** venezuelana. A empres … 
+Oposição venezuelana avança para revogar mandato de Maduro: Assembleia 
+**aprovou** **lei** que regerá referendo revoga. . . 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-empresa
-urna
+aprovar
+lei

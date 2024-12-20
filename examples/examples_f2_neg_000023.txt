@@ -1,20 +1,18 @@
-file = t006468
-date = 2018-09-18
-user = RitaMariaOliv
-conversation = 844696290453807104
-URL = https://twitter.com/RitaMariaOliv/status/1041906016479272960
+file = t006592
+date = 2018-09-27
+user = Marcos49Fs
+conversation = 2885149171
+URL = https://twitter.com/Marcos49Fs/status/1045180052407758848
 
-word count = 23
-words loading = 4
+word count = 19
+words loading = 3
 factor score = -3
 
-RT @WAGSILMAR: Isto é o Comunismo! ! Enquanto o **povo** venezuelano **passa** 
-**fome** , Nicolas Maduro, o **ditador** , se come fartamente! Lembre q TODOS o 
-… 
+@brina_gugli Pois é , ne, menina Maduro **passa** fogo nos venezuelanos 
+desarmados e o **ditador** daqui quer armar o **povo** 
 
 Lemmas in this text that loaded on the factor:
 
 ditador
-fome (secondary)
 passar
 povo

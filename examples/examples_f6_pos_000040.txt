@@ -1,18 +1,17 @@
-file = t017323
-date = 2022-10-13
-user = moaz_sabino
-conversation = 1062292864858763264
-URL = https://twitter.com/moaz_sabino/status/1580377030272483328
+file = t018842
+date = 2022-08-11
+user = VALERIAMINCHER2
+conversation = 1161257641030705152
+URL = https://twitter.com/VALERIAMINCHER2/status/1557878464845418497
 
-word count = 18
-words loading = 3
+word count = 20
+words loading = 2
 factor score = 2
 
-Os Venezuelanos estão **atravessando** a fronteira para **procurar** 
-**comida** no Lixo brasileiro, isso porque não há **comida** N … 
+RT @Sonaira_sp: Essa é a Carina Vitral, ex-presidente da UNE, que **apoia** 
+Nicolás Maduro, o ditador que matou estudantes venezuelanos que pro … 
 
 Lemmas in this text that loaded on the factor:
 
-atravessar
-comida (secondary)
-procurar
+apoiar
+presidente

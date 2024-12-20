@@ -1,17 +1,18 @@
-file = t003087
-date = 2017-10-18
-user = mauroernani
-conversation = 259614430
-URL = https://twitter.com/mauroernani/status/920476520052940800
+file = t003177
+date = 2017-04-03
+user = Anaamvs_Sanches
+conversation = 325109785
+URL = https://twitter.com/Anaamvs_Sanches/status/848749404387504128
 
-word count = 11
+word count = 18
 words loading = 2
 factor score = -2
 
-**Sistema** venezuelano é exemplarmente blindado a **fraude** , diz juiz 
-brasileiro 
+RT @leandroruschel: Numa **eleição** claramente **fraudada** , candidato 
+bolivariano ganha **eleição** e consolida Equador rumo ao desastre 
+venezuelano. 
 
 Lemmas in this text that loaded on the factor:
 
-fraude
-sistema
+eleição
+fraudar

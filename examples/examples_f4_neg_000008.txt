@@ -1,16 +1,18 @@
-file = t000328
-date = 2016-12-17
-user = SilkPesooa
-conversation = 755575006676054016
-URL = https://twitter.com/SilkPesooa/status/810113904420458496
+file = t001070
+date = 2016-05-17
+user = jefrei_beta
+conversation = 2443882464
+URL = https://twitter.com/jefrei_beta/status/732645256349417472
 
-word count = 20
-words loading = 1
-factor score = -1
+word count = 17
+words loading = 3
+factor score = -3
 
-RT @brasil_fotos: Com a parte venezuelana da fronteira **fechada** , 
-brasileiros chegam ao Brasil andando pelo mato. Um deles perdeu o pró … 
+Nicolás Maduro **denuncia** incursão de **avião** **militar** dos EUA na 
+Venezuela: Presidente venezuelano diz ter detect. . . 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+avião
+denunciar
+militar

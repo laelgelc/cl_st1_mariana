@@ -1,18 +1,18 @@
-file = t000812
-date = 2016-04-13
-user = DMatheus22
-conversation = 283304328
-URL = https://twitter.com/DMatheus22/status/720080908326408192
+file = t006908
+date = 2019-10-10
+user = NaBocaDo_Povo
+conversation = 1126088270557995008
+URL = https://twitter.com/NaBocaDo_Povo/status/1182291502048927745
 
-word count = 14
+word count = 21
 words loading = 3
 factor score = -3
 
-RT @Estadao: ONU critica **decisão** da **Justiça** venezuelana de vetar lei 
-de **anistia** 
+Foram 23 testes e todos apontaram que o **óleo** no litoral do **nordeste** é 
+Venezuelano. Se fosse outra **origem** estariam g … 
 
 Lemmas in this text that loaded on the factor:
 
-anistia
-decisão
-justiça
+nordeste
+origem
+óleo

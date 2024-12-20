@@ -1,17 +1,16 @@
-file = t000767
-date = 2016-04-28
-user = marcsys
-conversation = 146076424
-URL = https://twitter.com/marcsys/status/725671240271278080
+file = t001050
+date = 2016-05-26
+user = saidosereno
+conversation = 213088053
+URL = https://twitter.com/saidosereno/status/735644934502391808
 
-word count = 19
-words loading = 2
-factor score = -2
+word count = 20
+words loading = 1
+factor score = -1
 
-Verdade Gospel - Portal gospel de notícias do Brasil: " Crise: **salário** de 
-87 % dos venezuelanos não dá para **comida** " 
+Em RR, venezuelanos, **colombiana** e brasileira são presos com 9 kg droga: 
+Grupo foi preso pela Civil com cocaín. . . 
 
 Lemmas in this text that loaded on the factor:
 
-comida
-salário
+colombiano

@@ -1,18 +1,20 @@
-file = t007207
-date = 2019-10-25
-user = jeffbasket
-conversation = 58813097
-URL = https://twitter.com/jeffbasket/status/1187854734591434752
+file = t010581
+date = 2019-05-01
+user = moniquediniz
+conversation = 2480293392
+URL = https://twitter.com/moniquediniz/status/1123386994485354501
 
-word count = 14
-words loading = 3
+word count = 22
+words loading = 4
 factor score = 3
 
-RT @folha: **Petróleo** no **Nordeste** é mistura de três **campos** 
-venezuelanos, diz Petrobras 
+RT @andrizek: **Apoia** o **direito** de os venezuelanos irem às **ruas** 
+contra um governo ditatorial / trágico? **Apoio** totalmente. É o mesmo 
+raciocínio … 
 
 Lemmas in this text that loaded on the factor:
 
-campo
-nordeste
-petróleo
+apoiar
+apoio
+direito
+rua (secondary)

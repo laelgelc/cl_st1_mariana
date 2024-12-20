@@ -1,22 +1,20 @@
-file = t018619
-date = 2022-07-18
-user = EltonFiamoncini
-conversation = 1268006804
-URL = https://twitter.com/EltonFiamoncini/status/1549059051513946112
+file = t012896
+date = 2020-03-18
+user = super_sappo
+conversation = 350874814
+URL = https://twitter.com/super_sappo/status/1240104068711944193
 
-word count = 24
-words loading = 6
-factor score = 6
+word count = 19
+words loading = 5
+factor score = 5
 
-RT @LucianoHangBr: 5 . Muitos dos **argentinos** , **cubanos** e venezuelanos 
-**vêm** para o Brasil para **fugir** do comunismo, da **fome** e da 
-**miséria** , mas pa … 
+RT @WORD_NEWSS: **Falta** de **papel** higiênico em mercados **faz** 
+venezuelano que **fugiu** para o Brasil se sentir em **casa** . 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-cubano
-fome
+casa
+falta
+fazer
 fugir
-miséria
-vir
+papel

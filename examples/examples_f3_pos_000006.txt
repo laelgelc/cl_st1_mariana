@@ -1,20 +1,21 @@
-file = t010726
-date = 2019-04-30
-user = drakecafajeste
-conversation = 375895663
-URL = https://twitter.com/drakecafajeste/status/1123366861817753600
+file = t017000
+date = 2022-10-15
+user = Mika49086614
+conversation = 1036452918373888000
+URL = https://twitter.com/Mika49086614/status/1581395109513285632
 
 word count = 22
-words loading = 4
-factor score = 4
+words loading = 5
+factor score = 5
 
-RT @digital_explora: VENEZUELA HOJE / TESÃO NAS RUAS - Em dia de **novos** 
-protestos em que o povo venezuelano **pede** **apoio** dos **militares** para 
-qu … 
+RT @_pinheira: Um **absurdo** a **fala** de Bolsonaro sobre **meninas** 
+venezuelanas. 1 ) Meninas se **arrumam** no sábado e daí ? 2 ) Como assim, " 
+**pintou** … 
 
 Lemmas in this text that loaded on the factor:
 
-apoio
-militar
-novo
-pedir
+absurdo
+arrumar
+fala
+menino
+pintar

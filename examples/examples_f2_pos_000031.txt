@@ -1,18 +1,34 @@
-file = t013944
-date = 2020-09-18
-user = Carol_canoa
-conversation = 68181355
-URL = https://twitter.com/Carol_canoa/status/1306989099509780481
+file = t007506
+date = 2019-12-01
+user = manutrouxao
+conversation = 1186072216238284800
+URL = https://twitter.com/manutrouxao/status/1200986215446646784
 
-word count = 21
+word count = 12
 words loading = 3
 factor score = 3
 
-RT @Vessoni: Info do @MeuTimao: Corinthians é avisado da convocação de Otero 
-pela **seleção** venezuelana; **meia** perderá dois **jogos** https://t. … 
+Luiz: eu Dei pao baguette_bread_e baguette_bread_e baguette_bread_e 
+baguette_bread_e pros venezuelanos smiling_face_with_heart-eyes_e 
+**flag_venezuela_e** smiling_face_with_heart-eyes_e 
+smiling_face_with_heart-eyes_e smiling_face_with_hearts_e 
+smiling_face_with_hearts_e star-struck_e star-struck_e Also luiz: ImIgrAntE nA 
+FedEraL? ? ? ? ? ? face_with_symbols_on_mouth_e pouting_face_e 
+face_with_symbols_on_mouth_e face_with_symbols_on_mouth_e pouting_face_e 
+face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
+pouting_face_e angry_face_e angry_face_e face_with_symbols_on_mouth_e 
+face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
+pouting_face_e face_with_symbols_on_mouth_e pouting_face_e 
+face_with_symbols_on_mouth_e angry_face_e pouting_face_e 
+face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
+angry_face_e pouting_face_e face_with_symbols_on_mouth_e pouting_face_e 
+face_with_symbols_on_mouth_e pouting_face_e face_with_symbols_on_mouth_e 
+angry_face_e face_with_symbols_on_mouth_e face_with_symbols_on_mouth_e 
+face_with_symbols_on_mouth_e face_with_symbols_on_mouth_e 
+face_with_symbols_on_mouth_e angry_face_e pouting_face_e 
 
 Lemmas in this text that loaded on the factor:
 
-jogo
-meia
-seleção
+eyes_e
+flag_venezuela_e
+smiling_face_with_heart

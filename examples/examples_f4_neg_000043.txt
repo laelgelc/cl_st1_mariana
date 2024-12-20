@@ -1,16 +1,17 @@
-file = t002944
-date = 2017-03-19
-user = AuroGiuliano
-conversation = 37752323
-URL = https://twitter.com/AuroGiuliano/status/843357404268052480
+file = t000079
+date = 2016-10-23
+user = barbarajanai201
+conversation = 2784762218
+URL = https://twitter.com/barbarajanai201/status/790277178525003776
 
-word count = 17
-words loading = 1
-factor score = -1
+word count = 14
+words loading = 2
+factor score = -2
 
-RT @arte_prima: **Americanos** , Alemães, Russos, Franceses, Espanhóis, 
-Cubanos, Venezuelanos, etc. , defendem suas EMPRESAS c / unhas e dentes! ! … 
+Manifestantes chavistas **invadem** sessão do parlamento venezuelano: 
+**Grupos** chavistas **invadiram** neste domingo ( 2 . . . 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+grupo
+invadir

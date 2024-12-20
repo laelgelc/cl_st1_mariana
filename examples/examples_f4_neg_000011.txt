@@ -1,16 +1,19 @@
-file = t000488
-date = 2016-01-28
-user = laaisautzig
-conversation = 104594993
-URL = https://twitter.com/laaisautzig/status/692537496970924032
+file = t007247
+date = 2019-11-13
+user = TiaMarianaLula
+conversation = 1108613292984057856
+URL = https://twitter.com/TiaMarianaLula/status/1194602056927064064
 
-word count = 14
-words loading = 1
-factor score = -1
+word count = 22
+words loading = 3
+factor score = -3
 
-Maduro pede ' plano anticrise ' em reunião de bloco latino-americano: O 
-presidente venezuelano, Nicolás Maduro, . . . 
+RT @uczai: VENEZUELA I Um **grupo** de milicianos venezuelanos ligados a 
+golpista Juan Guaidó **invadiu** a **Embaixada** da Venezuela em Brasília 
+para … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+embaixada
+grupo
+invadir

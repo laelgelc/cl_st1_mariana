@@ -1,20 +1,20 @@
-file = t007742
-date = 2019-12-26
-user = SouzzaBR
-conversation = 556465630
-URL = https://twitter.com/SouzzaBR/status/1210011367786201088
+file = t003924
+date = 2017-06-15
+user = ronilsonsb
+conversation = 48126016
+URL = https://twitter.com/ronilsonsb/status/875445557950644225
 
-word count = 14
+word count = 21
 words loading = 5
 factor score = 5
 
-Crianças venezuelanas acabam nas ruas após **cruzar** **fronteira** em 
-**busca** de **ajuda** **humanitária** 
+Com 5 . 787 **pedidos** de **refúgio** em 6 **meses** , **número** de 
+**entrada** de venezuelanos mais do que dobra em Roraima 
 
 Lemmas in this text that loaded on the factor:
 
-ajuda
-busca
-cruzar
-fronteira
-humanitário
+entrada
+mês
+número
+pedido
+refúgio

@@ -1,19 +1,18 @@
-file = t015509
-date = 2021-08-19
-user = Marcos74108334
-conversation = 1301555012737400832
-URL = https://twitter.com/Marcos74108334/status/1428369656797093894
+file = t014927
+date = 2021-04-03
+user = ricardo1tavares
+conversation = 2564533712
+URL = https://twitter.com/ricardo1tavares/status/1378391060121014274
 
-word count = 19
+word count = 24
 words loading = 3
 factor score = 3
 
-RT @Falagalo13 : **flag_venezuela_e** Jefferson Savarino foi pré-convocado 
-pela **seleção** venezuelana, para os **jogos** das Eliminatórias da Copa do 
-Mundo contra a … 
+RT @FelipeBMSa: Seu **time** precisa de um **atacante** de lado de campo e que 
+também faça **gols** ? Conheça Eduard Bello, venezuelano do Antofagasta. … 
 
 Lemmas in this text that loaded on the factor:
 
-flag_venezuela_e
-jogo
-seleção
+atacante
+gol
+time

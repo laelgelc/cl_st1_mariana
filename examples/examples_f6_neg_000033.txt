@@ -1,18 +1,18 @@
-file = t018776
-date = 2022-08-09
-user = SrgioSoaresDia4
-conversation = 1326957970085867520
-URL = https://twitter.com/SrgioSoaresDia4/status/1557038974920687616
+file = t007130
+date = 2019-10-13
+user = Mrcia74588695
+conversation = 1053027610714886144
+URL = https://twitter.com/Mrcia74588695/status/1183241713223114752
 
-word count = 11
+word count = 19
 words loading = 3
 factor score = -3
 
-RT @revistaoeste: Líder **chavista** **acusa** Argentina de ' sequestrar ' 
-**avião** venezuelano 
+RT @Vitor__RJ: É HASHTAG #fake_h que vídeo mostre **navio** venezuelano 
+jogando **óleo** no mar no **Nordeste** - Fato ou Fake - G1 
 
 Lemmas in this text that loaded on the factor:
 
-acusar
-avião
-chavista
+navio
+nordeste
+óleo

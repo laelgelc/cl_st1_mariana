@@ -1,15 +1,17 @@
-file = t003624
-date = 2017-05-29
-user = jornaltijucas
-conversation = 2151270211
-URL = https://twitter.com/jornaltijucas/status/869005694887878657
+file = t000943
+date = 2016-05-06
+user = marly9655
+conversation = 2421572954
+URL = https://twitter.com/marly9655/status/728569886054584320
 
-word count = 9
-words loading = 1
-factor score = -1
+word count = 16
+words loading = 2
+factor score = -2
 
-Oposição venezuelana **aumentará** pressão nas ruas contra Maduro 
+Comerciante **denuncia** assaltos feitos por venezuelanos na fronteira de RR: 
+**Ações** são praticadas em Pacaraima, . . . 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+ação
+denunciar

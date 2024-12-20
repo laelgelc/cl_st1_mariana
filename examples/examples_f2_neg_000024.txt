@@ -1,18 +1,18 @@
-file = t006497
-date = 2018-10-18
-user = _LopezBruno
-conversation = 963787807268491264
-URL = https://twitter.com/_LopezBruno/status/1053008649529057281
+file = t006712
+date = 2018-12-04
+user = MARCELOMRS1990
+conversation = 960775766
+URL = https://twitter.com/MARCELOMRS1990/status/1069784393340911617
 
-word count = 18
+word count = 19
 words loading = 3
 factor score = -3
 
-É vergonhoso demais isso. Não só **passamos** pano pra **ditadura** 
-venezuelana como os financiamos com nosso **dinheiro** . 
+O **Governo** venezuelano tá querendo **expulsar** seu **povo** do próprio 
+país com sua política fascista e comunista. HASHTAG #programadoporchat_h 
 
 Lemmas in this text that loaded on the factor:
 
-dinheiro
-ditadura
-passar
+expulsar
+governo
+povo

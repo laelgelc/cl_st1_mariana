@@ -1,19 +1,20 @@
-file = t014170
-date = 2021-10-20
-user = laroccadf
-conversation = 224306839
-URL = https://twitter.com/laroccadf/status/1450806880524189704
+file = t006829
+date = 2019-10-09
+user = AugustaAPDeSou1
+conversation = 1075544373570519040
+URL = https://twitter.com/AugustaAPDeSou1/status/1181950777780326401
 
-word count = 13
+word count = 21
 words loading = 4
 factor score = -4
 
-RT @claudioedantas: Ex-chefe de **inteligência** militar **chavista** diz que 
-governo venezuelano **financiou** Lula 
+RT @carmelonetobr: As manchas de **óleo** nas **praias** do **Nordeste** são 
+de **origem** venezuelana, segundo relatório da Petrobras. A possibilidade de 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-chavista
-chefe
-financiar
-inteligência
+nordeste
+origem
+praia
+óleo

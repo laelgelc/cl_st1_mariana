@@ -1,20 +1,19 @@
-file = t012127
-date = 2020-10-01
-user = vitoorialary
-conversation = 1153857003695071232
-URL = https://twitter.com/vitoorialary/status/1311774267705569286
+file = t015533
+date = 2021-08-04
+user = morao980
+conversation = 1219631570874773504
+URL = https://twitter.com/morao980/status/1422763701053050880
 
-word count = 12
-words loading = 4
-factor score = 4
+word count = 23
+words loading = 3
+factor score = 3
 
-RT @Atletico: **soccer_ball_e** ️ **flag_venezuela_e** @QSavarino10 é 
-**convocado** para a **Seleção** Venezuelana ( @SeleVinotinto ) : HASHTAG 
-#galo_h black_flag_e white_flag_e … 
+RT @SantosFC: O Santos FC terá novamente um **jogador** venezuelano. O 
+meia-atacante Matías Lacava é o novo reforço do Peixe e chega por emprés 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
-flag_venezuela_e
-seleção
-soccer_ball_e
+atacante
+jogador
+meia

@@ -1,16 +1,18 @@
-file = t001569
-date = 2016-08-21
-user = Paulo7662
-conversation = 330513142
-URL = https://twitter.com/Paulo7662/status/767481736079048704
+file = t007340
+date = 2019-11-13
+user = 821Claudia
+conversation = 3217176773
+URL = https://twitter.com/821Claudia/status/1194584549906427904
 
-word count = 18
-words loading = 1
-factor score = -1
+word count = 15
+words loading = 3
+factor score = -3
 
-RT @turquim5 : Ficou barato para os nadadores **americanos** . . . E se eles 
-fossem Cubanos ou Venezuelanos? Br247 https://t … 
+RT @brasil247 : Pimenta: **embaixada** venezuelana foi **invadida** por 
+**grupos** ligados aos Estad. . . via @YouTube 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+embaixada
+grupo
+invadir

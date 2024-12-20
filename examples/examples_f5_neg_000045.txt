@@ -1,18 +1,17 @@
-file = t003145
-date = 2017-04-04
-user = aidaloret
-conversation = 2836893444
-URL = https://twitter.com/aidaloret/status/849107417598238722
+file = t003519
+date = 2017-05-12
+user = rafaeldmatheus
+conversation = 294886946
+URL = https://twitter.com/rafaeldmatheus/status/862970947070021633
 
 word count = 17
 words loading = 2
 factor score = -2
 
-RT @ConceicaoChiari: HASHTAG #querovotoimpresso_h O **sistema** **eleitoral** 
-é controlado pela esquerda e as máquinas venezuelanas da SmartMatic. Fiquemo 
-… 
+RT @leylah16 : Lula, Odebrecht e Andrade Gutierrez tem as **mãos** sujas com o 
+**sangue** dos venezuelanos 
 
 Lemmas in this text that loaded on the factor:
 
-eleitoral
-sistema
+mão
+sangue

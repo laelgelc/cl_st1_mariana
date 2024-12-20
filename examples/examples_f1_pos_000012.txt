@@ -1,23 +1,22 @@
-file = t007981
-date = 2019-01-10
-user = rejasouza
-conversation = 3387824025
-URL = https://twitter.com/rejasouza/status/1083398881843572736
+file = t017918
+date = 2022-01-20
+user = Luciana35260124
+conversation = 1130126940097130496
+URL = https://twitter.com/Luciana35260124/status/1484130764199497729
 
-word count = 28
-words loading = 7
-factor score = 5
+word count = 21
+words loading = 6
+factor score = 4
 
-@gleisi D U V I D O você andar pelas **ruas** venezuelanas, **tirar** 
-**fotos** do **povão** ( aquele que caça **lixo** e **cachorro** pra 
-**comer** ) e postar aqui. 
+RT @tatianamandelli: O **socialismo** venezuelano, ditadura da pior espécie, 
+gera **milhares** de fugitivos. **Fogem** da **fome** , da **falta** de 
+**liberdade** . … 
 
 Lemmas in this text that loaded on the factor:
 
-cachorro (secondary)
-comer
-foto
-lixo
-povo (secondary)
-rua
-tirar
+falta
+fome
+fugir
+liberdade
+milhar (secondary)
+socialismo (secondary)

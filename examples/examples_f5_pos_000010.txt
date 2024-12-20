@@ -1,20 +1,20 @@
-file = t003924
-date = 2017-06-15
-user = ronilsonsb
-conversation = 48126016
-URL = https://twitter.com/ronilsonsb/status/875445557950644225
+file = t018834
+date = 2022-08-30
+user = Marcos96260432
+conversation = 1248745557549633536
+URL = https://twitter.com/Marcos96260432/status/1564755324044722179
 
-word count = 21
-words loading = 5
-factor score = 5
+word count = 24
+words loading = 4
+factor score = 4
 
-Com 5 . 787 **pedidos** de **refúgio** em 6 **meses** , **número** de 
-**entrada** de venezuelanos mais do que dobra em Roraima 
+RT @JornalBSM: Em tempos de socialismo, 6 , 8 **milhões** de venezuelanos 
+deixaram o **país** de Maduro. O mesmo **número** de **refugiados** 
+ucranianos em t … 
 
 Lemmas in this text that loaded on the factor:
 
-entrada
-mês
+milhão
 número
-pedido
-refúgio
+país
+refugiado

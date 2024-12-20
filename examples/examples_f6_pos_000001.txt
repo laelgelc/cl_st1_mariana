@@ -1,19 +1,21 @@
-file = t014112
-date = 2020-09-04
-user = clickpetroleoeg
-conversation = 3393519442
-URL = https://twitter.com/clickpetroleoeg/status/1301975144596934656
+file = t010421
+date = 2019-04-30
+user = MacArthur_BR
+conversation = 1109934212164001792
+URL = https://twitter.com/MacArthur_BR/status/1123208459745484800
 
-word count = 17
-words loading = 4
+word count = 19
+words loading = 5
 factor score = 4
 
-**Navio** petroleiro venezuelano FSO Nabarima **corre** **risco** de naufragar 
-carregado de **petróleo** bruto e atrai preocupação … 
+RT @hoje_no: Juan Guaidó conseguiu o **apoio** das **forças** armadas 
+venezuelanas! **Militares** libertaram Leopoldo López, antigo **líder** da 
+**oposição** ! … 
 
 Lemmas in this text that loaded on the factor:
 
-correr
-navio
-petróleo
-risco
+apoio
+força
+líder
+militar (secondary)
+oposição

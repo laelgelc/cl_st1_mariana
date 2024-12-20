@@ -1,16 +1,20 @@
-file = t000077
-date = 2016-10-27
-user = CarlosSekko
-conversation = 450105690
-URL = https://twitter.com/CarlosSekko/status/791705028687982592
+file = t011159
+date = 2019-05-01
+user = Portalcwb
+conversation = 207333431
+URL = https://twitter.com/Portalcwb/status/1123476773554073600
 
-word count = 25
-words loading = 1
-factor score = -1
+word count = 10
+words loading = 5
+factor score = -4
 
-E essa da galera com medinho de Russos e Venezuelanos? Imperialismo? Cês 
-querem é passaporte **americano** , FDPs. Querem é base da USAF no cu! 
+25 **militares** venezuelanos **desertam** e **pedem** **asilo** em 
+**embaixada** do Brasil 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+asilo
+desertar
+embaixada
+militar
+pedir (secondary)

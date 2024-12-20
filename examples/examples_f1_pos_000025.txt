@@ -1,21 +1,19 @@
-file = t017175
-date = 2022-10-23
-user = mostardeiro1964
-conversation = 1481335827116474368
-URL = https://twitter.com/mostardeiro1964/status/1584020957718798337
+file = t007154
+date = 2019-10-08
+user = mamaegozeiiii
+conversation = 1060702776571891712
+URL = https://twitter.com/mamaegozeiiii/status/1181663358912798720
 
 word count = 24
-words loading = 5
+words loading = 4
 factor score = 4
 
-RT @serginhopvieira: O Ladrão disse que **quer** **ver** o **povo** brasileiro 
-**comendo** 3 vezes ao dia. Mas **fico** aqui pensando thinking_face_e O 
-**povo** Venezuelano co … 
+vo mete block na venezuelana mina **fica** o dia todo me **chamando** no zap 
+já **falei** pra ela que eu trabalho nao **tenho** t … 
 
 Lemmas in this text that loaded on the factor:
 
-comer
+chamar
+falar
 ficar
-povo (secondary)
-querer
-ver
+ter

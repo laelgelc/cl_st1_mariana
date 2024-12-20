@@ -1,17 +1,16 @@
-file = t000405
-date = 2016-12-27
-user = rev_adventista
-conversation = 60587608
-URL = https://twitter.com/rev_adventista/status/813699128400216064
+file = t000574
+date = 2016-02-14
+user = jolaia_jorge
+conversation = 3165920567
+URL = https://twitter.com/jolaia_jorge/status/698983282382221312
 
-word count = 14
-words loading = 2
-factor score = -2
+word count = 17
+words loading = 1
+factor score = -1
 
-Auxílio para refugiados: 6 , 5 **toneladas** de **alimentos** foram entregues 
-para haitianos e venezuelanos … 
+Venezuelanos correm aos supermercados para comprar arroz, massa, leite e ovos: 
+Nos últimos dias **aumentaram** sig. . . 
 
 Lemmas in this text that loaded on the factor:
 
-alimento
-tonelada
+aumentar

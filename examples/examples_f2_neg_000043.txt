@@ -1,21 +1,19 @@
-file = t010854
-date = 2019-05-03
-user = CalixtoIzaque
-conversation = 1058004289338200064
-URL = https://twitter.com/CalixtoIzaque/status/1124319023368478721
+file = t010438
+date = 2019-04-13
+user = Angelica_Ca09
+conversation = 864546491905581056
+URL = https://twitter.com/Angelica_Ca09/status/1117050298726531073
 
-word count = 25
-words loading = 5
+word count = 22
+words loading = 3
 factor score = -3
 
-RT @silvionavarro: Para essa turma canhota que se lamenta ao ver o **povo** 
-venezuelano **morrendo** de **fome** e **apoia** a **ditadura** do Maduro pelo 
-smar … 
+@UOL A loucura do **ditador** sanguinário Maduro já atinge níveis 
+alarmantes. **Prendam** esse **ditador** para o bem do sofrido **povo** 
+venezuelano. 
 
 Lemmas in this text that loaded on the factor:
 
-apoiar (secondary)
-ditadura
-fome (secondary)
-morrer
+ditador
 povo
+prender

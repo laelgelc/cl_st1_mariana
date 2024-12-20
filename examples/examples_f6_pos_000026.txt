@@ -1,19 +1,19 @@
-file = t000236
-date = 2016-11-24
-user = daniboghossian
-conversation = 27883150
-URL = https://twitter.com/daniboghossian/status/801617695749918720
+file = t005598
+date = 2018-10-07
+user = marcusvaliatti
+conversation = 2611818027
+URL = https://twitter.com/marcusvaliatti/status/1048953709684838400
 
-word count = 15
+word count = 18
 words loading = 4
 factor score = 3
 
-**Jornais** venezuelanos **ficam** sem circular por **falta** de **papel** - 
-Portal IMPRENSA - Notícias, Jornalismo, Comunicação 
+RT @RafaelLaurindo: Rumbo Libertad, movimento venezuelano contra a **ditadura** 
+de Nicolás Maduro, **declarou** , nesta terça-feira, **apoio** a Jair Bo … 
 
 Lemmas in this text that loaded on the factor:
 
-falta
-ficar (secondary)
-jornal
-papel
+apoio
+declarar
+ditadura (secondary)
+feira

@@ -1,17 +1,16 @@
-file = t002455
-date = 2017-08-29
-user = MinasPrevi
-conversation = 2451834308
-URL = https://twitter.com/MinasPrevi/status/902583623374831618
+file = t002137
+date = 2017-01-28
+user = sirkazzio
+conversation = 617759565
+URL = https://twitter.com/sirkazzio/status/825476771776704514
 
-word count = 11
-words loading = 2
-factor score = -2
+word count = 23
+words loading = 1
+factor score = -1
 
-" Diante de **escassez** de dinheiro, venezuelanos **pagam** para comprar notas 
-" 
+Sou Venezuelano, sou Português de PORTUGAL e se pudesse, também seria 
+Brasileiro e **Americano** e de todos os países que mais gosto! 
 
 Lemmas in this text that loaded on the factor:
 
-escassez
-pagar
+americano

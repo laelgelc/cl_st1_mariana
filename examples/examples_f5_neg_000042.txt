@@ -1,17 +1,18 @@
-file = t002997
-date = 2017-10-16
-user = zecarlosantos2
-conversation = 2943093201
-URL = https://twitter.com/zecarlosantos2/status/919909374633611265
+file = t003145
+date = 2017-04-04
+user = aidaloret
+conversation = 2836893444
+URL = https://twitter.com/aidaloret/status/849107417598238722
 
-word count = 19
+word count = 17
 words loading = 2
 factor score = -2
 
-Oposição venezuelana brincou de sapo e escorpião com o chavismo. Sabia que 
-haveria **fraude** na **eleição** e participou. … 
+RT @ConceicaoChiari: HASHTAG #querovotoimpresso_h O **sistema** **eleitoral** 
+é controlado pela esquerda e as máquinas venezuelanas da SmartMatic. Fiquemo 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-eleição
-fraude
+eleitoral
+sistema

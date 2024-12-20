@@ -1,17 +1,17 @@
-file = t002165
-date = 2017-01-12
-user = marcioalaor_bmg
-conversation = 4632135858
-URL = https://twitter.com/marcioalaor_bmg/status/819646043268796417
+file = t002997
+date = 2017-10-16
+user = zecarlosantos2
+conversation = 2943093201
+URL = https://twitter.com/zecarlosantos2/status/919909374633611265
 
-word count = 14
+word count = 19
 words loading = 2
 factor score = -2
 
-Petrolífera dos EUA acusa venezuelana de **fraude** ao transferir refinaria 
-para **empresa** russa 
+Oposição venezuelana brincou de sapo e escorpião com o chavismo. Sabia que 
+haveria **fraude** na **eleição** e participou. … 
 
 Lemmas in this text that loaded on the factor:
 
-empresa
+eleição
 fraude

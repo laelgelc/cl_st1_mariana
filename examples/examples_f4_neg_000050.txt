@@ -1,16 +1,19 @@
-file = t003958
-date = 2017-12-27
-user = pelobemdobrasil
-conversation = 1536414565
-URL = https://twitter.com/pelobemdobrasil/status/946128971401388032
+file = t001523
+date = 2016-08-09
+user = lapseofreas0n
+conversation = 16532882
+URL = https://twitter.com/lapseofreas0n/status/763002538178256896
 
-word count = 16
-words loading = 1
-factor score = -1
+word count = 24
+words loading = 3
+factor score = -2
 
-RT @MirandaSa_ : Ditadura venezuelana soma 69 veículos de mídia **fechados** 
-em 2017 e agressões a jornalistas 
+@putsnao eu morei com uma venezuelana, a mãe dela era da **oposição** e os 
+**militares** foram de tanque pra casa delas e **invadiram** 
+ok_hand_light_skin_tone_e 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+invadir
+militar
+oposição (secondary)

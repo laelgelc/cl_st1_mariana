@@ -1,20 +1,20 @@
-file = t013054
-date = 2020-04-11
-user = neihumberto
-conversation = 263663895
-URL = https://twitter.com/neihumberto/status/1248960954014076934
+file = t018850
+date = 2022-08-11
+user = CezarVieira12
+conversation = 1547945319400321024
+URL = https://twitter.com/CezarVieira12/status/1557542761167036417
 
-word count = 23
+word count = 19
 words loading = 4
-factor score = 4
+factor score = 3
 
-RT @FatosEsquerda: Um venezuelano **tira** uma **foto** com um soldado 
-**colombiano** na fronteira e diz que **ficará** pra história, e então, ele 
-desabafa … 
+RT @QuintinoElisete: Comunistas que **apoiam** ditaduras **cubanas** , 
+venezuelanas, e africanas vem **falar** em democracia? Será que **tem** 
+ingênuos que … 
 
 Lemmas in this text that loaded on the factor:
 
-colombiano
-ficar
-foto
-tirar
+apoiar (secondary)
+cubano
+falar
+ter

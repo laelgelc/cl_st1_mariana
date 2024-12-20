@@ -1,18 +1,19 @@
-file = t010622
-date = 2019-04-30
-user = Alexandria_077
-conversation = 565592408
-URL = https://twitter.com/Alexandria_077/status/1123316345628712960
+file = t016512
+date = 2022-10-18
+user = KleberRenatoPr
+conversation = 1287896855410626560
+URL = https://twitter.com/KleberRenatoPr/status/1582417118791798787
 
-word count = 12
-words loading = 3
-factor score = 3
+word count = 21
+words loading = 4
+factor score = 4
 
-RT @folha: Brasil autoriza **asilo** a 25 **militares** venezuelanos em 
-**embaixada** 
+A impressão q temos do **caso** " **PINTOU** UM **CLIMA** " com **meninas** 
+venezuelanas, é de um ato criminoso de tamanho despudor e … 
 
 Lemmas in this text that loaded on the factor:
 
-asilo
-embaixada
-militar
+caso
+clima
+menino
+pintar

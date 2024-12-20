@@ -1,18 +1,18 @@
-file = t001029
-date = 2016-05-18
-user = djaymems
-conversation = 145463436
-URL = https://twitter.com/djaymems/status/732889813641109505
+file = t000453
+date = 2016-01-22
+user = mcliobarbalho
+conversation = 250683131
+URL = https://twitter.com/mcliobarbalho/status/690517234951806976
 
-word count = 16
+word count = 17
 words loading = 3
 factor score = -3
 
-**Parlamento** venezuelano **rejeita** estado de exceção **decretado** por 
-Maduro: O **Parlamento** venezuelano, onde a oposi. . . 
+RT @GloboNews: Líder da **Assembleia** Nacional venezuelana diz que 
+**parlamento** vai reprovar **decreto** de Maduro: https: / / … 
 
 Lemmas in this text that loaded on the factor:
 
-decretar
+assembleia
+decreto
 parlamento
-rejeitar

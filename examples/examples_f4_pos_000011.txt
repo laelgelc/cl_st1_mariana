@@ -1,20 +1,20 @@
-file = t017447
-date = 2022-10-16
-user = veg3tariano
-conversation = 1043255497405681664
-URL = https://twitter.com/veg3tariano/status/1581436658268143616
+file = t006166
+date = 2018-09-18
+user = marcoocramnet
+conversation = 70003769
+URL = https://twitter.com/marcoocramnet/status/1042159448918241281
 
-word count = 19
-words loading = 5
-factor score = 5
+word count = 21
+words loading = 4
+factor score = 4
 
-RT @Estadao: Em podcast, Bolsonaro conta que ' **pintou** um **clima** ' com 
-**garotas** venezuelanas de 15 **anos** ; veja **vídeo** : 
+RT @BebelSherab: Ditador fdp. . . . . enquanto os venezuelanos **comem** 
+**carne** **podre** esse comunista enche o **cu** de **carne** de primeira 
+HASHTAG #dia7amarelo17_h … 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-garota
-pintar
-vídeo
+carne
+comer
+cu
+podre

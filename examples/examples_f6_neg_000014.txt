@@ -1,19 +1,19 @@
-file = t017587
-date = 2022-11-21
-user = Carlosj91243151
-conversation = 1582001440859594752
-URL = https://twitter.com/Carlosj91243151/status/1594687148296380417
+file = t006839
+date = 2019-10-09
+user = JoelPsic
+conversation = 4780532952
+URL = https://twitter.com/JoelPsic/status/1181945727817326596
 
-word count = 15
-words loading = 4
-factor score = -4
+word count = 18
+words loading = 3
+factor score = -3
 
-Esses cara vai passar uma vergonha mundial. . **Justiça** **espanhola** 
-**concorda** em **extraditar** general venezuelano Carvajal … 
+RT @GeracaodeValor: Investigações indicam **óleo** venezuelano nas 
+**praias** do **Nordeste** ( fonte: Estadão ) num desastre ambiental sem 
+precedentes. … 
 
 Lemmas in this text that loaded on the factor:
 
-concordar
-espanhol
-extraditar
-justiça
+nordeste
+praia
+óleo

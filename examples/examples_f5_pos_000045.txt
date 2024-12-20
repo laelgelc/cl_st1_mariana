@@ -1,18 +1,18 @@
-file = t018520
-date = 2022-06-07
-user = buenno_thiago
-conversation = 1491865720275283968
-URL = https://twitter.com/buenno_thiago/status/1534270493427126272
+file = t018911
+date = 2022-08-20
+user = OIMBrasil
+conversation = 890269387491508224
+URL = https://twitter.com/OIMBrasil/status/1561076869134417920
 
-word count = 16
+word count = 19
 words loading = 3
 factor score = 3
 
-RT @exercitooficial: Exército promove **interiorização** da **Operação** 
-**Acolhida** para mais de 5 mil venezuelanos HASHTAG #braçofor_h … 
+Na última **semana** , a OIM lançou a minissérie " Jovens Venezuelanos, 
+Vidas no Brasil " com histórias de **refugiados** e **mi** … 
 
 Lemmas in this text that loaded on the factor:
 
-acolher
-interiorização
-operação
+milhão
+refugiado
+semana

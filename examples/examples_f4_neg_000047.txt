@@ -1,16 +1,20 @@
-file = t003679
-date = 2017-11-15
-user = carlosa65044512
-conversation = 960926047
-URL = https://twitter.com/carlosa65044512/status/930611275524136960
+file = t001051
+date = 2016-05-18
+user = MviaB
+conversation = 783487051
+URL = https://twitter.com/MviaB/status/733050082183024641
 
 word count = 20
-words loading = 1
-factor score = -1
+words loading = 4
+factor score = -2
 
-RT @Brasil_de_Fato: O Tesouro **Americano** informou que as sanções para quem 
-renegociar títulos da dívida venezuelana podem chegar a 30 an … 
+RT @AvancaMaconsBR: **URGENTE** ! ! ! : **Grupo** de **militares** **pede** 
+deposição de Maduro em 3 dias por não ter nacionalidade venezuelana! HASHTAG 
+#fueraforo_h ht … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+grupo
+militar
+pedir (secondary)
+urgente (secondary)

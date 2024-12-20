@@ -1,18 +1,19 @@
-file = t003494
-date = 2017-05-08
-user = IsabM
-conversation = 23454445
-URL = https://twitter.com/IsabM/status/861704435025805312
+file = t000632
+date = 2016-02-17
+user = jumedeiros1980
+conversation = 62836734
+URL = https://twitter.com/jumedeiros1980/status/699824349415661568
 
-word count = 11
-words loading = 3
+word count = 16
+words loading = 4
 factor score = -3
 
-RT @VEJA: Manaus **decreta** **emergência** por **chegada** de índios 
-venezuelanos 
+HASHTAG #operacaobetalab_h **Parlamento** venezuelano dá 1º **sinal** verde 
+para **lei** de **anistia** para políticos: Bancada. . . HASHTAG #timbeta_h 
 
 Lemmas in this text that loaded on the factor:
 
-chegada
-decretar
-emergência
+anistia
+lei (secondary)
+parlamento
+sinal

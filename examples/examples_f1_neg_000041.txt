@@ -1,17 +1,18 @@
-file = t000638
-date = 2016-02-05
-user = psicolorado
-conversation = 98174842
-URL = https://twitter.com/psicolorado/status/695406665156288512
+file = t013356
+date = 2020-05-04
+user = edgerank18
+conversation = 930559554106134528
+URL = https://twitter.com/edgerank18/status/1257378792118587395
 
-word count = 11
-words loading = 2
-factor score = -2
+word count = 14
+words loading = 3
+factor score = -3
 
-@FresnoRock **Assembleia** venezuelana **aprova** projeto para libertar 
-políticos presos HASHTAG #p73_h 
+RT @STF_oficial: Ministro Luís Roberto Barroso **suspende** determinação de 
+retirada de **corpo** **diplomático** venezuelano. 
 
 Lemmas in this text that loaded on the factor:
 
-aprovar
-assembleia
+corpo
+diplomático
+suspender

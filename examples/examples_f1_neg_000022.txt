@@ -1,18 +1,19 @@
-file = t013269
-date = 2020-05-04
-user = jlmbl22
-conversation = 298600802
-URL = https://twitter.com/jlmbl22/status/1257281563928166404
+file = t001607
+date = 2016-08-01
+user = Vitao_hs
+conversation = 2172529914
+URL = https://twitter.com/Vitao_hs/status/760257118750466048
 
 word count = 15
-words loading = 3
+words loading = 4
 factor score = -3
 
-RT @conexaopolitica: STF **suspende** **expulsão** de corpo diplomático 
-venezuelano **determinada** por Ministro Ernesto Araújo 
+EUA indiciam ex-chefe da Guarda Nacional venezuelana por **narcotráfico** : A 
+**Justiça** americana **acusou** nesta segun. . . 
 
 Lemmas in this text that loaded on the factor:
 
-determinar
-expulsão
-suspender
+acusar (secondary)
+chefe
+justiça
+narcotráfico

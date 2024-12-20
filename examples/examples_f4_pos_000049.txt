@@ -1,20 +1,18 @@
-file = t017419
-date = 2022-10-17
-user = FabioDib3
-conversation = 1507051236654305280
-URL = https://twitter.com/FabioDib3/status/1582156111444316166
+file = t013599
+date = 2020-06-16
+user = Opulso
+conversation = 1241404014329237504
+URL = https://twitter.com/Opulso/status/1272979057047752706
 
-word count = 21
-words loading = 4
-factor score = 4
+word count = 20
+words loading = 3
+factor score = 3
 
-RT @marinalang: ' **Pintou** um **clima** ' : **fala** de Bolsonaro sobre 
-**meninas** venezuelanas é asquerosa, abjeta, nojenta e até agora não foi 
-explicada … 
+@JornalOGlobo O povo venezuelano **come** **carne** **podre** enquanto esse 
+ditador **come** do bom e do melhor. Ah, só para lembr … 
 
 Lemmas in this text that loaded on the factor:
 
-clima
-falar
-menino
-pintar
+carne
+comer
+podre

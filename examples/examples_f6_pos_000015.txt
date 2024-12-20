@@ -1,19 +1,19 @@
-file = t006908
-date = 2019-10-10
-user = NaBocaDo_Povo
-conversation = 1126088270557995008
-URL = https://twitter.com/NaBocaDo_Povo/status/1182291502048927745
+file = t009655
+date = 2019-02-17
+user = MarinesMoura
+conversation = 443935633
+URL = https://twitter.com/MarinesMoura/status/1097210800413073409
 
-word count = 21
-words loading = 4
+word count = 18
+words loading = 3
 factor score = 3
 
-Foram 23 testes e todos **apontaram** que o **óleo** no litoral do 
-**nordeste** é Venezuelano. Se fosse outra **origem** estariam g … 
+RT @stanleyburburin: " Suíça investiga propina à **oposição** venezuelana 
+" " Acusações de corrupção ajudaram a afundar **líderes** **opositores** 
+como H … 
 
 Lemmas in this text that loaded on the factor:
 
-apontar
-nordeste
-origem
-óleo (secondary)
+líder
+opositor
+oposição

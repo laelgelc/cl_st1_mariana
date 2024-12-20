@@ -1,16 +1,19 @@
-file = t001689
-date = 2016-09-07
-user = JuniorSub
-conversation = 55818224
-URL = https://twitter.com/JuniorSub/status/773565272032620545
+file = t007557
+date = 2019-11-11
+user = pauloavas
+conversation = 28248491
+URL = https://twitter.com/pauloavas/status/1193822193202978816
 
-word count = 16
-words loading = 1
-factor score = -1
+word count = 19
+words loading = 3
+factor score = -3
 
-( folha ) Com novo protesto, oposição **aumenta** pressão contra Maduro na 
-Venezuela: A oposição venezuelana inicio. . . 
+RT @sputnik_brasil: Um **grupo** de indivíduos encapuzados e armados com 
+dinamite **invadiu** a **embaixada** venezuelana na Bolívia. Forças de 
+seguran … 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+embaixada
+grupo
+invadir

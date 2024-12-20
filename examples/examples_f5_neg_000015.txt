@@ -1,19 +1,18 @@
-file = t003418
-date = 2017-05-15
-user = katiaduarte
-conversation = 33505213
-URL = https://twitter.com/katiaduarte/status/864136334428037120
+file = t005926
+date = 2018-10-07
+user = Nettoss
+conversation = 48541818
+URL = https://twitter.com/Nettoss/status/1049059569698312193
 
-word count = 17
+word count = 19
 words loading = 3
 factor score = -3
 
-RT @DireitaCivil: **Urnas** **Eletrônicas** da Empresa Venezuelana 
-SMARTIMATIC, compradas pelos governos Petistas Comunistas! É **Fraude** 2018 . 
-… 
+com a **fraude** nas **urnas** Smartmatic venezuelanas do @TSEjusbr vai 
+garantir o 2o turno para os **corruPTos** HASHTAG #eleiçãofraudada_h 
 
 Lemmas in this text that loaded on the factor:
 
-eletrônico
+corrupto
 fraude
 urna

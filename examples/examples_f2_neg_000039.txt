@@ -1,19 +1,19 @@
-file = t009969
-date = 2019-02-23
-user = MColombinii
-conversation = 1080972273157328896
-URL = https://twitter.com/MColombinii/status/1099429251667898368
+file = t009708
+date = 2019-02-25
+user = wagnerjr_13
+conversation = 176204185
+URL = https://twitter.com/wagnerjr_13/status/1100137724143648774
 
-word count = 16
-words loading = 4
+word count = 20
+words loading = 3
 factor score = -3
 
-@MomentsBrasil Se tem **dinheiro** porque o **povo** venezuelano **passa** 
-**fome** , esse cara é um demônio 
+RT @stedile_mst: O **governo** venezuelano importa **alimentos** de muitos 
+países, inclusive dos EUA. Nenhum venezuelano **passa** fome. Daí os EUA inv 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-dinheiro
-fome (secondary)
+alimento
+governo
 passar
-povo

@@ -1,16 +1,18 @@
-file = t001707
-date = 2016-09-07
-user = jr140797
-conversation = 605870928
-URL = https://twitter.com/jr140797/status/773563304920965121
+file = t007711
+date = 2019-12-28
+user = wllwllmario
+conversation = 71117052
+URL = https://twitter.com/wllwllmario/status/1210992700721389568
 
-word count = 16
-words loading = 1
-factor score = -1
+word count = 15
+words loading = 3
+factor score = -3
 
-RT @jessgouva: Com novo protesto, oposição **aumenta** pressão contra Maduro 
-na Venezuela: A oposição venezuelana. . . # … 
+**Exército** brasileiro surpreende e prende **grupo** **militar** venezuelano 
+refugiado em Roraima - Noticia Brasil Online 
 
 Lemmas in this text that loaded on the factor:
 
-aumentar
+exército
+grupo
+militar

@@ -1,19 +1,22 @@
-file = t014129
-date = 2020-09-18
-user = SCCPreizinho
-conversation = 1207047959440957440
-URL = https://twitter.com/SCCPreizinho/status/1307085451065466886
+file = t007691
+date = 2019-12-19
+user = itscarolana
+conversation = 3411551433
+URL = https://twitter.com/itscarolana/status/1207485344003874816
 
-word count = 23
+word count = 10
 words loading = 3
 factor score = 3
 
-RT @povotime1910 : Otero foi **convocado** pela **seleção** Venezuelana. Meia 
-irá perder 2 **jogos** são eles, contra o Santos e contra o Ceará . 
-rolled-up_newspaper_e @Meu … 
+as venezuelanas vão chegar **segunda** feiraaaaaaa aaaa as aaaaaaaaaaa 
+smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
+smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
+smiling_face_with_heart-eyes_e smiling_face_with_heart-eyes_e 
+loudly_crying_face_e loudly_crying_face_e loudly_crying_face_e rose_e 
+sparkles_e rose_e 
 
 Lemmas in this text that loaded on the factor:
 
-convocar
-jogo
-seleção
+eyes_e
+segundo
+smiling_face_with_heart

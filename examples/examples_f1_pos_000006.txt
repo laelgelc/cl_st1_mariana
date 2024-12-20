@@ -1,20 +1,20 @@
-file = t018378
-date = 2022-05-04
-user = marcbarrod
-conversation = 2549885939
-URL = https://twitter.com/marcbarrod/status/1521669529180512260
+file = t000518
+date = 2016-01-01
+user = bazadaquitp
+conversation = 2370977491
+URL = https://twitter.com/bazadaquitp/status/683062274832109569
 
-word count = 12
+word count = 27
 words loading = 5
 factor score = 5
 
-Esta é **boa** ! NÃO PODEMOS ser Venezuelanos, **Argentinos** , **Chilenos** 
-, **Cubanos** ou **Bolivianos** … 
+**Tenho** uma foto aqui no tt que aparece a **casa** da venezuelana portanto 
+amiguinhos já que vcs já **sabem** onde **fica** podem ir **jogar** fogo lá 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-boliviano
-bom
-chileno
-cubano
+casa
+ficar
+jogar
+saber
+ter

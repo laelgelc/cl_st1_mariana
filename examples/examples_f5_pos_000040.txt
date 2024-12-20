@@ -1,19 +1,20 @@
-file = t001528
-date = 2016-08-14
-user = AlessandroSADM
-conversation = 1058389087
-URL = https://twitter.com/AlessandroSADM/status/764652531234533376
+file = t001624
+date = 2016-08-20
+user = uffo75
+conversation = 71937258
+URL = https://twitter.com/uffo75/status/766949340484997120
 
-word count = 15
+word count = 21
 words loading = 4
 factor score = 4
 
-RT @agirfilosofando: **CRISE** **HUMANITÁRIA** : 142 mil venezuelanos 
-**cruzam** **fronteira** para compra de produtos básicos 
+RT @Silvio_MKT: Como explicar 90 mil **refugiados** venezuelanos atravessando a 
+**fronteira** do **país** num final de **semana** ? Isso é socialismo https: 
+… 
 
 Lemmas in this text that loaded on the factor:
 
-crise
-cruzar
 fronteira
-humanitário
+país
+refugiado
+semana

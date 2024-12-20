@@ -1,21 +1,20 @@
-file = t017504
-date = 2022-10-19
-user = gregoryurism
-conversation = 1040701603186135040
-URL = https://twitter.com/gregoryurism/status/1582877443622604800
+file = t006526
+date = 2018-09-18
+user = 08DAVIFRANCO
+conversation = 436080402
+URL = https://twitter.com/08DAVIFRANCO/status/1041851142387449857
 
-word count = 24
+word count = 19
 words loading = 5
-factor score = 5
+factor score = 4
 
-RT @FedeBurguesia1 : 5 dias atrás Bolsonaro disse que " **pintou** um 
-**clima** " entre ele e **meninas** venezuelanas de 14 **anos** A **fala** 
-viralizou e ele … 
+Enquanto o povo venezuelano está **morrendo** de **fome** , Maduro **come** um 
+churrasco de **luxo** em Istambul. " **Socialismo** pra v … 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-fala
-menino
-pintar
+comer
+fome (secondary)
+luxo
+morrer
+socialismo

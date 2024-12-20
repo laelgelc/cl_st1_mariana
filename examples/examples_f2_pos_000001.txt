@@ -5,15 +5,16 @@ conversation = 916800604655243264
 URL = https://twitter.com/RocianaSouza29/status/1557293715986808833
 
 word count = 24
-words loading = 7
+words loading = 8
 factor score = 6
 
 RT @AlexMuller93 : 10 **jogos** e 2 **vitórias** . O **incrível** **número** 
 de 5 **gols** **marcados** . Uma campanha digna de **time** venezuelano ou 
-boliviano na Liber … 
+**boliviano** na Liber … 
 
 Lemmas in this text that loaded on the factor:
 
+boliviano (secondary)
 gol
 incrível
 jogo

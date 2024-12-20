@@ -1,20 +1,22 @@
-file = t018725
-date = 2022-08-05
-user = consueloayresm
-conversation = 211169185
-URL = https://twitter.com/consueloayresm/status/1555544011716399106
+file = t015002
+date = 2021-05-01
+user = AhrmonyGallery
+conversation = 1103379936449097728
+URL = https://twitter.com/AhrmonyGallery/status/1388469800666554369
 
-word count = 19
-words loading = 4
+word count = 25
+words loading = 6
 factor score = 4
 
-RT @tonico_22 : **Cubanos** **fugindo** de Cuba; Venezuelanos **fugindo** da 
-Venezuela. **Argentinos** **fugindo** da Argentina. **Chilenos** **fugindo** do 
-Chile. Se o … 
+RT @valeriascher: **Queremos** nossos **filhos** **comendo** **lixo** como os 
+venezuelanos? **Fica** em **casa** q economia a gente vê depois? ? ? HJ É DIA 
+DE IR P … 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-chileno
-cubano
-fugir
+casa
+comer (secondary)
+ficar
+filho (secondary)
+lixo
+querer

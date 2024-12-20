@@ -1,17 +1,20 @@
-file = t000911
-date = 2016-05-18
-user = Ezequiasns
-conversation = 342896305
-URL = https://twitter.com/Ezequiasns/status/732939667121799168
+file = t007306
+date = 2019-11-13
+user = godoy_mag
+conversation = 1155836604927348736
+URL = https://twitter.com/godoy_mag/status/1194589880850010113
 
-word count = 18
-words loading = 1
-factor score = -1
+word count = 20
+words loading = 4
+factor score = -3
 
-RT @Alex_Queirozz: HASHTAG #boicoteaquarius_h o ditador chavista planeja 
-**fechar** o parlamento venezuelano em alguns dias. Não vi nenhum artista 
-Latino … 
+RT @FaleiroAirton: **Urgente** , **embaixada** da Venezuela no Brasil é 
+**invadida** por um **grupo** de venezuelanos e brasileiros, todos 
+uniformizados, mi … 
 
 Lemmas in this text that loaded on the factor:
 
-fechar
+embaixada
+grupo
+invadir
+urgente (secondary)

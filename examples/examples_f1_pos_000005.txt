@@ -1,22 +1,20 @@
-file = t018598
-date = 2022-07-31
-user = valdeci09078149
-conversation = 1129569688688762880
-URL = https://twitter.com/valdeci09078149/status/1553774694913941504
+file = t007011
+date = 2019-10-28
+user = Ovei_bee_eca
+conversation = 2457949706
+URL = https://twitter.com/Ovei_bee_eca/status/1188860537079287808
 
-word count = 21
-words loading = 6
+word count = 20
+words loading = 5
 factor score = 5
 
-RT @BrazilFight: Americanos foram pra o buraco. Venezuelanos **passam** 
-**fome** . 50 % dos **Argentinos** estão na **miséria** . Peruanos e 
-**chilenos** **querem** d … 
+Pobre povo **argentino** . Só espero que **resolvam** os **problemas** que 
+**virão** e não **façam** como os venezuelanos que elegeram o … 
 
 Lemmas in this text that loaded on the factor:
 
 argentino
-chileno
-fome
-miséria
-passar (secondary)
-querer
+fazer
+problema
+resolver
+vir

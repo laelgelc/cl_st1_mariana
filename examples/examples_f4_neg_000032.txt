@@ -1,16 +1,19 @@
-file = t002356
-date = 2017-08-27
-user = guiwde
-conversation = 775339967807643648
-URL = https://twitter.com/guiwde/status/901636755048329221
+file = t010508
+date = 2019-05-01
+user = MarcBarcellos
+conversation = 2872444541
+URL = https://twitter.com/MarcBarcellos/status/1123423572989550593
 
-word count = 22
-words loading = 1
-factor score = -1
+word count = 23
+words loading = 3
+factor score = -3
 
-RT @FatosEsquerda: Fiz um teste: entrei num site venezuelano, brasileiro e 
-**americano** de compras para comparar o preço da mesma TV. . . V … 
+RT @RenovaMidia: O presidente Jair Bolsonaro atendeu a pedido de **asilo** 
+político de 25 **militares** venezuelanos na **embaixada** do HASHTAG 
+#brasil_h na HASHTAG #ve_h … 
 
 Lemmas in this text that loaded on the factor:
 
-americano
+asilo
+embaixada
+militar

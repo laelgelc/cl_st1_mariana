@@ -1,21 +1,18 @@
-file = t017429
-date = 2022-10-15
-user = Ellen25756676
-conversation = 1576889902452690944
-URL = https://twitter.com/Ellen25756676/status/1581376029628649472
+file = t013858
+date = 2020-08-12
+user = XkarinaX2
+conversation = 966769306112585728
+URL = https://twitter.com/XkarinaX2/status/1293685098563473413
 
-word count = 27
-words loading = 5
-factor score = 4
+word count = 13
+words loading = 3
+factor score = 3
 
-RT @jpcuenca: " **Pintou** um **clima** " com **meninas** venezuelanas de 14 e 
-15 **anos** . E pensar que esse verme aí vai ser **presidente** do país até 
-o final … 
+RT @standing_in___ : A **comer** **comida** **Venezuelana** já que eles não o 
+podem fazer. . . 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-menino
-pintar
-presidente (secondary)
+comer
+comida
+venezuelana

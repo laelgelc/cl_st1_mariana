@@ -1,19 +1,19 @@
-file = t017737
-date = 2022-11-12
-user = BlogueiraLage
-conversation = 1583255127997169664
-URL = https://twitter.com/BlogueiraLage/status/1591501272422952962
+file = t010008
+date = 2019-02-19
+user = GilvanStark
+conversation = 195005794
+URL = https://twitter.com/GilvanStark/status/1097779552204582912
 
-word count = 12
+word count = 18
 words loading = 4
 factor score = 4
 
-@arnogueira Realidade paralela? Pergunte aos **cubanos** , venezuelanos, 
-**chilenos** , panamenhos, **bolivianos** e **argentinos** … 
+@DrifterofMoon @Crunchyroll_PT Ai **vem** outro e **fala** que **tem** 
+**problema** mais grave que a crise venezuelana e assim suce … 
 
 Lemmas in this text that loaded on the factor:
 
-argentino
-boliviano
-chileno
-cubano
+falar
+problema
+ter
+vir

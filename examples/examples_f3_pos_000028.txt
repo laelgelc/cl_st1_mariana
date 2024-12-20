@@ -1,18 +1,19 @@
-file = t013536
-date = 2020-06-11
-user = NovoLauropro
-conversation = 2326184845
-URL = https://twitter.com/NovoLauropro/status/1271142610409848832
+file = t017109
+date = 2022-10-16
+user = odio_nao
+conversation = 715364459099856896
+URL = https://twitter.com/odio_nao/status/1581792977001013249
 
-word count = 16
-words loading = 3
-factor score = 3
+word count = 20
+words loading = 4
+factor score = 4
 
-**Exército** da Colômbia **detém** **militar** venezuelano ativo por 
-suspeita de espionagem **Exército** da Colômbia **detém** **militar** … 
+RT @jnascim: Michelle e Damares devem visitar venezuelanas após **fala** de 
+Bolsonaro de que ' **pintou** um **clima** ' com **adolescentes** … 
 
 Lemmas in this text that loaded on the factor:
 
-deter
-exército
-militar
+adolescente
+clima
+fala
+pintar

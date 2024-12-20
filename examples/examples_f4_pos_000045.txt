@@ -1,19 +1,20 @@
-file = t017462
-date = 2022-10-27
-user = Amora96757846
-conversation = 1412836643858493440
-URL = https://twitter.com/Amora96757846/status/1585530416404090882
+file = t014799
+date = 2021-03-08
+user = bielcast
+conversation = 1652945672
+URL = https://twitter.com/bielcast/status/1368885496395468802
 
-word count = 20
+word count = 21
 words loading = 4
-factor score = 4
+factor score = 3
 
-@andrevaladao Liga não, ele tem 5 filhos com 3 **mulheres** diferentes, " 
-**Pintou** um **clima** " com venezuelanas de 13 **anos** e … 
+RT @SaBolsonaro: Lembre -se: Quando os venezuelanos foram as **ruas** já era 
+tarde demais. Hoje **disputam** **lixo** com os **cães** . Não esqueça! 
+police_car_light_e 
 
 Lemmas in this text that loaded on the factor:
 
-ano
-clima
-mulher
-pintar
+cão
+disputar
+lixo (secondary)
+rua

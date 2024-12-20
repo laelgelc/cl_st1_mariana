@@ -1,19 +1,20 @@
-file = t014660
-date = 2021-02-03
-user = Anholeto
-conversation = 793643737
-URL = https://twitter.com/Anholeto/status/1356782542821724162
+file = t018681
+date = 2022-07-31
+user = RittaLiana
+conversation = 1101636258990833664
+URL = https://twitter.com/RittaLiana/status/1553836141471830018
 
-word count = 13
+word count = 19
 words loading = 4
 factor score = -4
 
-@LorenzonItalo @LRobertoBarroso Fiador das **urnas** **eletrônicas** 
-venezuelanas, que **fraudaram** **eleições** na Argentina, Bol … 
+RT @leandroruschel: As **eleições** venezuelanas são sabidamente 
+**fraudadas** . Até mesmo a Smartmatic, que produziu os **sistemas** 
+**eletrônicos** de vot … 
 
 Lemmas in this text that loaded on the factor:
 
 eleição
 eletrônico
 fraudar
-urna
+sistema
